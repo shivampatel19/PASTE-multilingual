@@ -1,0 +1,836 @@
+zona tran ##qui ##la .
+Expected: zona ; tran ##qui ##la ; POS
+Predicted: zona ; tran ##qui ##la ; POS ; 0.99931216
+
+el pre ##u : per el fet d ' haver canvi ##at d ' hotel pocs dies abans de el viatge , el pre ##u que hem paga ##t ha estat gairebe el doble de el que val reserva ##nt - lo amb unes set ##manes d ' ante ##laci ##o .
+Expected: el pre ##u que ; gairebe el doble de el que val reserva ##nt - lo amb unes set ##manes d ' ante ##laci ##o ; NEG
+Predicted: el pre ##u ; gairebe el doble de el que val ; NEG ; 0.41306585
+
+la proper ##a vegada reserva ##rem amb temps perque quan torn ##em a londres ens hi allo ##tja ##rem seg ##ur .
+Expected: hi ; allo ##tja ##rem seg ##ur ; POS
+Predicted: la ; hi allo ##tja ##rem seg ##ur ; POS ; 0.9383212
+
+relativa ##ment a prop de l ' aeroport d ' stan ##sted .
+Expected: l ' aeroport d ' stan ##sted ; relativa ##ment a prop ; POS
+Predicted: l ' aeroport d ' stan ##sted ; relativa ##ment a prop ; POS ; 0.9913952
+
+el parquing horror ##os , ja que funciona amb ele ##bad ##or de vehicles i es va es va esp ##at ##llar , l ' hot ##e tin ##dria que informa ##r mes de com es el parquing .
+Expected: el parquing ; tin ##dria que informa ##r mes ; POS | el parquing ; horror ##os ; NEG | el parquing ; es va esp ##at ##llar ; NEG
+Predicted: el parquing ; horror ##os ; NEG ; 0.6774814
+
+l ' hotel es perfect ##e i la situacio tambe , la pic ##ina una mica petita .
+Expected: la pic ##ina ; una mica petita ; NEG | la situacio ; perfect ##e ; POS | l ' hotel ; perfect ##e ; POS
+Predicted: l ' hotel ; perfect ##e ; POS ; 0.9997875 | la situacio ; una mica petita ; NEG ; 0.810355
+
+el personal tenien una actitud molt positiva intenta ##nt facilitar - te les coses per fer - te l ' esta ##da mes ag ##rada ##ble .
+Expected: el personal ; tenien una actitud molt positiva ; POS | el personal ; intenta ##nt facilitar - te les coses ; POS
+Predicted: el personal ; molt positiva ; POS ; 0.9976337
+
+el ll ##it en general m ha ag ##rada ##t tot .
+Expected: tot ; ha ag ##rada ##t ; POS
+Predicted: el ll ##it ; ha ag ##rada ##t tot ; POS ; 0.73595035
+
+tot i que el ll ##it per mi es el mes important . . . i la verita ##t es petit i la como ##dita ##t podria millor ##ar
+Expected: la como ##dita ##t ; podria millor ##ar ; NEG | el ll ##it ; petit ; NEG
+Predicted: el ll ##it ; el mes important ; POS ; 0.8533165 | la verita ##t ; petit ; NEG ; 0.61432225
+
+el tract ##e de els propietaris . ama ##ble i aten ##t
+Expected: el tract ##e de els propietaris ; aten ##t ; POS | el tract ##e de els propietaris ; ama ##ble ; POS
+Predicted: el tract ##e de els propietaris ; ama ##ble ; POS ; 0.99988806 | els propietaris ; aten ##t ; POS ; 0.9431414
+
+no inclou es ##mor ##zar en el pre ##u i si el pag ##ues apart val 12 . 50 ##eur ##os ( pre ##u excess ##iu per lo que es - tha ##s de fer tu els ou ##s a sobre - ) , l ' habita ##cio no dis ##posa ##va de bal ##co ( tot i haver fet la peti ##cio de tenir bal ##co mesos abans ) i a el ser un lloc de plat ##ja ens va sembla ##r inc ##omo ##de no tenir un espai on poder seca ##r les to ##vall ##oles i els ban ##yad ##ors .
+Expected: bal ##co ; no dis ##posa ##va ; NEG | no tenir un espai on poder seca ##r les to ##vall ##oles i els ban ##yad ##ors ; sembla ##r inc ##omo ##de ; NEG | es ##mor ##zar ; val 12 . 50 ##eur ##os ; NEG | pre ##u ; excess ##iu ; NEG
+Predicted: es ##mor ##zar ; no inclou ; NEG ; 0.9969202 | l ' habita ##cio ; no dis ##posa ##va ; NEG ; 0.5661958
+
+l ' ama ##bilitat de el personal , la ubica ##cio de l ' hotel i la bona net ##eja general de l ' hotel .
+Expected: la ; bona ; POS | el personal ; l ' ama ##bilitat ; POS
+Predicted: el personal ; l ' ama ##bilitat ; POS ; 0.99976164 | el personal ; bona ; POS ; 0.8820105
+
+veni ##nt de ol ##ot - vic hi ha manca total de sen ##yal ##iti ##ca direccion ##al en ruta indican ##t el monestir de sant bene ##t i mes en el lloc indica ##t de el canvi de carretera ( et pot ##s trobar facil ##ment en ruta a man ##resa o terras ##sa !
+Expected: sen ##yal ##iti ##ca direccion ##al ; manca total ; NEG
+Predicted: sen ##yal ##iti ##ca direccion ##al ; hi ha manca total ; NEG ; 0.99624
+
+la rece ##pc ##io , la im ##mo ##bili ##aria estava tan ##cada i ning ##u ens va avis ##ar .
+Expected: la im ##mo ##bili ##aria ; tan ##cada ; NEG
+Predicted: la rece ##pc ##io ; tan ##cada ; NEG ; 0.9859562 | la im ##mo ##bili ##aria ; tan ##cada ; NEG ; 0.9341384
+
+no va haber una bona comunicacio entre ells i els altres agents implica ##ts .
+Expected: una bona comunicacio ; no va haber ; NEG
+Predicted: comunicacio ; no va haber una bona ; NEG ; 0.955928
+
+pero finalment , nomes despres de dos hores , va ##m poder gau ##dir de l ' apart ##ament .
+Expected: l ' apart ##ament ; poder gau ##dir ; POS
+Predicted: l ' apart ##ament ; va ##m poder gau ##dir ; POS ; 0.62453294
+
+el bene ##star de l ' hotel i com sempre l ' excel - lent tract ##e de el personal .
+Expected: l ' hotel ; el bene ##star ; POS | tract ##e de el personal ; excel - lent ; POS
+Predicted: l ' hotel ; excel - lent ; POS ; 0.9979869 | tract ##e de el personal ; excel - lent ; POS ; 0.6924947
+
+el wi ##fi nomes permet connect ##ar un sol apare ##ll la situacio de l ' hotel , la como ##dita ##t de les habitacion ##s i el tract ##e de el personal .
+Expected: el wi ##fi ; nomes permet connect ##ar un sol apare ##ll ; NEG
+Predicted: el wi ##fi ; nomes permet connect ##ar ; NEG ; 0.9933068
+
+hi havia un apare ##ll a l ' habita ##cio que feia sor ##oll , i a la nit trei ##em l ' electric ##itat ( de l ' habita ##cio ) i para ##va .
+Expected: un apare ##ll a l ' habita ##cio ; feia sor ##oll ; NEG
+Predicted: un apare ##ll a l ' habita ##cio ; hi havia ; NEG ; 0.8898785
+
+es un lloc centri ##c pero alhora tran ##qui ##l .
+Expected: un lloc ; centri ##c ; POS | un lloc ; tran ##qui ##l ; POS
+Predicted: un lloc ; centri ##c ; POS ; 0.9991731 | un lloc ; tran ##qui ##l ; POS ; 0.6890173
+
+esta decor ##at en sint ##onia a el lloc i tant l ' aten ##cio de el personal com l ' es ##mor ##zar son excel · lent ##s .
+Expected: l ' es ##mor ##zar ; excel · lent ##s ; POS | l ' aten ##cio de el personal ; excel · lent ##s ; POS
+Predicted: decor ##at ; en sint ##onia a el lloc ; POS ; 0.9977094 | l ' aten ##cio de el personal ; excel · lent ##s ; POS ; 0.9460807
+
+l ' inter ##rupt ##or de la cale ##fa ##ccio in ##uti ##litz ##at .
+Expected: l ' inter ##rupt ##or de la cale ##fa ##ccio ; in ##uti ##litz ##at ; NEG
+Predicted: l ' inter ##rupt ##or de la cale ##fa ##ccio ; in ##uti ##litz ##at ; NEG ; 0.9717349
+
+ens hague ##s ag ##rada ##t un pis mes inferior .
+Expected: un pis mes inferior ; hague ##s ag ##rada ##t ; NEG
+Predicted: un pis ; hague ##s ag ##rada ##t ; NEG ; 0.6740961
+
+la situacio , molt centri ##c .
+Expected: la situacio ; molt centri ##c ; POS
+Predicted: la situacio ; molt centri ##c ; POS ; 0.9997204
+
+el ll ##it , amb els coi ##xin ##s necessari ##s .
+Expected: el ll ##it ; amb els coi ##xin ##s necessari ##s ; POS
+Predicted: el ll ##it ; necessari ##s ; NEG ; 0.9544696
+
+el sor ##oll ine ##xis ##tent .
+Expected: el sor ##oll ; ine ##xis ##tent ; POS
+Predicted: el sor ##oll ; ine ##xis ##tent ; NEG ; 0.9362664
+
+el fu ##m tambe no present .
+Expected: el fu ##m ; no present ; POS
+Predicted: el fu ##m ; tambe no present ; NEG ; 0.9951911
+
+ama ##bilitat a la rece ##pc ##io .
+Expected: la rece ##pc ##io ; ama ##bilitat ; POS
+Predicted: la rece ##pc ##io ; ama ##bilitat ; POS ; 0.9980616
+
+vista general molt adi ##ent .
+Expected: vista general ; molt adi ##ent ; POS
+Predicted: vista general ; molt adi ##ent ; POS ; 0.99953747
+
+temperatura de l ' habita ##cio molt alta i sense poder apa ##gar la cale ##fa ##ccio .
+Expected: temperatura de l ' habita ##cio ; molt alta ; NEG | la cale ##fa ##ccio ; sense poder apa ##gar ; NEG
+Predicted: temperatura de l ' habita ##cio ; molt alta ; NEG ; 0.86045814
+
+apa ##rca ##ment molt just tant en ampla ##da com en nombre de places .
+Expected: apa ##rca ##ment ; molt just ; NEG
+Predicted: apa ##rca ##ment ; molt just ; NEG ; 0.8887111
+
+wi - fi d ' acces comp ##lica ##t net ##eja excel · lent , instal · lacio ##ns imp ##eca ##bles .
+Expected: instal · lacio ##ns ; imp ##eca ##bles ; POS | wi - fi d ' acces ; comp ##lica ##t ; NEG | net ##eja ; excel · lent ; POS
+Predicted: wi - fi d ' acces ; comp ##lica ##t ; POS ; 0.9832359 | net ##eja ; excel · lent ; POS ; 0.7675766 | instal · lacio ##ns ; imp ##eca ##bles ; POS ; 0.7337253
+
+a prior ##i apare ##nta estar una mica apart ##at , pero esta molt apr ##op de el passe ##ig de el riu que porta fins el cas ##c antic ( uns 30 minut ##s ana ##nt tran ##qui ##ls , passe ##ija ##da ag ##rada ##ble )
+Expected: passe ##ija ##da ; ag ##rada ##ble ; POS
+Predicted: a prior ##i apare ##nta estar ; una mica apart ##at ; NEG ; 0.98052925
+
+ere ##m tres ami ##gues i l ' habita ##cio tot i ser una triple de luxe no estava prepara ##da per 3 persones .
+Expected: l ' habita ##cio ; una triple de luxe ; POS | l ' habita ##cio ; no estava prepara ##da per 3 persones ; NEG
+Predicted: tres ami ##gues ; no estava prepara ##da ; NEG ; 0.8412372 | l ' habita ##cio ; no estava prepara ##da ; NEG ; 0.59528404
+
+l ' aten ##cio de el personal de l ' hotel es ex ##ece ##l • lent i la tran ##qui ##litat de l ' entorn .
+Expected: l ' aten ##cio de el personal de l ' hotel ; ex ##ece ##l • lent ; POS
+Predicted: el personal de l ' hotel ; ex ##ece ##l • lent ; POS ; 0.9992392 | l ' entorn ; la tran ##qui ##litat ; POS ; 0.9427648
+
+habitacion ##s modernes , como ##des i net ##es .
+Expected: habitacion ##s ; net ##es ; POS | habitacion ##s ; modernes ; POS | habitacion ##s ; como ##des ; POS
+Predicted: habitacion ##s ; modernes ; POS ; 0.9979285 | habitacion ##s ; como ##des ; POS ; 0.99496704 | habitacion ##s ; net ##es ; POS ; 0.576734
+
+zona de la piscina perfect ##e !
+Expected: zona de la piscina ; perfect ##e ! ; POS
+Predicted: zona de la piscina ; perfect ##e ! ; POS ; 0.99940515
+
+la situacio de l ' hotel es im ##mill ##ora ##ble .
+Expected: la situacio de l ' hotel ; im ##mill ##ora ##ble ; POS
+Predicted: la situacio de l ' hotel ; im ##mill ##ora ##ble ; POS ; 0.988306
+
+la qualitat de el bu ##fet d ' es ##mor ##zar es correct ##a , tot i que el men ##jado ##r es molt sor ##ollo ##s .
+Expected: la qualitat de el bu ##fet d ' es ##mor ##zar ; correct ##a ; POS | el men ##jado ##r ; molt sor ##ollo ##s ; NEG
+Predicted: el bu ##fet d ' es ##mor ##zar ; correct ##a ; POS ; 0.9973911 | el men ##jado ##r ; molt sor ##ollo ##s ; POS ; 0.51520216
+
+l ' habita ##cio esta correct ##ament ins ##onor ##itza ##da .
+Expected: l ' habita ##cio ; correct ##ament ins ##onor ##itza ##da ; POS
+Predicted: l ' habita ##cio ; correct ##ament ins ##onor ##itza ##da ; POS ; 0.83722764
+
+pre ##us de els serveis cars , pero amb linia amb la ciutat .
+Expected: pre ##us de els serveis ; amb linia amb la ciutat ; POS | pre ##us de els serveis ; cars ; NEG
+Predicted: pre ##us ; cars ; NEG ; 0.9158916
+
+seca ##dor de ma crema ##t .
+Expected: seca ##dor de ma ; crema ##t ; NEG
+Predicted: seca ##dor ; ma crema ##t ; NEG ; 0.9382852
+
+habita ##cio como ##da i llum ##inos ##a .
+Expected: habita ##cio ; como ##da ; POS | habita ##cio ; llum ##inos ##a ; POS
+Predicted: habita ##cio ; como ##da ; POS ; 0.9992155 | habita ##cio ; llum ##inos ##a ; POS ; 0.87686104
+
+ban ##y correct ##e .
+Expected: ban ##y ; correct ##e ; POS
+Predicted: ban ##y ; correct ##e ; POS ; 0.9950133
+
+accesso ##ris be .
+Expected: accesso ##ris ; be ; POS
+Predicted: accesso ##ris ; be ; POS ; 0.9975351
+
+internet molt be .
+Expected: internet ; molt be ; POS
+Predicted: internet ; molt be ; POS ; 0.9941916
+
+es ##mor ##sar molt be .
+Expected: es ##mor ##sar ; molt be ; POS
+Predicted: es ##mor ##sar ; molt be ; POS ; 0.99864084
+
+a la web no queda prou clar que la piscina no es propia de l ' establiment un lloc molt ag ##rada ##ble , amb un ambient familiar i espo ##rti ##u , a mes de ben situat .
+Expected: ambient ; espo ##rti ##u ; POS | ambient ; familiar ; POS | la piscina ; no es propia de l ' establiment ; NEG | un lloc ; molt ag ##rada ##ble ; POS | un lloc ; ben situat ; POS
+Predicted: la piscina ; no es propia ; NEG ; 0.75147414 | un lloc ; molt ag ##rada ##ble ; POS ; 0.951125 | un ambient ; espo ##rti ##u ; POS ; 0.9293241
+
+cr ##ec que no hauria d ' estar perm ##es fu ##mar a tot el reci ##nte .
+Expected: fu ##mar a tot el reci ##nte ; no hauria d ' estar perm ##es ; NEG
+Predicted: fu ##mar a tot el reci ##nte ; no hauria d ' estar perm ##es ; NEG ; 0.9276673
+
+o com a mini ##m , haur ##ien de tenir una ala d ' habitacion ##s per fu ##mad ##ors i una altra per no fu ##mad ##ors , ja que la gent sur ##t a fu ##mar a la terras ##sa i ve tota l ' ol ##or a dintre de l ' habita ##cio o a la terras ##sa conti ##gua .
+Expected: una ala d ' habitacion ##s per fu ##mad ##ors ; haur ##ien de tenir ; NEG
+Predicted: una ala d ' habitacion ##s per fu ##mad ##ors ; haur ##ien de tenir ; NEG ; 0.87508166
+
+les instal · lacio ##ns modernes , la tran ##qui ##l · lita ##t de el lloc , el tract ##e de el personal i la pro ##xi ##mita ##t amb el monestir .
+Expected: les instal · lacio ##ns ; modernes ; POS | el lloc ; la tran ##qui ##l · lita ##t ; POS
+Predicted: el lloc ; modernes , la tran ##qui ##l · lita ##t ; POS ; 0.9988102 | el tract ##e de el personal ; la pro ##xi ##mita ##t amb el monestir ; POS ; 0.8018046
+
+molt bona situacio , net i poli ##t .
+Expected: situacio ; molt bona ; POS
+Predicted: situacio ; molt bona ; POS ; 0.9993826 | situacio ; poli ##t ; POS ; 0.73853904
+
+bona comunicacio i a prop de tot ar ##reu .
+Expected: comunicacio ; a prop de tot ar ##reu ; POS | comunicacio ; bona ; POS
+Predicted: comunicacio ; bona ; POS ; 0.99938893
+
+l ' acces a l ' apa ##rca ##ment en cot ##xe es comp ##lica ##t a el principi si no es coneix el cami .
+Expected: l ' acces a l ' apa ##rca ##ment ; comp ##lica ##t ; NEG
+Predicted: l ' acces a l ' apa ##rca ##ment ; comp ##lica ##t a el principi ; NEG ; 0.9887333
+
+instal · lacio ##ns vell ##es i poc cui ##dades , , personal poc apa ##tic , , es ##mor ##zar de qualitat , , pero just i reaccion ##at . .
+Expected: es ##mor ##zar ; just ; NEG | es ##mor ##zar ; de qualitat ; POS | instal · lacio ##ns ; vell ##es ; NEG | instal · lacio ##ns ; poc cui ##dades ; NEG | personal ; poc apa ##tic ; NEG
+Predicted: instal · lacio ##ns ; vell ##es ; POS ; 0.9889052 | instal · lacio ##ns ; poc cui ##dades ; POS ; 0.8025172 | personal ; poc apa ##tic ; POS ; 0.8348487 | personal ; just i reaccion ##at ; POS ; 0.55871004
+
+el servei de el restaurant es molt millor ##able , tant el de la piscina com el de l ' hotel .
+Expected: el servei de el restaurant ; molt millor ##able ; NEG
+Predicted: el servei de el restaurant ; molt millor ##able ; POS ; 0.9981766
+
+el pit ##jor de tot la cui ##na i el pre ##u de la carta de el so ##par .
+Expected: el pre ##u de la carta de el so ##par ; el pit ##jor de tot ; NEG | la cui ##na ; el pit ##jor de tot ; NEG
+Predicted: tot la cui ##na ; el pit ##jor ; POS ; 0.970464
+
+la ubica ##cio de l ' hotel a el ben mig de la natura pero ben a prop de el cas ur ##ba de pal ##s i de les vies que connect ##en amb poblacions vei ##nes .
+Expected: l ' hotel ; a el ben mig de la natura ; POS | l ' hotel ; ben a prop de el cas ur ##ba ; POS
+Predicted: la ubica ##cio de l ' hotel ; a el ben mig de la natura ; POS ; 0.98755914
+
+tot ha estat molt be , pero es comp ##lica ##t trobar apa ##rca ##ment a prop de l ' hotel .
+Expected: tot ; molt be ; POS | trobar apa ##rca ##ment a prop de l ' hotel ; comp ##lica ##t ; NEG
+Predicted: tot ; molt be ; POS ; 0.994736 | tot ; comp ##lica ##t ; NEG ; 0.78532755
+
+la vista des de la terras ##sa es fantastic ##a , l ' esglesia de sit ##ges i el mar a el davant .
+Expected: la vista des de la terras ##sa ; fantastic ##a ; POS
+Predicted: la vista des de la terras ##sa ; fantastic ##a ; POS ; 0.9942934
+
+la situacio es fantastic ##a , a dos minut ##s a peu de l ' ajuntament i tres de cau fer ##rat .
+Expected: la situacio ; a dos minut ##s a peu de l ' ajuntament ; POS | la situacio ; fantastic ##a ; POS
+Predicted: la situacio ; fantastic ##a ; POS ; 0.98878735
+
+la plat ##ja de el passe ##ig de la ribera es troba a 2 minut ##s i la de sant se ##bas ##tia a 5 minut ##s .
+Expected: la plat ##ja ; es troba a 2 minut ##s ; POS
+Predicted: la plat ##ja de el passe ##ig de la ribera ; a 2 minut ##s ; POS ; 0.94330686
+
+la ubica ##cio , la decor ##acio i la como ##dita ##t de els ll ##its
+Expected: els ll ##its ; la como ##dita ##t ; POS
+Predicted: els ll ##its ; la como ##dita ##t ; POS ; 0.9996166
+
+realm ##ent a sig ##ut un apart ##ament molt comp ##lec ##xa i tb x tenir piscina , ja ##cut ##zi l i la part d jar ##di molt correct ##a . . . . . . fel ##ici ##tats
+Expected: la part d jar ##di ; molt correct ##a ; POS | un apart ##ament ; molt comp ##lec ##xa ; POS | ja ##cut ##zi ; tenir ; POS | piscina ; tenir ; POS
+Predicted: un apart ##ament ; molt comp ##lec ##xa ; POS ; 0.9994941 | un apart ##ament ; tenir ; POS ; 0.7680733 | la part d jar ##di ; molt correct ##a ; POS ; 0.7613002
+
+el wi ##fi no funciona ##va i esta poc ins ##onor ##itza ##da , es sent ##ien les altres habitacion ##s el lloc , l ' habita ##cio i el ban ##y i el personal .
+Expected: el wi ##fi ; no funciona ##va ; NEG
+Predicted: el wi ##fi ; no funciona ##va ; NEG ; 0.9995591 | el wi ##fi ; poc ins ##onor ##itza ##da ; NEG ; 0.9881819 | el ban ##y i el personal ; es sent ##ien ; NEG ; 0.5785996
+
+la relacio qualitat pre ##u no es corre ##sp ##on .
+Expected: la relacio qualitat pre ##u ; no es corre ##sp ##on ; NEG
+Predicted: la relacio qualitat pre ##u ; no es corre ##sp ##on ; NEG ; 0.9570704
+
+habita ##cio a pati interior sor ##ollo ##s .
+Expected: habita ##cio ; sor ##ollo ##s ; NEG
+Predicted: habita ##cio ; sor ##ollo ##s ; POS ; 0.6078847
+
+aire ac ##ond ##icion ##at vell no funciona be .
+Expected: aire ac ##ond ##icion ##at ; vell ; NEG | aire ac ##ond ##icion ##at ; no funciona be ; NEG
+Predicted: aire ac ##ond ##icion ##at ; vell no funciona be ; NEG ; 0.9929535
+
+hum ##itats paret . bon mata ##las bon sa ##bo i xam ##pu bona net ##eja
+Expected: xam ##pu ; bona ; POS | paret ; hum ##itats ; NEG | sa ##bo ; bon ; POS | mata ##las ; bon ; POS
+Predicted: paret ; hum ##itats ; POS ; 0.89778274 | mata ##las ; bon ; POS ; 0.86869043 | xam ##pu ; bona ; POS ; 0.5525563
+
+molt be el menu de el men ##jado ##r amb una molt bona relacio qualitat pre ##u
+Expected: relacio qualitat pre ##u ; molt bona ; POS | el menu de el men ##jado ##r ; molt be ; POS
+Predicted: el menu de el men ##jado ##r ; molt bona ; POS ; 0.99894434 | qualitat pre ##u ; molt bona ; POS ; 0.80740505
+
+granda ##ria habitacion ##s ! ! !
+Expected: habitacion ##s ; granda ##ria ; POS
+Predicted: habitacion ##s ; granda ##ria ; POS ; 0.73266053
+
+la situacio , el personal , la net ##eja : bon ##iss ##im .
+Expected: la situacio ; bon ##iss ##im ; POS | la net ##eja ; bon ##iss ##im ; POS | el personal ; bon ##iss ##im ; POS
+Predicted: el personal ; bon ##iss ##im ; POS ; 0.99785304
+
+de 5 a 8 un petit bu ##fet lliure , amb copa de vi inclosa : original , servei ##x per fer un rece ##s .
+Expected: bu ##fet lliure ; petit ; NEG | bu ##fet lliure ; amb copa de vi inclosa ; POS | bu ##fet lliure ; servei ##x per fer un rece ##s ; POS | bu ##fet lliure ; original ; POS
+Predicted: un petit bu ##fet ; original ; NEG ; 0.9164939
+
+bar tan ##cat i beg ##udes sense funcionar .
+Expected: bar ; tan ##cat ; NEG | beg ##udes ; sense funcionar ; NEG
+Predicted: bar ; tan ##cat ; NEG ; 0.96365744 | beg ##udes ; sense funcionar ; NEG ; 0.82974696
+
+apartaments molt nous , ben decor ##ats , molt con ##fort ##ables i molt ben situat ##s .
+Expected: apartaments ; molt ben situat ##s ; POS | apartaments ; molt nous ; POS | apartaments ; ben decor ##ats ; POS | apartaments ; molt con ##fort ##ables ; POS
+Predicted: apartaments ; molt nous ; POS ; 0.9989704 | apartaments ; ben decor ##ats ; POS ; 0.97613007 | apartaments ; molt con ##fort ##ables ; POS ; 0.7764483
+
+els mata ##lass ##os de els ll ##its son massa tous per a el nos ##tre gus ##t .
+Expected: els mata ##lass ##os de els ll ##its ; massa tous ; NEG
+Predicted: els mata ##lass ##os de els ll ##its ; massa tous ; NEG ; 0.99608433
+
+el wi ##fi no arriba ##va a una habita ##cio amb la porta tan ##cada .
+Expected: el wi ##fi ; no arriba ##va ; NEG
+Predicted: el wi ##fi ; tan ##cada ; NEG ; 0.99971217
+
+de fet , gairebe tot ( centri ##c , silencio ##s , molt bon ##ic i como ##de . molt bona la relacio amb la noi ##a de contacte per ll ##oga ##r l ' apart ##ament . tornare ##m , sense cap mena de dub ##te .
+Expected: gairebe tot ; silencio ##s ; POS | gairebe tot ; como ##de ; POS | gairebe tot ; centri ##c ; POS | gairebe tot ; molt bon ##ic ; POS | la relacio amb la noi ##a de contacte per ll ##oga ##r l ' apart ##ament ; molt bona ; POS
+Predicted: tot ; centri ##c ; POS ; 0.9966551 | tot ; silencio ##s ; POS ; 0.9143747 | tot ; molt bon ##ic ; POS ; 0.8543894 | la relacio ; como ##de . molt bona ; POS ; 0.74633896
+
+ja ##cu ##zzi fred i wi ##fi no funciona ##va correct ##ament . vem aga ##far un hotel amb ja ##cu ##zzi i no el vem poder fer servir .
+Expected: ja ##cu ##zzi ; fred ; NEG | wi ##fi ; no funciona ##va correct ##ament ; NEG
+Predicted: wi ##fi ; no funciona ##va correct ##ament ; NEG ; 0.9941386
+
+personal de l hotel proper i ag ##rada ##ble .
+Expected: personal de l hotel ; proper ; POS | personal de l hotel ; ag ##rada ##ble ; POS
+Predicted: personal de l hotel ; proper ; POS ; 0.9984498 | personal de l hotel ; ag ##rada ##ble ; POS ; 0.9746932
+
+el menys valor ##at : la cui ##na .
+Expected: la cui ##na ; el menys valor ##at ; NEG
+Predicted: la cui ##na ; el menys valor ##at ; POS ; 0.9926736
+
+l ' ubica ##cio de l ' hotel : llum solar , espai ##s ober ##ts naturals , pais ##atge ll ##unya inc ##om ##para ##ble .
+Expected: l ' ubica ##cio ; pais ##atge ll ##unya inc ##om ##para ##ble ; POS | l ' ubica ##cio ; espai ##s ober ##ts naturals ; POS | l ' ubica ##cio ; llum solar ; POS
+Predicted: llum ; solar ; POS ; 0.99393976 | pais ##atge ; ll ##unya ; POS ; 0.8282836 | pais ##atge ; inc ##om ##para ##ble ; POS ; 0.6725033
+
+l ' hotel no es corre ##sp ##on amb un 4 * , i el pre ##u no es corre ##sp ##on amb el que of ##erei ##xen .
+Expected: l ' hotel ; no es corre ##sp ##on amb un 4 * ; NEG | el pre ##u ; no es corre ##sp ##on amb el que of ##erei ##xen ; NEG
+Predicted: l ' hotel ; no es corre ##sp ##on amb un 4 * ; NEG ; 0.94236183
+
+ens han donat ll ##its separat ##s despres de demanar un ll ##it de matrimoni , el mata ##las es petit i inc ##omo ##de , l ' habita ##cio fa ol ##or a res ##cl ##osi ##t , i el tele ##vis ##or te la pantalla mes petita que un mobil .
+Expected: ll ##its ; separat ##s despres de demanar un ll ##it de matrimoni ; NEG | el mata ##las ; petit ; NEG | el mata ##las ; inc ##omo ##de ; NEG | el tele ##vis ##or ; te la pantalla mes petita que un mobil ; NEG | l ' habita ##cio ; fa ol ##or a res ##cl ##osi ##t ; NEG
+Predicted: el mata ##las ; petit ; NEG ; 0.9110386 | el mata ##las ; inc ##omo ##de ; POS ; 0.7780638 | el tele ##vis ##or ; inc ##omo ##de ; POS ; 0.591534
+
+el tv es d ' habita ##cio hospital ##aria , petit i pen ##jat en alt .
+Expected: el tv ; d ' habita ##cio hospital ##aria ; NEG
+Predicted: el tv ; d ' habita ##cio hospital ##aria ; NEG ; 0.9597583 | el tv ; petit ; NEG ; 0.93403393
+
+els articles de ban ##y son molt basic ##s .
+Expected: els articles de ban ##y ; molt basic ##s ; NEG
+Predicted: els articles de ban ##y ; molt basic ##s ; NEG ; 0.91716564
+
+no hi havia cap cad ##ira a l ' habita ##cio ( si a la terras ##sa ) la situacio i dis ##posa ##r de parking .
+Expected: cad ##ira a l ' habita ##cio ; no hi havia ; NEG | parking ; dis ##posa ##r de ; POS
+Predicted: cad ##ira ; no hi havia cap ; NEG ; 0.9986014
+
+bona terras ##sa .
+Expected: terras ##sa ; bona ; POS
+Predicted: terras ##sa ; bona ; POS ; 0.996439
+
+tot estava molt net i el ll ##it era molt como ##de .
+Expected: tot ; molt net ; POS | el ll ##it ; molt como ##de ; POS
+Predicted: tot ; molt net ; POS ; 0.99912935 | el ll ##it ; molt como ##de ; POS ; 0.9869043
+
+amb 5 persones un sol lava ##bo es fa una mica just .
+Expected: lava ##bo ; es fa una mica just ; NEG | lava ##bo ; sol ; NEG
+Predicted: un sol lava ##bo ; fa una mica just ; NEG ; 0.6884439
+
+no te sentit pagar per aquest spa .
+Expected: aquest spa ; no te sentit pagar ; NEG
+Predicted: aquest spa ; no te sentit pagar ; NEG ; 0.98777384
+
+m ' ha ag ##rada ##t la quantitat d ' end ##oll ##s que hi havia .
+Expected: la quantitat d ' end ##oll ##s ; ha ag ##rada ##t ; POS
+Predicted: la quantitat d ' end ##oll ##s ; ha ag ##rada ##t ; POS ; 0.57870156
+
+que el pre ##u de l ' es ##mor ##zar no esti ##gui inc ##los en l ' habita ##cio .
+Expected: el pre ##u de l ' es ##mor ##zar ; no esti ##gui inc ##los en l ' habita ##cio ; NEG
+Predicted: el pre ##u de l ' es ##mor ##zar ; no esti ##gui inc ##los ; NEG ; 0.9968305
+
+te un parquing just a el costat i es un hotel tran ##qui ##l .
+Expected: un parquing ; just a el costat ; POS | un hotel ; tran ##qui ##l ; POS | un parquing ; te ; POS
+Predicted: un parquing ; te ; POS ; 0.9038088 | un hotel ; tran ##qui ##l ; POS ; 0.9926479
+
+ens hague ##s ag ##rada ##t poder dis ##posa ##r de l ' habita ##cio a les dues o quarts de tres de la tarda com a maxim , cosa que no va ##m poder fer sovint per motiu ##s de net ##eja .
+Expected: dis ##posa ##r de l ' habita ##cio ; hague ##s ag ##rada ##t ; NEG
+Predicted: poder dis ##posa ##r de l ' habita ##cio ; hague ##s ag ##rada ##t ; NEG ; 0.8417683
+
+ens va ag ##rada ##r tenir terras ##sa a l ' habita ##cio .
+Expected: terras ##sa a l ' habita ##cio ; va ag ##rada ##r ; POS
+Predicted: terras ##sa a l ' habita ##cio ; va ag ##rada ##r ; POS ; 0.9944776
+
+res , tot molt correct ##e es just el que busca ##vem , un lloc on hos ##peda ##r . se , tran ##qui ##l i fora de els circuits comercials i forca asse ##qui ##ble de pre ##u .
+Expected: pre ##u ; forca asse ##qui ##ble ; POS | un lloc ; tran ##qui ##l ; POS | un lloc ; fora de els circuits comercials ; POS | tot ; molt correct ##e ; POS
+Predicted: tot ; molt correct ##e ; POS ; 0.9989623 | tot ; just ; POS ; 0.77136666 | un lloc on hos ##peda ##r ; forca asse ##qui ##ble de pre ##u ; POS ; 0.7271749
+
+a 10 minut ##s en cot ##xe de les plat ##ges de beg ##ur , i amb un ambient de masia o poble .
+Expected: ambient ; de masia o poble ; POS
+Predicted: 
+
+te una piscina i un jar ##di per prendre el sol molt mac ##os , malgrat no l ' hem apr ##ofi ##tat .
+Expected: una piscina ; molt mac ##os ; POS | un jar ##di ; molt mac ##os ; POS | una piscina ; per prendre el sol ; POS | un jar ##di ; per prendre el sol ; POS
+Predicted: una piscina ; te ; POS ; 0.9467632 | un jar ##di per prendre el sol ; molt mac ##os ; POS ; 0.8687029
+
+l ' es ##mor ##zar de pages amb em ##bot ##its de primera i vi de masia .
+Expected: vi ; de masia ; POS | em ##bot ##its ; de primera ; POS | l ' es ##mor ##zar ; de pages ; POS
+Predicted: l ' es ##mor ##zar ; de pages ; POS ; 0.60877895
+
+si voli ##es un es ##mor ##zar mes continental tambe te ' l of ##erei ##xen .
+Expected: un es ##mor ##zar mes continental ; tambe te ' l of ##erei ##xen ; POS
+Predicted: un es ##mor ##zar ; mes continental tambe te ' l of ##erei ##xen ; POS ; 0.94380426
+
+molta hi ##gie ##ne .
+Expected: hi ##gie ##ne ; molta ; POS
+Predicted: hi ##gie ##ne ; molta ; POS ; 0.97585994
+
+es ##mor ##zar molt just .
+Expected: es ##mor ##zar ; molt just ; POS
+Predicted: es ##mor ##zar ; molt just ; POS ; 0.996188
+
+ama ##bilitat de el personal , i con ##fianca .
+Expected: el personal ; ama ##bilitat ; POS
+Predicted: el personal ; ama ##bilitat ; POS ; 0.99887675 | el personal ; con ##fianca ; POS ; 0.79858154
+
+no dona l ' estandar ##d de qualitat per un 5 estrelles , per una 4 este ##lles seria passa ##ble .
+Expected: l ' estandar ##d de qualitat per un 5 estrelles ; no dona ; NEG
+Predicted: l ' estandar ##d de qualitat ; passa ##ble ; NEG ; 0.9498071
+
+el wi - fi de l ' habita ##cio no funciona ##va , les instal · lacio ##ns estan passa ##des de moda o directament anti ##qua ##des .
+Expected: les instal · lacio ##ns ; passa ##des de moda ; NEG | les instal · lacio ##ns ; directament anti ##qua ##des ; NEG | el wi - fi de l ' habita ##cio ; no funciona ##va ; NEG
+Predicted: el wi - fi de l ' habita ##cio ; no funciona ##va ; NEG ; 0.9983923 | les instal · lacio ##ns ; passa ##des de moda o directament anti ##qua ##des ; POS ; 0.6597162
+
+la ubica ##cio de l ' hotel es excel · lent i esta net i endre ##cat .
+Expected: la ubica ##cio de l ' hotel ; excel · lent ; POS
+Predicted: la ubica ##cio de l ' hotel ; excel · lent ; POS ; 0.99997294 | la ubica ##cio de l ' hotel ; net ; POS ; 0.98199654
+
+l ' habita ##cio un pel petita per un 5 estrelles .
+Expected: l ' habita ##cio ; un pel petita per un 5 estrelles ; NEG
+Predicted: l ' habita ##cio ; un pel petita ; NEG ; 0.98662865
+
+es podria millor ##ar el mane ##c de la dut ##xa , ja que no acaba de raja ##r be .
+Expected: el mane ##c de la dut ##xa ; es podria millor ##ar ; NEG
+Predicted: el mane ##c de la dut ##xa ; es podria millor ##ar ; NEG ; 0.7933842
+
+l ' el ##da es molt ama ##ble i proper ##a , la verita ##t es que et sent ##s com a casa !
+Expected: l ' el ##da ; proper ##a ; POS | l ' el ##da ; molt ama ##ble ; POS
+Predicted: l ' el ##da ; molt ama ##ble ; POS ; 0.99918264 | l ' el ##da ; proper ##a ; POS ; 0.9643352
+
+ten ##s inti ##mita ##t , ll ##its i coi ##xin ##s molt como ##des .
+Expected: ll ##its ; molt como ##des ; POS | coi ##xin ##s ; molt como ##des ; POS
+Predicted: inti ##mita ##t ; ten ##s ; POS ; 0.9983669 | ll ##its ; molt como ##des ; POS ; 0.9532229 | coi ##xin ##s ; molt como ##des ; POS ; 0.7566318
+
+el men ##jar caso ##la i molt bo .
+Expected: el men ##jar ; molt bo ; POS | el men ##jar ; caso ##la ; POS
+Predicted: el men ##jar ; caso ##la ; POS ; 0.99836296 | el men ##jar ; molt bo ; POS ; 0.9376328
+
+tot molt correct ##e diri ##a que molt be .
+Expected: tot ; molt correct ##e ; POS | tot ; molt be ; POS
+Predicted: tot ; molt correct ##e ; POS ; 0.99948287
+
+la nota global esta entre el be i l ' excel · lent .
+Expected: la nota global ; be ; POS | la nota global ; excel · lent ; POS
+Predicted: la nota global ; be i l ' excel · lent ; POS ; 0.9991134 | la nota global ; excel · lent ; POS ; 0.71558285
+
+m ' ha ag ##rada ##t la tran ##qui ##litat , la pro ##xi ##mita ##t de la plat ##ja , de el cami de ronda , de super ##mer ##cats per anar a comprar .
+Expected: la tran ##qui ##litat ; ha ag ##rada ##t ; POS | la pro ##xi ##mita ##t de la plat ##ja ; ha ag ##rada ##t ; POS
+Predicted: la plat ##ja ; ha ag ##rada ##t ; POS ; 0.9956579
+
+els llen ##col ##s estaven brut ##s .
+Expected: els llen ##col ##s ; brut ##s ; NEG
+Predicted: els llen ##col ##s ; brut ##s ; NEG ; 0.9983565
+
+el director de l ' hotel molt desa ##grada ##ble .
+Expected: el director de l ' hotel ; molt desa ##grada ##ble ; NEG
+Predicted: el director de l ' hotel ; molt desa ##grada ##ble ; POS ; 0.998538
+
+la situacio es mag ##ni ##fica .
+Expected: la situacio ; mag ##ni ##fica ; POS
+Predicted: la situacio ; mag ##ni ##fica ; POS ; 0.9968996
+
+l ' aire _ condicion ##at i el wi ##fi funcion ##en be .
+Expected: el wi ##fi ; funcion ##en be ; POS | l ' aire _ condicion ##at ; funcion ##en be ; POS
+Predicted: l ' aire _ condicion ##at ; funcion ##en be ; POS ; 0.9783115 | el wi ##fi ; funcion ##en be ; POS ; 0.8763202
+
+l ' es ##mor ##zar molt bo i la senyor ##a que el servei ##x molt aten ##ta i ag ##rada ##ble .
+Expected: la senyor ##a que el servei ##x ; ag ##rada ##ble ; POS | la senyor ##a que el servei ##x ; molt aten ##ta ; POS | l ' es ##mor ##zar ; molt bo ; POS
+Predicted: l ' es ##mor ##zar ; molt bo ; POS ; 0.99977607 | la senyor ##a que el servei ##x ; molt aten ##ta ; POS ; 0.9692313 | la senyor ##a que el servei ##x ; ag ##rada ##ble ; POS ; 0.79261655
+
+situacio excel · lent , a el cor de la ciutat
+Expected: situacio ; excel · lent ; POS
+Predicted: situacio ; excel · lent ; POS ; 0.9999362
+
+no hi havia es ##mor ##zar gratuit .
+Expected: es ##mor ##zar gratuit ; no hi havia ; NEG
+Predicted: es ##mor ##zar ; no hi havia ; NEG ; 0.56475675
+
+ens ha ag ##rada ##t molt el tract ##e re ##but de el personal i les atencion ##s .
+Expected: el tract ##e re ##but de el personal ; ha ag ##rada ##t molt ; POS | les atencion ##s ; ha ag ##rada ##t molt ; POS
+Predicted: el tract ##e re ##but de el personal ; ha ag ##rada ##t molt ; POS ; 0.9998671
+
+estaven molt pendent ##s i fins i tot , et dona ##ven cava , aigua per anar a la plat ##ja , una con ##sum ##icio a la terras ##sa gratuit ##a , dona ##ven bere ##nar i fins i tot , et deixa ##ven les to ##vall ##oles i el para - sol per anar a la plat ##ja sense cobra ##r - te res .
+Expected: el para - sol ; et deixa ##ven ; POS | les to ##vall ##oles ; et deixa ##ven ; POS | bere ##nar ; dona ##ven ; POS
+Predicted: estaven ; molt pendent ##s ; POS ; 0.9280286
+
+no es cap come ##ntar ##i ne ##gati ##u ; pero voli ##a come ##ntar que l ' es ##mor ##zar esta molt be , pero pod ##rien posar mes varia ##cio d ' em ##bot ##it . ( nomes et posen format ##ge , pod ##rien posar per ##nil dol ##c o sala ##t ) ; llavors ja seria geni ##al ! !
+Expected: l ' es ##mor ##zar ; molt be ; POS | l ' es ##mor ##zar ; pod ##rien posar mes varia ##cio d ' em ##bot ##it ; NEG
+Predicted: come ##ntar ##i ne ##gati ##u ; no es cap ; NEG ; 0.80550957 | l ' es ##mor ##zar ; molt be ; POS ; 0.84868973
+
+suc de tar ##on ##ja natural bon ##iss ##im el tract ##e familiar i aten ##ts en tot moment .
+Expected: el tract ##e ; familiar ; POS | suc de tar ##on ##ja natural ; bon ##iss ##im ; POS
+Predicted: suc de tar ##on ##ja ; natural bon ##iss ##im ; POS ; 0.9674133 | el tract ##e ; bon ##iss ##im ; POS ; 0.87465084 | el tract ##e ; aten ##ts ; POS ; 0.927867
+
+hi esti ##c d ' acord , per evitar sor ##oll ##s , pero no me n ' havia ado ##nat i va ser una sorpresa . . . tot molt net .
+Expected: tot ; molt net ; POS
+Predicted: tot ; molt net ; POS ; 0.93712294
+
+jardins i zones comunes molt cui ##dat ##s .
+Expected: jardins ; molt cui ##dat ##s ; POS | zones comunes ; molt cui ##dat ##s ; POS
+Predicted: jardins ; molt cui ##dat ##s ; POS ; 0.99695337
+
+personal sim ##pati ##c i molt ama ##ble .
+Expected: personal ; molt ama ##ble ; POS | personal ; sim ##pati ##c ; POS
+Predicted: personal ; sim ##pati ##c ; POS ; 0.99969137 | personal ; molt ama ##ble ; POS ; 0.7588117
+
+bona ubica ##cio .
+Expected: ubica ##cio ; bona ; POS
+Predicted: ubica ##cio ; bona ; POS ; 0.99783355
+
+l ' es ##mor ##zar es molt comp ##ler ##t , l ' habita ##cio doble superior es molt ac ##oll ##idor ##a
+Expected: l ' es ##mor ##zar ; molt comp ##ler ##t ; POS | l ' habita ##cio doble superior ; molt ac ##oll ##idor ##a ; POS
+Predicted: l ' es ##mor ##zar ; molt comp ##ler ##t ; POS ; 0.9583746 | l ' habita ##cio doble superior ; molt ac ##oll ##idor ##a ; POS ; 0.95507586
+
+per lo dem ##es tot molt be .
+Expected: lo dem ##es tot ; molt be ; POS
+Predicted: tot ; molt be ; POS ; 0.9878582
+
+comp ##lica ##t de trobar parquing gratuit a prop .
+Expected: parquing gratuit a prop ; comp ##lica ##t de trobar ; NEG
+Predicted: trobar parquing ; comp ##lica ##t ; POS ; 0.7178475
+
+la qualitat , les instal · lacio ##ns i l ' amp ##lit ##ud de l ' apart ##ament .
+Expected: l ' apart ##ament ; l ' amp ##lit ##ud ; POS
+Predicted: l ' apart ##ament ; l ' amp ##lit ##ud ; POS ; 0.9974637
+
+no hi ha wi ##fi gratuit .
+Expected: wi ##fi gratuit ; no hi ha ; NEG
+Predicted: wi ##fi ; no hi ha ; NEG ; 0.9036787
+
+malgrat que no hi hag ##i places a el parking , el parking saba esta prou a prop ( encara que sigui car )
+Expected: places a el parking ; no hi hag ##i ; NEG | el parking saba ; prou a prop ; POS | el parking saba ; encara ; NEG
+Predicted: el parking ; no hi hag ##i places ; NEG ; 0.9534831 | el parking saba ; prou a prop ; POS ; 0.7711283
+
+el ll ##it de matrimoni no era gai ##re como ##de tot i ser gran .
+Expected: el ll ##it de matrimoni ; gran ; POS
+Predicted: el ll ##it de matrimoni ; no era gai ##re como ##de ; POS ; 0.8217285
+
+l ' habita ##cio en general , es forca gran i no li falta de res .
+Expected: l ' habita ##cio ; forca gran ; POS
+Predicted: l ' habita ##cio ; forca gran ; POS ; 0.51846385 | l ' habita ##cio ; no li falta de res ; NEG ; 0.9053458
+
+el personal es molt ag ##rada ##ble i l ' hotel te una perfect ##a ubica ##cio .
+Expected: el personal ; molt ag ##rada ##ble ; POS | una ; perfect ##a ; POS
+Predicted: el personal ; molt ag ##rada ##ble ; POS ; 0.9999534 | l ' hotel ; perfect ##a ubica ##cio ; POS ; 0.93680835
+
+pot ##ser la situacio , una mica apart ##at de puig ##cer ##da .
+Expected: la situacio ; una mica apart ##at ; NEG
+Predicted: la situacio ; una mica apart ##at de puig ##cer ##da ; POS ; 0.837379
+
+he ana ##t a celebrar l ' ani ##versari amb la mesa cosi ##na , un pare ##ll de dies , i s ' han ha fet curt . l ' apart ##ament molt como ##de i equip ##at , silencio ##s , la piscina es perfect ##e i molt ben cui ##dada . ho rep ##eti ##rem . un bon lloc per des ##cone ##ctar i re ##lax ##arse .
+Expected: la piscina ; perfect ##e ; POS | la piscina ; molt ben cui ##dada ; POS | lloc per des ##cone ##ctar i re ##lax ##arse ; bon ; POS | l ' apart ##ament ; equip ##at ; POS | l ' apart ##ament ; molt como ##de ; POS | l ' apart ##ament ; silencio ##s ; POS
+Predicted: la mesa cosi ##na ; perfect ##e ; POS ; 0.9889369 | l ' apart ##ament ; molt como ##de ; POS ; 0.99176085 | l ' apart ##ament ; equip ##at ; POS ; 0.9903656 | la piscina ; perfect ##e ; POS ; 0.9875392 | la piscina ; perfect ##e i molt ben cui ##dada ; POS ; 0.9569838
+
+el so ##par van tarda un mica .
+Expected: el so ##par ; tarda un mica ; NEG
+Predicted: el so ##par ; tarda un mica ; NEG ; 0.98621595
+
+l ' habita ##cio queda molt ll ##uny de la rece ##pc ##io perque esta a una punta , amb la qual cosa has de creu ##ar tot l ' hotel , pero es suport ##able .
+Expected: l ' habita ##cio ; molt ll ##uny de la rece ##pc ##io ; NEG | l ' habita ##cio ; a una punta ; NEG | l ' habita ##cio ; suport ##able ; POS
+Predicted: l ' habita ##cio ; molt ll ##uny de la rece ##pc ##io ; NEG ; 0.91394097 | l ' habita ##cio ; a una punta ; POS ; 0.5335244 | l ' habita ##cio ; suport ##able ; POS ; 0.50459284
+
+l ' es ##mor ##zar esta molt be i les pis ##cine ##s de el jar ##di molt ma ##ques .
+Expected: l ' es ##mor ##zar ; molt be ; POS | les pis ##cine ##s de el jar ##di ; molt ma ##ques ; POS
+Predicted: l ' es ##mor ##zar ; molt be ; POS ; 0.9988807 | les pis ##cine ##s de el jar ##di ; molt ma ##ques ; POS ; 0.99008965
+
+vist que les habitacion ##s eren per 4 persones , els elements de cortes ##ia , sa ##bon ##s i dem ##es per la cui ##na i el ban ##y , eren es ##cas ##sos .
+Expected: els elements de cortes ##ia ; es ##cas ##sos ; NEG
+Predicted: els elements de cortes ##ia ; es ##cas ##sos ; NEG ; 0.99404484 | sa ##bon ##s ; es ##cas ##sos ; NEG ; 0.9871933
+
+molt bona aten ##cio per part de el personal i les instal · lacio ##ns molt i molt be
+Expected: les instal · lacio ##ns ; molt i molt be ; POS | aten ##cio per part de el personal ; molt bona ; POS
+Predicted: aten ##cio per part de el personal ; molt bona ; POS ; 0.99935406 | les instal · lacio ##ns ; molt bona ; POS ; 0.94744766
+
+a l ' informacio de book ##ing posa ##va que hi havia spa i en canvi ens van dir que no estava encara fet .
+Expected: spa ; no estava encara fet ; NEG
+Predicted: spa ; posa ##va que hi havia ; NEG ; 0.9941176
+
+a part el men ##jar era regular .
+Expected: el men ##jar ; regular ; NEG
+Predicted: el men ##jar ; regular ; POS ; 0.9655246
+
+el millor es l ' entorn i el pais ##sat ##ge .
+Expected: l ' entorn ; el millor ; POS | el pais ##sat ##ge ; el millor ; POS
+Predicted: l ' entorn ; el millor ; POS ; 0.99937135
+
+tambe la zona de la piscina es molt original i molt como ##da .
+Expected: la zona de la piscina ; molt original ; POS | la zona de la piscina ; molt como ##da ; POS
+Predicted: la zona de la piscina ; molt original ; POS ; 0.9998714 | la zona de la piscina ; molt como ##da ; POS ; 0.99125415
+
+no pu ##c dir gai ##re , nomes varem passar una nit , pro tot perfect ##e , rec ##oman ##able 100 % .
+Expected: tot ; perfect ##e ; POS
+Predicted: tot ; perfect ##e ; POS ; 0.9991242 | pro tot ; perfect ##e ; POS ; 0.6437809
+
+- l ' habita ##cio era molt petita - sur ##t molta poca aigua per la dut ##xa - no feia gai ##re bona ol ##or , sobretot el passa ##dis - un de els rece ##pcion ##istes era molt mal edu ##cat , ni et salud ##ava - etc , etc la situacio , ja que estava a prop de la majoria de llocs d ' interes de bilbao , tot i que el barri no es de lo millor de la ciutat
+Expected: un de els rece ##pcion ##istes ; molt mal edu ##cat ; NEG | la situacio ; a prop de la majoria de llocs d ' interes ; POS | el barri ; no es de lo millor de la ciutat ; NEG | l ' habita ##cio ; molt petita ; NEG | la dut ##xa ; sur ##t molta poca aigua ; NEG | el passa ##dis ; no feia gai ##re bona ol ##or ; NEG
+Predicted: l ' habita ##cio ; molt petita ; NEG ; 0.99435896 | l ' habita ##cio ; sur ##t molta poca ; NEG ; 0.94023865 | un de els rece ##pcion ##istes ; no feia gai ##re bona ol ##or ; NEG ; 0.63823295
+
+l ' es ##mor ##zar era fins a les 11 pero ja no hi havia de tot per poder - ho fer complet .
+Expected: l ' es ##mor ##zar ; no hi havia de tot ; NEG
+Predicted: l ' es ##mor ##zar ; ja no hi havia ; NEG ; 0.9447937
+
+varem coin ##cidi ##r amb un grup que fei ##en molt sor ##oll ana ##nt d ' una habita ##cio a l ' altra
+Expected: un grup ; fei ##en molt sor ##oll ana ##nt d ' una habita ##cio a l ' altra ; NEG
+Predicted: sor ##oll ; varem coin ##cidi ##r ; NEG ; 0.63508356
+
+men ##jar molt bo i tract ##e ama ##ble .
+Expected: tract ##e ; ama ##ble ; POS | men ##jar ; molt bo ; POS
+Predicted: men ##jar ; molt bo ; POS ; 0.9996112 | tract ##e ; ama ##ble ; POS ; 0.9984664
+
+a una habita ##cio , manca ##ba la teu ##leta de nit i la persian ##a estava tren ##cada . hi habia una bati ##dora que no funciona ##ba .
+Expected: una bati ##dora ; no funciona ##ba ; NEG | la teu ##leta de nit ; manca ##ba ; NEG | la persian ##a ; tren ##cada ; NEG
+Predicted: la teu ##leta de nit ; manca ##ba ; NEG ; 0.9996117 | una bati ##dora ; no funciona ##ba ; NEG ; 0.92571425
+
+es com una casa gran ada ##ptada per ll ##oga ##r habitacion ##s .
+Expected: una casa ; gran ; POS
+Predicted: una casa ; gran ; POS ; 0.89520746
+
+el wi - fi es gratuit pero sovint es talla .
+Expected: el wi - fi ; sovint es talla ; NEG | el wi - fi ; gratuit ; POS
+Predicted: el wi - fi ; gratuit ; POS ; 0.94447696 | el wi - fi ; sovint es talla ; NEG ; 0.9338534
+
+les habitacion ##s amb una decor ##acio molt moderna i alhora practica .
+Expected: les habitacion ##s ; practica ; POS | les habitacion ##s ; amb una decor ##acio molt moderna ; POS
+Predicted: una decor ##acio ; molt moderna ; POS ; 0.9993179 | una decor ##acio ; practica ; POS ; 0.96831053
+
+- la net ##eja - la situacio : un entorn molt tran ##qui ##l , molt a prop de la plat ##ja - el comfort : ll ##it gran i como ##de , lava ##bo gran , molts canals a la tv , cafe ##tera a l ' habita ##cio , arma ##ri gran
+Expected: lava ##bo ; gran ; POS | ll ##it ; como ##de ; POS | ll ##it ; gran ; POS | un entorn ; molt tran ##qui ##l ; POS | un entorn ; molt a prop de la plat ##ja ; POS | arma ##ri ; gran ; POS | canals a la tv ; molts ; POS
+Predicted: un entorn ; molt tran ##qui ##l ; POS ; 0.9997669 | un entorn ; molt a prop de la plat ##ja ; POS ; 0.94775534 | el comfort : ll ##it ; gran i como ##de ; POS ; 0.9773817 | el comfort : ll ##it ; como ##de ; POS ; 0.89993554 | arma ##ri ; como ##de , lava ##bo gran ; POS ; 0.7514426 | arma ##ri ; gran ; POS ; 0.6647716
+
+la situacio a la ce ##rd ##nya , el poble , el lloc de l ' allo ##tja ##ment forca tran ##qui ##l .
+Expected: el lloc de l ' allo ##tja ##ment ; forca tran ##qui ##l ; POS
+Predicted: el lloc de l ' allo ##tja ##ment ; forca tran ##qui ##l ; POS ; 0.9995459
+
+els uten ##sili ##s de cui ##na estaven brut ##s i a la paper ##era encara hi havia la bros ##sa de els ultim ##s llogaters .
+Expected: els uten ##sili ##s de cui ##na ; brut ##s ; NEG | la bros ##sa de els ultim ##s llogaters ; hi havia ; NEG
+Predicted: els uten ##sili ##s de cui ##na ; brut ##s ; NEG ; 0.91416514 | els uten ##sili ##s de cui ##na ; encara hi havia ; NEG ; 0.90363544
+
+tambe s ' ha de tenir en compte , que per anar a la piscina , s ' ha de sortir a el carrer .
+Expected: la piscina ; s ' ha de sortir a el carrer ; NEG
+Predicted: la piscina ; s ' ha de sortir a el carrer ; POS ; 0.53916866
+
+hi ha zona per apa ##rca ##r just davant de els apartaments
+Expected: zona per apa ##rca ##r ; just davant de els apartaments ; POS | zona per apa ##rca ##r ; hi ha ; NEG
+Predicted: zona ; hi ha ; POS ; 0.87182504
+
+les habitacion ##s estan molt be pero rec ##oman ##aria rev ##isar ta ##ques d ' hum ##itat a habita ##cio i ban ##y .
+Expected: les habitacion ##s ; molt be ; POS | ta ##ques d ' hum ##itat a habita ##cio i ban ##y ; rec ##oman ##aria rev ##isar ; NEG
+Predicted: les habitacion ##s ; molt be ; POS ; 0.9875694 | les habitacion ##s ; rec ##oman ##aria rev ##isar ; POS ; 0.53310007
+
+el personal de rece ##pc ##io molt ag ##rada ##ble i profesional .
+Expected: el personal de rece ##pc ##io ; molt ag ##rada ##ble ; POS | el personal de rece ##pc ##io ; profesional ; POS
+Predicted: el personal de rece ##pc ##io ; molt ag ##rada ##ble ; POS ; 0.99996006 | el personal de rece ##pc ##io ; profesional ; POS ; 0.9832677
+
+molt bona relacio ali ##tat pre ##u
+Expected: relacio ali ##tat pre ##u ; molt bona ; POS
+Predicted: relacio ali ##tat pre ##u ; molt bona ; POS ; 0.99574345
+
+el wi ##fi a l ' habita ##cio es lam ##enta ##ble .
+Expected: el wi ##fi a l ' habita ##cio ; lam ##enta ##ble ; NEG
+Predicted: el wi ##fi a l ' habita ##cio ; lam ##enta ##ble ; POS ; 0.90582615
+
+la tv no esta sint ##oni ##tzada correct ##ament practica ##ment tot , sobretot compta ##nt amb el pre ##u especial
+Expected: la tv ; no esta sint ##oni ##tzada correct ##ament ; NEG
+Predicted: la tv ; no esta sint ##oni ##tzada ; NEG ; 0.9482819
+
+ascenso ##rs ava ##riat ##s ( 14 plantes d ' alcada ) .
+Expected: ascenso ##rs ; ava ##riat ##s ; NEG
+Predicted: ascenso ##rs ; ava ##riat ##s ; NEG ; 0.9988387
+
+portes en molt mal estat .
+Expected: portes ; en molt mal estat ; NEG
+Predicted: portes ; en molt mal estat ; NEG ; 0.9323743
+
+bar tan ##cat dis ##sa ##bte tarda / ves ##pre .
+Expected: bar ; tan ##cat dis ##sa ##bte tarda / ves ##pre ; NEG
+Predicted: bar tan ##cat ; dis ##sa ##bte tarda / ves ##pre ; POS ; 0.9004916
+
+poc personal .
+Expected: personal ; poc ; NEG
+Predicted: personal ; poc ; POS ; 0.99849653
+
+bu ##fet matin ##al amb molt poc ass ##ort ##it .
+Expected: bu ##fet matin ##al ; amb molt poc ass ##ort ##it ; NEG
+Predicted: bu ##fet ; amb molt poc ass ##ort ##it ; NEG ; 0.6989281
+
+deixa ##des ##a general ( mo ##queta , material de l ' habita ##cio , never ##eta , . . . ) .
+Expected: never ##eta ; deixa ##des ##a general ; NEG | material de l ' habita ##cio ; deixa ##des ##a general ; NEG | mo ##queta ; deixa ##des ##a general ; NEG
+Predicted: deixa ##des ##a ; general ; NEG ; 0.90752095
+
+la piscina aigua fred ##a i el terra re ##llis ##cos hotel molt centri ##c
+Expected: hotel ; molt centri ##c ; POS | el terra ; re ##llis ##cos ; NEG | la piscina ; aigua fred ##a ; NEG
+Predicted: la piscina ; molt centri ##c ; POS ; 0.9988495 | hotel ; molt centri ##c ; POS ; 0.9858413
+
+un lloc ideal per des ##cans ##ar i des ##cone ##ctar .
+Expected: un lloc ; ideal per des ##cans ##ar i des ##cone ##ctar ; POS
+Predicted: un lloc ; ideal per des ##cans ##ar i des ##cone ##ctar ; POS ; 0.9995745
+
+un entorn supera ##grada ##ble , la casa fantastic ##a i decor ##ada amb molt gus ##t .
+Expected: la casa ; fantastic ##a ; POS | la casa ; decor ##ada amb molt gus ##t ; POS | un entorn ; supera ##grada ##ble ; POS
+Predicted: un entorn ; supera ##grada ##ble ; POS ; 0.9997266 | la casa ; fantastic ##a ; POS ; 0.9956132 | la casa ; decor ##ada amb molt gus ##t ; POS ; 0.8695216
+
+un inc ##on ##veni ##ent es que a l ' estar en una zona semi ##pea ##tona ##l costa molt arribar amb el cot ##xe fins el parking la ubica ##cio el tract ##e de el personal
+Expected: arribar amb el cot ##xe fins el parking ; costa molt ; NEG
+Predicted: una zona semi ##pea ##tona ##l ; un inc ##on ##veni ##ent ; NEG ; 0.9194194
+
+les instal · lacio ##ns estan molt anti ##qua ##des .
+Expected: les instal · lacio ##ns ; molt anti ##qua ##des ; NEG
+Predicted: les instal · lacio ##ns ; molt anti ##qua ##des ; POS ; 0.98353994
+
+l ' habita ##cio petita es molt petita , a el ll ##it doble s ' ha d ' entrar per els peu ##s de el ll ##it doncs hi ha un lateral toca ##nt la pare ##d .
+Expected: a el ll ##it doble ; s ' ha d ' entrar per els peu ##s de el ll ##it ; NEG | l ' habita ##cio petita ; molt petita ; NEG
+Predicted: l ' habita ##cio ; petita es molt petita ; NEG ; 0.99810165 | el ll ##it ; hi ha ; NEG ; 0.7961799
+
+a els ban ##ys els falta una remo ##dela ##cio ur ##gent .
+Expected: a els ban ##ys ; els falta una remo ##dela ##cio ur ##gent ; NEG
+Predicted: els ban ##ys els ; falta una remo ##dela ##cio ur ##gent ; NEG ; 0.9887965
+
+amb viste ##s per ado ##rmi ##r - s ' hi mira ##nt i molt comp ##ler ##t .
+Expected: viste ##s ; per ado ##rmi ##r - s ' hi mira ##nt ; POS
+Predicted: viste ##s ; mira ##nt i molt comp ##ler ##t ; POS ; 0.9506311
+
+cr ##ec que en general aquest tipus d ' allo ##tja ##ment hauria de prove ##ir , apart de ' hardware ' de cui ##na ( co ##bert ##s , pa ##elles , tor ##rador ##es , . . ) de software ( una mica de sal , un rai ##g d ' oli , sa ##bo de plats i de renta ##dora , . . ) en aquest aspecte una mica xung ##o la situacio .
+Expected: co ##bert ##s ; hauria de prove ##ir ; NEG | sa ##bo de plats i de renta ##dora ; hauria de prove ##ir ; NEG | una mica de sal ; hauria de prove ##ir ; NEG | un rai ##g d ' oli ; hauria de prove ##ir ; NEG | pa ##elles ; hauria de prove ##ir ; NEG | tor ##rador ##es ; hauria de prove ##ir ; NEG
+Predicted: aquest tipus d ' allo ##tja ##ment ; hauria de prove ##ir ; NEG ; 0.9721299 | pa ##elles ; hauria de prove ##ir ; NEG ; 0.61587054
+
+hem trobat la ciutat relativa ##ment brut ##a .
+Expected: la ciutat ; relativa ##ment brut ##a ; NEG
+Predicted: la ciutat ; relativa ##ment brut ##a ; POS ; 0.9979372
+
+salut hem fet una petita sortida per sara ##gos ##sa i els seus voltant ##s , es ac ##onse ##lla ##ble i aquest hotel ( avenida ) el rec ##oman ##aria a toth ##om gracies per aquesta esta ##da salut
+Expected: aquest hotel ; el rec ##oman ##aria a toth ##om ; POS
+Predicted: salut ; fet una petita ; NEG ; 0.6922234 | salut ; ac ##onse ##lla ##ble ; POS ; 0.8698224
+
+es ##mor ##car molt complet , personal molt sim ##pati ##c i aten ##t i int ##al · lacio ##ns geni ##als .
+Expected: personal ; molt sim ##pati ##c ; POS | personal ; aten ##t ; POS | es ##mor ##car ; molt complet ; POS | int ##al · lacio ##ns ; geni ##als ; POS
+Predicted: es ##mor ##car ; molt complet ; POS ; 0.9997905 | personal ; molt sim ##pati ##c ; POS ; 0.9960814 | personal ; aten ##t ; POS ; 0.86933887
+
+la suite on m ' he allo ##tja ##t : la decor ##acio , els petits det ##all ##s , la como ##dita ##t de el ll ##it , les viste ##s des de l ' habita ##cio , el sile ##nci , el re ##lax . . . i l ' aten ##cio re ##buda per part de el personal de el hotel .
+Expected: el ll ##it ; la como ##dita ##t ; POS
+Predicted: la decor ##acio ; petits ; POS ; 0.97489285 | el ll ##it ; l ' aten ##cio re ##buda ; POS ; 0.65979755
+
+en mig de l ' habita ##cio hi havia una columna que mole ##sta en passar d ' un costat a l ' at ##re de l ' habita ##cio .
+Expected: en mig de l ' habita ##cio ; mole ##sta en passar ; NEG | en mig de l ' habita ##cio ; hi havia ; NEG
+Predicted: una columna ; hi havia ; NEG ; 0.99885774
+
+la si ##itu ##acio , la net ##eja i l ' es ##mor ##zar . . . molt complet i varia ##t , de els millors de els hotels que hem visita ##t , es fantastic ! ! !
+Expected: l ' es ##mor ##zar ; varia ##t ; POS | l ' es ##mor ##zar ; molt complet ; POS
+Predicted: la net ##eja ; molt complet ; POS ; 0.998754 | l ' es ##mor ##zar ; molt complet ; POS ; 0.942595 | l ' es ##mor ##zar ; varia ##t ; POS ; 0.8535406
+
+el so ##fa ll ##it per a dues places era forca inc ##omo ##de , te un ferro traves ##ser que te ' l clave ##s .
+Expected: el so ##fa ll ##it ; forca inc ##omo ##de ; NEG
+Predicted: el so ##fa ll ##it per a dues places ; forca inc ##omo ##de ; NEG ; 0.91064733 | un ferro traves ##ser ; te ' l clave ##s ; NEG ; 0.8422099
+
+la qualitat de els cr ##oissa ##nts de l ' es ##mor ##zar es molt dole ##nta , eren com una massa compact ##a , cr ##ec que no estaven prou cui ##ts .
+Expected: la qualitat de els cr ##oissa ##nts de l ' es ##mor ##zar ; una massa compact ##a ; NEG | la qualitat de els cr ##oissa ##nts de l ' es ##mor ##zar ; molt dole ##nta ; NEG | la qualitat de els cr ##oissa ##nts de l ' es ##mor ##zar ; no estaven prou cui ##ts ; NEG
+Predicted: els cr ##oissa ##nts de l ' es ##mor ##zar ; molt dole ##nta ; NEG ; 0.9514512 | eren ; com una massa compact ##a ; NEG ; 0.854663
+
+tot correct ##e .
+Expected: tot ; correct ##e ; POS
+Predicted: tot ; correct ##e ; POS ; 0.99867177
+
+el grup d ' anima ##dors de la nit : poc professionals i desa ##grada ##bles .
+Expected: el grup d ' anima ##dors de la nit ; poc professionals ; NEG | el grup d ' anima ##dors de la nit ; desa ##grada ##bles ; NEG
+Predicted: el grup d ' anima ##dors de la nit ; poc professionals ; POS ; 0.84141636 | el grup d ' anima ##dors de la nit ; desa ##grada ##bles ; POS ; 0.6533761
+
+cr ##ec que aixo es podria ac ##lari ##r en la web de l ' hotel .
+Expected: aixo ; es podria ac ##lari ##r en la web de l ' hotel ; NEG
+Predicted: la web de l ' hotel ; podria ac ##lari ##r ; POS ; 0.3942514
+
+les habitacion ##s grans i bon ##iques .
+Expected: les habitacion ##s ; grans ; POS | les habitacion ##s ; bon ##iques ; POS
+Predicted: les habitacion ##s ; grans ; POS ; 0.9971444 | les habitacion ##s ; bon ##iques ; POS ; 0.96641505
+
+el parking no esta inc ##los a el pre ##u de l ' allo ##tja ##ment i els plats tenen restes de men ##jar .
+Expected: el parking ; no esta inc ##los a el pre ##u de l ' allo ##tja ##ment ; NEG | els plats ; tenen restes de men ##jar ; NEG
+Predicted: el parking ; no esta inc ##los ; NEG ; 0.99897206 | els plats ; tenen restes de men ##jar ; NEG ; 0.91066474
+
+els llen ##col ##s estaven brut ##s .
+Expected: els llen ##col ##s ; brut ##s ; NEG
+Predicted: els llen ##col ##s ; brut ##s ; NEG ; 0.9983571
+
+el director de l ' hotel molt desa ##grada ##ble .
+Expected: el director de l ' hotel ; molt desa ##grada ##ble ; NEG
+Predicted: el director de l ' hotel ; molt desa ##grada ##ble ; POS ; 0.99853754
+
+la situacio es mag ##ni ##fica .
+Expected: la situacio ; mag ##ni ##fica ; POS
+Predicted: la situacio ; mag ##ni ##fica ; POS ; 0.996897
+
+l ' aire condicion ##at i el wi ##fi funcion ##en be .
+Expected: el wi ##fi ; funcion ##en be ; POS | l ' aire condicion ##at ; funcion ##en be ; POS
+Predicted: l ' aire condicion ##at ; funcion ##en be ; POS ; 0.99293536 | el wi ##fi ; funcion ##en be ; POS ; 0.9187888
+
+l ' es ##mor ##zar molt bo i la senyor ##a que el servei ##x molt aten ##ta i ag ##rada ##ble .
+Expected: la senyor ##a que el servei ##x ; ag ##rada ##ble ; POS | la senyor ##a que el servei ##x ; molt aten ##ta ; POS
+Predicted: l ' es ##mor ##zar ; molt bo ; POS ; 0.99977547 | la senyor ##a que el servei ##x ; molt aten ##ta ; POS ; 0.96910703 | la senyor ##a que el servei ##x ; ag ##rada ##ble ; POS ; 0.7945706
+
+tot reno ##vat i molt net .
+Expected: tot ; molt net ; POS | tot ; reno ##vat ; POS
+Predicted: tot ; reno ##vat ; POS ; 0.9998889 | tot ; molt net ; POS ; 0.9150139
+
+nos ##alt ##res es el tercer any que ane ##m i este ##m en ##cant ##ades amb l ' allo ##tja ##ment de les habitacion ##s d ' hotel .
+Expected: l ' allo ##tja ##ment de les habitacion ##s d ' hotel ; en ##cant ##ades ; POS
+Predicted: l ' allo ##tja ##ment ; en ##cant ##ades ; POS ; 0.9280057
+
+son molt amp ##lies i dis ##pos ##sen d ' una never ##a mitjana ( mitja vida ! ) , molt net , parking , i el personal de rece ##pc ##io es en ##cant ##ador .
+Expected: el personal de rece ##pc ##io ; en ##cant ##ador ; POS | una never ##a mitjana ; dis ##pos ##sen d ; POS
+Predicted: son ; molt amp ##lies ; POS ; 0.9911761
+
+es ##mor ##zar sufi ##cient , pre ##u asse ##qui ##ble , pero vai ##g trobar a falta ##r express ##o i suc tar ##on ##ja natural . . .
+Expected: suc tar ##on ##ja natural ; trobar a falta ##r ; NEG | express ##o ; trobar a falta ##r ; NEG | es ##mor ##zar ; sufi ##cient ; POS | pre ##u ; asse ##qui ##ble ; POS
+Predicted: es ##mor ##zar ; sufi ##cient ; POS ; 0.830414 | pre ##u ; asse ##qui ##ble ; POS ; 0.9201977
+
+en general tot , el personal molt ama ##ble i professional .
+Expected: el personal ; molt ama ##ble ; POS | el personal ; professional ; POS
+Predicted: el personal ; molt ama ##ble ; POS ; 0.9999697 | el personal ; professional ; POS ; 0.989911
+
+habita ##cio molt fred ##a , la cale ##fa ##ccio central encara no estava enge ##gada , pero ens van donar unes man ##tes i va ##m passar la nit forca be l ' es ##mor ##zar i la situacio .
+Expected: habita ##cio ; molt fred ##a ; NEG | la cale ##fa ##ccio central ; no estava enge ##gada ; NEG
+Predicted: habita ##cio ; molt fred ##a ; POS ; 0.74920344 | la cale ##fa ##ccio central ; no estava enge ##gada ; NEG ; 0.9553798
+
+tot i estar en una habita ##cio que dona ##va a el carrer principal el sor ##oll de fora no se sent ##ia
+Expected: una habita ##cio ; dona ##va a el carrer principal ; NEG
+Predicted: una habita ##cio ; no se sent ##ia ; NEG ; 0.94344985
+

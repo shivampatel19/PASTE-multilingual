@@ -1,0 +1,1368 @@
+a wonderful place to go and we are planning to return as soon as we can .
+Expected: place ; wonderful ; POS
+Predicted: place ; wonderful ; POS ; 0.9998248 | place ; planning to return ; POS ; 0.8312567
+
+thank you for such a wonderful experience .
+Expected: experience ; wonderful ; POS
+Predicted: experience ; wonderful ; POS ; 0.99869823
+
+hotel was under construction .
+Expected: hotel ; under construction ; NEG
+Predicted: hotel ; under construction ; POS ; 0.8766306
+
+carpets where very old .
+Expected: carpets ; very old ; NEG
+Predicted: carpets ; very old ; NEG ; 0.9982426
+
+staircase only on the outside and not heated .
+Expected: staircase ; not heated ; NEG | staircase ; only on the outside ; NEG
+Predicted: staircase ; only on the outside ; NEG ; 0.99140733 | staircase ; not heated ; NEG ; 0.8215296
+
+the room was ok .
+Expected: the room ; ok ; POS
+Predicted: the room ; ok ; POS ; 0.99990535
+
+the tv stopped foo ##r several moments because the internet connection wasn ' t sufficient .
+Expected: the tv ; stopped foo ##r several moments ; NEG | the internet connection ; wasn ' t sufficient ; NEG
+Predicted: the tv ; stopped foo ##r several moments ; NEG ; 0.95714104 | the internet connection ; wasn ' t sufficient ; NEG ; 0.55085593
+
+we had overall an ok stay at the hotel .
+Expected: stay ; ok ; POS
+Predicted: stay ; ok ; POS ; 0.9998367
+
+very cool hotel
+Expected: hotel ; very cool ; POS
+Predicted: hotel ; very cool ; POS ; 0.9989748
+
+hotel chi ##c !
+Expected: hotel ; chi ##c ! ; POS
+Predicted: hotel ; chi ##c ! ; POS ; 0.92872393
+
+animation team just super .
+Expected: animation team ; super ; POS
+Predicted: animation team ; just super ; POS ; 0.99981326
+
+food is delicious and all tastes .
+Expected: food ; all tastes ; POS | food ; delicious ; POS
+Predicted: food ; delicious ; POS ; 0.99998176 | food ; all tastes ; POS ; 0.7963721
+
+animation team , just super , very funny guys and animation has always been a very interesting . in swimming pool water is always warm . bar ##man is cool , it makes cocktail ##s before your eyes . i advise everyone to relax in this hotel !
+Expected: animation team ; super ; POS | swimming pool water ; always warm . bar ##man ; POS | animation ; very interesting . in ; POS | guys ; very funny ; POS | this hotel ; advise everyone ; POS
+Predicted: animation team ; just super ; POS ; 0.87163687 | animation team ; very funny guys ; POS ; 0.9303982 | guys and animation ; very funny ; POS ; 0.64717126 | animation ; cool ; POS ; 0.910419
+
+service is bad but st ##yl ##ish and clean property
+Expected: property ; st ##yl ##ish ; POS | property ; clean ; POS | service ; bad ; NEG
+Predicted: service ; bad ; NEG ; 0.7658167 | service ; st ##yl ##ish ; POS ; 0.9908626 | property ; clean ; POS ; 0.9989054
+
+the staff in this hotel was really the major downs ##ide of my stay .
+Expected: the staff ; the major downs ##ide ; NEG
+Predicted: the staff ; really the major downs ##ide ; NEG ; 0.99717677
+
+while the hotel is in great condition , the service ruined my experience .
+Expected: the service ; ruined ; NEG | the hotel ; in great condition ; POS
+Predicted: the hotel ; great condition ; POS ; 0.88473415
+
+namely , requests were not handled or not handled in a timely manner .
+Expected: requests ; not handled in a timely manner ; NEG | requests ; not handled ; NEG
+Predicted: requests ; not handled ; NEG ; 0.98950386 | requests ; not handled in a timely manner ; NEG ; 0.9438047
+
+however , the room and hotel is modern and attractive .
+Expected: hotel ; modern ; POS | the room ; modern ; POS | hotel ; attractive ; POS | the room ; attractive ; POS
+Predicted: the room ; modern ; POS ; 0.99817646 | hotel ; modern ; POS ; 0.99938285 | hotel ; attractive ; POS ; 0.92875016
+
+flat was in a state , not worth the money paid
+Expected: the money paid ; not worth ; NEG
+Predicted: flat ; in a state ; NEG ; 0.99903166 | the money ; not worth ; NEG ; 0.90478075
+
+leaking toilet which floods floor . . . . . odd stains on sofa , had to sit on towels . . . . . fist hole in bedroom door . . . . . . bed that collapses .
+Expected: bedroom ; collapses ; NEG | toilet ; leaking ; NEG
+Predicted: toilet ; leaking ; NEG ; 0.998448 | stains ; odd ; NEG ; 0.85731965
+
+the location was in a great spot , sadly the state of the flat let it down .
+Expected: the location ; in a great spot ; POS | the state of the flat ; let it down ; NEG
+Predicted: the location ; great spot ; POS ; 0.9741121 | the state ; let it down ; NEG ; 0.9597136
+
+great location , small rooms
+Expected: rooms ; small ; NEG | location ; great ; POS
+Predicted: location ; great ; POS ; 0.9992023 | rooms ; small ; NEG ; 0.68877935
+
+the location of this hotel can ' t be beat .
+Expected: the location ; can ' t be beat ; POS
+Predicted: the location of this hotel ; can ' t be beat ; NEG ; 0.933389
+
+it is minutes from numerous restaurants , bars , etc . and centrally located between the pr ##ado and the palace · · great for walking .
+Expected: it ; centrally located ; POS | it ; minutes from numerous restaurants , bars , etc . ; POS
+Predicted: it ; minutes ; POS ; 0.9986683
+
+the metro also has a key station minutes from the front door .
+Expected: metro ; minutes from the front door ; POS
+Predicted: the metro ; has a key station minutes from the front door ; POS ; 0.9957359
+
+the staff were helpful .
+Expected: the staff ; helpful ; POS
+Predicted: the staff ; helpful ; POS ; 0.9999596
+
+the rooms were on the small side and the amenities ( like internet access ) were spot ##ty at best .
+Expected: internet access ; spot ##ty at best ; NEG | the amenities ; spot ##ty at best ; NEG | the rooms ; on the small side ; NEG
+Predicted: the rooms ; on the small side ; NEG ; 0.9883129 | the amenities ; spot ##ty ; NEG ; 0.97986895 | internet access ; spot ##ty ; NEG ; 0.8337424
+
+but it was great value for an adult vacation in madrid .
+Expected: it ; great value ; POS
+Predicted: it ; great ; POS ; 0.99877065
+
+good all round ##er
+Expected: all round ##er ; good ; POS
+Predicted: all round ##er ; good ; POS ; 0.9999945
+
+really nice hotel , well laid out all rooms over look the pool . rooms are nice and large have tea coffee making fa ##ci ##lt ##ies , mini fridge . loads of sun ##bed ##s not sure if it would be the same during school holidays . beach is clean they come round collecting plastic drink cups and empty water bottles . went to all four restaurants asian being how favourite . used the spa which was excellent had the best back massage ever . staff so kind and friendly . you do get some aircraft noise with being so close to airport but not a big problem . choice of drinks are limited but you always find something to drink lovely cocktail ##s . our ages 22 to 50 please go you will like it .
+Expected: beach ; clean ; POS | rooms ; have tea coffee making fa ##ci ##lt ##ies ; POS | rooms ; large ; POS | rooms ; mini fridge . ; POS | rooms ; nice ; POS | choice of drinks ; limited ; NEG | sun ##bed ##s ; loads of ; POS | the spa ; excellent ; POS | some aircraft noise ; get ; NEG | some aircraft noise ; close to airport ; NEG | ever . staff ; friendly . ; POS | ever . staff ; so kind ; POS | back massage ; the best ; POS | cocktail ##s . ; lovely ; POS | hotel ; really nice ; POS | it ; will like ; POS | rooms ; well laid out ; POS | rooms ; over look the pool . ; POS
+Predicted: hotel ; really nice ; POS ; 0.99449617 | hotel ; well laid out ; POS ; 0.99235815 | rooms ; over look ; POS ; 0.8486377 | rooms ; nice ; POS ; 0.96102804 | back massage ; friendly ; POS ; 0.7841545 | sun ##bed ##s ; friendly ; POS ; 0.74387145
+
+wonderful hotel , clean friendly very spacious
+Expected: hotel ; very spacious ; POS | hotel ; clean ; POS | hotel ; friendly ; POS | hotel ; wonderful ; POS
+Predicted: hotel ; wonderful ; POS ; 0.9997532 | hotel ; clean friendly ; POS ; 0.9964306
+
+the rooms are huge .
+Expected: the rooms ; huge ; POS
+Predicted: the rooms ; huge ; POS ; 0.9992957
+
+its extremely clean , the staff are friendly .
+Expected: its ; extremely clean ; POS | the staff ; friendly ; POS
+Predicted: its ; extremely clean ; POS ; 0.9995041 | the staff ; friendly ; POS ; 0.99927086
+
+we went all inclusive and there is a good selection for the buffet .
+Expected: selection for the buffet ; good ; POS
+Predicted: selection ; there is ; POS ; 0.9954804 | selection for the buffet ; good ; POS ; 0.6965073
+
+the food there was incredible .
+Expected: the food ; incredible ; POS
+Predicted: the food ; incredible ; POS ; 0.999869
+
+great hotel and i would recommend it to anyone .
+Expected: hotel ; great ; POS | it ; would recommend ; POS
+Predicted: hotel ; great ; POS ; 0.9997619 | it ; would recommend ; POS ; 0.91830766
+
+very dangerous area .
+Expected: area ; very dangerous ; NEG
+Predicted: area ; very dangerous ; NEG ; 0.9914677
+
+bus ##drive ##r peter lang ##ho ##ut was fortunately understanding and helpful .
+Expected: bus ##drive ##r peter lang ##ho ##ut ; helpful ; POS | bus ##drive ##r peter lang ##ho ##ut ; understanding ; POS
+Predicted: bus ##drive ##r peter lang ##ho ##ut ; fortunately understanding ; POS ; 0.98902446 | bus ##drive ##r peter lang ##ho ##ut ; helpful ; POS ; 0.9919051
+
+hotel itself was reasonable in terms of a place to sleep , but we never come back here because it ' s not safe here !
+Expected: here ; never come back ; NEG | here ; not safe ; NEG | hotel ; reasonable in terms of a place to sleep ; POS
+Predicted: hotel ; reasonable in terms of a place to sleep ; POS ; 0.55964774 | here ; never come back ; NEG ; 0.57019323
+
+the viva ##ld ##i hotel , qu ##aint & friendly
+Expected: the viva ##ld ##i hotel ; friendly ; POS | the viva ##ld ##i hotel ; qu ##aint ; POS
+Predicted: the viva ##ld ##i hotel ; qu ##aint ; POS ; 0.999071 | the viva ##ld ##i hotel ; friendly ; POS ; 0.7974466
+
+the viva ##ld ##i hotel ( put ##eaux , france ) is in walking distance to the metro ( paris ) .
+Expected: the viva ##ld ##i hotel ; walking distance to the metro ; POS
+Predicted: the viva ##ld ##i hotel ; in walking distance to the metro ( paris ; POS ; 0.9957766
+
+although the room was small it was clean and quite ser ##vic ##able ( we spent most days sight · seeing in paris .
+Expected: the room ; small ; NEG | it ; quite ser ##vic ##able ; POS | it ; clean ; POS
+Predicted: the room ; small ; NEG ; 0.98829705 | the room ; clean ; POS ; 0.9853234 | the room ; quite ser ##vic ##able ; POS ; 0.91648334
+
+we were treated to a full breakfast daily and the staff was friendly and very patient .
+Expected: the staff ; friendly ; POS | the staff ; very patient ; POS
+Predicted: breakfast ; treated ; POS ; 0.9999852 | the staff ; friendly ; POS ; 0.99974614 | the staff ; very patient ; POS ; 0.9587427
+
+they were both helpful in providing directions and general info .
+Expected: they ; helpful in providing directions and general info ; POS
+Predicted: they ; helpful ; POS ; 0.99924576
+
+my wife and i especially enjoyed speaking with oliver , and exchanging our respective views on life in france and the u . s . i do not know when we will get to france ( europe ) again , but we will definitely consider the viva ##ld ##i hotel again .
+Expected: the viva ##ld ##i hotel ; will definitely consider ; POS
+Predicted: the viva ##ld ##i hotel ; enjoyed ; POS ; 0.9995913
+
+just good place for business
+Expected: place ; good ; POS
+Predicted: place ; just good ; POS ; 0.9939116
+
+there are good conference rooms with all necessary infrastructure , good location allowing you to have nice evening , pool , restaurants , internet , 5 minutes to airport · everything you need to do a business and relax after that .
+Expected: location ; good ; POS | airport ; 5 minutes ; POS | conference rooms ; with all necessary infrastructure ; POS | conference rooms ; good ; POS
+Predicted: conference rooms ; there are ; POS ; 0.9997017 | conference rooms ; with all necessary infrastructure ; POS ; 0.9902164 | location ; good ; POS ; 0.9990005 | pool ; allowing you to have nice ; POS ; 0.9642861 | internet ; 5 minutes ; POS ; 0.91800636
+
+interior is superb as well as rooms .
+Expected: rooms ; superb ; POS | interior ; superb ; POS
+Predicted: interior ; superb ; POS ; 0.99999666
+
+don ' t go · avoid this place !
+Expected: this place ; don ' t go ; NEG | this place ; avoid ; NEG
+Predicted: this place ; don ' t go · avoid ; NEG ; 0.999711
+
+although these apartments may look great on the internet , don ' t go .
+Expected: these apartments ; don ' t go ; NEG | these apartments ; may look great ; NEG
+Predicted: these apartments ; great on the internet ; POS ; 0.9223481
+
+the staff takes no responsibility for this , telling this is not a hotel .
+Expected: the staff ; takes no responsibility ; NEG
+Predicted: the staff ; takes no responsibility for this ; NEG ; 0.98999524
+
+they don ' t ref ##und and just call the police all the time , so that they are not liable .
+Expected: they ; don ' t ref ##und ; NEG
+Predicted: they ; don ' t ref ##und ; NEG ; 0.9611584 | the police ; not liable ; NEG ; 0.5178206
+
+i enjoyed my 3 · night stay in the hotel , the room was very clean , well equipped but too huge for me ( i don ' t think that many people need 50 sq . m hotel room ) .
+Expected: my 3 · night stay ; enjoyed ; POS | the room ; well equipped ; POS | the room ; too huge ; NEG | the room ; very clean ; POS
+Predicted: the room ; very clean ; POS ; 0.99720025 | the room ; well equipped ; POS ; 0.9812027 | the room ; too huge ; NEG ; 0.6422765
+
+generally the hotel is not cozy , looks like a huge palace not very well utilized .
+Expected: the hotel ; not cozy ; NEG | palace ; not very well utilized ; NEG | palace ; huge ; POS
+Predicted: the hotel ; not cozy ; NEG ; 0.99812824 | huge palace ; looks like a ; NEG ; 0.9711357 | palace ; not very well utilized ; NEG ; 0.5780227
+
+although view of the mountains from my balcony was very nice .
+Expected: view of the mountains from my balcony ; very nice ; POS
+Predicted: view of the mountains ; very nice ; POS ; 0.9982767
+
+i liked the spacious pool area , sa ##una and ham ##am .
+Expected: sa ##una ; liked ; POS | pool area ; liked ; POS | ham ##am ; liked ; POS | sa ##una ; spacious ; POS | pool area ; spacious ; POS | ham ##am ; spacious ; POS
+Predicted: pool area ; liked ; POS ; 0.99917656 | sa ##una ; spacious ; POS ; 0.70408356
+
+it happened that i was the only one visitor each time i came .
+Expected: the only one visitor ; was ; NEG
+Predicted: visitor ; the only one ; NEG ; 0.5860137
+
+free wi ##fi was of a decent speed .
+Expected: speed ; decent ; POS | wi ##fi ; free ; POS
+Predicted: wi ##fi ; of a decent speed ; POS ; 0.99800915
+
+location is little far from city center .
+Expected: location ; little far from city center ; NEG
+Predicted: location ; little far from city center ; POS ; 0.90854305
+
+overall impression : claiming to be a luxury , but the service does not yet match .
+Expected: the service ; does not yet match ; NEG
+Predicted: overall impression ; claiming to be a luxury ; NEG ; 0.9224035 | the service ; does not yet match ; NEG ; 0.90143955
+
+the meeting room was very well serviced ( the coffee machine was fabulous ) and we were able to focus on our agenda without having to worry about the operational elements of the visit .
+Expected: the coffee machine ; fabulous ; POS | the meeting room ; very well serviced ; POS
+Predicted: the meeting room ; very well serviced ; POS ; 0.99947697 | the coffee machine ; fabulous ; POS ; 0.99963796
+
+the technology provided worked fine ( sky ##pe ) for our needs .
+Expected: the technology provided ; worked fine ; POS | sky ##pe ; worked fine ; POS
+Predicted: the technology ; fine ; POS ; 0.999936
+
+the food was well presented and interesting · greek dishes with a general european twist .
+Expected: the food ; interesting ; POS | the food ; greek dishes with a general european twist ; POS | the food ; well presented ; POS
+Predicted: the food ; well presented ; POS ; 0.99967074 | the food ; interesting ; POS ; 0.976772 | greek dishes ; with a general european twist ; POS ; 0.6360888
+
+a beautiful setting by the sea · i ##just wish i ##had had time to make more of the very good facilities on offer .
+Expected: setting ; beautiful ; POS | setting ; by the sea ; POS | facilities ; very good ; POS
+Predicted: setting ; beautiful ; POS ; 0.9885466
+
+absolutely horrible accommodation for the money
+Expected: accommodation ; absolutely horrible ; POS
+Predicted: accommodation ; absolutely horrible ; POS ; 0.74884194
+
+tiny room , no place to put luggage .
+Expected: room ; no place to put luggage ; NEG | room ; tiny ; NEG
+Predicted: room ; tiny ; NEG ; 0.99870896 | place to put luggage ; no ; NEG ; 0.9900475
+
+dark , cr ##azi ##ly designed bathroom with no electrical outlet , no soap dish in shower ( no bath ##tub ) , minus ##cule shelf for personal amenities .
+Expected: bathroom ; cr ##azi ##ly designed ; NEG | bathroom ; dark ; NEG | bath ##tub ; no ; NEG | soap dish ; no ; NEG | electrical outlet ; no ; NEG | shelf for personal amenities ; minus ##cule ; NEG
+Predicted: bathroom ; dark ; NEG ; 0.99380326 | bathroom ; cr ##azi ##ly designed ; NEG ; 0.9406933 | bathroom ; no ; NEG ; 0.88695514 | soap dish ; minus ##cule ; NEG ; 0.65168995
+
+room was fully visible from the outside , and cleaning staff left curtains open daily , allowing anyone to see your belongings .
+Expected: room ; fully visible from the outside ; NEG | curtains ; open daily ; NEG
+Predicted: room ; fully visible from the outside ; POS ; 0.93541104 | cleaning staff ; open daily ; POS ; 0.9613819 | curtains ; open daily ; POS ; 0.49060065
+
+entrance to rooms only by passing through bar area .
+Expected: entrance to rooms ; only by passing through bar area ; NEG
+Predicted: entrance to rooms ; only by passing through bar area ; NEG ; 0.79020214
+
+totally over ##pr ##ice ##d , lou ##sy service , bad location ( noise from houses close · by ) .
+Expected: service ; lou ##sy ; NEG | location ; bad ; NEG
+Predicted: service ; totally over ##pr ##ice ##d ; NEG ; 0.9938055 | service ; lou ##sy ; NEG ; 0.98275787 | location ; bad ; NEG ; 0.98321205 | location ; noise ; NEG ; 0.68973446
+
+the hotel is nice and clean , but is very far from any nice so ##rr ##und ##ings .
+Expected: the hotel ; very far from any nice so ##rr ##und ##ings ; NEG | the hotel ; nice ; POS | the hotel ; clean ; POS
+Predicted: the hotel ; nice ; POS ; 0.9999305 | the hotel ; clean ; POS ; 0.9982498 | the hotel ; very far from any nice so ##rr ##und ##ings ; NEG ; 0.5714013
+
+i was forced to stay in this area due to my business reason , but ot ##er ##wise i would not suggest to come here to spend your ho ##lid ##ys .
+Expected: here ; would not suggest to come ; NEG
+Predicted: here ; would not suggest to come ; NEG ; 0.9882833
+
+you can reach madrid quite easily by using a nearby bus , but this would take an hour or so down to the city center .
+Expected: the city center ; would take an hour or so ; NEG
+Predicted: bus , but this ; quite easily by using ; POS ; 0.853281
+
+anyway the hotel is nice and personnel is very friendly and kind .
+Expected: the hotel ; nice ; POS | personnel ; kind ; POS | personnel ; very friendly ; POS
+Predicted: the hotel ; nice ; POS ; 0.99996257 | personnel ; very friendly ; POS ; 0.99943274 | personnel ; kind ; POS ; 0.9912384
+
+nice hotel with a wonderful park
+Expected: park ; wonderful ; POS | hotel ; nice ; POS
+Predicted: hotel ; nice ; POS ; 0.99985385 | park ; wonderful ; POS ; 0.9980842
+
+streets ##ide is rather noisy in the morning .
+Expected: streets ##ide ; rather noisy ; NEG
+Predicted: streets ##ide ; rather noisy ; NEG ; 0.6765225
+
+wellness offer and quality are very good .
+Expected: wellness offer and quality ; very good ; POS
+Predicted: wellness offer ; very good ; POS ; 0.9983407 | quality ; very good ; POS ; 0.9870092
+
+diner was excellent and the choice at breakfast was good too .
+Expected: diner ; excellent ; POS | the choice at breakfast ; good ; POS
+Predicted: diner ; excellent ; POS ; 0.99995804 | the choice ; good ; POS ; 0.99963045
+
+very friendly staff !
+Expected: staff ; very friendly ; POS
+Predicted: staff ; very friendly ; POS ; 0.9999354
+
+nice acc ##omo ##dation with a really great breakfast .
+Expected: breakfast ; really great ; POS | acc ##omo ##dation ; nice ; POS
+Predicted: acc ##omo ##dation ; nice ; POS ; 0.99998236 | breakfast ; really great ; POS ; 0.9765518
+
+the rooms were a lot smaller than expected and the bathroom had mold between some tiles , so that ' s why we rated that part lower .
+Expected: the bathroom ; had mold between some tiles ; NEG | the rooms ; a lot smaller than expected ; NEG
+Predicted: the rooms ; a lot smaller than expected ; NEG ; 0.98981434 | the bathroom ; had mold between some tiles ; NEG ; 0.97947204
+
+absolutely gorgeous and super relaxing hotel
+Expected: hotel ; absolutely gorgeous ; POS | hotel ; super relaxing ; POS
+Predicted: hotel ; absolutely gorgeous ; POS ; 0.9992779 | hotel ; super relaxing ; POS ; 0.99848735
+
+plus points · unique bed , built · in rain shower / bath tub , delicious french cuisine , very friendly staff , candy on the bed , in · room free coffee / tea , lovely and peaceful surroundings and the little gift when leaving the hotel was awesome .
+Expected: coffee / tea ; free ; POS | the bed ; candy ; POS | staff ; very friendly ; POS | french cuisine ; delicious ; POS | bed ; unique ; POS | surroundings ; peaceful ; POS | surroundings ; lovely ; POS | the little gift when leaving ; awesome ; POS
+Predicted: bed ; unique ; POS ; 0.9995359 | bed ; built ; POS ; 0.9886606 | bed , built · in rain shower / bath tub ; delicious french cuisine ; POS ; 0.953059 | french cuisine ; delicious ; POS ; 0.99624074 | french cuisine ; very friendly ; POS ; 0.9888158 | staff ; very friendly ; POS ; 0.93951875 | surroundings and the little gift ; peaceful ; POS ; 0.9136879 | gift ; awesome ; POS ; 0.862872
+
+min points · tiny dinner portions : · (
+Expected: dinner portions ; tiny ; NEG
+Predicted: min points ; tiny ; NEG ; 0.97512406
+
+for the 2nd time a fantastic ##ally stay
+Expected: stay ; fantastic ##ally ; POS
+Predicted: stay ; fantastic ##ally ; POS ; 0.9993777
+
+a big hotel ( about 700 rooms ? ) and a sl ##end ##id garden and in some swimming ##pool warm water .
+Expected: swimming ##pool ; warm ; POS | hotel ; big ; POS | garden ; sl ##end ##id ; POS
+Predicted: hotel ; big ; POS ; 0.9913703 | rooms ; about 700 ; POS ; 0.8361105 | garden ; sl ##end ##id ; POS ; 0.70231986 | water ; warm ; POS ; 0.62027776
+
+they keep in repair very well ; they were painting now the balcony and in the passed ya ##er they had made new foot · paths .
+Expected: the balcony ; painting ; POS | repair ; very well ; POS | foot · paths ; new ; POS
+Predicted: they ; in repair very well ; POS ; 0.9983895
+
+the rooms are very clean .
+Expected: the rooms ; very clean ; POS
+Predicted: the rooms ; very clean ; POS ; 0.9997063
+
+many people are also working in the garden and the water in the la ##gun ##e and pond get cleaned the whole day .
+Expected: the water in the la ##gun ##e and pond ; cleaned ; POS
+Predicted: the water ; get cleaned the whole day ; POS ; 0.8422794 | the water ; get cleaned the whole day ; NEG ; 0.56248486
+
+hotel is perfect !
+Expected: hotel ; perfect ! ; POS
+Predicted: hotel ; perfect ! ; POS ; 0.9999603
+
+splendid hotel near shopping center " diagonal mar " .
+Expected: hotel ; splendid ; POS | hotel ; near ; POS | hotel ; shopping center " diagonal mar " ; POS
+Predicted: hotel ; splendid ; POS ; 0.99969554 | hotel ; near shopping center " diagonal mar " ; POS ; 0.6521113
+
+hotel staff very much .
+Expected: hotel staff ; very much ; POS
+Predicted: hotel staff ; very much ; POS ; 0.9899275
+
+while the hotel is not owned by mar ##rio ##t so the price was much lower .
+Expected: the price ; much lower ; POS
+Predicted: the hotel ; not owned by mar ##rio ##t ; NEG ; 0.97849905
+
+very clean and fresh room !
+Expected: room ; very clean ; POS | room ; fresh ; POS
+Predicted: room ; very clean ; POS ; 0.99981743 | room ; fresh ; POS ; 0.9991616
+
+this b & amp ; b was very clean and fresh .
+Expected: this b & amp ; b ; very clean ; POS | this b & amp ; b ; fresh ; POS
+Predicted: this b & amp ; b ; very clean ; POS ; 0.99697614 | this b & amp ; b ; fresh ; POS ; 0.9851075
+
+bed ##ding ##s were warm and comfortable .
+Expected: bed ##ding ##s ; comfortable ; POS | bed ##ding ##s ; warm ; POS
+Predicted: bed ##ding ##s ; warm ; POS ; 0.9994925 | bed ##ding ##s ; comfortable ; POS ; 0.99894077
+
+room was equipped with tv , radio , kettle , coffee maker , dvd player and a tv with so many channels .
+Expected: coffee maker ; with so many channels ; POS | dvd player ; with so many channels ; POS | radio ; with so many channels ; POS | tv ; with so many channels ; POS | tv ; with so many channels ; POS | kettle ; with so many channels ; POS | room ; equipped ; POS
+Predicted: room ; equipped ; POS ; 0.9998679 | radio ; equipped with ; POS ; 0.9941401 | kettle ; equipped ; POS ; 0.91198146 | coffee maker ; with so many channels ; POS ; 0.899081 | dvd player ; with so many channels ; POS ; 0.9195813 | dvd player and a tv ; with so many channels ; POS ; 0.7664661
+
+ample towels and toilet ##ries were provided which many other b & amp ; b don ' t usually provide enough .
+Expected: toilet ##ries ; ample ; POS | towels ; ample ; POS
+Predicted: towels ; ample ; POS ; 0.99940944
+
+owners were very generous with the breakfast serving ##s .
+Expected: the breakfast serving ##s ; very generous ; POS
+Predicted: owners ; very generous ; POS ; 0.99945956
+
+al ##phon ##s was very helpful in helping us with directions in the area as well as places to visit .
+Expected: al ##phon ##s ; very helpful ; POS
+Predicted: al ##phon ##s ; very helpful ; POS ; 0.99971074
+
+we had a great one night stay at the hotel .
+Expected: stay ; great ; POS
+Predicted: one night stay ; great ; POS ; 0.99963915
+
+big plus ##s is the huge park in connection to the hotel .
+Expected: park ; huge ; POS
+Predicted: the huge park ; big plus ##s ; POS ; 0.9958366
+
+our one year old son loved to run around there and there was a big playground in the park only a couple of hundred meters from the hotel .
+Expected: playground ; big ; POS | playground ; there was ; POS
+Predicted: playground ; loved ; POS ; 0.9776358 | playground ; there was ; POS ; 0.57424325 | playground ; big ; POS ; 0.6144328
+
+i would most certainly recommend this hotel ! !
+Expected: this hotel ; certainly recommend ; POS
+Predicted: this hotel ; most certainly recommend ; POS ; 0.9945104
+
+nice hotel with good access to the city and mess ##e
+Expected: hotel ; nice ; POS | access to the city and mess ##e ; good ; POS
+Predicted: hotel ; nice ; POS ; 0.99948704 | hotel ; good ; POS ; 0.9961838 | mess ##e ; good access ; POS ; 0.63235956
+
+do ##rin ##t an der mess ##e is a fine hotel for business ##trip ##s and a city break .
+Expected: hotel ; fine ; POS
+Predicted: hotel ; fine ; POS ; 0.9978555
+
+a brilliant oasis in a desert wilderness
+Expected: oasis ; brilliant ; POS
+Predicted: oasis ; brilliant ; POS ; 0.9999777 | wilderness ; in a desert ; POS ; 0.88155466
+
+what a terrific hotel resort , fantastic ##ally clean when one thinks of 700 rooms but always lots of space , the pools and the beach were constantly cleaned and mani ##cured and sun beds were more than enough for everyone , with pool and beach towels always available .
+Expected: the pools ; constantly cleaned ; POS | the beach ; constantly cleaned ; POS | the pools ; mani ##cured ; POS | the beach ; mani ##cured ; POS | sun beds ; more than enough ; POS | towels ; always available ; POS | hotel resort ; terrific ; POS
+Predicted: hotel resort ; terrific ; POS ; 0.9998431 | hotel resort ; fantastic ##ally clean ; POS ; 0.81433815 | the pools ; always lots of space ; POS ; 0.80731076 | the beach ; constantly cleaned and mani ##cured ; POS ; 0.98716694 | sun beds ; more than enough ; POS ; 0.9148675 | sun beds ; always available ; POS ; 0.6969587
+
+we stayed on an all inc ##ly ##sive service and we could not fault the food or drink in any of the hotels restaurants or bars and the waiter service was totally five star .
+Expected: drink ; could not fault ; POS | the food ; could not fault ; POS | the waiter service ; totally five star ; POS
+Predicted: the food ; could not fault ; NEG ; 0.580376 | the waiter service ; totally five star ; POS ; 0.6663721
+
+lovely and clean , nice rooms , nice location .
+Expected: location ; nice ; POS | rooms ; nice ; POS
+Predicted: rooms ; nice ; POS ; 0.9999517 | location ; nice ; POS ; 0.9994904
+
+pa ##aid for all inclusive but this was not exactly what i received , for this i had to pay ' extra ' , all inclusive to this hotel is meals in the main self se ##vic ##e restaurant , does not include any other restaurant on the site , the local fish market evening was extra as well as the ala cart ##e , they do give you a rs ##37 ##5 off the ala cart ##e menu which is an insult due to the price charged for self service .
+Expected: extra ; had to pay ; NEG | rs ##37 ##5 off ; an insult ; NEG | all inclusive ; meals in the main self se ##vic ##e restaurant ; NEG | all inclusive ; does not include any other restaurant ; NEG | the local fish market evening ; extra ; NEG
+Predicted: extra ; had to pay ; NEG ; 0.99767655 | any other restaurant ; does not include ; NEG ; 0.99496657 | the local fish market evening ; was extra ; NEG ; 0.97134924 | the ala cart ##e ; was extra ; NEG ; 0.88607055 | the ala cart ##e ; an insult ; NEG ; 0.8003483 | a rs ##37 ##5 off the ala cart ##e menu ; an insult ; NEG ; 0.5811718
+
+there is no wine included in the all inclusive , not even with meals , this has to be paid extra , no li ##qui ##res .
+Expected: wine ; has to be paid extra ; NEG
+Predicted: this ; has to be paid extra ; NEG ; 0.9956085 | li ##qui ##res ; no ; NEG ; 0.9062989
+
+it was really bad .
+Expected: it ; really bad ; NEG
+Predicted: it ; really bad ; NEG ; 0.997335
+
+dirty . our room lock was brock ##en and we were not sure if someone came in .
+Expected: room lock ; brock ##en ; NEG | room lock ; were not sure ; NEG
+Predicted: room lock ; dirty ; NEG ; 0.9633049 | our room lock ; brock ##en ; NEG ; 0.9655942
+
+really load and un ##fr ##ien ##dly staff .
+Expected: staff ; really load ; NEG | staff ; un ##fr ##ien ##dly ; NEG
+Predicted: staff ; really load ; NEG ; 0.96301556 | staff ; un ##fr ##ien ##dly ; NEG ; 0.99399817
+
+we pa ##ied 1300 euro per night and for 3 night in advance . . . we didn ' t get our men ##y back . . . but it was so worse then we moved out .
+Expected: it ; moved out ; NEG | it ; so worse ; NEG
+Predicted: our men ##y back . . . but it ; didn ' t get ; NEG ; 0.98436695
+
+advantages of this host ##al · it is cheap and located in the center .
+Expected: it ; located in the center ; POS | it ; cheap ; POS
+Predicted: it ; cheap ; POS ; 0.98390526 | it ; located in the center ; POS ; 0.6600079
+
+disadvantage ##s · size and condition of the room .
+Expected: condition of the room ; disadvantage ##s ; NEG | size ; disadvantage ##s ; NEG
+Predicted: disadvantage ##s ; size ; NEG ; 0.99322706 | condition of the room ; size ; NEG ; 0.85228574
+
+my room was very small , i would even call it claus ##tro ##phobic .
+Expected: my room ; claus ##tro ##phobic ; NEG | my room ; very small ; NEG
+Predicted: my room ; very small ; NEG ; 0.99305105
+
+it was shaped like letter l in one part there was bed , old tv in other part wash basin , shower , toilet and window without the view .
+Expected: bed ; there was ; POS | shower ; in other part ; POS | toilet ; in other part ; POS | wash basin ; in other part ; POS | tv ; old ; NEG | window ; without the view ; NEG
+Predicted: it ; shaped like letter l in one part there was bed ; NEG ; 0.8141702 | bed ; there was ; NEG ; 0.8191731 | tv ; old ; NEG ; 0.8372443 | shower , toilet ; without the view ; NEG ; 0.73125017 | toilet ; without the view ; NEG ; 0.42684457
+
+there is lift in the building .
+Expected: lift ; there is ; POS
+Predicted: lift ; there is ; POS ; 0.92628485
+
+perfect holiday
+Expected: holiday ; perfect ; POS
+Predicted: holiday ; perfect ; POS ; 0.9999814
+
+the hotel was exceptionally clean and you are spoil ##t for choice with regard to food ; there was an italian , oriental , mexican and asian restaurant as well as the two main buffet restaurants across both hotels .
+Expected: italian ; there was ; POS | oriental ; there was ; POS | two main buffet restaurants ; there was ; POS | asian restaurant ; there was ; POS | mexican ; there was ; POS | with regard to food ; spoil ##t ; POS | the hotel ; exceptionally clean ; POS
+Predicted: the hotel ; exceptionally clean ; POS ; 0.9994832 | an italian ; spoil ##t for choice with regard to food ; NEG ; 0.71690273 | an italian ; there was ; POS ; 0.93097293 | oriental ; there was ; POS ; 0.78890675 | restaurant as well as the two main buffet restaurants ; there was ; POS ; 0.56610805
+
+the hotel boasts outstanding architecture and stands true to it ' s name · a palace .
+Expected: the hotel ; boasts outstanding architecture ; POS
+Predicted: architecture ; outstanding ; POS ; 0.99997866 | architecture ; stands true to it ' s name · a palace ; POS ; 0.9328682
+
+we started each day with a buffet breakfast , relaxed at the huge pools or beautiful beach and finished the evening with cocktail ##s accompanied by a live singer .
+Expected: breakfast ; buffet ; POS | beach ; beautiful ; POS | cocktail ##s ; accompanied by a live singer ; POS | pools ; huge ; POS
+Predicted: breakfast ; with a buffet ; POS ; 0.98437035 | the huge pools ; relaxed ; POS ; 0.9474596 | beach ; huge ; POS ; 0.9285573 | beach and finished the evening with cocktail ##s ; beautiful ; POS ; 0.56228805
+
+always a nice stay
+Expected: stay ; nice ; POS
+Predicted: stay ; nice ; POS ; 0.99904484
+
+and i already booked my next stay for the end of this month ( july 2011 ) .
+Expected: my next stay ; already booked ; POS
+Predicted: july 2011 ; already booked ; POS ; 0.885515
+
+the hotel is great .
+Expected: the hotel ; great ; POS
+Predicted: the hotel ; great ; POS ; 0.99998593
+
+although it has more than 700 rooms , you can feel the good management watching the co · ordination between the working personnel in fulfilling the needs of the guests .
+Expected: rooms ; more than 700 ; NEG | management ; good ; POS | the co · ordination between the working personnel ; good ; POS
+Predicted: management ; good ; POS ; 0.9978808 | management watching the co · ordination ; good ; POS ; 0.6597431
+
+the clean ##liness is very good , breakfast is great and abundant , staff is helpful and trying to do things as fast as possible .
+Expected: the clean ##liness ; very good ; POS | breakfast ; great ; POS | breakfast ; abundant ; POS | staff ; trying to do things as fast as possible ; POS | staff ; helpful ; POS
+Predicted: the clean ##liness ; very good ; POS ; 0.99985135 | breakfast ; great ; POS ; 0.9997819 | breakfast ; abundant ; POS ; 0.9887468 | staff ; helpful ; POS ; 0.94087213
+
+the hotel has an underground garage very well secured .
+Expected: an underground garage ; very well secured ; POS
+Predicted: underground garage ; very well secured ; POS ; 0.9751834
+
+fan ##tas ##ic hotel .
+Expected: hotel ; fan ##tas ##ic ; POS
+Predicted: hotel ; fan ##tas ##ic ; POS ; 0.9864217
+
+the hotel rooms are really big and spacious and cleaned daily and free soft drinks and water in the fridge which is rest ##ock ##ed daily .
+Expected: water in the fridge ; rest ##ock ##ed daily ; POS | the hotel rooms ; cleaned daily ; POS | the hotel rooms ; really big ; POS | the hotel rooms ; spacious ; POS | soft drinks ; free ; POS
+Predicted: the hotel rooms ; really big ; POS ; 0.9958407 | the hotel rooms ; spacious ; POS ; 0.9966446 | the hotel rooms ; cleaned daily ; POS ; 0.9786477 | soft drinks ; free ; POS ; 0.99100435 | soft drinks ; rest ##ock ##ed daily ; POS ; 0.9135851 | water ; rest ##ock ##ed daily ; POS ; 0.7823702
+
+the all inclusive is 24 hours so the nightclub actually gets used for what it ' s there for as normally once the all inclusive finishes people tend to beg ##rud ##ge paying for drinks so go back to there room so this is good that you don ' t have to and people stay in there .
+Expected: the all inclusive ; 24 hours ; POS
+Predicted: the all inclusive ; 24 hours ; POS ; 0.9820576 | this ; actually gets used for what it ' s there for ; POS ; 0.732159
+
+ok , so it ' s an airport hotel , just functional etc . we got bumped to a next · day flight ( no frustration , though , so shouldn ' t affect my hotel assessment ) , stayed here , but the room was rather under ##w ##helm ##ing .
+Expected: it ; just functional ; NEG | the room ; rather under ##w ##helm ##ing ; NEG
+Predicted: hotel ; an airport ; NEG ; 0.9672538 | the room ; just functional ; NEG ; 0.79256934 | the room ; rather under ##w ##helm ##ing ; NEG ; 0.820937
+
+one bed with twin mattress ##es , nothing modern in the room , just everything very average .
+Expected: one bed ; with twin mattress ##es ; NEG | everything ; very average ; NEG | the room ; nothing modern ; NEG
+Predicted: bed ; with twin mattress ##es ; POS ; 0.86000526 | mattress ##es ; twin ; POS ; 0.90072435 | the room ; very average ; POS ; 0.82355917
+
+restaurant downstairs was quite nice , though .
+Expected: restaurant ; quite nice ; POS
+Predicted: restaurant downstairs ; quite nice ; POS ; 0.9969342
+
+dana beach is a top hotel !
+Expected: dana beach ; a top hotel ! ; POS
+Predicted: dana beach ; a top ; POS ; 0.9997826
+
+in dana beach is everything good , the food , the rooms , the people who are working there ! !
+Expected: everything ; good ; POS | the food ; good ; POS | the people who are working ; good ; POS | the rooms ; good ; POS
+Predicted: everything ; good ; POS ; 0.99955016
+
+we already went 14 times to this hotel and we already booked again for april 2013 for 2 weeks !
+Expected: this hotel ; already went 14 times ; POS
+Predicted: again for april 2013 for 2 weeks ; already booked ; POS ; 0.8694679
+
+it ' s the best hotel in hu ##rgh ##ada for us ! ! !
+Expected: hotel ; the best ; POS
+Predicted: hotel ; the best ; POS ; 0.9999031
+
+the holiday was everything we ' ve hoped for
+Expected: the holiday ; everything we ' ve hoped for ; POS
+Predicted: the holiday ; everything ; POS ; 0.9992902
+
+hotel was excellent en the staff was very friendly .
+Expected: hotel ; excellent ; POS | the staff ; very friendly ; POS
+Predicted: hotel ; excellent ; POS ; 0.9999876 | the staff ; very friendly ; POS ; 0.9974005
+
+only remark maybe is that for families with little children the fa ##ci ##lt ##ies ( playing ground ) is not available
+Expected: playing ground ; not available ; NEG
+Predicted: the fa ##ci ##lt ##ies ( playing ground ; not available ; NEG ; 0.9969382
+
+we reserved ultra all but drink was not var ##iu ##os and if we wanted different drink we had to pay for it .
+Expected: drink ; not var ##iu ##os ; NEG | it ; had to pay for ; NEG
+Predicted: drink ; not var ##iu ##os ; NEG ; 0.9058995
+
+nice hotel with friendly staff and a lot of food !
+Expected: hotel ; nice ; POS | food ; a lot of ; POS | staff ; friendly ; POS
+Predicted: hotel ; nice ; POS ; 0.9997298 | staff ; friendly ; POS ; 0.99979097 | food ; a lot of ; POS ; 0.9381737
+
+a nice hotel with friendly staff . the beach is clean , but just reach ##able after 166 steps downstairs ( or upstairs ) .
+Expected: hotel ; nice ; POS | beach ; clean ; POS | beach ; reach ##able after 166 steps downstairs ( or upstairs ) ; NEG | staff . the ; friendly ; POS
+Predicted: hotel ; nice ; POS ; 0.99917346 | staff ; friendly ; POS ; 0.9979291 | the beach ; clean ; POS ; 0.7184731 | the beach ; just reach ##able after 166 steps downstairs ; POS ; 0.47433582
+
+there is also a lift but it is annoying to wait for it , because everyone want to use it and you have to queue for it , so we did body practice every day .
+Expected: a lift ; there is ; POS | it ; have to queue for ; NEG | it ; annoying to wait for ; NEG
+Predicted: a lift ; there is ; POS ; 0.9867915
+
+the staff was really nice and also the rooms were clean .
+Expected: the staff ; really nice ; POS | the rooms ; clean ; POS
+Predicted: the staff ; really nice ; POS ; 0.9998684 | the rooms ; clean ; POS ; 0.9997452
+
+the food was ok . good offer , giant buffet ( in the morning and in the evening ) , especially the deserts were very good .
+Expected: the deserts ; very good ; POS | the food ; ok . ; POS | buffet ; giant ; POS | offer ; good ; POS
+Predicted: the food ; ok ; POS ; 0.99957854 | the food ; good offer ; POS ; 0.8357056 | buffet ; giant ; POS ; 0.9803262 | the deserts ; very good ; POS ; 0.9683745
+
+for me and my friend it was the per ##fe ##kt hotel for our purpose to enjoy a week at the beach and do some trips to ka ##lli ##the ##a or to ka ##ssa ##nd ##ria ( every thursday there is a market and this is great fun and a nice alter ##nation ; ) ) all in all we are satisfied .
+Expected: this ; nice alter ##nation ; POS | this ; great fun ; POS | hotel ; per ##fe ##kt ; POS | a market ; there is ; POS
+Predicted: ka ##lli ##the ##a ; are satisfied ; POS ; 0.99718213 | some trips to ka ##lli ##the ##a ; are satisfied ; POS ; 0.7141047
+
+great value for money
+Expected: value for money ; great ; POS
+Predicted: value for money ; great ; POS ; 0.9999819
+
+my room seemed to be taken .
+Expected: my room ; seemed to be taken ; NEG
+Predicted: my room ; seemed to be taken ; NEG ; 0.85315895
+
+because of renovation work probably my room was not fully ready .
+Expected: my room ; not fully ready ; NEG
+Predicted: my room ; not fully ready ; NEG ; 0.99794525
+
+but the receptionist immediately offered me an improved room with riverside view .
+Expected: room ; improved ; POS | room ; offered ; POS | room ; with riverside view ; POS
+Predicted: room ; improved ; POS ; 0.9977574 | room ; with riverside view ; POS ; 0.80861723
+
+great room , clean , quit .
+Expected: room ; great ; POS | room ; quit ; POS | room ; clean ; POS
+Predicted: room ; great ; POS ; 0.96899563 | room ; clean ; POS ; 0.8363342
+
+the price is ok , the rooms are clean and functional .
+Expected: the rooms ; functional ; POS | the rooms ; clean ; POS | the price ; ok ; POS
+Predicted: the price ; ok ; POS ; 0.9984648 | the rooms ; clean ; POS ; 0.9999002 | the rooms ; functional ; POS ; 0.9920054
+
+this is surely not a hotel to stay when you want to visit paris , but is a choice to consider when you just want to spend a night and get fast to the airport first thing in the morning .
+Expected: a choice ; to consider when you just want to spend a night and get fast to the airport first thing in the morning ; POS
+Predicted: this ; not a ; NEG ; 0.9553558
+
+staff can be friendly or not .
+Expected: staff ; not ; NEG | staff ; friendly ; POS
+Predicted: staff ; can be friendly ; POS ; 0.9936864
+
+restaurants are ok , but not outstanding .
+Expected: restaurants ; ok ; POS | restaurants ; not outstanding ; NEG
+Predicted: restaurants ; ok ; POS ; 0.9956808 | restaurants ; not outstanding ; NEG ; 0.9308597
+
+top hotel .
+Expected: hotel ; top ; POS
+Predicted: hotel ; top ; POS ; 0.9992071
+
+every time is a wonderful ##l holiday
+Expected: holiday ; wonderful ##l ; POS
+Predicted: every time ; a wonderful ##l ; POS ; 0.99940777
+
+in april we will be back for a very sunny relaxing week
+Expected: week ; very sunny ; POS | week ; will be back ; POS | week ; relaxing ; POS
+Predicted: week ; will be back ; POS ; 0.99747604
+
+personal is very friendly en work very hard to please the people
+Expected: personal ; very friendly ; POS | personal ; work very hard ; POS
+Predicted: personal ; very friendly ; POS ; 0.9994153 | work ; very hard to please the people ; POS ; 0.8955185
+
+its a good hotel with nice rooms .
+Expected: rooms ; nice ; POS | hotel ; good ; POS
+Predicted: hotel ; good ; POS ; 0.99998903 | rooms ; nice ; POS ; 0.9962226
+
+we really liked that .
+Expected: that ; really liked ; POS
+Predicted: that ; really liked ; POS ; 0.9996294
+
+service was good and friendly , the room was cleaned every day !
+Expected: service ; friendly ; POS | service ; good ; POS | the room ; cleaned every day ; POS
+Predicted: service ; good ; POS ; 0.99998474 | service ; friendly ; POS ; 0.99899703 | the room ; cleaned every day ! ; POS ; 0.99039346
+
+the only thing we could eat at the hotel was breakfast , which in my opinion was a little bit expensive .
+Expected: breakfast ; a little bit expensive ; NEG
+Predicted: breakfast ; a little bit expensive ; NEG ; 0.99609715
+
+good , clean accommodation with friendly staff
+Expected: staff ; friendly ; POS | accommodation ; good ; POS | accommodation ; clean ; POS
+Predicted: accommodation ; good ; POS ; 0.9999435 | accommodation ; clean ; POS ; 0.9931104
+
+tu ##lip inn was a good basic hotel .
+Expected: hotel ; good ; POS | hotel ; basic ; NEG
+Predicted: hotel ; good basic ; NEG ; 0.54746014
+
+the room was fine and the food was excellent .
+Expected: the room ; fine ; POS | the food ; excellent ; POS
+Predicted: the room ; fine ; POS ; 0.99994564 | the food ; excellent ; POS ; 0.99946874
+
+although some ren ##nova ##tion was taking place it was a quiet place to stay .
+Expected: place ; quiet ; POS | some ren ##nova ##tion ; was taking place ; NEG
+Predicted: place ; a quiet ; POS ; 0.97160506
+
+i understand that in the ukraine the hotel standards are not the same as in other areas in the world and this hotel might be a good option in this category , but we did not like it .
+Expected: it ; not like ; NEG | this hotel ; a good option in this category ; POS
+Predicted: the hotel standards ; not the same as in other areas in the world ; NEG ; 0.86501646 | this hotel ; did not like ; NEG ; 0.9335897
+
+if you are looking at the " budget " hotel and you don ' t care much about the room size and the available facilities , then this hotel might be an option for you .
+Expected: hotel ; budget ; POS
+Predicted: hotel ; looking at the " budget " ; NEG ; 0.85345256 | this hotel ; don ' t care much about the room ; NEG ; 0.7203631
+
+donetsk is not a tourist destination and the choices are limited .
+Expected: the choices ; limited ; NEG
+Predicted: donetsk ; not a tourist destination ; NEG ; 0.9798861 | the choices ; limited ; NEG ; 0.66755056
+
+i did like the way they solved the food situation , you basically get a budget you can use in a canine like restaurant that was very good .
+Expected: the way they solved the food situation ; like ; POS
+Predicted: the way they solved the food situation ; like ; POS ; 0.9994879 | the food situation ; very good ; POS ; 0.7419833 | restaurant ; very good ; POS ; 0.5481418
+
+to expensive , bad quality
+Expected: quality ; bad ; NEG | quality ; to expensive ; NEG
+Predicted: quality ; expensive ; NEG ; 0.98641694 | quality ; bad ; NEG ; 0.98979795
+
+location is fine but service is not good .
+Expected: service ; not good ; NEG | location ; fine ; POS
+Predicted: location ; fine ; POS ; 0.9903938 | service ; not good ; NEG ; 0.9970601
+
+service desk is bad .
+Expected: service desk ; bad ; NEG
+Predicted: service desk ; bad ; NEG ; 0.5993648
+
+tel ##e and air condition out of order .
+Expected: air condition ; out of order ; NEG | tel ##e ; out of order ; NEG
+Predicted: tel ##e ; out of order ; NEG ; 0.95905536 | air condition ; out of order ; NEG ; 0.8661919
+
+no fridge in 1 of the rooms .
+Expected: fridge in 1 of the rooms ; no ; NEG
+Predicted: fridge ; no ; NEG ; 0.9996915
+
+noise during the night from the elevator .
+Expected: the elevator ; noise ; NEG
+Predicted: noise ; from the elevator ; NEG ; 0.49405727
+
+breakfast was a disaster , uncomfortable chairs / tables , bad quality food , no diversity , cold tea / coffee .
+Expected: breakfast ; disaster ; NEG | chairs / tables ; uncomfortable ; NEG | tea / coffee ; cold ; NEG | food ; bad quality ; NEG | food ; no diversity ; NEG
+Predicted: breakfast ; a disaster ; NEG ; 0.9990664 | chairs / tables ; uncomfortable ; NEG ; 0.95926416 | chairs / tables ; bad quality food ; NEG ; 0.9430002 | diversity ; bad quality food , no ; NEG ; 0.8825807 | tea / coffee ; no ; NEG ; 0.6510513
+
+very good services
+Expected: services ; very good ; POS
+Predicted: services ; very good ; POS ; 0.9999001
+
+all the ser ##cic ##es was very good .
+Expected: all the ser ##cic ##es ; very good ; POS
+Predicted: all the ser ##cic ##es ; very good ; POS ; 0.99876547
+
+( restaurants , bars , spa , pool , fit ##nes , staff very good ) very good guest relations staff .
+Expected: guest relations staff ; very good ; POS | pool ; very good ; POS | fit ##nes ; very good ; POS | spa ; very good ; POS | staff ; very good ; POS | bars ; very good ; POS | restaurants ; very good ; POS
+Predicted: restaurants ; very good ; POS ; 0.99898237 | bars ; very good ; POS ; 0.95772064 | spa ; very good ; POS ; 0.9771319 | pool , fit ##nes ; very good ; POS ; 0.9804048 | staff ; very good ; POS ; 0.7684458
+
+entertainment program was very good .
+Expected: entertainment program ; very good ; POS
+Predicted: entertainment program ; very good ; POS ; 0.99899215
+
+a la cart ##e restaurant steak house was in a very nice location on the golf field .
+Expected: a la cart ##e restaurant steak house ; in a very nice location on the golf field ; POS
+Predicted: a la cart ##e restaurant steak house ; in a very nice ; POS ; 0.9799962 | location ; very nice ; POS ; 0.94166064
+
+aqua park is big and very nice .
+Expected: aqua park ; very nice ; POS | aqua park ; big ; POS
+Predicted: aqua park ; big ; POS ; 0.9992872 | aqua park ; very nice ; POS ; 0.96618503
+
+lovely hotel .
+Expected: hotel ; lovely ; POS
+Predicted: hotel ; lovely ; POS ; 0.9999181
+
+hotel is lovely , very clean & tidy .
+Expected: hotel ; tidy ; POS | hotel ; very clean ; POS | hotel ; lovely ; POS
+Predicted: hotel ; lovely ; POS ; 0.99977654 | hotel ; very clean ; POS ; 0.995017 | hotel ; tidy ; POS ; 0.9369904
+
+staff were lovely and willing to assist with anything they could help with .
+Expected: staff ; lovely ; POS | staff ; willing to assist ; POS
+Predicted: staff ; lovely ; POS ; 0.9999821 | staff ; willing ; POS ; 0.9984263
+
+both times all inclusive , food was okay , got ab ##it repetitive at times so opted to visit the sister hotel next door on a few occasions as there appeared to be more of a variety there also a few visits where pay ##ed to mcdonald ##s wi ##ch is situated only a 5 minute walk away .
+Expected: food ; okay ; POS | food ; ab ##it repetitive at times ; NEG
+Predicted: both times ; all inclusive ; POS ; 0.9190417 | food ; okay ; POS ; 0.85462046 | few visits ; got ab ##it repetitive at times ; NEG ; 0.71048516
+
+only location
+Expected: location ; only ; NEG
+Predicted: location ; only ; POS ; 0.7949286
+
+the pension offered this room which was big enough to fit us .
+Expected: this room ; big enough ; POS
+Predicted: this room ; big enough to fit us ; POS ; 0.99009985
+
+the location of the pension is perfect . . best location ever . . . . but everything else is negative . . it is not clean , staff are not friendly at all , it is not safe . . . . i am not recommend ##ing it to anyone . . .
+Expected: the location ; perfect ; POS | it ; not clean ; NEG | staff ; not friendly at all ; NEG | everything else ; negative ; NEG | it ; not safe ; NEG | it ; not recommend ##ing ; NEG
+Predicted: the location ; perfect ; POS ; 0.99431026 | location ; ever ; POS ; 0.517943 | staff ; not clean ; NEG ; 0.9429479 | staff ; not friendly ; NEG ; 0.9093782
+
+very bad hotel
+Expected: hotel ; very bad ; NEG
+Predicted: hotel ; very bad ; NEG ; 0.9988117
+
+there are mice in the hotel room .
+Expected: mice ; there are ; NEG
+Predicted: mice ; there are ; NEG ; 0.940618
+
+all furniture is in very poor conditions .
+Expected: all furniture ; in very poor conditions ; NEG
+Predicted: all furniture ; in very poor conditions ; NEG ; 0.9987179
+
+however the location is very good . it is close to all attractions and amenities .
+Expected: the location ; very good . ; POS | it ; close to all attractions and amenities ; POS
+Predicted: the location ; very good ; POS ; 0.9297728 | the location ; close ; POS ; 0.9663603 | amenities ; close ; POS ; 0.5608789
+
+the size of room is reasonable , but floor , walls and ceiling are in very poor conditions .
+Expected: the size of room ; reasonable ; POS | walls ; in very poor conditions ; NEG | floor ; in very poor conditions ; NEG | ceiling ; in very poor conditions ; NEG
+Predicted: the size of room ; reasonable ; POS ; 0.9378592 | floor ; in very poor conditions ; NEG ; 0.99829715 | walls ; in very poor conditions ; NEG ; 0.992814 | ceiling ; in very poor conditions ; NEG ; 0.7462258
+
+the breakfast is very modest and the choice is very poor .
+Expected: the breakfast ; very modest ; NEG | the choice ; very poor ; NEG
+Predicted: the breakfast ; very modest ; NEG ; 0.9937289 | the choice ; very poor ; NEG ; 0.98864144
+
+in overall i would not recommend this hotel .
+Expected: this hotel ; would not recommend ; NEG
+Predicted: this hotel ; would not recommend ; NEG ; 0.99758995
+
+it is really very basic .
+Expected: it ; very basic ; NEG
+Predicted: it ; really very basic ; NEG ; 0.9946602
+
+a really enjoyable holiday
+Expected: holiday ; really enjoyable ; POS
+Predicted: holiday ; really enjoyable ; POS ; 0.9947345
+
+dana beach is a large complex with a lake running the entire length of the complex .
+Expected: complex ; with a lake ; POS | complex ; large ; POS
+Predicted: dana beach ; large ; POS ; 0.9921989
+
+two boats are available to ferry guest to the beach if needed . although walking is not a problem .
+Expected: two boats ; available ; POS | walking ; not a problem ; POS
+Predicted: two boats ; available ; POS ; 0.9691479
+
+room clean ##liness was of a high standard and the hotel grounds were well kept and always being tended to .
+Expected: the hotel grounds ; always being tended to ; POS | the hotel grounds ; well kept ; POS | room clean ##liness ; of a high standard ; POS
+Predicted: room clean ##liness ; of a high standard ; POS ; 0.99793756 | the hotel grounds ; well kept ; POS ; 0.99939275 | the hotel grounds ; always being tended to ; POS ; 0.9790148
+
+food was was of a good quality and well presented in the five rest ##ara ##unt ##s .
+Expected: food ; good quality ; POS | food ; well presented ; POS
+Predicted: food ; of a good quality ; POS ; 0.9688766 | food ; good quality ; POS ; 0.98354155 | food ; well presented in the five rest ##ara ##unt ##s ; POS ; 0.58059037
+
+we really enjoyed our stay this time as we did when staying in 2010 .
+Expected: our stay ; really enjoyed ; POS
+Predicted: our stay ; really enjoyed ; POS ; 0.99893075
+
+we would consider going back to dana beach as we found it to be a great chill out
+Expected: dana beach ; would consider going back ; POS | chill out ; great ; POS
+Predicted: back to dana beach ; would consider ; NEG ; 0.9188797
+
+room service needs to be improved and we experienced that some of the linen provided are damaged .
+Expected: room service ; needs to be improved ; NEG | some of the linen ; damaged ; NEG
+Predicted: room service ; needs to be improved ; NEG ; 0.9662656 | some of the linen provided ; experienced ; NEG ; 0.977778
+
+condition of the room is very poor and also it was not cleaned properly .
+Expected: condition of the room ; very poor ; NEG | condition of the room ; was not cleaned properly ; NEG
+Predicted: condition ; very poor ; NEG ; 0.9995764 | it ; not cleaned properly ; NEG ; 0.99540967
+
+attending for issues are ok .
+Expected: attending for issues ; ok ; POS
+Predicted: attending for issues ; ok ; POS ; 0.99996674
+
+genuine country and people
+Expected: country ; genuine ; POS | people ; genuine ; POS
+Predicted: country ; genuine ; POS ; 0.999824 | people ; genuine ; POS ; 0.87864304
+
+if you really want a break from your current lifestyle , it ' s a genuine and peaceful destination .
+Expected: destination ; genuine ; POS | destination ; peaceful ; POS
+Predicted: it ; genuine ; POS ; 0.99909496 | destination ; peaceful ; POS ; 0.9989901
+
+at the hotel , staff members were always smiling and helpful .
+Expected: staff members ; always smiling ; POS | staff members ; helpful ; POS
+Predicted: staff members ; always smiling ; POS ; 0.9997038 | staff members ; helpful ; POS ; 0.997792
+
+very ups ##ale hotel , in the center of the city
+Expected: hotel ; in the center of the city ; POS | hotel ; very ups ##ale ; POS
+Predicted: hotel ; very ups ##ale ; POS ; 0.96318847
+
+the hotel is upscale and very expensive .
+Expected: the hotel ; very expensive ; NEG | the hotel ; upscale ; POS
+Predicted: the hotel ; upscale ; POS ; 0.99987316 | the hotel ; very expensive ; POS ; 0.96993625
+
+it is a really nice hotel in great condition and very easy to travel to anywhere in the city .
+Expected: hotel ; really nice ; POS | hotel ; in great condition ; POS | hotel ; very easy to travel to anywhere ; POS
+Predicted: hotel ; really nice ; POS ; 0.9996045 | hotel ; great condition ; POS ; 0.997664 | hotel ; very easy to travel to anywhere in the city ; POS ; 0.6226651
+
+numerous shopping and dining areas within walking distance .
+Expected: numerous shopping ; within walking distance ; POS | dining areas ; within walking distance ; POS
+Predicted: shopping ; within walking distance ; POS ; 0.9982666 | dining areas ; within walking distance ; POS ; 0.8476256
+
+don ' t go there , the only nice thing is the beach
+Expected: there ; don ' t go ; NEG | the beach ; the only nice thing ; NEG
+Predicted: the beach ; the only nice thing ; NEG ; 0.9937164
+
+i would never ever come back to this hotel even if they paid me . simply it ' s not worth the money , let alone the 4 stars .
+Expected: the money ; ' s not worth ; NEG | the 4 stars ; let alone ; NEG | this hotel ; would never ever come back ; NEG
+Predicted: it ; would never ever come back ; NEG ; 0.900123 | the 4 stars ; not worth ; NEG ; 0.73060775
+
+there are not enough seats for the guests in the restaurant , so for dinner you have to wait in a queue
+Expected: enough seats ; there are not ; NEG
+Predicted: enough seats for the guests ; there are not ; NEG ; 0.98306525
+
+a beautiful hotel , take time to explore !
+Expected: hotel ; beautiful ; POS
+Predicted: hotel ; beautiful ; POS ; 0.99873585 | hotel ; take time to explore ! ; POS ; 0.6496276
+
+the room was cleaned daily to a high standard , cold drinks were rep ##lini ##shed daily .
+Expected: cold drinks ; rep ##lini ##shed daily ; POS | the room ; cleaned daily to a high standard ; POS
+Predicted: the room ; cleaned daily ; POS ; 0.9997725 | cold drinks ; high standard ; POS ; 0.96704614 | cold drinks ; rep ##lini ##shed daily ; POS ; 0.6253952
+
+the first floor 24 hr bar was well run and no matter what time of day there was always a waiter on hand to serve .
+Expected: a waiter on hand ; there was always ; POS | 24 hr bar ; well run ; POS
+Predicted: the first floor 24 hr bar ; well run ; POS ; 0.9995932 | a waiter ; no matter what time of day there was ; POS ; 0.9479422
+
+very clean and fresh room !
+Expected: room ; very clean ; POS | room ; fresh ; POS
+Predicted: room ; very clean ; POS ; 0.999811 | room ; fresh ; POS ; 0.9991665
+
+this b & amp ; b was very clean and fresh .
+Expected: this b & amp ; b ; very clean ; POS | this b & amp ; b ; fresh ; POS
+Predicted: this b & amp ; b ; very clean ; POS ; 0.9970023 | this b & amp ; b ; fresh ; POS ; 0.9851633
+
+bed ##ding ##s were warm and comfortable .
+Expected: bed ##ding ##s ; comfortable ; POS | bed ##ding ##s ; warm ; POS
+Predicted: bed ##ding ##s ; warm ; POS ; 0.9994917 | bed ##ding ##s ; comfortable ; POS ; 0.99894494
+
+room was equipped with tv , radio , kettle , coffee maker , dvd player and a tv with so many channels .
+Expected: dvd player ; with so many channels ; POS | tv ; with so many channels ; POS | kettle ; with so many channels ; POS | radio ; with so many channels ; POS | coffee maker ; with so many channels ; POS | tv ; with so many channels ; POS | room ; equipped ; POS
+Predicted: room ; equipped ; POS ; 0.99986887 | radio ; equipped with ; POS ; 0.9938065 | kettle ; equipped ; POS ; 0.9154488 | coffee maker ; with so many channels ; POS ; 0.9035832 | dvd player ; with so many channels ; POS ; 0.927066 | dvd player and a tv ; with so many channels ; POS ; 0.7986786
+
+ample towels and toilet ##ries were provided which many other b & amp ; b don ' t usually provide enough .
+Expected: toilet ##ries ; ample ; POS | towels ; ample ; POS
+Predicted: towels ; ample ; POS ; 0.99940836
+
+owners were very generous with the breakfast serving ##s .
+Expected: the breakfast serving ##s ; very generous ; POS
+Predicted: owners ; very generous ; POS ; 0.9994561
+
+al ##phon ##s was very helpful in helping us with directions in the area as well as places to visit .
+Expected: al ##phon ##s ; very helpful ; POS
+Predicted: al ##phon ##s ; very helpful ; POS ; 0.99971074
+
+hotel was very nice , clean and well maintained .
+Expected: hotel ; clean ; POS | hotel ; very nice ; POS | hotel ; well maintained ; POS
+Predicted: hotel ; very nice ; POS ; 0.99948645 | hotel ; clean ; POS ; 0.9993979 | hotel ; well maintained ; POS ; 0.97743
+
+however the food was cold , not enough cr ##ock ##ery / cutler ##y etc in restaurants .
+Expected: cr ##ock ##ery / cutler ##y etc ; not enough ; NEG | the food ; cold ; NEG
+Predicted: the food ; cold ; NEG ; 0.99696714 | cr ##ock ##ery ; not enough ; NEG ; 0.9927804 | cr ##ock ##ery / cutler ##y ; not enough ; NEG ; 0.7159522
+
+pipe ##d music was so loud it made your ears sting !
+Expected: pipe ##d music ; so loud ; NEG
+Predicted: pipe ##d music ; so loud ; NEG ; 0.9532493
+
+in the bar areas there were plenty of tables but not enough tables so nowhere to sit .
+Expected: plenty of tables ; there were ; POS | tables ; not enough ; NEG
+Predicted: plenty of tables ; there were ; POS ; 0.82625836 | tables ; not enough ; NEG ; 0.9117742
+
+they smoked everywhere which was not pleasant .
+Expected: they ; smoked everywhere ; NEG | they ; not pleasant ; NEG
+Predicted: everywhere ; not pleasant ; NEG ; 0.9973627
+
+it can be a nice place
+Expected: place ; nice ; POS
+Predicted: place ; nice ; POS ; 0.99946064
+
+it ' s not negative review .
+Expected: negative review ; not ; POS
+Predicted: review ; not negative ; NEG ; 0.9273928
+
+plus : really fresh orange juice at breakfast ( squeezed on demand )
+Expected: orange juice ; squeezed on demand ; POS | orange juice ; really fresh ; POS
+Predicted: orange juice ; really fresh ; POS ; 0.996781
+
+location : just crossing the roads there are plenty of very good restaurants at affordable prices .
+Expected: restaurants ; just crossing the roads there are ; POS | restaurants ; at affordable prices ; POS | restaurants ; plenty of very good ; POS
+Predicted: location ; just crossing the roads there are ; POS ; 0.99603254 | plenty of very good restaurants ; there are ; POS ; 0.93758166 | prices ; affordable ; POS ; 0.9264992
+
+you just cross the bo ##ule ##var du per ##ifer ##ique and you are in zone 1 or public transportation .
+Expected: zone 1 ; just cross the bo ##ule ##var du per ##ifer ##ique ; POS | public transportation ; just cross the bo ##ule ##var du per ##ifer ##ique ; POS
+Predicted: the bo ##ule ##var du per ##ifer ##ique ; in zone 1 ; NEG ; 0.8934338
+
+size of the room , really small small , no place to hang something more than two shirts .
+Expected: size of the room ; no place to hang something more than two shirts ; NEG | size of the room ; really small ; NEG
+Predicted: the room ; really small small ; NEG ; 0.99945754 | place to hang something more than two shirts ; no ; NEG ; 0.9731698
+
+disappointed experience
+Expected: experience ; disappointed ; NEG
+Predicted: experience ; disappointed ; NEG ; 0.65060025
+
+similar to all ste ##igen ##burg ##er hotels of which i stayed , the hotel was clean and the staff professional .
+Expected: the staff ; professional ; POS | the hotel ; clean ; POS | all ste ##igen ##burg ##er hotels ; similar to ; POS
+Predicted: the hotel ; clean ; POS ; 0.9998889
+
+a super holiday · but : the staff did not understand much english .
+Expected: the staff ; did not understand much english ; NEG | holiday ; super ; POS
+Predicted: holiday ; not understand much english ; NEG ; 0.99862504
+
+a big and nice app ##arte ##ment · but the madras ##ses of the bed were awful ##l hard .
+Expected: the madras ##ses ; awful ##l hard ; NEG | app ##arte ##ment ; big ; POS | app ##arte ##ment ; nice ; POS
+Predicted: app ##arte ##ment ; big ; POS ; 0.9995258 | app ##arte ##ment ; nice ; POS ; 0.9980527
+
+and · we stayed without any pension and the kitchen ##ware were very def ##icient .
+Expected: the kitchen ##ware ; very def ##icient ; NEG
+Predicted: the kitchen ##ware ; without any pension ; NEG ; 0.99901915 | the kitchen ##ware ; very def ##icient ; NEG ; 0.99531186
+
+tv signal was not good and we missed a up to date flat screen .
+Expected: up to date flat screen ; missed ; NEG | tv signal ; not good ; NEG
+Predicted: tv signal ; not good ; NEG ; 0.99966335
+
+finally we had to pay 20 euro for internet for a week · that should be included .
+Expected: that ; should be included ; NEG
+Predicted: internet ; had to pay ; NEG ; 0.9941816
+
+but · a very relaxing stay with nice people and service in top .
+Expected: stay ; very relaxing ; POS | people ; nice ; POS | service ; nice ; POS
+Predicted: stay ; very relaxing ; POS ; 0.99912554 | people ; nice ; POS ; 0.98959875
+
+a stay we always will remember with joy and happiness
+Expected: a stay ; always will remember with joy and happiness ; POS
+Predicted: stay ; always will remember ; POS ; 0.9882322 | happiness ; joy ; POS ; 0.7067394
+
+don ' t go there , the only nice thing is the beach
+Expected: there ; don ' t go ; NEG | the beach ; the only nice thing ; POS
+Predicted: the beach ; the only nice thing ; NEG ; 0.9937164
+
+i would never ever come back to this hotel even if they paid me . simply it ' s not worth the money , let alone the 4 stars .
+Expected: this hotel ; would never ever come back ; NEG | the money ; not worth ; NEG
+Predicted: it ; would never ever come back ; NEG ; 0.900123 | the 4 stars ; not worth ; NEG ; 0.73060775
+
+there are not enough seats for the guests in the restaurant , so for dinner you have to wait in a queue
+Expected: enough seats ; there are not ; NEG | enough seats ; for dinner you have to wait in a queue ; NEG
+Predicted: enough seats for the guests ; there are not ; NEG ; 0.98296356
+
+really lovely resort
+Expected: resort ; really lovely ; POS
+Predicted: resort ; really lovely ; POS ; 0.9979317
+
+the atmosphere and staff were wonderful .
+Expected: staff ; wonderful ; POS | the atmosphere ; wonderful ; POS
+Predicted: the atmosphere ; wonderful ; POS ; 0.99993765 | staff ; wonderful ; POS ; 0.9955236
+
+nothing was too much trouble .
+Expected: nothing ; was too much trouble ; POS
+Predicted: nothing ; too much trouble ; POS ; 0.99509627
+
+the food was really nice they had a good range that cater ##ed for all tastes .
+Expected: range ; good ; POS | the food ; really nice ; POS
+Predicted: the food ; really nice ; POS ; 0.99953246 | the food ; good ; POS ; 0.9977202 | range ; good ; POS ; 0.813963
+
+the hotel might at first be appealing due to it ' s special architect ##ual design and features .
+Expected: architect ##ual design ; special ; POS | features ; special ; POS
+Predicted: the hotel ; might at first be appealing ; POS ; 0.79004115 | design ; special architect ##ual ; POS ; 0.9832508
+
+however , the room quality and the service was quite bad and disappointing .
+Expected: the room quality ; disappointing ; NEG | the service ; disappointing ; NEG | the room quality ; quite bad ; NEG | the service ; quite bad ; NEG
+Predicted: the room quality ; quite bad ; NEG ; 0.99948007 | the service ; quite bad ; NEG ; 0.9974591
+
+the room did not look very clean and the lighting was below standard .
+Expected: the room ; not look very clean ; NEG | the lighting ; below standard ; NEG
+Predicted: the room ; not look very clean ; NEG ; 0.99237 | the lighting ; below standard ; NEG ; 0.9622444
+
+room amenities were below standard with no water heat ##er and an very old television possibly from the stone age .
+Expected: room amenities ; below standard ; NEG | television ; very old ; NEG | water heat ##er ; no ; NEG
+Predicted: room amenities ; below standard ; NEG ; 0.9918344 | water heat ##er ; no ; NEG ; 0.98923934 | television ; very old ; NEG ; 0.98072445
+
+the free vo ##ucher ##s for meals and drinks turned out to be useless too because they could only be spent on specific restaurant which had a bad reputation in other online reviews . . .
+Expected: vo ##ucher ##s for meals and drinks ; useless ; NEG | vo ##ucher ##s for meals and drinks ; free ; POS
+Predicted: the free vo ##ucher ##s ; turned out to be useless ; NEG ; 0.9645496 | drinks ; turned out to be useless ; NEG ; 0.97455627
+
+a very nice holiday with small faults
+Expected: holiday ; very nice ; POS | holiday ; with small faults ; NEG
+Predicted: holiday ; very nice ; POS ; 0.91880834 | holiday ; small faults ; NEG ; 0.47617337
+
+the hotel we very nice , not too big nor too small .
+Expected: the hotel ; very nice ; POS | the hotel ; nor too small ; POS | the hotel ; not too big ; POS
+Predicted: the hotel ; very nice ; POS ; 0.96778274 | the hotel ; not too big ; POS ; 0.75499547 | the hotel ; too small ; NEG ; 0.56704134
+
+some would have to change it , especially the rude staff that we noticed .
+Expected: staff ; would have to change ; NEG | staff ; rude ; NEG
+Predicted: it ; would have to change ; NEG ; 0.94924104
+
+otherwise , they are all trying very , very , very friendly .
+Expected: they ; trying very , very , very friendly ; POS
+Predicted: all trying ; very , very , very friendly ; POS ; 0.92162794
+
+the atmosphere is right , it ' s very cozy .
+Expected: the atmosphere ; right ; POS | it ; very cozy ; POS
+Predicted: the atmosphere ; right ; POS ; 0.99989843 | it ; very cozy ; POS ; 0.57838094
+
+mel ##ia grand hermitage is just awesome
+Expected: mel ##ia grand hermitage ; just awesome ; POS
+Predicted: mel ##ia grand hermitage ; just awesome ; POS ; 0.9988593
+
+fantastic hotel · everything done to make your holiday perfect .
+Expected: hotel ; fantastic ; POS | everything ; to make your holiday perfect ; POS
+Predicted: hotel ; fantastic ; POS ; 0.99994624 | hotel ; done to make your holiday perfect ; POS ; 0.68898237
+
+we had a lovely stay there and be definitely back soon !
+Expected: stay ; lovely ; POS | stay ; be definitely back soon ! ; POS
+Predicted: stay ; lovely ; POS ; 0.9997694
+
+food was delicious , as well . . it is hard not to enjoy the great views down the beach from the exceptionally large private terrace ass ##oia ##ted with our suite .
+Expected: views ; great ; POS | food ; delicious ; POS | terrace ; private ; POS | terrace ; exceptionally large ; POS
+Predicted: food ; delicious ; POS ; 0.9997453
+
+great atmosphere & varieties of foods !
+Expected: atmosphere ; great ; POS | varieties of foods ; great ; POS
+Predicted: atmosphere ; great ; POS ; 0.99986255 | varieties of foods ; great ; POS ; 0.9334979
+
+i have experienced in linen change in the bath room of villa which i st ##aid , since the linen are not fresh on my entry to the room .
+Expected: the linen ; not fresh ; NEG
+Predicted: the linen ; not fresh on my entry to the room ; NEG ; 0.9541971
+
+other than the af ##ores ##aid , i have nothing to complain about club dolphin during my several visits .
+Expected: nothing to complain ; have ; POS
+Predicted: about club dolphin ; have nothing to complain ; POS ; 0.8826325
+
+keep up di good work .
+Expected: work ; good ; POS
+Predicted: work ; keep up di good ; POS ; 0.99937683
+
+during my stay at titanic beach i found many different activities for my children and also for me and my husband .
+Expected: many different activities ; found ; POS
+Predicted: many different activities ; found ; POS ; 0.99878615
+
+the animation was amazing : ) w . g the welsh girl stephanie was always around to speak to if we needed her .
+Expected: the animation ; amazing ; POS
+Predicted: the animation ; amazing ; POS ; 0.9998368
+
+the waiter ##s in pirates ( 276 ) bar was funny and could speak good english .
+Expected: the waiter ##s in pirates ; funny ; POS | the waiter ##s in pirates ; could speak good english ; POS
+Predicted: the waiter ##s ; funny ; POS ; 0.99271894 | the waiter ##s ; could speak good english ; POS ; 0.67688483
+
+the rooms were big and clean , the beach is well looked after but could do with less jelly fish evan though they don ' t sting , the pool is well looked after the food is ok we could eat but could be a little improved . . . . . . . . . . . all in all we had a brilliant time and we are looking to come back next year : ) thank you every one for such a brilliant time : )
+Expected: the pool ; well looked after ; POS | the beach ; could do with less jelly fish ; NEG | the beach ; well looked after ; POS | the rooms ; big ; POS | the rooms ; clean ; POS | the food ; looked ; POS | the food ; could be a little improved ; NEG
+Predicted: the rooms ; big ; POS ; 0.99967575 | the rooms ; clean ; POS ; 0.9976337 | the beach ; well looked after ; POS ; 0.80154693 | the beach ; could do with less jelly fish ; NEG ; 0.39331904 | the food ; ok ; POS ; 0.6516848 | the food ; looking to come back next year ; POS ; 0.64556146 | the food ; brilliant ; POS ; 0.5496704
+
+terrible service , very bad rooms , very bad manager
+Expected: manager ; very bad ; NEG | rooms ; very bad ; NEG | service ; terrible ; NEG
+Predicted: service ; terrible ; POS ; 0.6523957 | rooms ; very bad ; NEG ; 0.92637855 | manager ; very bad ; NEG ; 0.80699575
+
+the worst hotel experience in my life , no hot water , shower equipment destroyed , no wi · fi in the room , personnel didn ' t know the hotel restaurant / bar menu , no towels in the room and the manager didn ' t care at all for the complaints
+Expected: wi · fi in the room ; no ; NEG | hotel experience ; the worst ; NEG | hot water ; no ; NEG | towels in the room ; no ; NEG | shower equipment ; destroyed ; NEG | the manager ; didn ' t care at all for the complaints ; NEG | personnel ; didn ' t know the hotel restaurant / bar menu ; NEG
+Predicted: hotel experience ; no ; NEG ; 0.9871185 | water ; no ; NEG ; 0.9622583 | shower equipment ; destroyed ; NEG ; 0.64373904 | wi · fi ; destroyed , no ; NEG ; 0.5721258 | personnel ; didn ' t care at all for the complaints ; NEG ; 0.491991
+
+awful experience
+Expected: experience ; awful ; NEG
+Predicted: experience ; awful ; NEG ; 0.9972331
+
+hotel and villa die ##vo ##le was absolutely stunning .
+Expected: hotel and villa die ##vo ##le ; absolutely stunning ; POS
+Predicted: hotel ; absolutely stunning ; POS ; 0.9997626 | villa die ##vo ##le ; absolutely stunning ; POS ; 0.929324
+
+the atmosphere was so relaxing with the gardens , walkway ##s , old buildings and even the staff .
+Expected: the staff ; so relaxing ; POS | the atmosphere ; so relaxing ; POS
+Predicted: the atmosphere ; so relaxing ; POS ; 0.9991998 | walkway ##s ; old ; POS ; 0.54345435 | buildings ; old ; POS ; 0.7225691
+
+we found this little hotel at an incredibly cheap price and decided to book it .
+Expected: price ; incredibly cheap ; POS | hotel ; incredibly cheap ; POS
+Predicted: hotel ; little ; POS ; 0.98216635 | it ; incredibly cheap price ; POS ; 0.9108903
+
+in addition to the price , the big ad ##vant ##ad ##ge is that the hotel is located ve ##rz close to the city center , and hence provides a prefect " base camp " .
+Expected: the hotel ; provides a prefect " base camp " ; POS | the hotel ; located ve ##rz close to the city center ; POS
+Predicted: the hotel ; located ve ##rz close to the city center ; POS ; 0.99055886 | the hotel ; close to the city center ; POS ; 0.7136134
+
+app ##art from that , you get an ac ##om ##mo ##dation according to the price , that is : small dark room , old furniture , tiny bad and noise .
+Expected: ac ##om ##mo ##dation ; according to the price ; POS | furniture ; old ; NEG | room ; small ; NEG | room ; dark ; NEG
+Predicted: the price ; get an ac ##om ##mo ##dation ; NEG ; 0.9913328 | room ; small ; NEG ; 0.99681634 | room ; old ; NEG ; 0.9920089 | furniture ; old ; NEG ; 0.9710835 | furniture , tiny bad and noise ; old ; NEG ; 0.6629732
+
+all in all , that ' s it , a very cheap acc ##omo ##dation that can be considered if you can cope with the noise .
+Expected: acc ##omo ##dation ; very cheap ; POS | acc ##omo ##dation ; can be considered if you can cope with the noise ; POS
+Predicted: acc ##omo ##dation ; can be considered ; NEG ; 0.6149181 | acc ##omo ##dation ; very cheap ; NEG ; 0.4765576
+
+central location , very professional
+Expected: location ; very professional ; POS | location ; central ; POS
+Predicted: location ; central ; POS ; 0.99024934 | location ; very professional ; POS ; 0.9764118
+
+the hotel is very secure however , with sw ##ipe card access to each floor .
+Expected: the hotel ; with sw ##ipe card access ; POS | the hotel ; very secure ; POS
+Predicted: the hotel ; very secure ; POS ; 0.9950905
+
+the staff are profession if by the book .
+Expected: the staff ; profession ; POS
+Predicted: the staff ; profession if by the book ; POS ; 0.968797
+
+the bathroom was well fitted but could have been bigger given the size of the room .
+Expected: the bathroom ; well fitted ; POS | the bathroom ; could have been bigger ; NEG
+Predicted: the bathroom ; well fitted ; POS ; 0.78179544 | the bathroom ; could have been bigger ; NEG ; 0.59092206
+
+breakfast was substantial and included .
+Expected: breakfast ; included ; POS | breakfast ; substantial ; POS
+Predicted: breakfast ; substantial ; POS ; 0.9991903 | breakfast ; included ; POS ; 0.97067946
+
+the she ##rat ##on hotel ju ##mer ##iah is highly recommend ##able .
+Expected: the she ##rat ##on hotel ju ##mer ##iah ; highly recommend ##able ; POS
+Predicted: the she ##rat ##on hotel ju ##mer ##iah ; highly recommend ##able ; POS ; 0.9989237
+
+everything was absolutely perfect .
+Expected: everything ; absolutely perfect ; POS
+Predicted: everything ; absolutely perfect ; POS ; 0.9999795
+
+the staff was absolutely wonderful , nothing was too much trouble for them .
+Expected: the staff ; absolutely wonderful ; POS
+Predicted: the staff ; absolutely wonderful ; POS ; 0.99997497 | the staff ; too much trouble for them ; POS ; 0.7673955
+
+they were helpful , and friendly .
+Expected: they ; helpful ; POS | they ; friendly ; POS
+Predicted: they ; helpful ; POS ; 0.9999821 | they ; friendly ; POS ; 0.9993687
+
+i loved staying there , and have spoken very highly of this hotel to my friends and colleagues .
+Expected: there ; loved staying ; POS | there ; have spoken very highly of this hotel to my friends and colleagues ; POS
+Predicted: there ; loved ; POS ; 0.9985863 | this hotel ; spoken very highly ; POS ; 0.8622484
+
+delightful situation and the view of the canal could not have been better .
+Expected: the view of the canal ; could not have been better ; POS | situation ; delightful ; POS
+Predicted: situation ; delightful ; POS ; 0.99981517 | the view ; could not have been better ; POS ; 0.8999198
+
+the rooms were clean , big and comfortable .
+Expected: the rooms ; big ; POS | the rooms ; comfortable ; POS | the rooms ; clean ; POS
+Predicted: the rooms ; clean ; POS ; 0.99989927 | the rooms ; big ; POS ; 0.99968815 | the rooms ; comfortable ; POS ; 0.997985
+
+the dinner was excellent and the dining room staff made sure we had a table all to ourselves .
+Expected: the dinner ; excellent ; POS | the dinner ; had a table all to ourselves ; POS
+Predicted: the dinner ; excellent ; POS ; 0.999956 | the dining room staff ; made sure ; POS ; 0.91142976
+
+all of the staff that we met were both efficient and friendly .
+Expected: all of the staff ; friendly ; POS | all of the staff ; efficient ; POS
+Predicted: all of the staff ; both efficient ; POS ; 0.9997347 | all of the staff ; friendly ; POS ; 0.99780434
+
+this hotel does not deserve 4 * in my opinion , although in general most of the staff were very pleasant , the upper management were like british politicians , when you complained they did not give you an answer but changed the subject .
+Expected: the upper management ; like british politicians ; NEG | this hotel ; does not deserve 4 * ; NEG | most of the staff ; very pleasant ; POS
+Predicted: this hotel ; not deserve ; NEG ; 0.9883484 | most of the staff ; very pleasant ; POS ; 0.898095 | most of the staff ; like british politicians ; POS ; 0.36964884
+
+we tried not to eat in the buffet restaurant as the quality and choice of food was very limited , the reception area was clean and the lobby staff were very helpful , the house · keeping was basic but not impressive , the pool , bar & beach areas were kept tidy and the outdoor staff were pleasant . there were quite a lot of russian guests there ( approx 85 % ) with a minority of british , french , swedish , german , nor ##wi ##ege ##n & egyptian .
+Expected: the reception area ; clean ; POS | the outdoor staff ; pleasant . ; POS | choice of food ; very limited ; NEG | the quality ; very limited ; NEG | the lobby staff ; very helpful ; POS | bar ; were kept tidy ; POS | the pool ; were kept tidy ; POS | beach areas ; were kept tidy ; POS | the house · keeping ; basic ; NEG | the house · keeping ; not impressive ; NEG
+Predicted: the buffet restaurant ; very limited ; NEG ; 0.9932755 | choice of food ; very limited ; NEG ; 0.9922375 | choice of food was very limited , the reception area ; clean ; POS ; 0.81826466 | the lobby staff ; very helpful ; POS ; 0.88712424 | the house · keeping ; not impressive ; POS ; 0.5263464 | bar & beach areas ; pleasant . there were ; POS ; 0.84120953 | beach areas were kept tidy and the outdoor staff ; there were ; POS ; 0.6883945 | the outdoor staff ; there were ; POS ; 0.5972777
+
+my impressions are generally very good and i feel
+Expected: my impressions ; very good ; POS
+Predicted: my impressions ; very good ; POS ; 0.9999305
+
+very good according the price . . excellent sea . very friendly people . i would like to be again in that place . i will not forget the sm ##ill ##ing faces of the em ##pl ##oe ##ys of the hotel and how helpful ##l they were >
+Expected: sea . very ; excellent ; POS | people . ; friendly ; POS | the sm ##ill ##ing faces of the em ##pl ##oe ##ys ; will not forget ; POS | that place . ; would like to be again ; POS | they ; helpful ##l ; POS | the price ; very good ; POS
+Predicted: the price ; very good ; POS ; 0.9910699 | sea ; excellent ; POS ; 0.99536467 | people ; very friendly ; POS ; 0.99540174
+
+great location , good hotel
+Expected: hotel ; good ; POS | location ; great ; POS
+Predicted: location ; great ; POS ; 0.9999149 | hotel ; good ; POS ; 0.9995888
+
+the best about this hotel is its location .
+Expected: its location ; the best ; POS
+Predicted: its location ; the best ; POS ; 0.6365482
+
+the hotel itself looks a bit dated , reminding of the grand style of famous hotels in other world cities .
+Expected: the hotel ; looks a bit dated ; NEG
+Predicted: the hotel ; a bit dated ; NEG ; 0.9985757
+
+it is not run down or anything , it ' s kept clean , but it ' s just the style that is a bit dated .
+Expected: it ; kept clean ; POS | the style ; bit dated ; NEG | it ; not run down or anything ; POS
+Predicted: it ; not run down ; NEG ; 0.7684917 | it ; kept clean ; POS ; 0.64704406 | the style ; a bit dated ; NEG ; 0.6995095
+
+in general , staff is at ##ten ##tive and helpful , and the stay was pleasant .
+Expected: the stay ; pleasant ; POS | staff ; helpful ; POS | staff ; at ##ten ##tive ; POS
+Predicted: staff ; at ##ten ##tive ; POS ; 0.99996436 | staff ; helpful ; POS ; 0.9970409 | the stay ; pleasant ; POS ; 0.816155
+
+food prices though are completely out of touch with sofia reality , even in comparison with other similar hotels in the city .
+Expected: food prices ; completely out of touch with sofia reality ; NEG
+Predicted: food prices ; completely out of touch with sofia reality ; NEG ; 0.97584856
+
+but you are so close to restaurants and bars that there is really no reason to eat in .
+Expected: reason to eat in ; close to restaurants and bars ; POS
+Predicted: restaurants ; close to ; NEG ; 0.9022002 | bars ; there is really no reason to eat in ; NEG ; 0.51152736
+
+stayed one more last month and keep being a happy customer .
+Expected: customer ; a happy ; POS
+Predicted: customer ; happy ; POS ; 0.99808717
+
+ma ##ml ##ouk was great !
+Expected: ma ##ml ##ouk ; great ! ; POS
+Predicted: ma ##ml ##ouk ; great ! ; POS ; 0.9997967
+
+ma ##ml ##ouk resort was great .
+Expected: ma ##ml ##ouk resort ; great ; POS
+Predicted: ma ##ml ##ouk resort ; great ; POS ; 0.99994266
+
+he was really kind and service minded .
+Expected: he ; service minded ; POS | he ; really kind ; POS
+Predicted: he ; really kind ; POS ; 0.99992156 | he ; service minded ; POS ; 0.99092156
+
+sultan ##a cafe is really worth a visit .
+Expected: sultan ##a cafe ; really worth a visit ; POS
+Predicted: sultan ##a cafe ; really worth a visit ; POS ; 0.9985636
+
+the bad things though were that the shopping center in the hotel were really bad .
+Expected: the shopping center in the hotel ; really bad ; NEG
+Predicted: the shopping center ; really bad ; NEG ; 0.9975414
+
+the sales ##men could take a no and they were kinda rude .
+Expected: they ; kinda rude ; NEG
+Predicted: the sales ##men ; could take a no ; NEG ; 0.94412625 | the sales ##men ; kinda rude ; NEG ; 0.9771566
+
+but the whole experience was nice and worth it .
+Expected: the whole experience ; nice ; POS | the whole experience ; worth it ; POS
+Predicted: the whole experience ; nice ; POS ; 0.9999447 | the whole experience ; worth it ; POS ; 0.9626473
+
+terrible room
+Expected: room ; terrible ; NEG
+Predicted: room ; terrible ; NEG ; 0.99609286
+
+this is a great hotel , in beautiful tu ##scan location .
+Expected: tu ##scan location ; beautiful ; POS | hotel ; great ; POS
+Predicted: hotel ; great ; POS ; 0.9998503 | location ; beautiful ; POS ; 0.9996308
+
+for people who want some rest and relax ##ati ##o it is real ##y great .
+Expected: it ; real ##y great ; POS
+Predicted: rest ; real ##y great ; POS ; 0.93569994
+
+the only minus ( for some people it might be a plus ) is the distance from fire ##nz ##e itself .
+Expected: distance from fire ##nz ##e ; the only minus ; NEG
+Predicted: the distance ; the only minus ; NEG ; 0.7194576
+
+you need a car to get there .
+Expected: to get there ; need a car ; NEG
+Predicted: there ; need ; NEG ; 0.7337751
+
+everything was quite good , had a great time !
+Expected: everything ; quite good ; POS | time ; great ; POS
+Predicted: everything ; quite good ; POS ; 0.9998652 | time ; great ; POS ; 0.9793941
+
+very warm sea , nice beach , animation team was always trying to entertain people , the hotel itself is a real 4 ##star hotel , the rooms are big , nice staff
+Expected: sea ; very warm ; POS | beach ; nice ; POS | the hotel ; a real 4 ##star hotel ; POS | the rooms ; big ; POS | animation team ; always trying to entertain people ; POS | staff ; nice ; POS
+Predicted: sea ; very warm ; POS ; 0.9973627 | beach ; nice ; POS ; 0.9967359 | animation team ; always trying to entertain people ; POS ; 0.7970171 | staff ; nice ; POS ; 0.9224573
+
+mel ##ia grand hermitage . . . hard to leave it !
+Expected: mel ##ia grand hermitage ; hard to leave it ! ; POS
+Predicted: hermitage ; hard to leave ; NEG ; 0.7504212
+
+everything was unexpected in the good way as possible !
+Expected: everything ; unexpected ; POS
+Predicted: everything ; unexpected ; POS ; 0.99993455 | everything ; possible ! ; POS ; 0.8392869
+
+i got 5 days of maximum relax time .
+Expected: relax time ; got ; POS | relax time ; maximum ; POS
+Predicted: relax time ; got ; POS ; 0.92742854
+
+good location on ne ##vs ##ki ##i
+Expected: location ; good ; POS
+Predicted: location ; good ; POS ; 0.9999356 | location ; on ne ##vs ##ki ##i ; POS ; 0.595518
+
+our room was on the second floor , with a view on ne ##vs ##ki ##i · view was great but noise a bit annoying .
+Expected: view ; great ; POS | noise ; a bit annoying ; NEG | our room ; with a view on ne ##vs ##ki ##i ; POS
+Predicted: our room ; on the second floor ; POS ; 0.9248102
+
+the room was of decent size , but all in length , which isn ' t the most convenient .
+Expected: the room ; all in length , which isn ' t the most convenient ; NEG | the room ; of decent size ; POS
+Predicted: the room ; decent size ; POS ; 0.93164057 | the room ; all in length ; POS ; 0.8078228
+
+in addition to the large and comfortable bed , furniture included a desk and 2 seats .
+Expected: bed ; comfortable ; POS | bed ; large ; POS | 2 seats ; included ; POS | a desk ; included ; POS
+Predicted: bed ; large ; POS ; 0.9804684 | bed ; comfortable ; POS ; 0.98540676 | a desk ; included ; POS ; 0.8891607
+
+bathroom was nice and well equipped ( including a rubber duck !
+Expected: bathroom ; well equipped ; POS | bathroom ; nice ; POS | a rubber duck ; including ; POS
+Predicted: bathroom ; nice ; POS ; 0.99998236 | bathroom ; well equipped ; POS ; 0.99961674 | a rubber duck ; including ; POS ; 0.9637769
+
+front desk wasn ' t the best , quite slow for passport registration and clerk insisted that we pay up for a better room .
+Expected: front desk ; quite slow ; NEG | front desk ; wasn ' t the best ; NEG
+Predicted: front desk ; wasn ' t the best ; NEG ; 0.94546723 | front desk ; quite slow ; NEG ; 0.7688997
+
+in · room breakfast was ta ##sty and quite large , awesome .
+Expected: breakfast ; quite large ; POS | breakfast ; ta ##sty ; POS | breakfast ; awesome ; POS
+Predicted: in · room breakfast ; ta ##sty ; POS ; 0.9907266 | in · room breakfast ; quite large ; POS ; 0.70880574 | in · room breakfast ; awesome ; POS ; 0.5930748
+

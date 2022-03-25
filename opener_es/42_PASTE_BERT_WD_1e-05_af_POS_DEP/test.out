@@ -1,0 +1,1212 @@
+la piscina es des ##cu ##bier ##ta .
+Expected: la piscina ; des ##cu ##bier ##ta ; POS
+Predicted: la piscina ; des ##cu ##bier ##ta ; NEG ; 0.5070952
+
+el parquing es gratuit ##o .
+Expected: el parquing ; gratuit ##o ; POS
+Predicted: el parquing ; gratuit ##o ; POS ; 0.9667643
+
+es un hotel muy case ##ro en todo lo que respect ##a al trato y a la comida , personal muy aten ##to y sim ##pati ##co , esta situado en primera linea de playa y las habitacion ##es tienen unas vistas precio ##sas y casi casi esta en el centro de penis ##cola por lo tanto no es necesario un vehiculo , yo lo rec ##omen ##dari ##a a parejas sin hijos ya que las habitacion ##es no son muy grandes en general el precio respecto a la calidad y el servicio me parece que es muy ace ##pta ##ble y rec ##omen ##dab ##le , la unica pe ##ga que pu ##edo destacar es que el hotel en general necesita un lava ##do de cara y un poco de mantenimiento ( alguna gr ##ieta en las paredes , falta de pintura en bara ##ndi ##llas , mobil ##iar ##io bastante antiguo )
+Expected: unas vistas ; precio ##sas ; POS | centro de penis ##cola ; casi casi ; POS | un vehiculo ; no es necesario ; POS | lo ; rec ##omen ##dari ##a ; POS | en las paredes ; alguna gr ##ieta ; NEG | bara ##ndi ##llas ; falta de pintura en ; NEG | trato ; muy case ##ro ; POS | la comida ; muy case ##ro ; POS | las habitacion ##es ; no son muy grandes ; NEG | el precio ; rec ##omen ##dab ##le ; POS | el precio ; muy ace ##pta ##ble ; POS | un poco de mantenimiento ; necesita ; NEG | un lava ##do de cara ; necesita ; NEG | personal ; muy aten ##to ; POS | personal ; sim ##pati ##co ; POS | mobil ##iar ##io ; bastante antiguo ; NEG
+Predicted: un hotel ; muy case ##ro ; POS ; 0.8767176 | trato y a la comida ; muy aten ##to ; POS ; 0.90472347 | personal ; muy aten ##to ; POS ; 0.9672337 | personal ; sim ##pati ##co ; POS ; 0.94196045 | las habitacion ##es ; tienen unas vistas precio ##sas ; POS ; 0.5730802 | las habitacion ##es ; precio ##sas ; NEG ; 0.4998714 | penis ##cola ; precio ##sas ; NEG ; 0.5882303 | un vehiculo ; rec ##omen ##dab ##le ; NEG ; 0.6858141
+
+excelente en todos los aspectos . calidad , servicios , atencion .
+Expected: calidad ; excelente ; POS | servicios ; excelente ; POS | todos los aspectos ; excelente ; POS | atencion ; excelente ; POS
+Predicted: en todos los aspectos ; excelente ; POS ; 0.99947613 | servicios ; excelente ; POS ; 0.9600679 | atencion ; excelente ; POS ; 0.702969
+
+no es un hotel barat ##o , por sup ##uesto , pero si el dinero no es imp ##edimento es sin duda de los mejores , sino el mejor , hotel de la capital .
+Expected: hotel de la capital ; el mejor ; POS
+Predicted: un hotel ; barat ##o ; POS ; 0.7175162 | el dinero ; no es imp ##edimento es sin duda de los mejores ; NEG ; 0.79155576 | hotel de la capital ; los mejores , sino el mejor ; POS ; 0.70041555 | hotel de la capital ; el mejor ; POS ; 0.47406048
+
+muy buen hotel en el centro de madrid
+Expected: hotel ; muy buen ; POS | hotel ; en el centro de madrid ; POS
+Predicted: hotel ; muy buen ; POS ; 0.99971277 | hotel ; en el centro de madrid ; POS ; 0.9924954
+
+hotel muy rec ##omen ##dab ##le para visitar madrid situado en el centro de madrid en la anima ##da gran via , lugar por ex ##elen ##cia de oci ##o en madrid puede ##s encontrar teatro ##s , cine ##s , restaurante ##s , bra ##res etc . las habitacion ##es del hotel son muy con ##fort ##ables buen cuarto de ban ##o , mini ##bar gratuit ##o , y grades cama ##s , soy cliente asi ##du ##o de esta hotel y vo ##vere todas las veces que pueda
+Expected: cama ##s ; grades ; POS | lugar ; de oci ##o en madrid ; POS | gran via ; en la anima ##da ; POS | mini ##bar ; gratuit ##o ; POS | etc . las habitacion ##es ; muy con ##fort ##ables ; POS | cuarto de ban ##o ; buen ; POS | restaurante ##s ; puede ##s encontrar ; POS | cine ##s ; puede ##s encontrar ; POS | bra ##res ; puede ##s encontrar ; POS | teatro ##s ; puede ##s encontrar ; POS | hotel ; muy rec ##omen ##dab ##le ; POS
+Predicted: gran via ; muy rec ##omen ##dab ##le ; POS ; 0.98900235 | gran via ; en la anima ##da ; POS ; 0.98005795 | lugar ; por ex ##elen ##cia de oci ##o ; POS ; 0.9877066 | cine ##s ; puede ##s encontrar ; POS ; 0.99794906 | restaurante ##s , bra ##res ; muy con ##fort ##ables ; POS ; 0.97073686 | bra ##res ; muy con ##fort ##ables ; POS ; 0.9216138 | las habitacion ##es ; muy con ##fort ##ables ; POS ; 0.8619581
+
+muchas garcia ##s , nos han hecho pasar un buen fin de semana .
+Expected: fin de semana ; buen ; POS
+Predicted: muchas garcia ##s ; han hecho pasar un buen fin de semana ; NEG ; 0.567056
+
+el hotel esta muy bien , aunque se en ##cu ##ent ##re lejos del centro , el sitio es est ##upe ##ndo para des ##cans ##ar y el sistema de transporte en bc ##n ok .
+Expected: el sistema de transporte en bc ##n ; ok ; POS | el hotel ; muy bien ; POS | el sitio ; est ##upe ##ndo para des ##cans ##ar ; POS | del centro ; lejos ; NEG
+Predicted: el hotel ; muy bien ; POS ; 0.9947018 | centro ; lejos ; POS ; 0.80616266 | el sitio ; est ##upe ##ndo ; POS ; 0.9307175
+
+her ##mosa ##s vaca ##ciones !
+Expected: vaca ##ciones ; her ##mosa ##s ; POS
+Predicted: vaca ##ciones ; her ##mosa ##s ; POS ; 0.99338996
+
+la verdad pasa ##mos unos dias divino ##s , el hotel es geni ##al , los chico ##s la pasaron baba ##ro y mi marido feliz con el gi ##mna ##sio y el spa , y yo con un libro en la playa , en este hotel espacio y actividades para todos lo super rec ##omi ##endo para ir en familia
+Expected: actividades ; para todos ; POS | espacio ; para todos ; POS | el spa ; feliz con ; POS | el gi ##mna ##sio ; feliz con ; POS | los ; super rec ##omi ##endo ; POS | el hotel ; es geni ##al ; POS | unos dias ; divino ##s ; POS
+Predicted: el hotel ; geni ##al ; POS ; 0.9963787 | los chico ##s la pasaron baba ##ro ; feliz ; POS ; 0.81192005 | el spa ; feliz con ; POS ; 0.8805126 | el spa ; rec ##omi ##endo ; POS ; 0.77560467 | actividades para todos lo super ; rec ##omi ##endo ; POS ; 0.7243504
+
+buen hotel
+Expected: hotel ; buen ; POS
+Predicted: hotel ; buen ; POS ; 0.9900186
+
+muy buen hotel .
+Expected: hotel ; muy buen ; POS
+Predicted: hotel ; muy buen ; POS ; 0.99897563
+
+el desa ##yu ##no es de bu ##ffet y es esp ##ect ##ac ##ular .
+Expected: el desa ##yu ##no ; bu ##ffet ; POS | el desa ##yu ##no ; esp ##ect ##ac ##ular ; POS
+Predicted: el desa ##yu ##no ; de bu ##ffet ; POS ; 0.9793844 | el desa ##yu ##no ; esp ##ect ##ac ##ular ; POS ; 0.54580724
+
+habitacion ##es como ##das y silencio ##sas .
+Expected: habitacion ##es ; como ##das ; POS | habitacion ##es ; silencio ##sas ; POS
+Predicted: habitacion ##es ; como ##das ; POS ; 0.967312 | habitacion ##es ; silencio ##sas ; POS ; 0.9798519
+
+rep ##eti ##remo ##s si podemos . . muy buen trato .
+Expected: trato ; muy buen ; POS
+Predicted: trato ; muy buen ; POS ; 0.99983037
+
+es un buen sitio
+Expected: sitio ; buen ; POS
+Predicted: sitio ; buen ; POS ; 0.9997181
+
+esta en una zona de madrid , que aunque pare ##zca le ##jana del centro de la ciudad , esta a tan solo 15 minutos de esta y muy bien comunica ##do con el metro y el autobus .
+Expected: una zona de madrid ; aunque pare ##zca le ##jana del centro de la ciudad ; NEG | una zona de madrid ; esta a tan solo 15 minutos de esta ; POS | el autobus ; muy bien comunica ##do ; POS | el metro ; muy bien comunica ##do ; POS
+Predicted: una zona de madrid ; le ##jana del centro de la ciudad ; POS ; 0.86254674 | centro de la ciudad ; a tan solo 15 minutos ; POS ; 0.9668533 | el metro ; muy bien comunica ##do ; POS ; 0.98179173 | el autobus ; muy bien comunica ##do ; POS ; 0.5776805
+
+ademas , la zona es bastante tran ##qui ##la
+Expected: la zona ; bastante tran ##qui ##la ; POS
+Predicted: la zona ; bastante tran ##qui ##la ; POS ; 0.9958948
+
+excelente hotel para las mejores vaca ##ciones
+Expected: hotel ; excelente ; POS
+Predicted: hotel ; excelente ; POS ; 0.9998136 | hotel ; para las mejores ; POS ; 0.88849175
+
+reve ##rve el hotel pal ##ladi ##um punta cana y no me ar ##re ##pien ##to , he pasado unas vaca ##ciones est ##upe ##ndas , el personal de rece ##pcion es muy pr ##fes ##ional , me aten ##dieron muy bien , la comida del los restaurante ##s es muy buena , la animacion entre ##teni ##da , los chico ##s de los bare ##s son muy alegre ##s .
+Expected: vaca ##ciones ; est ##upe ##ndas ; POS | el personal de rece ##pcion ; aten ##dieron muy bien ; POS | el personal de rece ##pcion ; muy pr ##fes ##ional ; POS | los chico ##s de los bare ##s ; muy alegre ##s ; POS | la animacion ; entre ##teni ##da ; POS | la comida ; muy buena ; POS
+Predicted: unas vaca ##ciones ; reve ##rve ; NEG ; 0.58253455 | unas vaca ##ciones ; est ##upe ##ndas ; POS ; 0.6534372 | el personal de rece ##pcion ; muy pr ##fes ##ional ; POS ; 0.8658611 | la comida del los restaurante ##s ; muy buena ; POS ; 0.8772547 | la comida ; muy buena ; POS ; 0.63134086
+
+pasa ##mos unos dias en este mara ##vil ##los ##o hotel de madrid .
+Expected: hotel de madrid ; mara ##vil ##los ##o ; POS
+Predicted: hotel de madrid ; mara ##vil ##los ##o ; POS ; 0.99953866
+
+el precio es alto pero la calidad es in ##me ##jor ##able .
+Expected: el precio ; alto ; NEG | la calidad ; in ##me ##jor ##able ; POS
+Predicted: el precio ; alto ; POS ; 0.97875196 | la calidad ; in ##me ##jor ##able ; POS ; 0.49313733
+
+la habitacion tenia todo tipo de como ##dida ##des y queda ##mos muy content ##os con el trato que reci ##bi ##mos del personal .
+Expected: trato que reci ##bi ##mos del personal ; muy content ##os ; POS | la habitacion ; tenia todo tipo de como ##dida ##des ; POS
+Predicted: la habitacion ; tenia todo tipo de como ##dida ##des ; POS ; 0.91108316 | el trato que reci ##bi ##mos del personal ; muy content ##os ; POS ; 0.9191466
+
+es ##casa seguridad
+Expected: seguridad ; es ##casa ; NEG
+Predicted: seguridad ; es ##casa ; POS ; 0.90097934
+
+este camping care ##ce de las medidas de seguridad apr ##opi ##adas , nos roba ##ron una bici y encima casi te sent ##ias culpa ##ble por parte de la rec ##pec ##ion . no llama ##ron a la guardia civil y fu ##imos nos ##otros hasta el pueblo para poner la denuncia .
+Expected: medidas de seguridad apr ##opi ##adas ; care ##ce ; NEG
+Predicted: este camping ; care ##ce de las medidas de seguridad apr ##opi ##adas ; NEG ; 0.62827635 | una bici ; roba ##ron ; NEG ; 0.8266725 | la guardia civil ; no llama ##ron ; NEG ; 0.71834123
+
+a parte de eso el trato es poco ama ##ble y la lim ##pie ##za , bueno , te hacen lim ##pia ##r las duc ##has con un agua suci ##a y llen ##a de pelos , y eso pagan ##do que si no paga ##s . . . . . . no se que habria q hacer .
+Expected: la lim ##pie ##za ; suci ##a ; NEG | agua ; suci ##a ; NEG | la lim ##pie ##za ; llen ##a de pelos ; NEG | agua ; llen ##a de pelos ; NEG | el trato ; poco ama ##ble ; NEG
+Predicted: el trato ; poco ama ##ble ; NEG ; 0.6168369 | la lim ##pie ##za ; bueno ; NEG ; 0.4372211 | las duc ##has ; llen ##a de pelos ; POS ; 0.4768558 | las duc ##has con un agua ; llen ##a de pelos ; POS ; 0.44109905
+
+lo unico q vale es la situacion del camping , por lo demas no lo rec ##omen ##dari ##a .
+Expected: la situacion ; lo unico q vale ; POS
+Predicted: la situacion del camping ; lo unico q vale ; NEG ; 0.98986477
+
+buena experiencia
+Expected: experiencia ; buena ; POS
+Predicted: experiencia ; buena ; POS ; 0.99962187
+
+esta situado en el centro de la ciudad , con todo lo mas turistico a tu alrededor ( el pilar , por ejemplo ) , y sitios para tomar algo .
+Expected: sitios para tomar algo ; a tu alrededor ; POS | todo lo mas turistico ; a tu alrededor ; POS | centro de la ciudad ; situado en el ; POS
+Predicted: centro de la ciudad ; esta situado ; POS ; 0.9949951 | todo lo mas turistico ; a tu alrededor ; POS ; 0.98996747 | sitios para tomar algo ; con todo lo mas turistico a tu alrededor ; POS ; 0.9095885
+
+las habitacion ##es son ag ##rada ##bles , lim ##pia ##s y bastante amplia ##s .
+Expected: las habitacion ##es ; bastante amplia ##s ; POS | las habitacion ##es ; ag ##rada ##bles ; POS | las habitacion ##es ; lim ##pia ##s ; POS
+Predicted: las habitacion ##es ; ag ##rada ##bles ; POS ; 0.9979494 | las habitacion ##es ; lim ##pia ##s ; POS ; 0.9940334 | las habitacion ##es ; bastante amplia ##s ; POS ; 0.9336277
+
+el servicio de rece ##pcion es ama ##ble y te hace sentir como ##do .
+Expected: el servicio de rece ##pcion ; ama ##ble ; POS
+Predicted: el servicio de rece ##pcion ; ama ##ble ; POS ; 0.9981178 | el servicio de rece ##pcion ; hace sentir como ##do ; POS ; 0.93961835
+
+el unico pero son las comida ##s .
+Expected: las comida ##s ; el unico pero ; NEG
+Predicted: las comida ##s ; el unico ; NEG ; 0.9190217
+
+si busca ##s un hotel para hacer actividades a traves de el , o para ver cena con espectaculo ##s , o quedar ##te todo el dia dentro . . . no es tu hotel , porque no tiene ese tipo de instalaciones .
+Expected: ese tipo de instalaciones ; no tiene ; NEG
+Predicted: un hotel ; si busca ##s ; POS ; 0.64122933 | ese tipo de instalaciones ; no tiene ; NEG ; 0.88583606
+
+en plena gran via !
+Expected: gran via ; en plena ; POS
+Predicted: gran via ; en plena ; POS ; 0.92589545
+
+si quiere ##s un hotel en pleno centro de madrid pero a su vez que te abs ##or ##ba la tran ##qui ##lidad y el re ##lax de su spa . . .
+Expected: su spa ; que te abs ##or ##ba la tran ##qui ##lidad ; POS | su spa ; el re ##lax ; POS | un hotel ; en pleno centro de madrid ; POS
+Predicted: centro de madrid ; en pleno ; POS ; 0.9981425 | la tran ##qui ##lidad ; abs ##or ##ba ; POS ; 0.9642294
+
+desde el se puede acceder a todo el centro de madrid anda ##ndo , personal aten ##to y todo muy lim ##pio .
+Expected: personal ; aten ##to ; POS | todo el centro de madrid ; se puede acceder ; POS | todo el centro de madrid ; anda ##ndo ; POS | todo ; muy lim ##pio ; POS
+Predicted: todo el centro de madrid ; acceder ; POS ; 0.9992661 | personal ; aten ##to ; POS ; 0.99918586 | todo ; muy lim ##pio ; POS ; 0.9710759
+
+buen sitio
+Expected: sitio ; buen ; POS
+Predicted: sitio ; buen ; POS ; 0.9974934
+
+el ambiente es muy bueno y alegre , gente joven con muchas actividades y las instalaciones a pesar de tener ya algunos anos , estan muy bien conserva ##das .
+Expected: actividades ; muchas ; POS | gente ; joven ; POS | el ambiente ; alegre ; POS | el ambiente ; muy bueno ; POS | las instalaciones ; muy bien conserva ##das ; POS | las instalaciones ; a pesar de tener ya algunos anos ; NEG
+Predicted: el ambiente ; muy bueno ; POS ; 0.999723 | el ambiente ; alegre ; POS ; 0.9960995 | el ambiente ; muy bien conserva ##das ; POS ; 0.9612993 | las instalaciones ; muy bien conserva ##das ; POS ; 0.9496727
+
+el servicio y la comida son buenos en general .
+Expected: el servicio ; buenos ; POS | la comida ; buenos ; POS
+Predicted: el servicio ; buenos ; POS ; 0.99928457 | la comida ; buenos en general ; POS ; 0.9555701
+
+la verdad es que el hotel estaba bastante bien , ya que las cama ##s eran como ##das , y en una ciudad como roma el hotel se usa solo para dor ##mir .
+Expected: las cama ##s ; como ##das ; POS | el hotel ; bastante bien ; POS
+Predicted: el hotel ; bastante bien ; POS ; 0.81682795 | las cama ##s ; como ##das ; NEG ; 0.5328826
+
+ademas , tambien valor ##o positiva ##mente el hecho de que el personal del hotel habla ##se espanol .
+Expected: el personal ; habla ##se espanol ; POS
+Predicted: el hecho de que el personal ; valor ##o positiva ##mente ; POS ; 0.9727131
+
+al ##oja ##miento moderno en pleno centro de la ciudad
+Expected: al ##oja ##miento ; en pleno centro de la ciudad ; POS | al ##oja ##miento ; moderno ; POS
+Predicted: al ##oja ##miento ; moderno ; POS ; 0.9959045 | centro de la ciudad ; pleno ; POS ; 0.98218244
+
+hotel con diseno moderno , muy centri ##co .
+Expected: diseno ; moderno ; POS | diseno ; muy centri ##co ; POS
+Predicted: hotel ; moderno ; POS ; 0.5684087 | hotel ; muy centri ##co ; POS ; 0.9439675
+
+ac ##ost ##um ##bra ##do a lo clasico ( a veces ren ##ido con lo viejo y suci ##o ) este hotel es correct ##o y el , personal aten ##to .
+Expected: este hotel ; correct ##o ; POS | personal ; aten ##to ; POS
+Predicted: este hotel ; ac ##ost ##um ##bra ##do a lo clasico ; POS ; 0.58723515 | este hotel ; ren ##ido con lo viejo ; POS ; 0.63355434 | este hotel ; correct ##o ; POS ; 0.99482274 | este hotel ; aten ##to ; POS ; 0.93981516
+
+el hotel perfect ##amente ubicado , cercano al metro de plaza espana .
+Expected: el hotel ; perfect ##amente ubicado ; POS | metro de plaza espana ; cercano ; POS
+Predicted: el hotel ; perfect ##amente ubicado ; POS ; 0.97515196 | metro de plaza espana ; cercano ; POS ; 0.9936684
+
+muy bien ubicado para ver el musical " el rey leon " .
+Expected: para ver el musical " el rey leon ; muy bien ubicado ; POS
+Predicted: el musical " el rey leon " ; muy bien ; POS ; 0.995576
+
+las habitacion ##es geni ##ales con dos cama ##s grandes , nuevas y con mini ##bar gratuit ##o .
+Expected: mini ##bar ; con ; POS | mini ##bar ; gratuit ##o ; POS | las habitacion ##es ; geni ##ales ; POS | dos cama ##s ; nuevas ; POS | dos cama ##s ; grandes ; POS
+Predicted: las habitacion ##es ; geni ##ales ; POS ; 0.9795538 | dos cama ##s ; grandes ; POS ; 0.99164927 | dos cama ##s grandes , nuevas y con mini ##bar ; gratuit ##o ; POS ; 0.99032754
+
+muy ama ##ble el personal y perfect ##o el desa ##yu ##no bu ##ffet con mucha variedad .
+Expected: el personal ; muy ama ##ble ; POS | el desa ##yu ##no bu ##ffet ; perfect ##o ; POS | el desa ##yu ##no bu ##ffet ; con mucha variedad ; POS
+Predicted: el personal ; muy ama ##ble ; POS ; 0.99896944 | el desa ##yu ##no bu ##ffet ; perfect ##o ; POS ; 0.99640584 | el desa ##yu ##no bu ##ffet ; con mucha variedad ; POS ; 0.95700616
+
+las atencion ##es son form ##ida ##bles las comida ##s ex ##quis ##itas y para todos los gusto ##s , las facil ##idades esp ##ect ##ac ##ular ##es y extrema ##damente lim ##pia ##s eso es bien ag ##rada ##ble .
+Expected: las facil ##idades ; esp ##ect ##ac ##ular ##es ; POS | las facil ##idades ; extrema ##damente lim ##pia ##s ; POS | eso ; bien ag ##rada ##ble ; POS | las atencion ##es ; form ##ida ##bles ; POS | las comida ##s ; para todos los gusto ##s ; POS | las comida ##s ; ex ##quis ##itas ; POS
+Predicted: las atencion ##es ; form ##ida ##bles ; POS ; 0.99107075 | las comida ##s ; ex ##quis ##itas ; POS ; 0.9947031 | las facil ##idades ; esp ##ect ##ac ##ular ##es ; POS ; 0.9679312 | las facil ##idades ; extrema ##damente ; POS ; 0.878828
+
+apart ##amentos alta calidad
+Expected: apart ##amentos ; alta calidad ; POS
+Predicted: apart ##amentos ; alta calidad ; POS ; 0.9756781
+
+apart ##amentos de lu ##jo en sevilla , la verdad es que son de calidad pero el precio es un poco elevado para la zona en la que esta situada en la ciudad , todo muy lim ##pio y el personal realmente aten ##to y bueno .
+Expected: todo ; muy lim ##pio ; POS | el personal ; bueno ; POS | el personal ; realmente aten ##to ; POS | el precio ; es un poco elevado para la zona en la que esta situada en la ciudad ; NEG | apart ##amentos ; de lu ##jo ; POS
+Predicted: apart ##amentos ; de lu ##jo ; POS ; 0.974935 | el precio ; un poco elevado ; NEG ; 0.91762865 | todo ; muy lim ##pio ; POS ; 0.8552577 | el personal ; realmente aten ##to ; POS ; 0.9794392 | el personal ; bueno ; POS ; 0.8951437
+
+algo mara ##vil ##los ##o !
+Expected: algo ; mara ##vil ##los ##o ! ; POS
+Predicted: algo ; mara ##vil ##los ##o ; POS ; 0.9591576
+
+es un hotel dig ##no de ver y estar , las habitacion ##es son est ##upe ##ndas con muy buena decoracion y sin falta ##rle nada de nada , el personal excelente muy aten ##to , la lim ##pie ##za se sale te lim ##pian las habitacion ##es tant ##as veces como te hag ##a falta es mas mi marido y yo dor ##mia ##mos la sie ##sta y cuando regresa ##bam ##os por la noche estaba la cama recien hec ##ha otra vez ademas con det ##all ##itos en la al ##mo ##hada , el desa ##yu ##no bu ##fet yo que ##de en ##cant ##ada ya que habia toda clase de fru ##tas y mucho mas claro tantos cafe ##s como qui ##sier ##as yo por lo menos ac ##onse ##jar ##ia que la gente lo visita ##se aunque fue ##se una sola vez en la vida ya que es una experiencia in ##ol ##vida ##ble .
+Expected: det ##all ##itos ; en la al ##mo ##hada ; POS | la lim ##pie ##za ; se sale ; POS | el personal ; excelente ; POS | el personal ; muy aten ##to ; POS | el desa ##yu ##no bu ##fet ; en ##cant ##ada ; POS | decoracion ; muy buena ; POS | una experiencia ; in ##ol ##vida ##ble ; POS | nada de nada ; sin falta ##rle ; POS | un hotel ; dig ##no de ver y estar ; POS | toda clase de fru ##tas ; habia ; POS | las habitacion ##es ; est ##upe ##ndas ; POS | lo ; ac ##onse ##jar ##ia ; POS | lo ; visita ##se ; POS
+Predicted: un hotel ; dig ##no ; POS ; 0.9739479 | las habitacion ##es ; est ##upe ##ndas ; POS ; 0.9797578 | las habitacion ##es ; muy buena ; POS ; 0.84264845 | el personal ; excelente muy aten ##to ; POS ; 0.7174416 | la lim ##pie ##za ; se sale te lim ##pian ; NEG ; 0.51585317 | las habitacion ##es ; tant ##as veces como te hag ##a falta ; NEG ; 0.46533552 | las habitacion ##es ; tant ##as veces como te hag ##a falta ; POS ; 0.39870614
+
+nos esta ##far ##on con la oferta
+Expected: la oferta ; esta ##far ##on ; NEG
+Predicted: nos ; esta ##far ##on ; POS ; 0.99667263
+
+nos ##otros contrat ##amos un pack por la luna de mie ##l y nada de lo que contrat ##amos nos lo resp ##etar ##on , ni cesta de fru ##tas al llegar , ni internet en el pack que dec ##ia que si , la habitacion nada que ver con lo que nos oferta ##ron , es decir paga ##mos 280 euros mas por tener la pulse ##rita roja en vez de azul pero nada de lo pro ##met ##ido despues ademas , hic ##imos mo ##gol ##lon de rec ##lamacion ##es y ni caso hasta el dia de hoy , la opera ##dora que trabaja ##ba con el hotel fatal y la atencion hor ##rib ##le . uno de los dias tuvieron que lim ##pia ##r la piscina de lo suci ##a que estaba , los residentes alli se bana ##ban vest ##idos , etc , etc . . . . . .
+Expected: mo ##gol ##lon de rec ##lamacion ##es ; hic ##imos ; NEG | mo ##gol ##lon de rec ##lamacion ##es ; ni caso ; NEG | la opera ##dora ; fatal ; NEG | cesta de fru ##tas ; ni ; NEG | internet ; ni ; NEG | la piscina ; suci ##a ; NEG | la atencion ; hor ##rib ##le . uno ; NEG
+Predicted: un pack por la luna de mie ##l ; contrat ##amos ; NEG ; 0.85973877 | cesta de fru ##tas ; resp ##etar ##on ; NEG ; 0.9008245 | internet ; ni ; NEG ; 0.8282325 | la habitacion ; ni internet en el pack que dec ##ia que si ; NEG ; 0.78544754 | la habitacion ; nada que ver con lo que nos oferta ##ron ; NEG ; 0.7204705 | la habitacion ; nada de lo pro ##met ##ido ; NEG ; 0.75623876 | la piscina ; se bana ##ban vest ##idos ; NEG ; 0.7435193
+
+yo no volver ##e a esta cadena de hotel ##es .
+Expected: esta cadena de hotel ##es ; no volver ##e ; NEG
+Predicted: esta cadena de hotel ##es ; no volver ##e ; POS ; 0.84893453
+
+nos en ##cant ##a el hotel esta situado en todo el centro de madrid con lo que la oferta de oci ##o , gast ##rono ##ma , cultura , etc es esp ##ect ##ac ##ular y luego que decir del personal , las instalaciones , ¡ ¡ geni ##ales ¡ ¡ rep ##eti ##remo ##s sin duda pronto
+Expected: el hotel ; esta situado en todo el centro de madrid ; POS | la oferta de oci ##o ; esp ##ect ##ac ##ular ; POS | cultura ; esp ##ect ##ac ##ular ; POS | gast ##rono ##ma ; esp ##ect ##ac ##ular ; POS | personal ; geni ##ales ; POS | las instalaciones ; geni ##ales ; POS
+Predicted: el hotel ; en ##cant ##a ; POS ; 0.9945064 | el centro de madrid ; esta situado ; POS ; 0.902133 | gast ##rono ##ma ; esp ##ect ##ac ##ular ; POS ; 0.99088913 | cultura ; esp ##ect ##ac ##ular ; POS ; 0.9903763 | las instalaciones ; esp ##ect ##ac ##ular ; POS ; 0.80522335 | las instalaciones ; sin duda pronto ; POS ; 0.56594217
+
+hotel muy nuevo con en ##cant ##o familiar
+Expected: hotel ; con en ##cant ##o familiar ; POS | hotel ; muy nuevo ; POS
+Predicted: hotel ; muy nuevo ; POS ; 0.9477313 | hotel ; en ##cant ##o familiar ; POS ; 0.9073858
+
+el hotel estaba como recien reforma ##do , todo nuevo , muy cuidado al det ##alle .
+Expected: todo ; muy cuidado al det ##alle ; POS | todo ; nuevo ; POS | el hotel ; recien reforma ##do ; POS
+Predicted: el hotel ; como recien reforma ##do ; POS ; 0.9722837 | todo ; nuevo ; POS ; 0.9537503 | al det ##alle ; muy cuidado ; POS ; 0.6927381
+
+la ubicacion pri ##vil ##egi ##ada , a la entrada de la plaza del duomo , visita ##mos por la noche y por el dia a la hora que qui ##simo ##s la torre de pisa , baptiste ##rio , catedral . . . . es un sitio muy bon ##ito .
+Expected: la ubicacion ; pri ##vil ##egi ##ada ; POS | un sitio ; muy bon ##ito ; POS | la plaza del duomo ; a la entrada ; POS
+Predicted: la ubicacion ; pri ##vil ##egi ##ada ; POS ; 0.9983841 | la plaza del duomo ; a la entrada ; POS ; 0.9801255 | la torre de pisa ; visita ##mos ; POS ; 0.8893422 | la torre de pisa , baptiste ##rio ; muy bon ##ito ; POS ; 0.88584775 | catedral . . . . es un sitio ; muy bon ##ito ; POS ; 0.66346246
+
+rep ##ito , la ubicacion in ##me ##jor ##able .
+Expected: la ubicacion ; in ##me ##jor ##able ; POS
+Predicted: la ubicacion ; in ##me ##jor ##able ; POS ; 0.9928945
+
+bueno hotel de ciudad en general
+Expected: hotel de ciudad ; bueno ; POS
+Predicted: hotel de ciudad ; bueno ; POS ; 0.9986671
+
+en general es un buen hotel , amplio , habitacion ##es muy cui ##dada ##s , lim ##pio , aunque no todos los dias cambia ##ban las saba ##nas , el bu ##ffet de desa ##yu ##no , a mi gusto , era es ##cas ##o y un horario bastante ten ##pra ##nero .
+Expected: el bu ##ffet de desa ##yu ##no ; es ##cas ##o ; NEG | las saba ##nas ; no todos los dias cambia ##ban ; NEG | un horario ; bastante ten ##pra ##nero ; NEG | hotel ; amplio ; POS | hotel ; buen ; POS | habitacion ##es ; muy cui ##dada ##s ; POS | habitacion ##es ; lim ##pio ; POS
+Predicted: hotel ; buen ; POS ; 0.9991353 | hotel ; amplio ; POS ; 0.93137956 | habitacion ##es ; muy cui ##dada ##s ; POS ; 0.9901742 | habitacion ##es ; lim ##pio ; POS ; 0.9821828 | habitacion ##es ; es ##cas ##o ; NEG ; 0.5077735 | el bu ##ffet de desa ##yu ##no ; bastante ten ##pra ##nero ; NEG ; 0.6021894
+
+la comida y cena , para ser un hotel de 4 estrellas era es ##casa y habia poco donde ele ##gir , dos primeros , dos segundos y dos post ##res , un poco mas de amp ##lit ##ud de menu donde ele ##gir no vend ##ria nada mal since ##ramente .
+Expected: la comida y cena ; es ##casa ; NEG | la comida y cena ; poco donde ele ##gir ; NEG | amp ##lit ##ud de menu ; no vend ##ria nada mal ; NEG
+Predicted: la comida ; es ##casa ; NEG ; 0.9639554 | donde ele ##gir ; habia poco ; NEG ; 0.90594023
+
+el personal muy bien , tu ##vimo ##s una got ##era en la habitacion y nos cambiar ##on a una habitacion super ##ios sin problemas .
+Expected: el personal ; muy bien ; POS
+Predicted: el personal ; muy bien ; POS ; 0.9568659 | una habitacion ; super ##ios sin problemas ; POS ; 0.6888829
+
+7 dias que lo pasa ##mos de total re ##lax .
+Expected: lo ; pasa ##mos de total re ##lax ; POS
+Predicted: total re ##lax ; de ; POS ; 0.9859467
+
+el servicio esta muy completo y esto ##y muy content ##o con las instalaciones .
+Expected: el servicio ; muy completo ; POS | las instalaciones ; muy content ##o ; POS
+Predicted: el servicio ; muy completo ; POS ; 0.9924746 | las instalaciones ; muy content ##o ; POS ; 0.77836734
+
+ubicacion in ##me ##jor ##able
+Expected: ubicacion ; in ##me ##jor ##able ; POS
+Predicted: ubicacion ; in ##me ##jor ##able ; POS ; 0.9481238
+
+el hotel esta situado en lo mejor de gran via , cerca de teatro ##s , cine ##s , tienda ##s , restaurante ##s y esta a un paso de sol , de la plaza mayor y si no tiene ##s una entrada de metro nada mas salir de la puerta del hotel .
+Expected: sol ; esta a un paso ; POS | la plaza mayor ; esta a un paso ; POS | gran via ; esta situado en lo mejor de ; POS | restaurante ##s ; cerca ; POS | cine ##s ; cerca ; POS | tienda ##s ; cerca ; POS | teatro ##s ; cerca ; POS | una entrada de metro ; tiene ##s ; POS | una entrada de metro ; nada mas salir de la puerta del hotel ; POS
+Predicted: gran via ; en lo mejor ; POS ; 0.99778867 | teatro ##s ; cerca ; POS ; 0.9992913 | cine ##s ; cerca ; POS ; 0.98645705 | tienda ##s ; a un paso de sol ; POS ; 0.96563953 | la plaza mayor ; nada mas salir de la puerta del hotel ; POS ; 0.72102594 | una entrada de metro ; nada mas salir de la puerta del hotel ; POS ; 0.48005348
+
+buen hotel para visitar madrid
+Expected: hotel ; buen ; POS
+Predicted: hotel ; buen ; POS ; 0.99983823
+
+hotel tipico del estilo meli ##a , ubicado en un lugar centri ##co , ideal para poder visitar cualquier punto de madrid , buenas con ##bina ##ciones de autobus , metro .
+Expected: lugar ; ideal para poder visitar cualquier punto de madrid ; POS | lugar ; centri ##co ; POS | metro ; buenas ; POS | con ##bina ##ciones de autobus ; buenas ; POS | hotel ; tipico del estilo meli ##a ; POS
+Predicted: del estilo meli ##a ; tipico ; POS ; 0.8627683 | un lugar ; centri ##co ; POS ; 0.9844124 | cualquier punto de madrid ; ideal para poder visitar ; POS ; 0.9796107 | con ##bina ##ciones de autobus ; buenas ; POS ; 0.98758554 | metro ; buenas ; POS ; 0.6027297
+
+excelente lugar para des ##cans ##ar en familia .
+Expected: lugar para des ##cans ##ar en familia ; excelente ; POS
+Predicted: lugar ; excelente ; POS ; 0.99905413 | lugar ; para des ##cans ##ar en familia ; POS ; 0.6208542
+
+via ##jam ##os una semana en familia ( ninos de 3 y 5 anos ) fueron vaca ##ciones para des ##cans ##ar y dis ##fru ##tar .
+Expected: vaca ##ciones ; dis ##fru ##tar ; POS | vaca ##ciones ; para des ##cans ##ar ; POS
+Predicted: vaca ##ciones ; para des ##cans ##ar ; POS ; 0.9648891
+
+lo pasa ##mos geni ##al , el servicio de playa es excelente , la atencion de la gente siempre bien dis ##pue ##sta y la comida varia ##da , para todos los gusto ##s .
+Expected: lo ; geni ##al ; POS | el servicio de playa ; excelente ; POS | la comida ; varia ##da ; POS | la atencion de la gente ; bien dis ##pue ##sta ; POS
+Predicted: lo ; geni ##al ; POS ; 0.9996871 | el servicio de playa ; excelente ; POS ; 0.9992513 | la atencion de la gente ; siempre bien dis ##pue ##sta ; POS ; 0.9983192 | la comida ; varia ##da ; POS ; 0.99291843 | la comida ; para todos los gusto ##s ; POS ; 0.5345248
+
+pues eso , en pleno centro de madrid , en el medio de su arteria principal ( gran via ) para todas aquella ##s personas que bus ##quen entrar de llen ##o en el bull ##icio , las luce ##s de neon , las tienda ##s a cualquier hora y vue ##lva ##n luego para re ##la ##jar ##se en un hotel que cum ##ple con todo lo que uno puede esperar a buen precio y calidad .
+Expected: su arteria principal ( gran via ; en el medio ; POS | un hotel ; cum ##ple con todo lo que uno puede esperar ; POS | un hotel ; re ##la ##jar ##se ; POS | centro de madrid ; en pleno ; POS | precio ; buen ; POS
+Predicted: centro de madrid ; en pleno ; POS ; 0.9965695 | su arteria principal ; en el medio ; POS ; 0.8380914 | las luce ##s de neon ; bus ##quen entrar de llen ##o ; POS ; 0.8435052 | las tienda ##s ; a cualquier hora ; POS ; 0.7103537 | calidad ; cum ##ple ; POS ; 0.5224201
+
+la ubicacion es est ##upe ##nda , un entorno precio ##so .
+Expected: un entorno ; precio ##so ; POS | la ubicacion ; est ##upe ##nda ; POS
+Predicted: la ubicacion ; est ##upe ##nda ; POS ; 0.99053675 | un entorno ; precio ##so ; POS ; 0.9918602
+
+la lim ##pie ##za en general ace ##pta ##ble , pero nuestra mayor dec ##ep ##cion y razon por la que segura ##mente no volver ##em ##os fue que la ultima noche nos dio frio y co ##gi ##mos unas man ##tas para ab ##riga ##rno ##s , las ab ##rimo ##s y el ol ##or a orin ##e viejo era vom ##iti ##vo , menos mal que fue la ultima noche que si no me vo ##y el primer dia .
+Expected: unas man ##tas para ab ##riga ##rno ##s ; vom ##iti ##vo ; NEG | el ol ##or a orin ##e viejo ; vom ##iti ##vo ; NEG | la lim ##pie ##za ; ace ##pta ##ble ; POS
+Predicted: la lim ##pie ##za ; ace ##pta ##ble ; POS ; 0.6561782 | la lim ##pie ##za ; dio frio ; NEG ; 0.5749433 | unas man ##tas ; menos mal ; POS ; 0.4835645 | unas man ##tas ; menos mal ; NEG ; 0.40055773
+
+aunque se trataba de un hotel muy po ##mp ##oso , la comida no era nada esp ##ect ##ac ##ular .
+Expected: la comida ; no era nada esp ##ect ##ac ##ular ; NEG | un hotel ; muy po ##mp ##oso ; POS
+Predicted: un hotel ; muy po ##mp ##oso ; POS ; 0.67551786 | la comida ; no era nada esp ##ect ##ac ##ular ; POS ; 0.74051404
+
+se com ##ia mucho mejor en dona pep ##ica que esta a 100 metros que en propio hotel y el ala ##rde ##o de su bu ##ffet libre .
+Expected: su bu ##ffet libre ; el ala ##rde ##o ; NEG
+Predicted: dona pep ##ica ; mucho mejor ; POS ; 0.8947006
+
+hotel regular en una zona bastante mala
+Expected: una zona ; bastante mala ; NEG | hotel ; regular ; NEG
+Predicted: hotel ; regular ; NEG ; 0.9561854 | una zona ; bastante mala ; NEG ; 0.9016796
+
+el personal del hotel fue muy ama ##ble en todo momento .
+Expected: el personal ; muy ama ##ble ; POS
+Predicted: el personal ; muy ama ##ble ; POS ; 0.98858696
+
+la habitacion no estaba mal , pero la ins ##onor ##izacion es bastante mala .
+Expected: la habitacion ; no estaba mal ; POS | la ins ##onor ##izacion ; bastante mala ; NEG
+Predicted: la habitacion ; no estaba mal ; NEG ; 0.9239139 | la ins ##onor ##izacion ; bastante mala ; NEG ; 0.8438015
+
+es ##co ##gi en hotel por estar proximo a la estacion del ave y es verdad que esta a 15 minutos anda ##ndo y a una parada de metro ( que esta a 1 minuto camin ##ando ) pero la zona por la noche es bastante mala .
+Expected: la estacion del ave ; a una parada de metro ; POS | la estacion del ave ; proximo ; POS | la estacion del ave ; a 15 minutos anda ##ndo ; POS | la zona ; bastante mala ; NEG
+Predicted: la estacion del ave ; proximo ; POS ; 0.5917128 | una parada de metro ; a 15 minutos anda ##ndo ; POS ; 0.9478382 | la zona ; bastante mala ; NEG ; 0.7360808
+
+ideal para conocer la ciudad .
+Expected: conocer la ciudad ; ideal ; POS
+Predicted: la ciudad ; ideal ; POS ; 0.99861336
+
+es un hotel situado en plena gran via , muy cerca de la puerta del sol , y es ideal para conocer la ciudad .
+Expected: gran via ; situado en plena ; POS | puerta del sol ; muy cerca ; POS | conocer la ciudad ; ideal ; POS
+Predicted: gran via ; en plena ; POS ; 0.99328375 | la puerta del sol ; muy cerca ; POS ; 0.99500316 | para conocer la ciudad ; ideal ; POS ; 0.59979355
+
+el spa no es muy grande pero suficiente para pasar un rat ##o ag ##rada ##ble .
+Expected: el spa ; suficiente para pasar un rat ##o ag ##rada ##ble ; POS | el spa ; es muy grande ; NEG
+Predicted: el spa ; muy grande ; POS ; 0.9235393
+
+el personal muy ama ##ble .
+Expected: el personal ; muy ama ##ble ; POS
+Predicted: el personal ; muy ama ##ble ; POS ; 0.94634646
+
+excelente opcion para un tiempo inti ##mo en pareja
+Expected: opcion ; excelente ; POS
+Predicted: opcion ; excelente ; POS ; 0.9993482 | opcion para un tiempo ; inti ##mo ; POS ; 0.928059
+
+her ##mosa playa
+Expected: playa ; her ##mosa ; POS
+Predicted: playa ; her ##mosa ; POS ; 0.9664777
+
+excelente ambiente
+Expected: ambiente ; excelente ; POS
+Predicted: ambiente ; excelente ; POS ; 0.9998048
+
+facil acceso al complejo
+Expected: acceso al complejo ; facil ; POS
+Predicted: acceso al complejo ; facil ; POS ; 0.9990909
+
+carretera ##s modernas
+Expected: carretera ##s ; modernas ; POS
+Predicted: carretera ##s ; modernas ; POS ; 0.5939908
+
+viaje place ##nter ##o
+Expected: viaje ; place ##nter ##o ; POS
+Predicted: viaje ; place ##nter ##o ; POS ; 0.9085521
+
+personal ama ##ble
+Expected: personal ; ama ##ble ; POS
+Predicted: personal ; ama ##ble ; POS ; 0.99980384
+
+en fin un ex ##cene ##te lugar para pasar las vaca ##ciones .
+Expected: lugar ; ex ##cene ##te ; POS
+Predicted: lugar ; ex ##cene ##te ; POS ; 0.9551828
+
+buen hotel , nuevo , aunque algo ale ##jado del centro .
+Expected: centro ; ale ##jado ; NEG | hotel ; buen ; POS | hotel ; nuevo ; POS
+Predicted: hotel ; buen ; POS ; 0.95005697 | hotel ; nuevo ; POS ; 0.85051316 | centro ; algo ale ##jado ; NEG ; 0.72993
+
+el hotel , aunque esta algo ale ##jado del centro , esta muy bien comunica ##do con el tran ##via ( en 10 · 15 min . estas en el centro sin problemas , y con acceso a la zona de los museo ##s en 10 min . ) .
+Expected: el tran ##via ; muy bien comunica ##do con ; POS | centro ; 10 · 15 min . ; POS | la zona de los museo ##s ; 10 min . ; POS | centro ; ale ##jado ; NEG
+Predicted: el hotel ; algo ale ##jado ; NEG ; 0.8483281 | el tran ##via ; muy bien comunica ##do ; POS ; 0.95900077 | estas en el centro ; sin problemas ; NEG ; 0.49604246 | la zona de los museo ##s ; sin problemas ; POS ; 0.63779783
+
+si vas con coche , es muy buena opcion y el tren que viene del aeropuerto esta a dos paradas de tran ##via desde la estacion de slot ##erd ##ijk .
+Expected: el tren que viene del aeropuerto ; a dos paradas de tran ##via ; POS
+Predicted: opcion ; muy buena ; POS ; 0.9969976 | el tren que viene del aeropuerto ; a dos paradas de tran ##via ; POS ; 0.84955996
+
+el precio es muy bueno , especialmente comp ##ara ##do con los hotel ##es centri ##cos ( y normalmente no en tan buen estado ) .
+Expected: el precio ; muy bueno ; POS
+Predicted: el precio ; muy bueno ; POS ; 0.8899613
+
+tiene desa ##yu ##no y cena bu ##fet muy completa , si bien puede ser algo caro si lo ad ##quier ##es alli mismo .
+Expected: cena bu ##fet ; muy completa ; POS | cena bu ##fet ; algo caro ; NEG | desa ##yu ##no ; tiene ; POS
+Predicted: desa ##yu ##no ; tiene ; POS ; 0.99929523 | cena bu ##fet ; muy completa ; POS ; 0.99350786
+
+muy buena opcion .
+Expected: opcion ; muy buena ; POS
+Predicted: opcion ; muy buena ; POS ; 0.9990038
+
+con ##fort ##able hotel en barcelona
+Expected: hotel ; con ##fort ##able ; POS
+Predicted: hotel ; con ##fort ##able ; POS ; 0.99974793
+
+el hotel se encuentra retirado del centro , aunque muy bien comunica ##do por el metro con el que tan solo en unos minutos estas alli .
+Expected: el metro ; muy bien comunica ##do ; POS | del centro ; retirado ; NEG
+Predicted: centro ; retirado ; POS ; 0.77356493 | el metro ; muy bien comunica ##do ; POS ; 0.99182373
+
+el ambiente es muy ag ##rada ##ble y la habitacion muy como ##da , con gran calidad en el sueno y detalles como cafe ##tera electrica y mini ##bar gratis ( agua , pep ##si , zum ##os ) ; tambien contaba con conexion wi ##fi gratuit ##a en la habitacion .
+Expected: la habitacion ; muy como ##da ; POS | el sueno ; con gran calidad ; POS | el ambiente ; muy ag ##rada ##ble ; POS | mini ##bar ; gratis ; POS | cafe ##tera electrica ; gratis ; POS | conexion wi ##fi ; gratuit ##a ; POS | conexion wi ##fi ; contaba ; POS
+Predicted: el ambiente ; muy ag ##rada ##ble ; POS ; 0.99782383 | la habitacion ; muy como ##da ; POS ; 0.99830365 | el sueno ; gran calidad ; POS ; 0.9969381 | detalles como cafe ##tera electrica ; gratis ; POS ; 0.99368083 | mini ##bar ; gratis ; POS ; 0.9698756 | conexion wi ##fi ; gratuit ##a ; POS ; 0.8684835
+
+la zona es demasiado tran ##qui ##la , no encontram ##os sitios de oci ##o cercano ##s . hay que destacar su cerca ##nia al camp nou , al que puede ##s ir anda ##ndo , lo que lo hace ideal para viajes relacionados con el futbol .
+Expected: la zona ; demasiado tran ##qui ##la ; NEG | camp nou ; su cerca ##nia ; POS | camp nou ; puede ##s ir anda ##ndo ; POS | lo ; ideal para viajes relacionados con el futbol ; POS | sitios de oci ##o ; no encontram ##os ; NEG
+Predicted: la zona ; demasiado tran ##qui ##la ; POS ; 0.8376672 | sitios de oci ##o ; no encontram ##os ; POS ; 0.7293 | al camp nou ; cerca ##nia ; POS ; 0.9888043 | para viajes relacionados con el futbol ; ideal ; POS ; 0.7558382
+
+el hotel esta muy bien . buena re ##lac ##cion calidad precio . centri ##co . buen desa ##yu ##no y buenas habitacion ##es . dispone ##n de servicio de transporte al aeropuerto . situado junto a plaza ca ##vour , zona desde la que se co ##gen numerosos bus urbanos . se puede ir anda ##ndo a cualquier punto monumental de la ciudad .
+Expected: plaza ca ##vour ; junto a ; POS | cualquier punto monumental de la ciudad ; anda ##ndo ; POS | bus urbanos . se ; numerosos ; POS
+Predicted: el hotel ; muy bien ; POS ; 0.9842482 | re ##lac ##cion ; buena ; POS ; 0.9746971 | desa ##yu ##no ; centri ##co . buen ; POS ; 0.9985715 | desa ##yu ##no ; buenas habitacion ##es . dispone ##n ; POS ; 0.96974105 | numerosos bus urbanos ; dispone ##n ; POS ; 0.8864755 | numerosos bus urbanos ; anda ##ndo ; POS ; 0.7393296
+
+aunque solo est ##uve una noche rep ##eti ##re , fue una estancia muy re ##la ##jante y ag ##rada ##ble , para ir al spa cada persona tiene su albo ##rno ##z .
+Expected: su albo ##rno ##z ; para ir al spa cada persona tiene ; POS | una estancia ; ag ##rada ##ble ; POS | una estancia ; muy re ##la ##jante ; POS
+Predicted: una estancia ; muy re ##la ##jante ; POS ; 0.9948468 | una estancia ; ag ##rada ##ble ; POS ; 0.99597245
+
+somos clientes de esta cadena y esta ##mos muy content ##os , siempre nos recibe ##n con una bote ##lla de cava .
+Expected: esta cadena ; esta ##mos muy content ##os ; POS | bote ##lla de cava ; siempre nos recibe ##n con ; POS
+Predicted: esta cadena ; muy content ##os ; POS ; 0.99877137 | una bote ##lla de cava ; recibe ##n ; POS ; 0.9019868
+
+buen hotel
+Expected: hotel ; buen ; POS
+Predicted: hotel ; buen ; POS ; 0.990021
+
+la verdad es que es un muy buen hotel , de buena calidad y volver ##e claramente a ese hotel para ir en familia , en pareja , tiene cercano ##s boca ##s de metro y de autobus ##es en conclusion un muy buen hotel .
+Expected: calidad ; buena ; POS | hotel ; muy buen ; POS | boca ##s de metro ; tiene cercano ##s ; POS | de autobus ##es ; tiene cercano ##s ; POS | hotel ; muy buen ; POS
+Predicted: hotel ; muy buen ; POS ; 0.998398 | calidad ; de buena ; POS ; 0.99136037 | hotel ; volver ##e claramente ; POS ; 0.79882085 | boca ##s de metro ; tiene cercano ##s ; POS ; 0.9176795 | de autobus ##es ; muy buen ; POS ; 0.7139237
+
+hotel algo apart ##ado del centro bueno ver el bars ##a
+Expected: hotel ; bueno ver el bars ##a ; POS | hotel ; algo apart ##ado del centro ; NEG
+Predicted: hotel ; algo apart ##ado ; NEG ; 0.8819379 | centro ; bueno ; POS ; 0.86363995
+
+remo ##non ##es en la repos ##icion del mini ##bar y la television aparte de verse mal casi todos los canales es muy antigua , solo esos dos pequenos detalles el resto sati ##sf ##ac ##torio , se tarda en urbano mas de media hora para llegar a la playa .
+Expected: la television ; verse mal casi todos los canales ; NEG | la television ; muy antigua ; NEG | la repos ##icion del mini ##bar ; remo ##non ##es ; NEG | para llegar a la playa ; se tarda en urbano mas de media hora ; NEG | el resto ; sati ##sf ##ac ##torio ; POS
+Predicted: la repos ##icion del mini ##bar ; verse mal casi todos los canales ; POS ; 0.6357489 | la television ; aparte de verse mal ; NEG ; 0.6093298 | detalles ; sati ##sf ##ac ##torio ; POS ; 0.61473274
+
+buen hotel
+Expected: hotel ; buen ; POS
+Predicted: hotel ; buen ; POS ; 0.9737395
+
+muy ama ##bles y sim ##pati ##cos , bastante lim ##pio todo .
+Expected: todo ; bastante lim ##pio ; POS
+Predicted: sim ##pati ##cos , bastante lim ##pio todo ; muy ama ##bles ; POS ; 0.9920008 | muy ama ##bles ; sim ##pati ##cos ; POS ; 0.98368305 | todo ; bastante lim ##pio ; POS ; 0.8816186
+
+los de rece ##pcion te ac ##onse ##jan un poco sobre donde ir y que linea de metro o de bus co ##ger para ir a los destino ##s .
+Expected: los de rece ##pcion ; ac ##onse ##jan ; POS
+Predicted: los de rece ##pcion ; ac ##onse ##jan un poco ; POS ; 0.8492078
+
+bastante bien , est ##uve 4 dias y si vol ##vies ##e a milan , volver ##ia sin duda a este hotel que rec ##omi ##endo 100 %
+Expected: este hotel ; rec ##omi ##endo 100 ; POS | este hotel ; volver ##ia sin duda ; POS | este hotel ; bastante bien ; POS
+Predicted: este hotel ; volver ##ia sin duda ; POS ; 0.98130417 | este hotel ; rec ##omi ##endo 100 % ; POS ; 0.6882827
+
+hotel est ##upe ##ndi ##simo en valencia
+Expected: hotel ; est ##upe ##ndi ##simo ; POS
+Predicted: hotel ; est ##upe ##ndi ##simo ; POS ; 0.9892
+
+nos ha gus ##tado mucho este hotel en valencia .
+Expected: este hotel ; gus ##tado mucho ; POS
+Predicted: este hotel en valencia ; ha gus ##tado mucho ; POS ; 0.99862146
+
+en ##hora ##bue ##na a la cadena playa senator por la ad ##quisicion .
+Expected: cadena playa senator ; en ##hora ##bue ##na ; POS
+Predicted: la cadena playa senator ; en ##hora ##bue ##na ; POS ; 0.848985
+
+su cerca ##nia con la ciudad de las artes y las ciencias nos ha facil ##itado mucho la estancia .
+Expected: la ciudad de las artes y las ciencias ; cerca ##nia ; POS
+Predicted: la ciudad de las artes ; cerca ##nia ; POS ; 0.9990969 | la estancia ; ha facil ##itado mucho ; POS ; 0.6272677
+
+tambien esta bastante cerca del centro .
+Expected: centro ; bastante cerca ; POS
+Predicted: centro ; bastante cerca ; POS ; 0.7717
+
+las instalaciones bastante bien : habitacion amplia , lu ##mino ##sa con vistas a la rot ##onda gigante donde se encuentra en ##cla ##vado .
+Expected: las instalaciones ; bastante bien ; POS | habitacion ; amplia ; POS | habitacion ; lu ##mino ##sa ; POS | habitacion ; vistas a la rot ##onda ; POS
+Predicted: las instalaciones ; bastante bien ; POS ; 0.9757791 | habitacion ; amplia , lu ##mino ##sa ; POS ; 0.97831136 | la rot ##onda gigante ; lu ##mino ##sa ; POS ; 0.98896164
+
+nos pus ##ieron cama sup ##leto ##ria junto a la cama grande .
+Expected: cama sup ##leto ##ria ; pus ##ieron ; POS
+Predicted: cama ; pus ##ieron ; POS ; 0.85261035
+
+el desa ##yu ##no , como en todos los hotel ##es playa , y el personal muy ama ##ble .
+Expected: el personal ; muy ama ##ble ; POS | el desa ##yu ##no ; como en todos los hotel ##es playa ; NEG
+Predicted: el desa ##yu ##no ; muy ama ##ble ; POS ; 0.9921869 | el personal ; muy ama ##ble ; POS ; 0.99483466
+
+con todo ello , un hotel mas que rec ##omen ##dab ##le para visitar esta ciudad .
+Expected: un hotel ; mas que rec ##omen ##dab ##le ; POS
+Predicted: un hotel ; mas que rec ##omen ##dab ##le ; POS ; 0.97882813
+
+muy buen resort
+Expected: resort ; muy buen ; POS
+Predicted: resort ; muy buen ; POS ; 0.9997174
+
+muy buenas las instalaciones del hotel , a la altura de un resort !
+Expected: las instalaciones ; a la altura de un resort ! ; POS | las instalaciones ; muy buenas ; POS
+Predicted: las instalaciones ; muy buenas ; POS ; 0.999892 | un resort ; a la altura ; POS ; 0.7037496
+
+la piscina es de tamano olimpico , y tiene repose ##ras para cu ##brir la cantidad de gente que se hos ##peda ##ban en el hotel , lo cual es muy bueno , ya que est ##uve en otros hotel ##es y siempre es ##case ##an !
+Expected: la piscina ; de tamano olimpico ; POS | lo cual ; muy bueno ; POS | repose ##ras ; tiene ; POS
+Predicted: la piscina ; de tamano olimpico ; POS ; 0.9071205 | repose ##ras ; tiene ; POS ; 0.9883033
+
+el personal , parra ##fo aparte , mag ##ni ##fico siempre dis ##pue ##sto !
+Expected: el personal ; mag ##ni ##fico ; POS | el personal ; siempre dis ##pue ##sto ; POS | el personal ; parra ##fo aparte ; POS
+Predicted: el personal ; aparte ; POS ; 0.9945087 | el personal ; mag ##ni ##fico ; POS ; 0.97367394
+
+todo excelente , muy pro ##lij ##o , la comida es realmente buena , el gaz ##eb ##o de la piscina tiene todo para sati ##sf ##ace ##r a los clientes !
+Expected: todo ; excelente ; POS | todo ; muy pro ##lij ##o ; POS | la comida ; realmente buena ; POS | el gaz ##eb ##o de la piscina ; tiene todo para sati ##sf ##ace ##r a los clientes ; POS
+Predicted: todo ; excelente ; POS ; 0.9992623 | todo ; muy pro ##lij ##o ; POS ; 0.9914199 | la comida ; realmente buena ; POS ; 0.99522495 | el gaz ##eb ##o ; tiene ; POS ; 0.93700737
+
+inc ##rei ##ble , por su ubica ##con y por sus instalaciones .
+Expected: sus instalaciones ; inc ##rei ##ble ; POS | su ubica ##con ; inc ##rei ##ble ; POS
+Predicted: su ubica ##con ; inc ##rei ##ble ; POS ; 0.97933954 | su ubica ##con ; por sus instalaciones ; POS ; 0.66767156
+
+hic ##imos una noche para ir a ver el musical del rey leon y nos sor ##pre ##ndio much ##isi ##mo , last ##ima no haber perm ##ane ##cido otra noche para dis ##fru ##tar de su spa . lo que mas nos dec ##ep ##cion ##o fue el bu ##fet del desa ##yu ##no , comp ##ara ##do con otros de esta cadena muy muy fl ##ojo .
+Expected: el bu ##fet del desa ##yu ##no ; dec ##ep ##cion ##o ; NEG | el bu ##fet del desa ##yu ##no ; muy muy fl ##ojo ; NEG
+Predicted: el musical del rey leon ; sor ##pre ##ndio ; POS ; 0.7344822 | el bu ##fet del desa ##yu ##no ; sor ##pre ##ndio much ##isi ##mo ; NEG ; 0.5505717
+
+de calidad me parece muy bueno , todo parece nuevo ademas te sien ##tes muy bien es algo distinct ##o , el precio es un poco caro pero tu comfort dig ##o que mere ##ce la pena me lo he pasado muy bien con mi no ##bio
+Expected: todo ; nuevo ; POS | tu comfort ; mere ##ce la pena ; POS | algo ; distinct ##o ; POS | calidad ; muy bueno ; POS | el precio ; un poco caro ; NEG
+Predicted: de calidad ; muy bueno ; POS ; 0.984929 | todo ; parece nuevo ademas te sien ##tes muy bien ; POS ; 0.98013765 | algo distinct ##o , el precio ; un poco caro ; POS ; 0.573935
+
+relacion calidad precio form ##ida ##ble , ac ##ogi ##miento por parte de todos los empleados form ##ida ##ble , el apart ##amento es amplio ac ##oge ##dor y tiene todo lo que se necesita , grandes zonas de apa ##rca ##miento , no hay rui ##dos , muy cerca de sevilla capital , aunque en bor ##mu ##jos , pueblo en ##cant ##ador puede ##s encontrar todo lo que dese ##as , servicio de fax , imp ##res ##cin ##di ##ble para mi , conexion wi ##fi que funciona de mara ##villa . no se puede esperar mas y a un precio fantastic ##o .
+Expected: zonas de apa ##rca ##miento ; grandes ; POS | precio ; fantastic ##o ; POS | todo lo que dese ##as ; puede ##s encontrar ; POS | servicio de fax ; puede ##s encontrar ; POS | ac ##ogi ##miento por parte de todos los empleados ; form ##ida ##ble ; POS | todo lo que se necesita ; tiene ; POS | el apart ##amento ; ac ##oge ##dor ; POS | el apart ##amento ; amplio ; POS | de sevilla capital ; aunque en bor ##mu ##jos ; NEG | de sevilla capital ; muy cerca ; POS | rui ##dos ; no hay ; POS | conexion wi ##fi ; que funciona de mara ##villa . no ; POS | relacion calidad precio ; form ##ida ##ble ; POS
+Predicted: relacion calidad precio ; form ##ida ##ble ; POS ; 0.9885168 | ac ##ogi ##miento ; form ##ida ##ble ; POS ; 0.898908 | el apart ##amento ; amplio ac ##oge ##dor ; POS ; 0.9027544 | el apart ##amento ; tiene ; POS ; 0.93694067 | zonas de apa ##rca ##miento ; no hay rui ##dos , muy cerca ; NEG ; 0.51446956 | sevilla capital , aunque en bor ##mu ##jos ; muy cerca ; POS ; 0.61312836 | sevilla capital , aunque en bor ##mu ##jos ; imp ##res ##cin ##di ##ble ; POS ; 0.5390977
+
+una estancia perfect ##a
+Expected: una estancia ; perfect ##a ; POS
+Predicted: una estancia ; perfect ##a ; POS ; 0.99994504
+
+un lugar ( apart ##amento ) perfect ##o para pasar unos dias , buena localizacion , lim ##pio y con ##fort ##able .
+Expected: localizacion ; buena ; POS | un lugar ; perfect ##o ; POS | apart ##amento ; perfect ##o ; POS
+Predicted: un lugar ; perfect ##o ; POS ; 0.9992205 | localizacion ; buena ; POS ; 0.9987772 | localizacion ; lim ##pio ; POS ; 0.9990695 | localizacion ; con ##fort ##able ; POS ; 0.97305477
+
+ademas de un precio as ##e ##qui ##ble y acord ##e con las caracteristicas que ofrece ##n .
+Expected: precio ; acord ##e con las caracteristicas que ofrece ##n ; POS | precio ; as ##e ##qui ##ble ; POS
+Predicted: un precio ; as ##e ##qui ##ble ; POS ; 0.99888545 | un precio ; acord ##e ; POS ; 0.97872776
+
+habitacion ##es amplia ##s , con ##fort ##ables y lim ##pia ##s .
+Expected: habitacion ##es ; lim ##pia ##s ; POS | habitacion ##es ; amplia ##s ; POS | habitacion ##es ; con ##fort ##ables ; POS
+Predicted: habitacion ##es ; amplia ##s ; POS ; 0.99445385 | habitacion ##es ; con ##fort ##ables ; POS ; 0.9979614 | habitacion ##es ; lim ##pia ##s ; POS ; 0.9745749
+
+si que lo rec ##omen ##dari ##a .
+Expected: lo ; rec ##omen ##dari ##a ; POS
+Predicted: 
+
+decoracion vanguard ##ista
+Expected: decoracion ; vanguard ##ista ; POS
+Predicted: decoracion ; vanguard ##ista ; NEG ; 0.91509867
+
+se trata de un hotel pequeno , de diseno , en el que se cui ##dan todos los detalles con una excelente relacion calidad · precio .
+Expected: relacion calidad · precio ; excelente ; POS | todos los detalles ; se cui ##dan ; POS | un hotel ; de diseno ; POS | un hotel ; pequeno ; POS
+Predicted: un hotel ; pequeno ; NEG ; 0.6382651 | diseno ; de ; POS ; 0.8960643 | todos los detalles ; excelente ; POS ; 0.96999377 | relacion calidad · precio ; excelente ; POS ; 0.6279921
+
+el desa ##yu ##no se sale de los estandar ##es y ofrece ##n desde shu ##shi hasta pequenas fru ##tas tropicales .
+Expected: el desa ##yu ##no ; se sale de los estandar ##es ; POS | shu ##shi ; ofrece ##n ; POS | pequenas fru ##tas tropicales ; ofrece ##n ; POS
+Predicted: el desa ##yu ##no ; se sale de los estandar ##es ; POS ; 0.5683935 | shu ##shi ; ofrece ##n ; POS ; 0.7006781
+
+cuenta con una terra ##za chi ##ll out , que hace que te ol ##vide ##s de que estas en una gran ciudad .
+Expected: una terra ##za chi ##ll out ; cuenta con ; POS
+Predicted: una terra ##za chi ##ll out ; cuenta con ; POS ; 0.99644935
+
+su ubicacion , a pocos metros de la estacion de tren , es perfect ##a para acceder de forma rapida al aeropuerto .
+Expected: la estacion de tren ; a pocos metros ; POS | su ubicacion ; perfect ##a para acceder de forma rapida al aeropuerto ; POS
+Predicted: su ubicacion ; a pocos metros ; POS ; 0.98934865 | la estacion de tren ; perfect ##a ; POS ; 0.98211974
+
+tiene wi ##fi gratis que funciona muy bien y una pequena zona de spa .
+Expected: zona de spa ; pequena ; POS | wi ##fi ; funciona muy bien ; POS | wi ##fi ; gratis ; POS | wi ##fi ; tiene ; POS
+Predicted: wi ##fi ; tiene ; POS ; 0.9981754 | wi ##fi ; funciona muy bien ; POS ; 0.9751669 | zona de spa ; pequena ; POS ; 0.80509937
+
+hotel muy bien situado en plena gran via . ideal para ir de compra ##s , tape ##ar por los numerosos bare ##s de la zona y acu ##dir a un musical , se puede ir pase ##ando a la puerta del sol al ser una zona muy concu ##rri ##da , o bien en metro al estar proxima una parada , el hotel cuenta con un spa para re ##lax despues de una jornada ago ##tado ##ra .
+Expected: un spa ; cuenta ; POS | tape ##ar por los numerosos bare ##s de la zona ; ideal ; POS | acu ##dir a un musical ; ideal ; POS | ir de compra ##s ; ideal ; POS | puerta del sol ; se puede ir pase ##ando ; POS | una zona ; muy concu ##rri ##da ; POS | una parada ; proxima ; POS | metro ; proxima ; POS | hotel ; muy bien situado ; POS | gran via . ; en plena ; POS
+Predicted: hotel ; muy bien situado ; POS ; 0.9096958 | gran via ; en plena ; POS ; 0.9294867 | un musical ; ideal ; POS ; 0.9819124 | la puerta del sol ; muy concu ##rri ##da ; POS ; 0.95346826 | un spa ; muy concu ##rri ##da ; POS ; 0.9016463 | un spa ; cuenta con ; POS ; 0.8512125
+
+imposible des ##cans ##ar .
+Expected: des ##cans ##ar ; imposible ; NEG
+Predicted: des ##cans ##ar ; imposible ; NEG ; 0.9913673
+
+in ##uti ##l rec ##lamar .
+Expected: rec ##lamar ; in ##uti ##l ; NEG
+Predicted: rec ##lamar ; in ##uti ##l ; POS ; 0.8176478
+
+muy buen hotel , mere ##ce la pena visitar ##lo
+Expected: visitar ##lo ; mere ##ce la pena ; POS | hotel ; muy buen ; POS
+Predicted: hotel ; muy buen ; POS ; 0.9994735 | hotel ; mere ##ce la pena visitar ##lo ; POS ; 0.854886
+
+el gran bahia principe amb ##ar , es un hotel que mere ##ce la pena visitar ##lo , por el lugar en el que esta situado , con una mag ##ni ##fica playa , unos bare ##s est ##upe ##ndos , un personal muy ama ##bles y aten ##tos , buena comida , buenos restaurante ##s , un lugar para rec ##omen ##dar ##lo .
+Expected: playa ; mag ##ni ##fica ; POS | restaurante ##s ; buenos ; POS | unos bare ##s ; est ##upe ##ndos ; POS | comida ; buena ; POS | un personal ; aten ##tos ; POS | un personal ; muy ama ##bles ; POS | un lugar ; para rec ##omen ##dar ##lo ; POS | el gran bahia principe amb ##ar ; mere ##ce la pena ; POS
+Predicted: bahia principe amb ##ar ; el gran ; POS ; 0.9313915 | un hotel ; mere ##ce la pena visitar ##lo ; POS ; 0.94089735 | playa ; mag ##ni ##fica ; POS ; 0.9982681 | unos bare ##s ; est ##upe ##ndos ; POS ; 0.99744534 | un personal ; muy ama ##bles ; POS ; 0.9928544 | un personal ; muy ama ##bles y aten ##tos ; POS ; 0.96087724 | un personal ; buena ; POS ; 0.88936794 | un lugar ; buena ; POS ; 0.78174406
+
+muy des ##con ##tent ##o con la piscina y zona solar ##ium
+Expected: la piscina ; muy des ##con ##tent ##o ; NEG | zona solar ##ium ; muy des ##con ##tent ##o ; NEG
+Predicted: la piscina ; muy des ##con ##tent ##o ; POS ; 0.87490195 | zona ; muy des ##con ##tent ##o ; POS ; 0.9381654
+
+en general no despre ##cio el hotel , esta muy bien ubicado , el edificio es de fachada muy bon ##ita y muy buen aspecto , esta bien cuidado / reforma ##do .
+Expected: fachada ; muy bon ##ita ; POS | fachada ; muy buen aspecto ; POS | el hotel ; no despre ##cio ; POS
+Predicted: el hotel ; muy bien ubicado ; POS ; 0.9205128 | ubicado ; muy bon ##ita ; POS ; 0.9754297 | el edificio ; muy bon ##ita ; POS ; 0.97008866 | aspecto ; muy buen ; POS ; 0.9589876 | aspecto ; bien cuidado / reforma ##do ; POS ; 0.49936876
+
+la habitacion muy bien con bal ##con / mira ##dor a g . via . ele ##gi este hotel y no otros , dec ##idi ##endo pagar un poco mas , por la piscina , pero es tan pequena tanto la piscina como la zona donde esta en la az ##otea que hay que pe ##dir reserva para estar ahi .
+Expected: la piscina ; tan pequena ; NEG | la habitacion ; con bal ##con / mira ##dor a g . via . ; POS | la habitacion ; muy bien ; POS | la piscina ; hay que pe ##dir reserva ; NEG | la zona donde esta ; hay que pe ##dir reserva ; NEG
+Predicted: la habitacion ; muy bien ; POS ; 0.9153342 | bal ##con / mira ##dor ; dec ##idi ##endo pagar un poco mas ; POS ; 0.6352222 | este hotel ; dec ##idi ##endo pagar un poco mas ; NEG ; 0.64574033 | la piscina ; tan pequena ; NEG ; 0.75041467 | la zona ; hay que pe ##dir ; NEG ; 0.41119474
+
+no ex ##igo una olimpica , pero es que es un pasi ##llo alrededor de la piscina que apenas cabe ##s anda ##ndo y con apenas dos ham ##aca ##s , y claro es un hotel muy grande para tan poca piscina .
+Expected: piscina ; tan poca ; NEG | un hotel ; muy grande ; POS | un pasi ##llo alrededor de la piscina ; apenas cabe ##s anda ##ndo ; NEG | dos ham ##aca ##s ; con apenas ; NEG
+Predicted: una olimpica ; no ex ##igo ; NEG ; 0.93532896 | un pasi ##llo ; alrededor de la piscina ; NEG ; 0.7050798 | dos ham ##aca ##s ; apenas ; NEG ; 0.6949583 | un hotel ; tan poca ; NEG ; 0.51226306
+
+hotel de ens ##uen ##os , un paraiso en el paraiso mismo
+Expected: hotel ; de ens ##uen ##os ; POS | hotel ; un paraiso ; POS
+Predicted: hotel ; de ens ##uen ##os ; POS ; 0.7185496 | un paraiso ; en el paraiso mismo ; POS ; 0.8779119
+
+est ##ubi ##mos 7 dias que fueron mara ##vil ##los ##os , nos hicieron sentir como reyes en todo momento , lo rec ##omi ##endo y si vol ##viera a punta cana , sin duda ##s ele ##giri ##a este hotel . . . ag ##rade ##zco a todo el personal por las atencion ##es reci ##bidas ,
+Expected: este hotel ; sin duda ##s ele ##giri ##a ; POS | mara ##vil ##los ##os ; rec ##omi ##endo ; POS | 7 dias ; mara ##vil ##los ##os ; POS
+Predicted: 7 dias ; mara ##vil ##los ##os ; POS ; 0.9746629 | este hotel ; rec ##omi ##endo ; POS ; 0.96624506
+
+nuestra decision al ele ##gir este hotel fue acer ##tada . sin duda rep ##eti ##remo ##s . ac ##onse ##jo proba ##r el spa . a nos ##otros nos pare ##cio super · re ##la ##jante despues de un dia de visita a la ciudad . tambien ac ##onse ##jo soli ##cita ##r todo lo que se nece ##site . lo sub ##en al momento . tanto el personal de lim ##pie ##za como el de rece ##pcion muy aten ##tos y servi ##cial ##es . tiene en el mi ##ini ##bar 4 aguas y 2 pep ##sis gratuit ##as y tambien un cale ##ntado ##r de agua y cafe ##s e inf ##usion ##es .
+Expected: el spa . ; super · re ##la ##jante ; POS | todo lo que se nece ##site . ; lo sub ##en al momento . ; POS | el personal de lim ##pie ##za ; servi ##cial ##es . ; POS | el de rece ##pcion ; servi ##cial ##es . ; POS | el personal de lim ##pie ##za ; muy aten ##tos ; POS | el de rece ##pcion ; muy aten ##tos ; POS | un cale ##ntado ##r de agua ; tiene ; POS | mi ##ini ##bar ; tiene ; POS | cafe ##s ; tiene ; POS | inf ##usion ##es ; tiene ; POS | nuestra decision ; fue acer ##tada . ; POS
+Predicted: nuestra decision al ele ##gir este hotel ; fue acer ##tada ; POS ; 0.8575192 | el spa ; proba ##r ; POS ; 0.89989 | el spa ; super · re ##la ##jante ; POS ; 0.76931745 | el personal de lim ##pie ##za ; ac ##onse ##jo ; POS ; 0.76577955 | el de rece ##pcion ; tiene ; POS ; 0.87809646 | inf ##usion ##es ; tiene ; POS ; 0.68568593
+
+este mes de agosto visita ##mos barcelona , eram ##os un grupo familiar de 20 personas incluidos ninos y personas mayores , el hotel nos resulto como ##do y lim ##pio , tambien nos en ##cant ##o el spa , y la piscina de la az ##otea resulto de gran util ##idad para los ninos .
+Expected: el spa ; en ##cant ##o ; POS | el hotel ; resulto como ##do ; POS | el hotel ; lim ##pio ; POS | la piscina de la az ##otea ; resulto de gran util ##idad para los ninos ; POS
+Predicted: un grupo familiar de 20 personas ; como ##do ; POS ; 0.99755436 | un grupo familiar de 20 personas incluidos ninos ; como ##do ; POS ; 0.9946861 | el hotel ; lim ##pio ; POS ; 0.99631125 | el spa ; en ##cant ##o ; POS ; 0.98388135 | la piscina de la az ##otea ; en ##cant ##o ; POS ; 0.9468721 | la piscina de la az ##otea ; gran util ##idad ; POS ; 0.7763294
+
+la atencion un desastre
+Expected: la atencion ; un desastre ; NEG
+Predicted: la atencion ; un desastre ; POS ; 0.6009208
+
+que personal mas mal edu ##cado , poco servi ##cial y orient ##ado al cliente extra ##jero , parece que todos esta ##mos ob ##ligado ##s a entender ##los a ellos . aparte con lo car ##iii ##iii ##simo que es ni queria ##s un ce ##pil ##lo de diente ##s o cualquier otra amin ##ity tenia ##s una maquina ex ##pende ##dora . . . . que no funciona ##ba sin libr ##as logica ##mente . unis borde ##s , car ##isi ##mo y mal situado
+Expected: personal ; mal edu ##cado ; NEG | personal ; poco servi ##cial y orient ##ado al cliente extra ##jero ; NEG
+Predicted: que personal ; mas mal edu ##cado ; POS ; 0.6103781 | que personal ; poco servi ##cial ; NEG ; 0.60290337 | cliente extra ##jero ; orient ##ado ; POS ; 0.91066074
+
+iba ##mos al musical del rey leon , el teatro esta en ##fre ##nte del hotel .
+Expected: el teatro ; esta en ##fre ##nte del hotel ; POS
+Predicted: al musical del rey leon ; en ##fre ##nte del hotel ; POS ; 0.9867814 | hotel ; en ##fre ##nte ; POS ; 0.90606844
+
+buena situacion .
+Expected: situacion ; buena ; POS
+Predicted: situacion ; buena ; POS ; 0.99904245
+
+personal ag ##rada ##ble .
+Expected: personal ; ag ##rada ##ble ; POS
+Predicted: personal ; ag ##rada ##ble ; POS ; 0.9997968
+
+habitacion ##es amplia ##s y bien ins ##onor ##izada ##s . el desa ##yu ##no bien sur ##tido , aunque el lugar donde se sirve es poco amplio .
+Expected: el lugar donde se sirve ; es poco amplio ; NEG | el desa ##yu ##no ; bien sur ##tido ; POS | habitacion ##es ; bien ins ##onor ##izada ##s . ; POS | habitacion ##es ; amplia ##s ; POS
+Predicted: habitacion ##es ; amplia ##s ; POS ; 0.9769164 | habitacion ##es ; bien ins ##onor ##izada ##s ; POS ; 0.9559875 | el desa ##yu ##no ; bien sur ##tido ; POS ; 0.8961938 | el lugar ; poco amplio ; POS ; 0.67763954
+
+hotel ' mac ##ro ' con dos edificio ##nes en cada lado de la calle , con un uso muy marcado por los clientes de negocios hace que la relacion con el cliente care ##zca del nivel de personal ##izacion que se esperar ##ia en un lugar de esa categoria .
+Expected: la relacion con el cliente ; care ##zca del nivel de personal ##izacion ; NEG
+Predicted: hotel ; mac ##ro ; NEG ; 0.97441286 | dos edificio ##nes ; en cada lado de la calle ; POS ; 0.68647903 | un uso ; muy marcado ; NEG ; 0.65988
+
+en concreto , la seleccion del tipo de habitacion ( cama , conexion wi ##fi ) no es posible .
+Expected: la seleccion del tipo de habitacion ; no es posible ; NEG
+Predicted: la seleccion del tipo de habitacion ; no es posible ; POS ; 0.70127624 | conexion wi ##fi ; no es posible ; NEG ; 0.5551216
+
+muy buena relacion calidad · precio
+Expected: relacion calidad · precio ; muy buena ; POS
+Predicted: relacion calidad · precio ; muy buena ; POS ; 0.99889886
+
+realmente el hotel esta muy bien ubicado , el lobby del hotel no sor ##pre ##nte mucho pero lo complement ##a con las habitacion ##es que son amplia ##s , como ##das y lim ##pia ##s , te incluia un mini ##bar gratuit ##o que pocos hotel ##es lo ofrece ##n , el desa ##yu ##no es ace ##pta ##ble
+Expected: el lobby del hotel ; no sor ##pre ##nte mucho ; NEG | las habitacion ##es ; como ##das ; POS | las habitacion ##es ; lim ##pia ##s ; POS | las habitacion ##es ; son amplia ##s ; POS | mini ##bar ; que pocos hotel ##es lo ofrece ##n ; POS | mini ##bar ; te incluia ; POS | mini ##bar ; gratuit ##o ; POS | el desa ##yu ##no ; es ace ##pta ##ble ; POS | el hotel ; esta muy bien ubicado ; POS
+Predicted: el hotel ; muy bien ubicado ; POS ; 0.9940784 | el lobby ; no sor ##pre ##nte mucho ; NEG ; 0.8696937 | las habitacion ##es ; amplia ##s ; POS ; 0.99259406 | las habitacion ##es ; como ##das ; POS ; 0.9926682 | las habitacion ##es ; lim ##pia ##s ; POS ; 0.9323391 | el desa ##yu ##no ; ace ##pta ##ble ; POS ; 0.84560835
+
+des ##cans ##o , mb comida y servicio .
+Expected: comida ; mb ; POS | servicio ; mb ; POS
+Predicted: des ##cans ##o ; servicio ; POS ; 0.9968453 | mb comida ; servicio ; POS ; 0.97600865 | servicio ; des ##cans ##o ; POS ; 0.6233563
+
+excelente ##s instalaciones , servicio , entre ##teni ##miento , comida , atencion en general .
+Expected: entre ##teni ##miento ; excelente ##s ; POS | comida ; excelente ##s ; POS | atencion ; excelente ##s ; POS | servicio ; excelente ##s ; POS | instalaciones ; excelente ##s ; POS
+Predicted: instalaciones ; excelente ##s ; POS ; 0.9998534 | servicio ; excelente ##s ; POS ; 0.94986343 | entre ##teni ##miento ; excelente ##s ; POS ; 0.95082295 | atencion ; excelente ##s ; POS ; 0.5402377
+
+llegando a la mad ##ruga ##da no hubo indica ##cion con ##cre ##ta ni ac ##om ##pana ##miento de personal para poder encontrar rapidamente las habitacion ##es en seme ##jante complejo des ##cono ##cido para los hue ##sp ##edes .
+Expected: indica ##cion con ##cre ##ta ni ac ##om ##pana ##miento de personal ; llegando a la mad ##ruga ##da no hubo ; NEG | seme ##jante complejo ; des ##cono ##cido para los hue ##sp ##edes ; NEG
+Predicted: indica ##cion con ##cre ##ta ; no hubo ; NEG ; 0.5674086 | las habitacion ##es ; en seme ##jante complejo des ##cono ##cido ; NEG ; 0.36737183
+
+me gusto la habitacion en general poder apa ##rca ##r el coche en la puerta .
+Expected: la habitacion ; gusto ; POS
+Predicted: la habitacion ; gusto ; POS ; 0.9828631
+
+me sor ##pre ##ndio que en el hotel no se oy ##e absolutam ##ente nada , ni la auto ##via ni el aeropuerto realmente se puede des ##cans ##ar .
+Expected: hotel ; no se oy ##e absolutam ##ente nada ; POS | des ##cans ##ar ; realmente se puede ; POS
+Predicted: el hotel ; sor ##pre ##ndio ; POS ; 0.5343745 | la auto ##via ; realmente se puede des ##cans ##ar ; POS ; 0.5994049
+
+el ban ##o es inc ##rei ##ble , y los amenities de as ##eo muy buenos .
+Expected: el ban ##o ; inc ##rei ##ble ; POS | los amenities de as ##eo ; muy buenos ; POS
+Predicted: el ban ##o ; inc ##rei ##ble ; POS ; 0.9983169 | los amenities de as ##eo ; muy buenos ; POS ; 0.9968317
+
+fu ##i porque tenia evento en if ##ema y el hotel esta literalmente a 5 minutos de if ##ema , excelente por ese aspecto .
+Expected: if ##ema ; a 5 minutos ; POS | ese aspecto ; excelente ; POS
+Predicted: evento en if ##ema ; literalmente a 5 minutos ; POS ; 0.9690249 | if ##ema ; a 5 minutos ; POS ; 0.9607367
+
+no me gusto la cama , demasiado dura , de muell ##es , deberia ##n poner ##le algo de vis ##cola ##stica para des ##cans ##ar mejor , ten ##go una her ##nia disc ##al y la cama me hizo des ##pert ##ar todos los dias con dolor en la esp ##ald ##a y el cu ##ello .
+Expected: la cama ; demasiado dura ; NEG | la cama ; de muell ##es ; NEG
+Predicted: la cama ; gusto ; NEG ; 0.8089885 | la cama ; demasiado dura ; NEG ; 0.8432869
+
+no me gusto que el wi ##fi en las habitacion ##es sea de pago y los desa ##yu ##nos son muy caro ##s .
+Expected: los desa ##yu ##nos ; muy caro ##s ; NEG | el wi ##fi ; de pago ; NEG
+Predicted: el wi ##fi ; sea de pago ; POS ; 0.6864377 | los desa ##yu ##nos ; muy caro ##s ; POS ; 0.8327777
+
+estancia sati ##sf ##ac ##toria en todos los sentido ##s
+Expected: estancia ; sati ##sf ##ac ##toria ; POS
+Predicted: estancia ; sati ##sf ##ac ##toria ; POS ; 0.9994746
+
+pasa ##mos la noche del 20 de agosto del 2012 en este hotel , lo ele ##gi ##mos por su cerca ##nia al estadio de futbol del barca , en cuanto a la localizacion est ##upe ##nda , el personal del hotel en ##cant ##ador y edu ##cado , las instalaciones muy buenas , cuidado y mantenimiento est ##upe ##ndo , sin duda un buen hotel en barcelona . ah y el desa ##yu ##no bu ##ffet fenomen ##al
+Expected: la localizacion ; est ##upe ##nda ; POS | el personal ; edu ##cado ; POS | el personal ; en ##cant ##ador ; POS | las instalaciones ; muy buenas ; POS | hotel ; buenas ; POS | cuidado ; est ##upe ##ndo ; POS | mantenimiento ; est ##upe ##ndo ; POS | el desa ##yu ##no bu ##ffet ; fenomen ##al ; POS | al estadio de futbol del barca ; cerca ##nia ; POS
+Predicted: estadio de futbol del barca ; cerca ##nia ; POS ; 0.99644816 | el personal del hotel ; est ##upe ##nda ; POS ; 0.992339 | el personal del hotel ; edu ##cado ; POS ; 0.9976419 | las instalaciones ; muy buenas ; POS ; 0.9759403 | mantenimiento ; muy buenas ; POS ; 0.9193841 | mantenimiento ; est ##upe ##ndo ; POS ; 0.8423804 | el desa ##yu ##no bu ##ffet ; est ##upe ##ndo ; POS ; 0.6877698
+
+la habitacion a pesar de la cama sup ##leto ##ria de buen tamano .
+Expected: la cama sup ##leto ##ria ; de buen tamano ; POS | la habitacion ; de buen tamano ; POS
+Predicted: la habitacion ; a pesar de la cama sup ##leto ##ria ; POS ; 0.8276543 | la cama ; buen tamano ; POS ; 0.9363622
+
+lim ##pio y las cama ##s con ##fort ##ables . su ubicacion para acceder al centro es muy buena .
+Expected: ubicacion ; muy buena ; POS | las cama ##s ; con ##fort ##ables . su ; POS
+Predicted: las cama ##s ; lim ##pio ; POS ; 0.9342591 | las cama ##s ; con ##fort ##ables ; POS ; 0.9486301 | su ubicacion para acceder al centro ; muy buena ; POS ; 0.59659773
+
+tuvieron con nos ##otros el det ##alle de una bote ##lla de cava . . . . siguen cui ##dan ##do los detalles en esta cadena .
+Expected: el det ##alle de una bote ##lla de cava ; tuvieron ; POS | los detalles ; siguen cui ##dan ##do ; POS
+Predicted: el det ##alle de una bote ##lla de cava ; tuvieron ; POS ; 0.97913957 | los detalles en esta cadena ; siguen cui ##dan ##do ; POS ; 0.596447
+
+el desa ##yu ##no el resto de los dias geni ##al el bu ##ffet .
+Expected: el desa ##yu ##no ; geni ##al ; POS | el bu ##ffet ; geni ##al ; POS
+Predicted: el bu ##ffet ; geni ##al ; POS ; 0.9975641
+
+lo unico el zum ##o no era natural , cosa que en cafe ##teria si lo fue .
+Expected: el zum ##o ; no era natural ; NEG
+Predicted: el zum ##o ; no era natural ; NEG ; 0.85237825
+
+no se puede poner un pero a este hotel .
+Expected: este hotel ; no se puede poner un pero ; POS
+Predicted: un pero ; no se puede poner ; NEG ; 0.9879808
+
+buena ubicacion
+Expected: ubicacion ; buena ; POS
+Predicted: ubicacion ; buena ; POS ; 0.99978346
+
+siempre que via ##jam ##os a madrid nos al ##oja ##mos en este hotel , la ubicacion es in ##me ##jor ##able .
+Expected: la ubicacion ; es in ##me ##jor ##able ; POS
+Predicted: la ubicacion ; in ##me ##jor ##able ; POS ; 0.9846808
+
+el personal es muy aten ##to y siempre dis ##pue ##sto a ayudar , se mere ##ce una rece ##pcion mas amplia y lu ##mino ##sa .
+Expected: el personal ; es muy aten ##to ; POS | el personal ; siempre dis ##pue ##sto a ayudar ; POS | una rece ##pcion mas amplia y lu ##mino ##sa ; se mere ##ce ; NEG
+Predicted: el personal ; muy aten ##to ; POS ; 0.99973434 | el personal ; siempre dis ##pue ##sto a ayudar ; POS ; 0.99647045 | una rece ##pcion ; se mere ##ce ; POS ; 0.9948317 | una rece ##pcion ; lu ##mino ##sa ; POS ; 0.96417224
+
+las habitacion ##es muy lim ##pia ##s y el det ##alle de los nordic ##os muy con ##fort ##ables .
+Expected: los nordic ##os ; muy con ##fort ##ables ; POS | las habitacion ##es ; muy lim ##pia ##s ; POS
+Predicted: las habitacion ##es ; muy lim ##pia ##s ; POS ; 0.9854092 | el det ##alle de los nordic ##os ; muy con ##fort ##ables ; POS ; 0.97954637
+
+en la actualidad estan re ##hab ##ili ##tando la fachada , no estaria mal que en un futuro continuar ##an con los ban ##os ju ##bila ##ndo las bane ##ras que algun dia les van a dar un dis ##gust ##o y las cortina ##s del ban ##o .
+Expected: la fachada ; estan re ##hab ##ili ##tando ; POS | las cortina ##s del ban ##o ; ju ##bila ##ndo ; NEG | las bane ##ras ; ju ##bila ##ndo ; NEG
+Predicted: la fachada ; re ##hab ##ili ##tando ; POS ; 0.9259485 | la fachada ; ju ##bila ##ndo ; NEG ; 0.6416996 | las bane ##ras ; ju ##bila ##ndo ; NEG ; 0.61229026
+
+un hotel ideal para es ##cap ##adas urbana ##s .
+Expected: un hotel ; ideal para es ##cap ##adas urbana ##s ; POS
+Predicted: un hotel ; ideal ; POS ; 0.88015103
+
+el hotel esta situado a unas cuatro man ##zana ##s de la estacion de arc de trio ##m ##f y a unas tres de la parada de marina .
+Expected: la parada de marina ; a unas tres ; POS | la estacion de arc de trio ##m ##f ; a unas cuatro man ##zana ##s ; POS
+Predicted: la estacion de arc de trio ##m ##f ; a unas cuatro man ##zana ##s ; POS ; 0.92903787 | la parada de marina ; a unas tres ; POS ; 0.8355409
+
+muy cerca tambien de la estacio del nord , el arco del triunfo y el parc de la ciudad ##ela .
+Expected: el parc de la ciudad ##ela ; muy cerca ; POS | el arco del triunfo ; muy cerca ; POS | la estacio del nord ; muy cerca ; POS
+Predicted: la estacio del nord ; muy cerca ; POS ; 0.9923097 | el arco del triunfo ; muy cerca ; POS ; 0.95310414 | el parc de la ciudad ##ela ; muy cerca ; POS ; 0.7385197
+
+el hotel como todos los de la cadena esta hab ##ili ##tado para minus ##vali ##dos .
+Expected: el hotel ; hab ##ili ##tado para minus ##vali ##dos ; POS
+Predicted: el hotel ; hab ##ili ##tado para minus ##vali ##dos ; POS ; 0.9926087
+
+las habitacion ##es son amplia ##s , el mobil ##iar ##io es moderno y funcional , poseen tv de pantalla plana , via satelite , caja de seguridad .
+Expected: las habitacion ##es ; amplia ##s ; POS | el mobil ##iar ##io ; funcional ; POS | el mobil ##iar ##io ; moderno ; POS
+Predicted: las habitacion ##es ; amplia ##s ; POS ; 0.99710387 | el mobil ##iar ##io ; moderno ; POS ; 0.9984705 | el mobil ##iar ##io ; funcional ; POS ; 0.9897565 | tv de pantalla plana ; poseen ; POS ; 0.9932423 | caja de seguridad ; poseen ; POS ; 0.93581814
+
+hay wi ##fi en todo el hotel .
+Expected: wi ##fi ; hay ; POS
+Predicted: wi ##fi ; hay ; POS ; 0.9987539
+
+el desa ##yu ##no esta muy bien , en el nivel del hotel .
+Expected: el desa ##yu ##no ; muy bien ; POS
+Predicted: el desa ##yu ##no ; muy bien ; POS ; 0.99811757
+
+excelente hotel con servicio y calidad so ##fit ##el .
+Expected: servicio ; so ##fit ##el ; POS | calidad ; so ##fit ##el ; POS | hotel ; excelente ; POS
+Predicted: hotel ; excelente ; POS ; 0.99971837 | hotel con servicio ; excelente ; POS ; 0.9145366 | calidad so ##fit ##el ; excelente ; POS ; 0.7097349
+
+ubicacion excelente en roma , cerca de muchos puntos turistico ##s .
+Expected: muchos puntos turistico ##s ; cerca ; POS | ubicacion ; excelente ; POS
+Predicted: ubicacion ; excelente ; POS ; 0.9982559 | muchos puntos turistico ##s ; cerca ; POS ; 0.99647105
+
+ademas tiene una buena vista del vaticano .
+Expected: vista del vaticano ; buena ; POS
+Predicted: vista del vaticano ; buena ; POS ; 0.99982363
+
+tran ##qui ##lo , lu ##jos ##o y con una terra ##za perfect ##a .
+Expected: una terra ##za ; tran ##qui ##lo ; POS | una terra ##za ; lu ##jos ##o ; POS | una terra ##za ; perfect ##a ; POS
+Predicted: lu ##jos ##o y con una terra ##za ; tran ##qui ##lo ; POS ; 0.99726933 | tran ##qui ##lo ; lu ##jos ##o ; POS ; 0.99712926 | una terra ##za ; perfect ##a ; POS ; 0.99401
+
+eleccion facil para la proxima visita a roma .
+Expected: eleccion ; facil ; POS
+Predicted: la proxima visita a roma ; facil ; POS ; 0.91898006
+
+el hotel de mis sueno ##s
+Expected: el hotel ; de mis sueno ##s ; POS
+Predicted: el hotel ; de mis sueno ##s ; POS ; 0.9117536
+
+hem ##os vue ##lto a rep ##eti ##r la estancia en este hotel porque me en ##cant ##a su situacion
+Expected: su situacion ; en ##cant ##a ; POS
+Predicted: su situacion ; en ##cant ##a ; POS ; 0.9930227
+
+esta cerca de todo teatro ##s , cine ##s , plaza mayor , sol , tienda ##s , museo ##s yo fu ##i anda ##ndo a todos lados congreso de los diputados nep ##tun ##o , ci ##bele ##s .
+Expected: sol ; cerca ; POS | tienda ##s ; cerca ; POS | plaza mayor ; cerca ; POS | museo ##s ; cerca ; POS | teatro ##s ; cerca ; POS | de todo ; cerca ; POS | ci ##bele ##s ; fu ##i anda ##ndo ; POS | congreso de los diputados ; fu ##i anda ##ndo ; POS | a todos lados ; fu ##i anda ##ndo ; POS | nep ##tun ##o ; fu ##i anda ##ndo ; POS
+Predicted: todo teatro ##s ; cerca ; POS ; 0.99568236 | cine ##s ; esta cerca ; POS ; 0.9813023 | plaza mayor ; esta cerca ; POS ; 0.9857663 | sol , tienda ##s ; esta cerca ; POS ; 0.9257825 | ci ##bele ##s ; anda ##ndo a todos lados ; POS ; 0.6940182
+
+me en ##cant ##o ver ##lo todo eso .
+Expected: ver ##lo todo eso ; en ##cant ##o ; POS
+Predicted: todo eso ; en ##cant ##o ; POS ; 0.9964059
+
+via ##jam ##os en noviembre , excelente ##s vaca ##ciones .
+Expected: vaca ##ciones ; excelente ##s ; POS
+Predicted: vaca ##ciones ; excelente ##s ; POS ; 0.99953127
+
+el hotel es muy bon ##ito y esta situado en una zona precio ##sa de coco ##tero ##s en la playa de uv ##ero alto .
+Expected: zona ; precio ##sa ; POS | el hotel ; muy bon ##ito ; POS
+Predicted: el hotel ; muy bon ##ito ; POS ; 0.99357325 | una zona ; precio ##sa ; POS ; 0.9628387
+
+las habitacion ##es estan muy bien , lo mejor la zona de playa y piscina .
+Expected: las habitacion ##es ; muy bien ; POS | zona de playa ; lo mejor ; POS | piscina ; lo mejor ; POS
+Predicted: las habitacion ##es ; muy bien ; POS ; 0.9846464 | la zona de playa ; lo mejor ; POS ; 0.8839492
+
+el servicio es excelente !
+Expected: el servicio ; excelente ! ; POS
+Predicted: el servicio ; excelente ; POS ; 0.9999769
+
+el hotel creo que tiene las habitacion ##es un pelin pequenas la lim ##pie ##za es bastante buena en el desa ##yu ##no creo que es un poco es ##cas ##o y muy caro para lo que es
+Expected: la lim ##pie ##za ; bastante buena ; POS | el desa ##yu ##no ; un poco es ##cas ##o ; NEG | el desa ##yu ##no ; muy caro ; NEG | las habitacion ##es ; pelin pequenas ; NEG
+Predicted: las habitacion ##es ; un pelin pequenas ; NEG ; 0.6900367 | la lim ##pie ##za ; bastante buena ; POS ; 0.64565164 | el desa ##yu ##no ; muy caro ; POS ; 0.75854486
+
+realmente el hotel es un aut ##enti ##co desastre lo unico bueno son los jardines que estan muy bien cuidado ##s lo demas desa ##stro ##so , cuc ##arach ##as , vas ##os de plastic ##os reci ##cla ##dos de unos a otros , la comida es mala , y las instalaciones se caen . . . . hor ##rib ##le de verdad ha sido una desi ##lusi ##on .
+Expected: lo demas ; desa ##stro ##so ; NEG | la comida ; mala ; NEG | las instalaciones ; se caen ; NEG | el hotel ; un aut ##enti ##co desastre ; NEG | los jardines ; muy bien cuidado ##s ; POS | los jardines ; lo unico bueno ; POS
+Predicted: el hotel ; un aut ##enti ##co ; POS ; 0.67469966 | los jardines ; muy bien cuidado ##s ; POS ; 0.6840547 | cuc ##arach ##as ; desa ##stro ##so ; NEG ; 0.619655 | las instalaciones ; mala ; NEG ; 0.8859253 | las instalaciones ; se caen ; NEG ; 0.7242866
+
+hay muchos hotel ##es alrededor no es ##co ##jai ##s este , yo no me cr ##ei los comentarios y se quedan corto ##s . malo mali ##simo
+Expected: este ; no es ##co ##jai ##s ; NEG | los comentarios ; se quedan corto ##s . ; NEG
+Predicted: muchos hotel ##es alrededor ; hay ; POS ; 0.91060996
+
+el hotel es moderno , como ##do , funcional .
+Expected: el hotel ; como ##do ; POS | el hotel ; funcional ; POS | el hotel ; moderno ; POS
+Predicted: el hotel ; moderno ; POS ; 0.99820125 | el hotel ; funcional ; POS ; 0.99047905
+
+da verdadero gusto llegar y re ##la ##jar ##te en la espacios ##a habitacion decor ##ada con verdadero es ##mero de modo minimal ##ista pero como ##do .
+Expected: habitacion ; decor ##ada con verdadero es ##mero ; POS | habitacion ; espacios ##a ; POS | habitacion ; como ##do ; POS
+Predicted: la espacios ##a habitacion ; da verdadero gusto ; POS ; 0.8435964 | habitacion ; espacios ##a ; POS ; 0.9761317 | habitacion ; como ##do ; POS ; 0.9253344
+
+el trato en rece ##pcion no es bueno , es excelente , ins ##upe ##rable .
+Expected: el trato en rece ##pcion ; excelente ; POS | el trato en rece ##pcion ; ins ##upe ##rable ; POS | el trato en rece ##pcion ; no es bueno ; NEG
+Predicted: el trato en rece ##pcion ; no es bueno ; POS ; 0.85691917 | el trato en rece ##pcion ; excelente ; POS ; 0.89480835
+
+el gran problema de este hotel es la restauracion : el servicio de habitacion ##es es muy lento y no sirve ##n lo que se les ha pedido (
+Expected: el servicio de habitacion ##es ; muy lento ; NEG | la restauracion ; el gran problema ; NEG | lo que se les ha pedido ; no sirve ##n ; NEG
+Predicted: la restauracion ; el gran problema ; NEG ; 0.98923945 | el servicio de habitacion ##es ; muy lento ; NEG ; 0.9525433 | lo ; no sirve ##n ; NEG ; 0.633997
+
+un poco de inversion en formacion en idiomas vend ##ria mag ##ni ##fica ##mente a este excelente hotel .
+Expected: inversion en formacion en idiomas ; vend ##ria mag ##ni ##fica ##mente ; NEG | hotel ; excelente ; POS
+Predicted: inversion en formacion en idiomas ; un poco de ; POS ; 0.96219283 | hotel ; excelente ; POS ; 0.95674616
+
+hotel bueno
+Expected: hotel ; bueno ; POS
+Predicted: hotel ; bueno ; POS ; 0.8809765
+
+la verdad que en el hotel que est ##ube fue nada mas que para re ##la ##jar ##me de mi trabajo y re ##la ##jar ##me un poco y en ese aspecto esto ##y muy como ##do no lo rec ##omi ##endo para familias , si para parejas o si estas solo 1 salud ##o !
+Expected: lo ; rec ##omi ##endo para familias ; NEG | lo ; si para parejas ; POS | lo ; no ; NEG | lo ; si estas solo ; POS
+Predicted: el hotel que est ##ube ; nada mas ; NEG ; 0.7277045
+
+muy buena relacion calidad · precio
+Expected: relacion calidad · precio ; muy buena ; POS
+Predicted: relacion calidad · precio ; muy buena ; POS ; 0.99889225
+
+hem ##os queda ##do muy sati ##sf ##ech ##os con la relacion calidad precio del hotel .
+Expected: relacion calidad precio ; muy sati ##sf ##ech ##os ; POS
+Predicted: la relacion calidad precio ; muy sati ##sf ##ech ##os ; POS ; 0.99389243
+
+personal muy ama ##ble y aten ##to , mini ##bar gratuit ##o ( be ##bidas no alcohol ##icas ) , bande ##ja de inf ##usion ##es y cafe en la habitacion ( gratuit ##o ) , est ##upe ##ndo spa , muy tran ##qui ##lo ( no se es ##cu ##cha nada de rui ##do ) y linea de metro cercana para los des ##pla ##zamiento ##s por la ciudad .
+Expected: spa ; est ##upe ##ndo ; POS | personal ; muy ama ##ble ; POS | personal ; aten ##to ; POS | bande ##ja de inf ##usion ##es y cafe ; gratuit ##o ; POS | mini ##bar ; gratuit ##o ; POS | linea de metro ; cercana ; POS
+Predicted: personal ; muy ama ##ble ; POS ; 0.9928766 | personal ; aten ##to ; POS ; 0.99097896 | mini ##bar ; gratuit ##o ; POS ; 0.98846066 | bande ##ja de inf ##usion ##es ; est ##upe ##ndo ; POS ; 0.96064746 | spa ; est ##upe ##ndo ; POS ; 0.840552 | linea de metro ; est ##upe ##ndo ; POS ; 0.65909827
+
+lo mejor el spa
+Expected: el spa ; lo mejor ; POS
+Predicted: el spa ; lo mejor ; POS ; 0.99040717
+
+hotel situado al lado del nou camp , no esta centri ##co , pero tiene ##s una parada de metro a 10 minutos anda ##ndo y dos autobus ##es en ##fre ##nte .
+Expected: dos autobus ##es ; en ##fre ##nte ; POS | una parada de metro ; tiene ##s ; POS | una parada de metro ; a 10 minutos anda ##ndo ; POS | del nou camp ; al lado ; POS
+Predicted: nou camp ; al lado ; POS ; 0.927365 | nou camp ; no esta centri ##co ; NEG ; 0.63647676 | una parada de metro ; a 10 minutos anda ##ndo ; POS ; 0.9475639 | dos autobus ##es ; en ##fre ##nte ; POS ; 0.8916798
+
+cama ##s de 1 , 05 bastante usadas , destacar el desa ##yu ##no , pese a que habia toda la variedad de otros hotel ##es playa , era es ##cas ##isi ##mo , el fia ##mbre y el que ##so corta ##do muy , muy fino , pone ##n una bote ##lla de cava que no rep ##onen cuando se acaba , el agua tambien tiene ##s que estar men ##digan ##do que te den otra bote ##lla . el spa muy bon ##ito y muy cuidado , la rece ##pcion muy aten ##tos , tuvieron el det ##alle de no cobra ##r nada por dejar unas horas mas el coche en el gara ##je .
+Expected: la rece ##pcion ; muy aten ##tos ; POS | una bote ##lla de cava ; pone ##n ; POS | una bote ##lla de cava ; que no rep ##onen cuando se acaba ; NEG | cama ##s de 1 , 05 ; bastante usadas ; NEG | por dejar unas horas mas el coche en el gara ##je ; no cobra ##r nada ; POS | el agua ; tambien tiene ##s que estar men ##digan ##do ; NEG | el desa ##yu ##no ; habia toda la variedad de otros hotel ##es playa ; POS | el desa ##yu ##no ; era es ##cas ##isi ##mo ; NEG | el fia ##mbre ; corta ##do muy , muy fino ; NEG | el que ##so ; corta ##do muy , muy fino ; NEG | el spa ; muy bon ##ito ; POS | el spa ; muy cuidado ; POS
+Predicted: cama ##s ; bastante usadas ; POS ; 0.5658332 | el desa ##yu ##no ; destacar ; POS ; 0.5571373 | el desa ##yu ##no ; es ##cas ##isi ##mo ; NEG ; 0.8845631 | el fia ##mbre ; es ##cas ##isi ##mo ; NEG ; 0.6760811 | el que ##so ; muy fino ; NEG ; 0.67973924 | el que ##so ; pone ##n ; NEG ; 0.61338115 | una bote ##lla de cava ; pone ##n ; NEG ; 0.46166164 | una bote ##lla de cava ; pone ##n ; POS ; 0.4456721 | una bote ##lla de cava ; muy cuidado , la rece ##pcion muy aten ##tos ; POS ; 0.46253726
+
+un hotel con muy buena rece ##pcion y servicios
+Expected: rece ##pcion ; muy buena ; POS | servicios ; muy buena ; POS
+Predicted: un hotel ; muy buena ; POS ; 0.99946636 | servicios ; muy buena ; POS ; 0.695856
+
+fu ##i con el conocimiento de que es un hotel de 4 estrellas y por ello sabia que seria un buen hotel y claramente asi ha sido , el servicio es muy cor ##dia ##l , ag ##rada ##ble y resp ##eta ##ble .
+Expected: el servicio ; muy cor ##dia ##l ; POS | el servicio ; ag ##rada ##ble ; POS | el servicio ; resp ##eta ##ble ; POS | hotel ; buen ; POS | un hotel ; de 4 estrellas ; POS
+Predicted: hotel ; buen ; POS ; 0.99881387 | el servicio ; ag ##rada ##ble ; POS ; 0.9800285 | el servicio ; resp ##eta ##ble ; POS ; 0.85947895
+
+tambien te co ##gen el telefono a cualquier hora si llama ##s desde la habitacion hacia la rece ##pcion y te aten ##dien ##den con mucho resp ##eto , saber estar y con educacion .
+Expected: el telefono ; te aten ##dien ##den con mucho resp ##eto , saber estar y con educacion ; POS
+Predicted: el telefono ; a cualquier hora ; POS ; 0.8979756 | la rece ##pcion ; mucho resp ##eto ; POS ; 0.95871085 | saber estar ; mucho resp ##eto ; POS ; 0.9107424 | educacion ; con ; POS ; 0.6639035
+
+en general todo muy bien en cuanto a los trabajadores .
+Expected: los trabajadores ; muy bien ; POS | todo ; muy bien ; POS
+Predicted: los trabajadores ; muy bien ; POS ; 0.6904872
+
+respecto a la habitacion era amplia , el edificio tiene la fachada de cristal asi ##que de ilu ##mino ##sida ##d es perfect ##o , buenos ban ##os , la cama es ag ##rada ##ble ( ni muy dura , ni muy bland ##a , es decir , que es bastante buena ) y por ultimo estaria la television y todo eso , y dado que es un hotel de 4 estrellas cum ##ple con su " ob ##liga ##cion " .
+Expected: la fachada ; de cristal ; POS | todo eso ; cum ##ple con su " ob ##liga ##cion " ; POS | la television ; cum ##ple con su " ob ##liga ##cion " ; POS | ban ##os ; buenos ; POS | la habitacion ; amplia ; POS | ilu ##mino ##sida ##d ; perfect ##o ; POS | la cama ; bastante buena ; POS | la cama ; ag ##rada ##ble ; POS
+Predicted: la habitacion ; amplia ; POS ; 0.9914478 | la fachada de cristal ; tiene ; POS ; 0.99052376 | ilu ##mino ##sida ##d ; perfect ##o ; POS ; 0.979298 | ban ##os ; buenos ; POS ; 0.98178124 | la cama ; ag ##rada ##ble ; POS ; 0.74968535 | la cama ; ni muy dura ; POS ; 0.6635773 | la television ; bastante buena ; POS ; 0.6742787
+
+se trata de un establecimiento que ofrece una mag ##ni ##fica ubicacion para visitar los lugares de interes turistico .
+Expected: ubicacion para visitar los lugares de interes turistico ; mag ##ni ##fica ; POS
+Predicted: un establecimiento ; mag ##ni ##fica ; POS ; 0.9992017
+
+la cerca ##nia del transporte publico · autobus y metro a la puerta del hotel · es uno de los factores a destacar junto a la calidad del servicio .
+Expected: del transporte publico ; la cerca ##nia ; POS | del servicio ; la calidad ; POS | autobus ; la puerta del hotel ; POS | metro ; la puerta del hotel ; POS
+Predicted: transporte publico · autobus ; cerca ##nia ; POS ; 0.9940705 | autobus ; a destacar ; POS ; 0.8248069 | la calidad del servicio ; uno de los factores a destacar ; POS ; 0.893856
+
+buen hotel de ciudad
+Expected: hotel de ciudad ; buen ; POS
+Predicted: hotel ; buen ; POS ; 0.99883956
+
+me parece fenomen ##al el tema del wi ##fi gratuit ##o y que ad ##mas fun ##cina muy bien .
+Expected: wi ##fi ; gratuit ##o ; POS | wi ##fi ; muy bien ; POS
+Predicted: el tema del wi ##fi ; fenomen ##al ; POS ; 0.917412 | el tema del wi ##fi ; fun ##cina muy bien ; POS ; 0.7671036
+
+mini ##bar gra ##tui ##do
+Expected: mini ##bar ; gra ##tui ##do ; POS
+Predicted: mini ##bar ; gra ##tui ##do ; POS ; 0.9447136
+
+la habitacion daba a un patio interior muy amplio y ha sido una goz ##ada no oi ##r ni un solo rui ##do , hem ##os dor ##mi ##do fenomen ##al ya que conserva muy bien la temperatura y no hem ##os tenido que dejar el aire ac ##ond ##icion ##ado fun ##cina ##ndo toda la noche .
+Expected: patio interior ; muy amplio ; POS | no oi ##r ni un solo rui ##do ; ha sido una goz ##ada ; POS | la temperatura ; dor ##mi ##do fenomen ##al ; POS | la temperatura ; conserva muy bien ; POS
+Predicted: la habitacion daba a un patio interior ; muy amplio ; POS ; 0.84944683 | la temperatura ; ha sido una goz ##ada ; NEG ; 0.4543697
+
+un hotel sencillo pero ideal para conocer me ##quin ##ez
+Expected: un hotel ; sencillo ; NEG | un hotel ; ideal para conocer me ##quin ##ez ; POS
+Predicted: un hotel ; sencillo ; POS ; 0.91411275 | para conocer ; ideal ; POS ; 0.6960617
+
+al llegar a me ##quin ##es nos en ##cant ##o la localizacion de este hotel de 3 estrellas , con cuyo sello ya habia ##mos tenido gra ##tas experiencias en el pasado en otros sitios ( la marca ibi ##s ) .
+Expected: la localizacion ; en ##cant ##o ; POS
+Predicted: la localizacion de este hotel de 3 estrellas ; en ##cant ##o ; POS ; 0.9867557
+
+super ##o mis ex ##pect ##ativa ##s de como ##dida ##d y tran ##qui ##lida
+Expected: mis ex ##pect ##ativa ##s de como ##dida ##d y tran ##qui ##lida ; super ##o ; POS
+Predicted: mis ex ##pect ##ativa ##s ; super ##o ; POS ; 0.99868757 | como ##dida ##d ; tran ##qui ##lida ; POS ; 0.97501194
+
+tenia claro que la ubicacion es muy buena con acceso anda ##ndo al centro de madrid , pero pensa ##ba que seria ago ##bian ##te el lugar donde esta ubicado y por lo tanto con falta de tran ##qui ##lidad o silencio .
+Expected: centro de madrid ; acceso anda ##ndo ; POS | la ubicacion ; muy buena ; POS
+Predicted: la ubicacion ; muy buena ; POS ; 0.99247146 | centro de madrid ; anda ##ndo ; POS ; 0.8897862
+
+el acceso se hace por una esquina en la calle carmen , no en la misma puerta del sol , lo que te da una inti ##mida ##d para acceder y evitar el bull ##icio de la gente en este lugar .
+Expected: el acceso ; por una esquina ; POS | el acceso ; no en la misma puerta del sol ; POS | una inti ##mida ##d para acceder ; da ; POS | el bull ##icio de la gente ; evitar ; POS
+Predicted: el acceso ; por una esquina ; POS ; 0.8418661 | misma puerta del sol ; no ; NEG ; 0.5703924
+
+la habitacion daba a sol pero estan muy bien ais ##lada ##s con contra ##venta ##nas lo cual hacia muy silencio ##sa y tran ##qui ##la .
+Expected: la habitacion ; muy bien ais ##lada ##s ; POS | la habitacion ; muy silencio ##sa ; POS | la habitacion ; tran ##qui ##la ; POS
+Predicted: la habitacion ; daba a sol ; POS ; 0.583478 | la habitacion ; muy bien ais ##lada ##s ; POS ; 0.50665003 | contra ##venta ##nas ; muy silencio ##sa y tran ##qui ##la ; POS ; 0.8089868
+
+por la noche el hotel tiene rece ##pcion 24 horas y bloque ##a la puerta de acceso a este dando ##te la seguridad que solo accede ##n a el hue ##sp ##edes del hotel , me gusto eso .
+Expected: acceso ; gusto ; POS | la puerta de acceso ; bloque ##a ; POS | rece ##pcion 24 horas ; tiene ; POS
+Predicted: rece ##pcion ; 24 horas ; POS ; 0.67757654 | la puerta de acceso ; bloque ##a ; POS ; 0.38763496
+
+dias place ##nter ##os
+Expected: dias ; place ##nter ##os ; POS
+Predicted: dias ; place ##nter ##os ; NEG ; 0.7135341
+
+nos hem ##os sentido bien aten ##dido ##s por todo el personal y las instalaciones estaban en perfect ##o estado acord ##e a la categoria de hotel .
+Expected: todo el personal ; hem ##os sentido bien aten ##dido ##s ; POS | las instalaciones ; en perfect ##o estado ; POS | las instalaciones ; acord ##e a la categoria de hotel ; POS
+Predicted: todo el personal ; en perfect ##o ; POS ; 0.9986526 | la categoria de hotel ; en perfect ##o estado acord ##e ; POS ; 0.80751693
+
+es un lugar donde podemos rec ##omen ##dar para pasar unos dias de placer y alegria . ·
+Expected: un lugar ; podemos rec ##omen ##dar ; POS
+Predicted: un lugar ; rec ##omen ##dar ; POS ; 0.9970271 | alegria ; rec ##omen ##dar ; POS ; 0.5922649
+
+hotel situado al lado del camp nou con transporte publico en ##fre ##nte del hotel que te deja en todos los lugares turistico ##s de barcelona , el hot ##e como todos los senator est ##upe ##ndo habitacion ##es muy como ##das , ban ##o perfect ##o zna ##s comunes est ##pend ##as , si vue ##lv ##o a barcelona no duda ##re en al ##oja ##rme otra vez alli
+Expected: ban ##o ; perfect ##o ; POS | transporte publico ; en ##fre ##nte del hotel ; POS | habitacion ##es ; muy como ##das ; POS | del hotel ; est ##upe ##ndo ; POS | en al ##oja ##rme otra vez alli ; no duda ##re ; POS | zna ##s comunes ; est ##pend ##as ; POS | del camp nou ; situado al lado ; POS
+Predicted: hotel ; al lado ; POS ; 0.9491582 | camp nou ; publico ; POS ; 0.9550813 | hotel ; en ##fre ##nte ; POS ; 0.94971687 | lugares turistico ##s de barcelona ; deja en ; POS ; 0.804681 | ban ##o ; muy como ##das ; POS ; 0.94092816 | ban ##o perfect ##o zna ##s comunes ; est ##pend ##as ; POS ; 0.7454652 | zna ##s comunes ; est ##pend ##as ; POS ; 0.5344567
+
+bien , con detalles a mejorar
+Expected: detalles ; a mejorar ; NEG
+Predicted: detalles ; bien ; POS ; 0.99915063 | detalles ; a mejorar ; POS ; 0.59522563
+
+el hotel esta simplemente correct ##o para un cuatro estrellas , qui ##zas necesita una reforma que lo pong ##a en valor .
+Expected: el hotel ; necesita una reforma ; NEG | el hotel ; correct ##o para un cuatro estrellas ; POS
+Predicted: el hotel ; simplemente correct ##o para un cuatro estrellas ; POS ; 0.5677376 | una reforma ; necesita ; NEG ; 0.49802208
+
+la lim ##pie ##za correct ##a , el desa ##yu ##no bueno , con suficiente cantidad pero algo falt ##o de calidad para un cuatro estrellas . se des ##cans ##a muy bien aunque esta en plena gran via no hay rui ##dos .
+Expected: la lim ##pie ##za ; correct ##a ; POS | el desa ##yu ##no ; suficiente cantidad ; POS | el desa ##yu ##no ; algo falt ##o de calidad para un cuatro estrellas . ; NEG | el desa ##yu ##no ; bueno ; POS | des ##cans ##a ; muy bien ; POS | gran via ; esta en plena ; NEG | gran via ; no hay rui ##dos ; POS
+Predicted: la lim ##pie ##za ; correct ##a ; POS ; 0.9931564 | el desa ##yu ##no ; bueno ; POS ; 0.93322736 | el desa ##yu ##no ; con suficiente cantidad pero algo falt ##o ; NEG ; 0.5124956 | rui ##dos ; no hay ; NEG ; 0.65801054
+
+excelente servicio
+Expected: servicio ; excelente ; POS
+Predicted: servicio ; excelente ; POS ; 0.9990576
+
+el hotel es precio ##so , las instalaciones amplia ##s es decir cuartos amplio ##s con aire ac ##ond ##icion ##ado , frio ##bar , terra ##za , cama ##s queen , escritor ##io , pequena sala .
+Expected: sala ; pequena ; POS | aire ac ##ond ##icion ##ado ; con ; POS | frio ##bar ; con ; POS | terra ##za ; con ; POS | escritor ##io ; con ; POS | cama ##s queen ; con ; POS | cuartos ; amplio ##s ; POS | el hotel ; precio ##so ; POS | las instalaciones ; amplia ##s ; POS
+Predicted: el hotel ; precio ##so ; POS ; 0.99931 | las instalaciones ; amplia ##s ; POS ; 0.9946144 | decir cuartos ; amplio ##s ; POS ; 0.99568486 | cuartos ; con aire ac ##ond ##icion ##ado ; POS ; 0.98905015 | frio ##bar ; con aire ac ##ond ##icion ##ado ; POS ; 0.9693471 | cama ##s queen , escritor ##io ; pequena sala ; POS ; 0.84310925 | escritor ##io ; pequena sala ; POS ; 0.64651036
+
+la piscina in ##mens ##a con bar incluido , la playa muy extensa ##aa ##a . . y tran ##qui ##la
+Expected: la playa ; muy extensa ##aa ##a ; POS | la playa ; tran ##qui ##la ; POS | bar ; incluido ; POS | la piscina ; in ##mens ##a ; POS
+Predicted: la piscina ; in ##mens ##a ; POS ; 0.999303 | la piscina ; incluido ; POS ; 0.9953858 | la playa ; muy extensa ##aa ##a ; POS ; 0.98869765 | la playa ; tran ##qui ##la ; POS ; 0.89284956
+
+fin de semana completo
+Expected: fin de semana ; completo ; POS
+Predicted: fin de semana ; completo ; NEG ; 0.7477874
+
+para em ##pe ##zar os dire que por ser socio del club playa ##vi ##p me of ##rec ##ieron una habitacion con terra ##za con mag ##ni ##fica ##s vistas a gran via , ademas nos dieron una entrada gratuit ##a al spa .
+Expected: una entrada gratuit ##a al spa ; dieron ; POS | una habitacion ; con terra ##za ; POS | vistas a gran via ; mag ##ni ##fica ##s ; POS
+Predicted: una habitacion con terra ##za ; of ##rec ##ieron ; POS ; 0.9992235 | vistas a gran via ; mag ##ni ##fica ##s ; POS ; 0.9939009 | una entrada ; dieron ; POS ; 0.96790063
+
+ni que decir tiene que la ubicacion del hotel es ideal si vas a la zona de los teatro ##s .
+Expected: la ubicacion del hotel ; es ideal si vas a la zona de los teatro ##s ; POS
+Predicted: la ubicacion ; ideal ; POS ; 0.9939539
+
+la habitacion era amplia y ac ##oge ##dora , el ban ##o completo y of ##rec ##ian mini ##bar gratuit ##o ( solamente agua y pep ##si ) .
+Expected: el ban ##o ; completo ; POS | la habitacion ; era amplia ; POS | la habitacion ; ac ##oge ##dora ; POS | mini ##bar ; gratuit ##o ; POS
+Predicted: la habitacion ; amplia ; POS ; 0.9986767 | la habitacion ; ac ##oge ##dora ; POS ; 0.9868819 | el ban ##o ; completo ; POS ; 0.979439 | mini ##bar ; gratuit ##o ; POS ; 0.9564257 | agua y pep ##si ; solamente ; NEG ; 0.78388196 | pep ##si ; solamente ; NEG ; 0.740744
+
+en definitiva , que salim ##os content ##os de nuestra estancia .
+Expected: de nuestra estancia ; content ##os ; POS
+Predicted: nuestra estancia ; content ##os ; POS ; 0.9981401
+
+muy buen hotel , habitacion ##es muy como ##das .
+Expected: habitacion ##es ; muy como ##das ; POS | hotel ; muy buen ; POS
+Predicted: hotel ; muy buen ; POS ; 0.9975332 | hotel , habitacion ##es ; muy como ##das ; POS ; 0.9956091 | habitacion ##es ; muy como ##das ; POS ; 0.9853625
+
+mi novia y yo fu ##imos de vaca ##ciones a espana y nos queda ##mos unos dias en palma , la experiencia fue la mejor me en ##cant ##o el clima de esta ciudad y gracias a que el hotel cuenta con todas las facil ##idades y servicios pu ##dim ##os dis ##fru ##tar al maximo .
+Expected: el clima ; en ##cant ##o ; POS | todas las facil ##idades ; cuenta con ; POS | servicios ; cuenta con ; POS | la experiencia ; la mejor ; POS
+Predicted: la experiencia ; la mejor me en ##cant ##o ; POS ; 0.99678826 | el clima de esta ciudad ; la mejor me en ##cant ##o ; POS ; 0.913126 | todas las facil ##idades y servicios ; cuenta con ; POS ; 0.76788664
+
+la habitacion doble en la cual nos queda ##mos era bastante como ##da , amplia y ordena ##da .
+Expected: la habitacion doble ; amplia ; POS | la habitacion doble ; ordena ##da ; POS | la habitacion doble ; bastante como ##da ; POS
+Predicted: la habitacion ; bastante como ##da ; POS ; 0.98456305 | la habitacion ; amplia ; POS ; 0.9701904
+
+ademas la ubicacion del hotel es geni ##al pues es muy cerca de la playa y la atencion de todo el staff muy buena , vale resa ##lta ##r que la comida es muy varia ##da y deli ##cios ##a .
+Expected: la comida ; muy varia ##da ; POS | la comida ; deli ##cios ##a ; POS | la playa ; muy cerca ; POS | la ubicacion ; geni ##al ; POS | la atencion de todo el staff ; muy buena ; POS
+Predicted: la ubicacion ; geni ##al ; POS ; 0.9999293 | la playa ; muy cerca ; POS ; 0.9869446 | la atencion de todo el staff ; muy buena ; POS ; 0.9796831 | la comida ; muy varia ##da y deli ##cios ##a ; POS ; 0.9821103 | la comida ; deli ##cios ##a ; POS ; 0.7449927
+
+buen hotel y centri ##co
+Expected: hotel ; buen ; POS | hotel ; centri ##co ; POS
+Predicted: hotel ; buen ; POS ; 0.9996792 | hotel ; centri ##co ; POS ; 0.9980405
+
+hem ##os estado un fin de semana al ##oja ##dos en este hotel y hay que decir que es del todo correct ##o , y rec ##omen ##dab ##le .
+Expected: este hotel ; rec ##omen ##dab ##le ; POS | este hotel ; del todo correct ##o ; POS
+Predicted: este hotel ; del todo correct ##o ; POS ; 0.99369204 | este hotel ; rec ##omen ##dab ##le ; POS ; 0.9648233
+
+excelente ubicacion en el centro madrid , a 5 minutos anda ##ndo de la plaza del sol y pe ##gado a la parada de metro de la linea 5 , gran via .
+Expected: ubicacion ; excelente ; POS | ubicacion ; en el centro madrid ; POS | la parada de metro de la linea 5 , gran via ; pe ##gado ; POS | la plaza del sol ; a 5 minutos anda ##ndo ; POS
+Predicted: el centro madrid ; excelente ubicacion ; POS ; 0.9995461 | la plaza del sol ; a 5 minutos anda ##ndo ; POS ; 0.9937226 | la parada de metro ; pe ##gado ; POS ; 0.92884016
+
+a pesar de lo transit ##ada de la calle gran via , no habia ex ##ces ##ivo rui ##do dentro de la habitacion .
+Expected: ex ##ces ##ivo rui ##do dentro de la habitacion ; no habia ; POS
+Predicted: dentro de la habitacion ; a pesar de lo transit ##ada ; POS ; 0.6127094
+
+el tamano de la habitacion y el ban ##o es grande , lim ##pia y la cama con ##fort ##able .
+Expected: el tamano de la habitacion y el ban ##o ; grande ; POS | el tamano de la habitacion y el ban ##o ; lim ##pia ; POS | la cama ; con ##fort ##able ; POS
+Predicted: el tamano de la habitacion ; grande ; POS ; 0.9968008 | el ban ##o ; grande ; POS ; 0.9975501 | la cama ; lim ##pia ; POS ; 0.99855024 | la cama ; con ##fort ##able ; POS ; 0.9711702
+
+el mini ##bar ( agua y pep ##sico ##la ) y una pequena cafe ##tera eran gratuit ##os , al igual que la conexion wi ##fi y la caja fuerte .
+Expected: pequena cafe ##tera ; gratuit ##os ; POS | el mini ##bar ; gratuit ##os ; POS | la conexion wi ##fi ; al igual que ; POS | la caja fuerte ; al igual que ; POS
+Predicted: el mini ##bar ; gratuit ##os ; POS ; 0.9936606 | una pequena cafe ##tera ; gratuit ##os ; POS ; 0.9943798 | la conexion wi ##fi ; al igual ; POS ; 0.9865702 | la caja fuerte ; al igual ; POS ; 0.78663427
+
+como conclusion , es un buen hotel para visitar madrid .
+Expected: hotel ; buen ; POS
+Predicted: hotel ; buen ; POS ; 0.9998374
+
+me gusto mucho , me habian habla ##do que no era la gran cosa y creo que ex ##ager ##aron mucho , todo era muy bon ##ito y lim ##pio , el servicio de habitacion era bastante bueno , aunque qui ##za la habitacion un poco pequena
+Expected: todo ; muy bon ##ito ; POS | todo ; lim ##pio ; POS | el servicio de habitacion ; bastante bueno ; POS | la habitacion ; un poco pequena ; NEG
+Predicted: cosa y creo que ex ##ager ##aron mucho , todo ; gusto mucho ; POS ; 0.8904397 | mucho , todo ; muy bon ##ito ; POS ; 0.81000245 | todo ; muy bon ##ito ; POS ; 0.9595328 | todo ; lim ##pio ; POS ; 0.98241043 | la habitacion ; lim ##pio ; POS ; 0.9084832 | la habitacion ; bastante bueno ; POS ; 0.58788806
+
+buena ubicacion , retirado del centro pero con parada de metro a 10 minutos anda ##ndo , habitacion ad ##ecu ##ada con ban ##o amplio , la atencion del personal excelente , tuvieron varios detalles por ser cliente de varios anos , la lim ##pie ##za correct ##a , en fin un buen hotel para hos ##peda ##rse en barcelona .
+Expected: la atencion del personal ; excelente ; POS | parada de metro ; a 10 minutos anda ##ndo ; POS | parada de metro ; con ; POS | ban ##o ; amplio ; POS | la lim ##pie ##za ; correct ##a ; POS | habitacion ; ad ##ecu ##ada ; POS | varios detalles ; tuvieron ; POS | hotel ; buen ; POS | ubicacion ; buena ; POS
+Predicted: ubicacion ; buena ; POS ; 0.98813105 | ubicacion , retirado del centro ; ad ##ecu ##ada ; POS ; 0.8368378 | parada de metro ; a 10 minutos anda ##ndo ; POS ; 0.9347633 | habitacion ; ad ##ecu ##ada ; POS ; 0.99410784 | ban ##o ; amplio ; POS ; 0.9753586 | la atencion del personal ; excelente ; POS ; 0.9188199 | la atencion del personal excelente , tuvieron varios detalles ; buen ; POS ; 0.7717088 | la lim ##pie ##za ; buen ; POS ; 0.6235878 | hotel ; buen ; POS ; 0.50213265
+
+fantastic ##o hotel
+Expected: hotel ; fantastic ##o ; POS
+Predicted: hotel ; fantastic ##o ; POS ; 0.9611314
+
+servicio excepcion ##al , la habitacion muy como ##da , completa y muy bien ins ##onor ##izada .
+Expected: la habitacion ; muy como ##da ; POS | la habitacion ; muy bien ins ##onor ##izada ; POS | la habitacion ; completa ; POS | servicio ; excepcion ##al ; POS
+Predicted: servicio ; excepcion ##al ; POS ; 0.9860363 | la habitacion ; muy como ##da ; POS ; 0.99111044 | la habitacion ; muy bien ins ##onor ##izada ; POS ; 0.94641554
+
+servicio red level de lu ##jo con acceso a lounge con moet chan ##don , cana ##pes , otras be ##bidas , prensa , etc . un hotel muy muy rec ##omen ##dab ##le con una situacion mag ##ni ##fica .
+Expected: con moet chan ##don ; acceso ; POS | a lounge ; acceso ; POS | otras be ##bidas ; acceso ; POS | cana ##pes ; acceso ; POS | prensa ; acceso ; POS | servicio red level ; de lu ##jo ; POS | una situacion ; mag ##ni ##fica ; POS | hotel ; muy muy rec ##omen ##dab ##le ; POS
+Predicted: servicio red level de lu ##jo ; muy muy rec ##omen ##dab ##le ; POS ; 0.89040154 | lounge ; acceso a ; POS ; 0.99832314 | lounge con moet chan ##don ; acceso ; POS ; 0.98170567 | otras be ##bidas ; muy muy rec ##omen ##dab ##le ; POS ; 0.98986804 | prensa , etc . un hotel ; muy muy rec ##omen ##dab ##le ; POS ; 0.95381594 | una situacion ; mag ##ni ##fica ; POS ; 0.7024934
+
+el spa esta bastante bien .
+Expected: el spa ; bastante bien ; POS
+Predicted: el spa ; bastante bien ; POS ; 0.998116
+
+aunque mis ex ##pect ##ativa ##s eran mayores , para nada me def ##rau ##do , el personal muy ama ##ble y en cuanto a las instalaciones , estaban todas en buen estado .
+Expected: el personal ; muy ama ##ble ; POS | las instalaciones ; buen estado ; POS
+Predicted: el personal ; eran mayores ; POS ; 0.8767865 | el personal ; muy ama ##ble ; POS ; 0.9577315 | las instalaciones ; estaban todas en buen estado ; POS ; 0.86770916
+
+la verdad que en relacion precio esta bien al menos para proba ##rlo y ademas en plena gran via de madrid , todo un lu ##jo .
+Expected: relacion precio ; bien ; POS | gran via de madrid ; en plena ; POS | gran via de madrid ; todo un lu ##jo ; POS
+Predicted: relacion precio ; bien al menos para proba ##rlo ; NEG ; 0.5824721 | gran via de madrid ; en plena ; POS ; 0.88713104 | todo ; un lu ##jo ; POS ; 0.48453113
+
+la primera sorpresa fue nada mas llegar pues nuestra idea era entrar al spa para re ##la ##jar ##nos el domingo por la manana y el cha ##sco fue que estava cerrado algo que creo deberia ##n avis ##ar al hacer la reserva que va a estar cerrado , pero nos come ##ntar ##on que en la az ##otea tenian unos ja ##cu ##zz ##y y que podia ##mos subir .
+Expected: unos ja ##cu ##zz ##y ; podia ##mos subir ; POS | unos ja ##cu ##zz ##y ; en la az ##otea tenian ; POS | al spa ; estava cerrado ; NEG
+Predicted: spa ; nada mas llegar ; NEG ; 0.9455686 | spa ; cerrado ; NEG ; 0.88974535
+
+subi ##mos a la habitacion la cual era muy buena para mas tarde subir a la az ##ote la cual e de decir que tiene unas vistas esp ##ect ##ac ##ular ##es pero llego la segunda dec ##ep ##cion por que aunque es cierto que estaban los 2 ja ##cu ##zz ##y el agua estava un poco tur ##via por no decir suci ##a y para col ##mo ningun ##o de los dos funciona ##ban los chor ##ros con lo cual si no fuera por las vistas podia haber sido igual que en la bane ##ra de la habitacion . el personal fenomen ##al y un desa ##yu ##no muy varia ##do .
+Expected: la habitacion ; muy buena ; POS | ningun ##o de los dos ; funciona ##ban los chor ##ros ; NEG | los 2 ja ##cu ##zz ##y ; estaban ; POS | la az ##ote ; tiene unas vistas esp ##ect ##ac ##ular ##es ; POS | el agua ; estava un poco tur ##via por no decir suci ##a ; NEG | un desa ##yu ##no ; muy varia ##do ; POS | el personal ; fenomen ##al ; POS
+Predicted: la habitacion ; muy buena ; POS ; 0.60940087 | unas vistas ; esp ##ect ##ac ##ular ##es ; POS ; 0.5086498
+
+lam ##enta ##ble . . deja mucho que dese ##ar los servicios pres ##tados con las estrellas que tienen .
+Expected: los servicios pres ##tados ; deja mucho que dese ##ar ; NEG
+Predicted: los servicios ; lam ##enta ##ble ; POS ; 0.8848527
+
+hotel con una ubicacion excepcion ##al .
+Expected: una ubicacion ; excepcion ##al ; POS
+Predicted: una ubicacion ; excepcion ##al ; POS ; 0.72437644
+
+la habitacion estaba bien lim ##pia y tenia un buen ban ##o .
+Expected: ban ##o ; buen ; POS | la habitacion ; bien lim ##pia ; POS
+Predicted: la habitacion ; bien lim ##pia ; POS ; 0.988991 | ban ##o ; buen ; POS ; 0.99267524
+
+el desa ##yu ##no podria ser mejor , principalmente el pan .
+Expected: el desa ##yu ##no ; podria ser mejor ; NEG
+Predicted: el desa ##yu ##no ; mejor ; POS ; 0.9901424
+
+lo vi demasiado sencillo para un merc ##ure .
+Expected: lo ; demasiado sencillo ; NEG
+Predicted: un merc ##ure ; demasiado sencillo ; NEG ; 0.91227376
+
+en todo lo demas ha sido una buena estancia .
+Expected: estancia ; buena ; POS
+Predicted: estancia ; buena ; POS ; 0.99529546
+
+el complejo en general esta muy bien en cuanto a instalaciones , zona aja ##rdi ##nada , piscina ##s y todo incluido , pero el personal del hotel es de lo peor .
+Expected: el personal ; de lo peor ; NEG | todo incluido ; muy bien ; POS | el complejo ; muy bien ; POS | instalaciones ; muy bien ; POS | piscina ##s ; muy bien ; POS | zona aja ##rdi ##nada ; muy bien ; POS
+Predicted: el complejo ; muy bien ; POS ; 0.99794036 | instalaciones ; muy bien ; POS ; 0.9752969 | zona ; aja ##rdi ##nada ; POS ; 0.99821115 | piscina ##s ; de lo peor ; POS ; 0.95337474 | el personal del hotel ; de lo peor ; POS ; 0.8077303
+
+las habitacion ##es son muy inferiores a un hotel de esta categoria y tienen muchos des ##per ##fect ##os .
+Expected: muchos des ##per ##fect ##os ; tienen ; NEG | las habitacion ##es ; muy inferiores a un hotel de esta categoria ; NEG
+Predicted: las habitacion ##es ; muy inferiores ; NEG ; 0.84492254 | muchos des ##per ##fect ##os ; tienen ; NEG ; 0.6620113
+
+el servicio de habitacion ##es , lim ##pie ##za , etc . . . pesi ##mo .
+Expected: lim ##pie ##za ; pesi ##mo ; NEG | el servicio de habitacion ##es ; pesi ##mo ; NEG
+Predicted: el servicio de habitacion ##es ; pesi ##mo ; NEG ; 0.55396116 | lim ##pie ##za ; pesi ##mo ; NEG ; 0.53327006
+
+los bu ##ffet ##es estan bien , pero el personal anti ##pati ##co .
+Expected: el personal ; anti ##pati ##co ; NEG | los bu ##ffet ##es ; bien ; POS
+Predicted: los bu ##ffet ##es ; estan bien ; POS ; 0.988986 | el personal ; anti ##pati ##co ; POS ; 0.89360994
+
+no te cambia ##n ni el man ##tel .
+Expected: el man ##tel ; no te cambia ##n ; NEG
+Predicted: el man ##tel ; no te cambia ##n ; NEG ; 0.98706156
+
+los restaurante ##s temat ##icos son un desastre , y has de perder horas para reserva ##r .
+Expected: los restaurante ##s temat ##icos ; un desastre ; NEG
+Predicted: los restaurante ##s temat ##icos ; un desastre ; NEG ; 0.93083304 | horas para reserva ##r ; has de perder ; POS ; 0.44877383
+
+el qui ##jot ##e , el peor .
+Expected: el qui ##jot ##e ; el peor ; NEG
+Predicted: el qui ##jot ##e ; el peor ; NEG ; 0.713158
+
+la cliente ##la es vari ##opi ##nta , pero esta bien .
+Expected: la cliente ##la ; vari ##opi ##nta ; POS | la cliente ##la ; esta bien ; POS
+Predicted: la cliente ##la ; vari ##opi ##nta ; POS ; 0.9476225 | la cliente ##la ; bien ; POS ; 0.77000874
+
+buenas habitacion ##es ; excelente calidad de servicio .
+Expected: habitacion ##es ; buenas ; POS | calidad de servicio ; excelente ; POS
+Predicted: habitacion ##es ; buenas ; POS ; 0.9968951 | calidad de servicio ; excelente ; POS ; 0.99249
+
+bien ubicado , entre la estacion y los principales monumentos de pisa .
+Expected: los principales monumentos de pisa ; bien ubicado ; POS | la estacion ; bien ubicado ; POS | los principales monumentos de pisa ; entre ; POS | la estacion ; entre ; POS
+Predicted: la estacion ; bien ubicado ; POS ; 0.9983651 | los principales monumentos de pisa ; entre ; POS ; 0.8945254
+
+las habitacion ##es estan cui ##dada ##s , aunque tienen unas cama ##s un poco pequenas .
+Expected: las habitacion ##es ; cui ##dada ##s ; POS | unas cama ##s ; un poco pequenas ; NEG
+Predicted: las habitacion ##es ; cui ##dada ##s ; POS ; 0.80248857 | unas cama ##s ; un poco pequenas ; NEG ; 0.94210505
+
+ban ##o moderno y como ##do , con duc ##ha .
+Expected: ban ##o ; como ##do ; POS | ban ##o ; moderno ; POS | ban ##o ; con duc ##ha ; POS
+Predicted: ban ##o ; moderno ; POS ; 0.717336 | ban ##o ; como ##do ; POS ; 0.9595496 | duc ##ha ; con ; POS ; 0.87889695
+
+atencion personal ##izada .
+Expected: atencion ; personal ##izada ; POS
+Predicted: atencion ; personal ##izada ; POS ; 0.9894348
+
+desa ##yu ##nos normale ##s , con boll ##eria , ce ##real ##es y sin fru ##ta natural .
+Expected: fru ##ta natural ; sin ; NEG | boll ##eria ; normale ##s ; NEG | desa ##yu ##nos ; normale ##s ; NEG | ce ##real ##es ; normale ##s ; NEG
+Predicted: desa ##yu ##nos ; normale ##s ; POS ; 0.70906633 | boll ##eria ; con ; POS ; 0.9495697 | ce ##real ##es ; sin fru ##ta natural ; POS ; 0.9277847
+
+tiene gara ##je de pago para sus hue ##sp ##edes .
+Expected: gara ##je ; de pago ; NEG
+Predicted: gara ##je de pago para sus hue ##sp ##edes ; tiene ; POS ; 0.9848599
+
+wi ##fi social gratuit ##a ( no wi ##fi con acceso abierto a internet ) .
+Expected: wi ##fi social ; gratuit ##a ; POS | wi ##fi con acceso abierto a internet ; no ; NEG
+Predicted: wi ##fi social ; gratuit ##a ; POS ; 0.8469399 | wi ##fi ; abierto a internet ; NEG ; 0.5373993
+

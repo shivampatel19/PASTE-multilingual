@@ -1,0 +1,746 @@
+['PASTE_BERT.py', '--gpu_id', '0', '--src_folder', 'multibooked_ca/', '--trg_folder', 'multibooked_ca/PASTE_BERT', '--bert_mode', 'gen_mul', '--gen_direct', 'af', '--l2', 'y', '--use_dep_emb', 'y']
+100100.5
+BERT
+loading data......
+No. of sentences:792
+No. of lines in Target file:792
+No. of lines in POS file:792
+No. of lines in DEP file:792
+No. of sentences:111
+No. of lines in Target file:111
+No. of lines in POS file:111
+No. of lines in DEP file:111
+No. of sentences:209
+No. of lines in Target file:209
+No. of lines in POS file:209
+No. of lines in DEP file:209
+Training data size:786
+Development data size:111
+Test data size:209
+Building POS TAG Vocab..
+Building DEP TAG Vocab..
+Training started......
+Batch Count: 50
+Parameters size:187645585
+weight factor:1
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.0001
+)
+Epoch:1
+Training loss:9.17931040763855
+Training time:0:00:20.945648
+
+Dev Results
+
+Prediction time:0:00:02.054935
+140	192	34
+Dev P:0.243
+Dev R:0.177
+Dev F1:0.205
+
+Test Results
+
+Prediction time:0:00:03.479694
+279	373	73
+Test P:0.262
+Test R:0.196
+Test F1:0.224
+model saved......
+
+
+
+Epoch:2
+Training loss:6.211506996154785
+Training time:0:00:21.215326
+
+Dev Results
+
+Prediction time:0:00:02.020722
+135	192	51
+Dev P:0.378
+Dev R:0.266
+Dev F1:0.312
+
+Test Results
+
+Prediction time:0:00:03.482333
+283	373	99
+Test P:0.35
+Test R:0.265
+Test F1:0.302
+model saved......
+
+
+
+Epoch:3
+Training loss:5.344695057868957
+Training time:0:00:21.742146
+
+Dev Results
+
+Prediction time:0:00:02.022674
+173	192	71
+Dev P:0.41
+Dev R:0.37
+Dev F1:0.389
+
+Test Results
+
+Prediction time:0:00:03.476486
+352	373	121
+Test P:0.344
+Test R:0.324
+Test F1:0.334
+model saved......
+
+
+
+Epoch:4
+Training loss:4.787468314170837
+Training time:0:00:21.337893
+
+Dev Results
+
+Prediction time:0:00:02.012635
+146	192	62
+Dev P:0.425
+Dev R:0.323
+Dev F1:0.367
+
+Test Results
+
+Prediction time:0:00:03.462478
+299	373	118
+Test P:0.395
+Test R:0.316
+Test F1:0.351
+
+
+
+Epoch:5
+Training loss:4.419827990531921
+Training time:0:00:21.655282
+
+Dev Results
+
+Prediction time:0:00:02.024975
+152	192	71
+Dev P:0.467
+Dev R:0.37
+Dev F1:0.413
+
+Test Results
+
+Prediction time:0:00:03.479116
+307	373	132
+Test P:0.43
+Test R:0.354
+Test F1:0.388
+model saved......
+
+
+
+Epoch:6
+Training loss:4.148944973945618
+Training time:0:00:21.266628
+
+Dev Results
+
+Prediction time:0:00:02.032475
+154	192	69
+Dev P:0.448
+Dev R:0.359
+Dev F1:0.399
+
+Test Results
+
+Prediction time:0:00:03.485476
+307	373	128
+Test P:0.417
+Test R:0.343
+Test F1:0.376
+
+
+
+Epoch:7
+Training loss:3.6625860142707825
+Training time:0:00:21.474732
+
+Dev Results
+
+Prediction time:0:00:02.029971
+168	192	70
+Dev P:0.417
+Dev R:0.365
+Dev F1:0.389
+
+Test Results
+
+Prediction time:0:00:03.492265
+357	373	139
+Test P:0.389
+Test R:0.373
+Test F1:0.381
+
+
+
+Epoch:8
+Training loss:3.446970291137695
+Training time:0:00:21.244851
+
+Dev Results
+
+Prediction time:0:00:02.026531
+160	192	68
+Dev P:0.425
+Dev R:0.354
+Dev F1:0.386
+
+Test Results
+
+Prediction time:0:00:03.479193
+320	373	131
+Test P:0.409
+Test R:0.351
+Test F1:0.378
+
+
+
+Epoch:9
+Training loss:3.1738796257972717
+Training time:0:00:21.672457
+
+Dev Results
+
+Prediction time:0:00:02.036280
+170	192	67
+Dev P:0.394
+Dev R:0.349
+Dev F1:0.37
+
+Test Results
+
+Prediction time:0:00:03.505465
+330	373	140
+Test P:0.424
+Test R:0.375
+Test F1:0.398
+
+
+
+Epoch:10
+Training loss:2.9467800307273864
+Training time:0:00:21.475043
+
+Dev Results
+
+Prediction time:0:00:02.021384
+166	192	75
+Dev P:0.452
+Dev R:0.391
+Dev F1:0.419
+
+Test Results
+
+Prediction time:0:00:03.489689
+335	373	151
+Test P:0.451
+Test R:0.405
+Test F1:0.427
+model saved......
+
+
+
+Epoch:11
+Training loss:2.718235948085785
+Training time:0:00:21.413399
+
+Dev Results
+
+Prediction time:0:00:02.036602
+184	192	83
+Dev P:0.451
+Dev R:0.432
+Dev F1:0.441
+
+Test Results
+
+Prediction time:0:00:03.496804
+371	373	157
+Test P:0.423
+Test R:0.421
+Test F1:0.422
+model saved......
+
+
+
+Epoch:12
+Training loss:2.608217375278473
+Training time:0:00:21.699846
+
+Dev Results
+
+Prediction time:0:00:02.050720
+199	192	90
+Dev P:0.452
+Dev R:0.469
+Dev F1:0.46
+
+Test Results
+
+Prediction time:0:00:03.527422
+398	373	166
+Test P:0.417
+Test R:0.445
+Test F1:0.431
+model saved......
+
+
+
+Epoch:13
+Training loss:2.531803295612335
+Training time:0:00:23.303138
+
+Dev Results
+
+Prediction time:0:00:02.057983
+191	192	77
+Dev P:0.403
+Dev R:0.401
+Dev F1:0.402
+
+Test Results
+
+Prediction time:0:00:03.538716
+406	373	157
+Test P:0.387
+Test R:0.421
+Test F1:0.403
+
+
+
+Epoch:14
+Training loss:2.273550157546997
+Training time:0:00:21.572295
+
+Dev Results
+
+Prediction time:0:00:02.037591
+172	192	91
+Dev P:0.529
+Dev R:0.474
+Dev F1:0.5
+
+Test Results
+
+Prediction time:0:00:03.496148
+354	373	161
+Test P:0.455
+Test R:0.432
+Test F1:0.443
+model saved......
+
+
+
+Epoch:15
+Training loss:2.224986782073975
+Training time:0:00:22.068186
+
+Dev Results
+
+Prediction time:0:00:02.033504
+179	192	91
+Dev P:0.508
+Dev R:0.474
+Dev F1:0.491
+
+Test Results
+
+Prediction time:0:00:03.497163
+364	373	159
+Test P:0.437
+Test R:0.426
+Test F1:0.431
+
+
+
+Epoch:16
+Training loss:1.9768435418605805
+Training time:0:00:21.993996
+
+Dev Results
+
+Prediction time:0:00:02.035180
+156	192	74
+Dev P:0.474
+Dev R:0.385
+Dev F1:0.425
+
+Test Results
+
+Prediction time:0:00:03.517049
+315	373	148
+Test P:0.47
+Test R:0.397
+Test F1:0.43
+
+
+
+Epoch:17
+Training loss:1.8396745777130128
+Training time:0:00:21.626332
+
+Dev Results
+
+Prediction time:0:00:02.045558
+154	192	82
+Dev P:0.532
+Dev R:0.427
+Dev F1:0.474
+
+Test Results
+
+Prediction time:0:00:03.517618
+308	373	141
+Test P:0.458
+Test R:0.378
+Test F1:0.414
+
+
+
+Epoch:18
+Training loss:1.8241787648200989
+Training time:0:00:22.476803
+
+Dev Results
+
+Prediction time:0:00:02.033508
+160	192	81
+Dev P:0.506
+Dev R:0.422
+Dev F1:0.46
+
+Test Results
+
+Prediction time:0:00:03.511124
+328	373	150
+Test P:0.457
+Test R:0.402
+Test F1:0.428
+
+
+
+Epoch:19
+Training loss:1.672534123659134
+Training time:0:00:21.789316
+
+Dev Results
+
+Prediction time:0:00:02.046892
+165	192	82
+Dev P:0.497
+Dev R:0.427
+Dev F1:0.459
+
+Test Results
+
+Prediction time:0:00:03.510982
+347	373	161
+Test P:0.464
+Test R:0.432
+Test F1:0.447
+
+
+
+Epoch:20
+Training loss:1.5986811912059784
+Training time:0:00:21.264371
+
+Dev Results
+
+Prediction time:0:00:02.034412
+188	192	86
+Dev P:0.457
+Dev R:0.448
+Dev F1:0.453
+
+Test Results
+
+Prediction time:0:00:03.489347
+390	373	166
+Test P:0.426
+Test R:0.445
+Test F1:0.435
+
+
+
+Epoch:21
+Training loss:1.7552600252628325
+Training time:0:00:21.855264
+
+Dev Results
+
+Prediction time:0:00:02.032680
+146	192	78
+Dev P:0.534
+Dev R:0.406
+Dev F1:0.462
+
+Test Results
+
+Prediction time:0:00:03.494647
+306	373	152
+Test P:0.497
+Test R:0.408
+Test F1:0.448
+
+
+
+Epoch:22
+Training loss:1.5370894753932953
+Training time:0:00:21.442262
+
+Dev Results
+
+Prediction time:0:00:02.033027
+183	192	86
+Dev P:0.47
+Dev R:0.448
+Dev F1:0.459
+
+Test Results
+
+Prediction time:0:00:03.492213
+366	373	158
+Test P:0.432
+Test R:0.424
+Test F1:0.428
+
+
+
+Epoch:23
+Training loss:1.563511986732483
+Training time:0:00:21.477471
+
+Dev Results
+
+Prediction time:0:00:02.030981
+165	192	86
+Dev P:0.521
+Dev R:0.448
+Dev F1:0.482
+
+Test Results
+
+Prediction time:0:00:03.485071
+346	373	164
+Test P:0.474
+Test R:0.44
+Test F1:0.456
+
+
+
+Epoch:24
+Training loss:1.421007843017578
+Training time:0:00:21.612719
+
+Dev Results
+
+Prediction time:0:00:02.036481
+161	192	84
+Dev P:0.522
+Dev R:0.437
+Dev F1:0.476
+
+Test Results
+
+Prediction time:0:00:03.506404
+328	373	154
+Test P:0.47
+Test R:0.413
+Test F1:0.439
+
+
+
+Epoch:25
+Training loss:1.3488515800237655
+Training time:0:00:21.596656
+
+Dev Results
+
+Prediction time:0:00:02.038529
+160	192	80
+Dev P:0.5
+Dev R:0.417
+Dev F1:0.455
+
+Test Results
+
+Prediction time:0:00:03.527836
+321	373	152
+Test P:0.474
+Test R:0.408
+Test F1:0.438
+
+
+
+Epoch:26
+Training loss:1.3629371404647828
+Training time:0:00:22.587007
+
+Dev Results
+
+Prediction time:0:00:02.061599
+186	192	95
+Dev P:0.511
+Dev R:0.495
+Dev F1:0.503
+
+Test Results
+
+Prediction time:0:00:03.525977
+364	373	175
+Test P:0.481
+Test R:0.469
+Test F1:0.475
+model saved......
+
+
+
+Epoch:27
+Training loss:1.2920030909776687
+Training time:0:00:22.530434
+
+Dev Results
+
+Prediction time:0:00:02.042676
+167	192	88
+Dev P:0.527
+Dev R:0.458
+Dev F1:0.49
+
+Test Results
+
+Prediction time:0:00:03.555562
+327	373	145
+Test P:0.443
+Test R:0.389
+Test F1:0.414
+
+
+
+Epoch:28
+Training loss:1.3418054366111756
+Training time:0:00:21.871659
+
+Dev Results
+
+Prediction time:0:00:02.028980
+167	192	91
+Dev P:0.545
+Dev R:0.474
+Dev F1:0.507
+
+Test Results
+
+Prediction time:0:00:03.500288
+334	373	159
+Test P:0.476
+Test R:0.426
+Test F1:0.45
+model saved......
+
+
+
+Epoch:29
+Training loss:1.2151074975728988
+Training time:0:00:22.396725
+
+Dev Results
+
+Prediction time:0:00:02.017037
+177	192	87
+Dev P:0.492
+Dev R:0.453
+Dev F1:0.472
+
+Test Results
+
+Prediction time:0:00:03.495753
+365	373	165
+Test P:0.452
+Test R:0.442
+Test F1:0.447
+
+
+
+Epoch:30
+Training loss:1.1926164358854294
+Training time:0:00:22.138788
+
+Dev Results
+
+Prediction time:0:00:02.026350
+156	192	82
+Dev P:0.526
+Dev R:0.427
+Dev F1:0.471
+
+Test Results
+
+Prediction time:0:00:03.468037
+315	373	149
+Test P:0.473
+Test R:0.399
+Test F1:0.433
+
+
+
+*******
+Best Epoch:28
+Best Epoch Seed:70
+Corresponding P:0.476
+Corresponding R:0.426
+Corresponding F1:0.45
+
+
+
+Best Test Epoch:26
+Corresponding P:0.481
+Corresponding R:0.469
+Corresponding F1:0.475
+
+
+
+Re-checking the scores of entire Test data with the best saved model:
+Total sentences in the test set:209
+GT Triple Count:373	PRED Triple Count:334	CORRECT Triple Count:159
+Test P:0.476
+Test R:0.426
+Test F1:0.45
+Now printing the scores for various subsets of Test Data with the best saved model:
+Total sentences with single triples:110
+GT Triple Count:110	PRED Triple Count:130	CORRECT Triple Count:54
+Test P:0.415
+Test R:0.491
+Test F1:0.45
+Total sentences with multiple triples:99
+GT Triple Count:263	PRED Triple Count:204	CORRECT Triple Count:105
+Test P:0.515
+Test R:0.399
+Test F1:0.45
+Total sentences triples with varying sentiments:21
+GT Triple Count:64	PRED Triple Count:44	CORRECT Triple Count:18
+Test P:0.409
+Test R:0.281
+Test F1:0.333
+Total sentences with overlapping triples:68
+GT Triple Count:191	PRED Triple Count:141	CORRECT Triple Count:74
+Test P:0.525
+Test R:0.387
+Test F1:0.446

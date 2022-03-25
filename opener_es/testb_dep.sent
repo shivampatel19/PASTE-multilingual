@@ -1,0 +1,303 @@
+compound ROOT prep pobj pobj pobj pobj punct
+npadvmod ROOT prep pobj pobj punct
+compound compound compound compound ROOT ROOT prep amod compound compound compound compound compound appos nmod pobj compound appos punct amod compound punct punct compound nsubj nsubj nsubj punct compound appos prep compound compound compound compound compound nsubj compound compound appos punct compound compound compound compound compound compound appos prep compound compound nmod compound compound compound appos prep det compound compound compound pobj punct compound nsubj ROOT ROOT ROOT ROOT det compound dobj dobj compound compound nsubj relcl relcl det dobj compound appos prep amod compound appos ccomp det compound dobj compound compound conj dobj compound dep prep compound pobj pobj pobj nsubj amod amod amod amod punct compound compound compound compound compound compound compound ROOT prep compound compound pobj prep amod pobj compound compound compound compound appos compound compound compound prep appos punct compound appos appos prep compound conj punct nmod compound conj prep pobj pobj pobj punct compound compound compound compound appos punct
+dep prep compound compound ROOT punct ROOT punct conj punct conj punct
+intj prep compound compound pobj pobj punct compound appos appos punct amod compound compound ROOT det npadvmod prep prep pobj compound nmod nmod compound pobj punct amod compound conj punct nmod nmod compound conj punct
+compound compound ROOT prep compound compound compound pobj
+nmod compound compound compound compound compound compound compound compound nsubj nmod nmod compound nmod nsubj prep amod pobj pobj ROOT prep punct pcomp compound compound compound compound nmod dobj dobj prep compound compound compound compound pobj pobj punct conj conj punct conj conj punct compound compound conj conj conj conj conj compound compound compound compound compound compound compound dobj nmod nmod dobj dobj punct amod amod dobj dobj punct det compound conj conj punct compound compound compound compound compound nmod compound conj compound relcl relcl compound compound compound compound conj
+compound ROOT ROOT punct compound compound compound compound compound compound nmod nmod appos punct
+compound compound compound compound nsubj punct nmod nmod compound compound compound compound compound compound appos punct compound appos prep compound compound compound pobj ROOT ROOT ROOT compound compound compound nmod dobj prep pobj pobj intj punct
+compound compound compound ROOT ROOT punct
+compound compound nsubj nsubj ROOT compound dobj dobj punct compound compound compound conj conj punct compound compound compound compound compound compound compound compound compound compound compound compound compound punct punct punct compound compound nsubj punct compound compound compound compound nmod prep compound appos punct prep compound pobj conj nsubj ROOT compound dobj compound compound compound compound compound appos advmod ccomp punct
+compound ROOT
+amod compound ROOT punct
+compound nmod nmod nmod nmod compound compound compound compound compound ROOT ROOT ROOT ROOT punct
+nsubj nsubj ROOT ROOT compound dobj dobj punct
+compound compound compound compound compound ROOT punct punct amod compound ROOT punct
+compound compound compound ROOT
+nsubj prep compound compound nmod appos punct compound compound compound compound nmod nmod compound nmod nmod compound appos punct appos det compound npadvmod nummod punct nmod compound compound compound compound ROOT ROOT compound compound compound compound compound dobj punct
+ROOT punct compound compound compound appos npadvmod npadvmod npadvmod
+compound compound compound compound nsubj ROOT ROOT
+compound compound compound compound compound compound compound compound npadvmod intj det nsubj relcl relcl relcl relcl punct nsubj ROOT amod compound compound dobj dobj dobj punct nmod amod compound nsubj nsubj prep compound pobj pobj pobj punct nmod nmod nmod compound conj punct compound compound compound conj conj conj prep compound pobj punct compound compound conj conj conj punct compound compound compound nmod compound compound compound compound compound conj conj punct
+nsubj nsubj ROOT dobj prep compound compound compound compound compound compound nmod npadvmod punct
+compound ROOT prep pobj pobj compound ROOT prep amod amod amod amod punct
+compound nmod appos compound compound compound compound compound compound compound compound compound compound ROOT ROOT nmod compound nmod compound dobj dobj dobj compound dobj punct
+compound compound ROOT
+compound compound compound compound compound compound nmod nmod compound ROOT ROOT ROOT punct compound compound compound compound compound compound nmod nmod nmod nmod nmod amod amod compound nmod nmod amod appos appos appos punct det nmod nmod appos conj nsubj amod compound appos appos ROOT ROOT compound compound compound compound compound det dobj punct
+det amod nmod compound compound nsubj prep nmod amod amod compound compound pobj pobj pobj punct conj punct compound compound compound compound compound compound ccomp ccomp compound dobj nmod compound compound compound compound compound compound dobj punct nsubj ROOT compound compound dobj prep det pobj pobj punct punct punct punct punct punct det nmod compound ROOT det appos punct
+compound nsubj punct appos prep det compound compound pobj punct compound nsubj ROOT det compound dobj dobj dobj dobj punct
+compound ROOT
+nsubj ccomp advmod compound compound nmod compound dobj punct compound compound compound compound ROOT det compound appos punct compound appos punct compound appos punct punct compound compound compound advmod appos punct
+nsubj ROOT ROOT compound dobj dobj dobj punct conj conj conj compound compound dobj dobj punct
+compound compound compound nsubj nsubj prep amod amod det compound pobj ROOT dobj dobj punct
+compound compound compound compound nsubj ROOT ROOT punct
+compound dep dep compound compound compound nsubj ROOT det nmod nmod nmod punct intj compound compound dobj compound npadvmod npadvmod punct intj compound compound amod nmod compound dobj punct punct punct det compound compound appos punct conj det compound compound compound compound dobj punct
+prep nsubj ROOT prep punct
+nsubj ROOT ROOT compound dobj prep compound compound nmod compound appos det compound compound dobj prep pobj pobj pobj dobj dobj dobj dobj nsubj nsubj ROOT ROOT compound compound dobj punct punct punct
+compound nmod compound nsubj prep det amod compound compound compound compound pobj pobj punct amod compound compound compound amod compound ROOT ROOT punct
+compound ROOT
+compound nsubj prep compound compound compound pobj punct compound compound compound nsubj ROOT compound nsubj ccomp det compound compound dobj compound compound appos punct compound compound compound dobj dobj punct
+compound compound compound compound compound nsubj ROOT prep amod punct
+compound dep prep compound compound compound compound compound pobj punct compound compound compound nsubj nsubj compound appos appos punct nmod prep compound compound compound compound compound conj nmod compound compound compound ROOT ROOT punct
+dep punct compound compound compound compound compound compound compound nmod nmod nmod amod compound compound compound compound ROOT punct
+compound compound compound ROOT prep compound compound nmod compound pobj
+nmod compound compound ROOT punct compound appos appos punct
+nsubj nsubj nsubj nsubj nsubj det compound dobj punct det nsubj parataxis parataxis nmod nmod compound compound dobj dobj punct ROOT dobj prep pobj pobj compound npadvmod punct amod appos appos punct
+compound compound compound compound dep punct compound compound compound compound compound ROOT punct
+amod compound compound compound npadvmod npadvmod amod punct compound compound ROOT punct punct
+nsubj ROOT ROOT xcomp xcomp compound compound compound compound dobj punct amod compound nmod amod amod appos appos punct
+amod amod amod nmod amod compound compound compound compound compound compound compound compound compound compound compound ROOT punct
+compound nsubj nsubj appos nsubj nsubj nsubj dobj ROOT ROOT dobj dobj dobj compound nsubj conj compound dobj dobj punct nsubj compound compound compound compound compound compound compound compound compound compound nsubj nsubj nsubj conj prep pobj dobj dobj dobj punct
+compound compound ROOT appos
+nmod nmod nmod ROOT ROOT prep pobj punct compound appos prep compound pobj compound compound ROOT compound dobj prep compound compound compound compound compound pobj prep nmod compound compound dobj prep prep pobj punct amod punct nmod nmod compound nmod amod nsubj ROOT ROOT compound dobj punct
+compound ROOT ROOT ROOT ROOT punct
+compound compound compound compound compound nmod pobj compound nsubj punct nsubj compound compound nsubj ROOT ROOT ROOT compound compound compound dobj compound appos compound compound compound compound ccomp punct nmod amod compound compound appos appos punct compound appos appos appos prep pobj compound compound compound compound compound compound compound compound nsubj ccomp compound compound compound compound compound compound compound compound compound compound dobj dobj dobj dep prep prep compound dobj ccomp ccomp ccomp prep prep pobj compound compound nsubj ccomp nmod nmod compound nmod compound compound dobj dobj dobj prep compound pobj pobj pobj punct compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound ccomp compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound npadvmod amod amod compound compound appos prep prep pobj compound dobj prep compound pobj ccomp ccomp ccomp ccomp punct
+compound compound compound compound compound compound ROOT
+nsubj nsubj compound compound compound compound appos prep pobj nsubj ROOT ROOT compound compound compound compound compound dobj dobj prep compound pobj pobj pobj punct compound compound nmod compound compound compound appos punct compound conj prep compound compound compound compound compound compound dobj punct compound compound dobj compound appos compound compound appos prep pobj pobj punct prep compound pobj pobj nummod appos compound compound compound compound compound compound dobj prep nmod nmod amod compound compound compound compound compound compound compound pobj appos punct compound compound compound compound compound nmod appos appos appos compound nsubj ccomp compound compound compound compound dobj punct compound compound compound compound compound compound compound compound compound amod compound compound nsubj advcl advcl advcl punct compound compound compound compound compound compound compound compound compound compound compound nmod compound compound compound compound dep punct nsubj ROOT dobj prep amod amod pobj pobj punct conj punct conj punct punct punct punct punct punct
+ROOT intj advmod advmod det compound nmod nmod npadvmod npadvmod punct
+nmod compound compound compound compound compound nsubj ROOT advmod dobj compound compound nmod nmod compound compound compound compound compound compound advmod advmod punct conj conj conj punct conj punct conj prep amod amod amod amod compound compound pobj prep compound pobj punct nsubj parataxis punct nmod nmod nmod nmod compound compound compound compound compound compound compound dobj prep
+compound compound ROOT compound appos appos appos amod
+compound compound compound compound compound ROOT ROOT punct amod appos punct compound compound compound appos appos punct
+nmod amod ROOT ROOT ROOT ROOT punct det compound compound compound compound compound compound appos punct compound compound appos prep pobj compound appos compound appos det compound compound compound compound compound compound nmod nmod nmod dobj punct conj conj punct conj punct punct punct punct prep compound compound compound pobj pobj punct
+npadvmod npadvmod punct advmod advmod ROOT ROOT ROOT ROOT punct
+nmod nmod nmod ROOT prep amod
+prep amod prep compound compound pobj punct nsubj punct ROOT ROOT compound dobj dobj dobj punct conj conj punct appos det dobj compound compound compound compound compound appos appos punct compound compound compound compound appos appos appos punct det compound appos punct compound compound compound compound compound compound compound compound appos appos appos punct
+compound nsubj compound appos punct compound compound compound nmod quantmod nummod compound compound compound compound compound compound nsubj ccomp dobj dobj punct conj dobj punct ROOT dobj compound nsubj dobj dobj punct compound compound nmod nmod nmod nmod nmod compound nsubj conj dobj dobj det compound compound nmod amod ROOT ROOT punct
+nmod amod compound nsubj punct compound compound compound compound appos appos prep punct pobj nsubj advmod relcl relcl det compound compound nsubj nsubj ROOT dobj punct
+nummod compound compound compound nsubj nsubj nmod appos ROOT ROOT punct
+compound compound compound compound compound compound compound compound intj attr attr compound compound ROOT punct
+advmod ROOT ROOT ROOT ROOT
+compound compound compound dep advmod nmod nmod nmod nsubj prep punct nmod nmod pobj pobj punct ROOT ROOT punct npadvmod npadvmod punct conj conj compound dobj det nmod nmod nmod appos punct compound compound compound dobj compound nmod det appos appos compound compound nmod compound compound compound compound compound compound compound compound ROOT punct
+compound compound compound compound ROOT
+compound compound nmod compound nsubj nsubj punct appos prep compound compound pobj pobj punct amod compound compound compound compound compound compound appos punct nsubj ROOT ROOT ROOT nmod dobj punct appos punct
+compound compound nsubj ROOT ROOT ROOT prep pobj punct
+compound compound compound compound ROOT prep pobj punct prep quantmod nummod compound nummod appos punct compound nsubj nsubj nsubj ROOT ROOT ROOT compound dobj dobj dobj punct
+compound compound compound nsubj nsubj punct nmod nmod compound nmod compound appos punct compound compound compound compound compound compound nmod compound compound compound compound compound compound appos appos punct compound conj compound ROOT ROOT punct
+compound ROOT punct prep amod nmod nmod pobj punct nmod compound compound nmod compound compound dobj punct nmod parataxis punct compound nsubj ROOT ROOT compound compound compound compound compound nmod dobj dobj prep compound pobj pobj punct compound compound compound compound appos punct compound conj conj det compound nsubj compound compound compound compound compound compound appos appos appos appos prep compound compound compound appos appos compound appos appos compound compound compound dobj det amod dobj compound npadvmod punct
+compound ROOT prep pobj pobj pobj punct compound compound npadvmod npadvmod punct
+compound nsubj nsubj nsubj prep amod appos appos appos punct compound compound nsubj ROOT ROOT ROOT compound compound dobj det compound dobj dobj det amod amod amod compound compound compound compound dobj prep pobj pobj compound compound compound compound compound compound compound compound dobj dobj dobj dobj punct compound compound compound compound compound compound appos appos det amod amod amod compound dobj dobj dobj punct conj amod compound punct conj compound compound dep prep det nsubj conj conj compound compound dobj punct
+amod nmod nmod compound compound compound compound ROOT ROOT ROOT punct compound appos det compound appos amod amod amod amod punct
+compound compound compound compound ROOT prep amod compound compound compound pobj det nummod compound appos prep compound compound compound compound compound compound compound compound compound compound compound pobj punct
+ROOT amod prep compound compound compound appos
+nmod amod compound compound compound nsubj amod amod prep amod ROOT punct
+compound npadvmod det dobj appos punct ROOT det compound compound compound compound compound dobj punct
+nsubj nsubj nsubj intj compound compound appos ccomp det compound dobj compound appos nmod prep pobj compound dobj det nummod nsubj npadvmod npadvmod nmod det nmod nmod nmod nsubj punct compound appos det nummod compound appos appos punct ROOT det compound dobj prep pobj prep compound pobj punct
+amod compound compound compound ROOT punct
+compound compound compound dep prep pobj compound appos punct compound compound nmod compound compound compound appos punct compound compound compound compound compound compound ROOT punct
+compound ROOT appos prep npadvmod prep appos compound nsubj ROOT compound dobj dobj amod amod amod punct
+ROOT amod npadvmod amod amod punct
+compound compound compound compound compound ROOT ROOT prep npadvmod
+compound compound ROOT
+npadvmod ROOT
+nsubj ROOT compound dobj
+compound compound ROOT
+compound ROOT ROOT ROOT
+amod ROOT ROOT
+ROOT compound compound compound compound compound compound compound compound compound pobj pobj punct
+compound nsubj punct appos punct compound conj ROOT ROOT compound dobj punct
+compound nsubj punct compound compound appos ROOT ROOT compound dobj punct compound compound compound compound compound compound compound appos appos punct intj nummod punct nummod appos punct nsubj prep compound compound compound dep punct compound nsubj ROOT det compound compound nmod compound dobj dobj prep nummod conj punct punct punct
+intj intj det nsubj punct prep compound compound compound compound compound pobj compound compound compound compound appos det appos ROOT nmod dobj dobj dep prep compound nmod pobj pobj pobj punct
+compound dep prep compound pobj punct ROOT dep dep dep compound compound compound compound dobj dobj punct nsubj parataxis cc prep compound pobj intj punct punct
+compound compound compound compound compound compound compound compound compound ROOT punct compound compound compound compound compound compound compound compound appos appos appos compound dobj punct
+compound compound ROOT punct
+amod amod amod ROOT prep pobj
+compound nsubj prep amod compound compound pobj punct compound compound compound compound compound compound compound compound compound compound nmod compound appos prep appos ROOT compound dobj punct
+compound compound prep amod compound compound compound compound compound compound compound pobj pobj punct compound compound compound nmod compound ccomp compound compound compound appos appos prep compound amod amod pobj punct appos punct conj conj punct conj conj punct punct nsubj ROOT compound compound compound compound appos appos prep compound pobj punct
+compound nmod prep compound ROOT ROOT ROOT punct det compound compound nmod nmod amod amod appos appos punct compound compound compound compound compound compound compound compound dep punct compound nsubj ROOT ROOT compound dobj dobj punct compound compound compound compound amod compound compound compound compound compound dobj punct
+compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound ROOT nmod nmod nmod nmod nmod nmod compound compound dobj compound compound compound compound prep det compound dobj dobj punct nsubj dep det pobj nmod nmod nmod nmod compound prep prep prep ROOT compound appos appos det amod nmod amod nmod compound appos punct
+amod compound compound compound compound compound nsubj nsubj nsubj punct amod compound compound compound nsubj nsubj nsubj compound appos appos appos punct compound compound compound compound conj ROOT compound compound dobj dobj dobj punct
+nsubj ROOT nmod compound compound compound compound compound compound dobj dobj punct conj prep compound compound nmod compound pobj pobj nmod dobj punct
+compound ROOT
+compound nsubj prep pobj prep compound compound compound pobj punct compound compound appos nsubj advmod advmod ROOT det amod compound dep prep prep pobj punct prep pobj punct compound compound compound compound compound nmod compound compound compound conj conj prep compound compound compound compound pobj punct
+nsubj compound ROOT ROOT compound compound compound dobj compound npadvmod npadvmod
+nsubj nsubj nsubj prep amod appos appos ccomp amod amod compound nmod nmod nmod nmod nmod amod compound dobj compound dobj prep compound pobj punct amod nsubj ROOT compound dobj nsubj compound dobj dobj dobj dobj punct nmod nmod prep compound nmod nmod compound compound compound nsubj det compound appos punct
+compound ROOT
+nsubj ROOT ROOT compound dobj dobj dobj punct compound compound compound conj punct
+compound nmod compound compound compound compound compound compound compound compound nsubj ROOT intj compound nmod nmod nmod nmod nmod amod compound compound compound dobj prep det compound pobj pobj punct
+compound nsubj punct appos appos nummod dobj nmod nmod appos appos appos det appos punct ROOT ROOT compound dobj det nmod compound compound dative dative dative nummod npadvmod
+nsubj ROOT ROOT ROOT ROOT prt npadvmod
+nmod intj compound compound compound compound ROOT prep pobj punct
+dep dep dep dep cc punct appos compound compound compound compound ROOT ROOT punct
+compound dep dep appos intj compound compound nsubj ROOT compound compound dobj advmod intj compound compound compound compound npadvmod punct
+compound compound compound compound compound ROOT punct
+nsubj compound compound dobj punct compound nsubj punct ROOT ROOT ROOT compound dobj det compound compound compound nsubj conj nmod amod dobj dobj dobj punct
+compound compound compound compound compound compound compound nsubj det amod nsubj ROOT punct
+compound ROOT ROOT ROOT punct appos prep compound compound compound compound conj punct compound nmod amod conj amod amod punct
+compound compound ROOT punct compound compound compound compound compound compound compound compound compound compound compound npadvmod punct
+amod compound ROOT
+nsubj ROOT nsubj ccomp compound dobj punct det compound compound compound compound appos punct
+compound dep prep compound compound pobj punct compound compound compound compound nsubj advcl advcl det nmod compound compound dobj prep pobj pobj pobj nmod compound pobj punct compound appos prep compound pobj punct compound nsubj nsubj nsubj prep pobj ROOT ROOT nsubj nsubj ccomp ccomp ccomp punct
+nmod amod punct compound compound ROOT punct nsubj nsubj nsubj compound appos appos appos punct
+amod nsubj punct compound conj conj conj punct compound nmod prep compound conj punct compound compound compound compound compound compound compound compound compound compound appos appos appos appos det compound ROOT punct
+amod amod amod punct compound compound compound compound compound compound compound ROOT punct
+compound compound compound compound nsubj ROOT det dobj nmod amod compound compound npadvmod nsubj prep compound compound compound pobj pobj pobj punct ROOT ROOT det advmod dep dep dep compound compound compound compound compound compound compound compound dobj punct compound compound nsubj prep compound compound compound compound compound compound compound compound compound pobj pobj pobj punct ROOT ROOT ROOT nmod nmod nmod compound compound compound dobj prep prep punct
+dep nmod nmod compound compound pobj punct amod compound compound compound nsubj ROOT ROOT compound compound compound compound dobj dobj punct compound appos prep compound compound compound compound compound compound compound compound compound pobj pobj aux ccomp dobj dobj nsubj ROOT compound dobj compound compound ccomp ccomp
+compound compound npadvmod nsubj nsubj nsubj punct prep prep prep pcomp nmod nmod compound compound dobj amod amod amod punct compound compound compound compound compound compound compound compound compound compound compound compound nsubj prep pobj punct ROOT nmod nmod dobj dobj dobj punct det compound appos appos punct compound compound nmod compound conj punct conj prep pobj pobj pobj punct compound compound compound compound compound compound compound compound compound compound dobj dobj punct nmod nmod conj punct amod amod amod amod amod compound conj punct compound nmod nmod nmod nmod nmod appos appos punct det amod compound compound dep prep det compound compound ROOT ROOT punct
+compound compound ROOT ROOT
+compound nsubj punct nmod nmod punct compound compound compound compound compound dobj punct compound conj punct ROOT ROOT compound amod amod amod punct
+nmod nmod nmod compound compound compound compound compound compound nmod nmod compound compound compound compound ROOT ROOT punct
+compound compound ROOT ROOT punct compound compound compound compound conj conj conj punct
+compound compound nsubj ROOT ROOT ROOT ROOT punct
+compound ROOT ROOT
+nmod compound nmod compound compound pobj punct amod conj punct prep compound compound compound compound compound nsubj nsubj ROOT nmod compound compound compound dobj punct appos punct
+compound nmod nmod nmod nmod nmod nmod compound ROOT ROOT compound compound compound compound compound compound compound compound compound compound dobj punct
+nmod compound compound compound compound ccomp ccomp prt punct compound compound compound nsubj ROOT ROOT ROOT nmod compound dobj prt nsubj ccomp dobj punct
+nmod advmod punct det compound nmod nmod nmod nmod compound ROOT punct prep compound compound compound compound nmod compound compound compound pobj punct
+compound compound compound compound compound nmod compound compound compound compound compound compound nmod ROOT punct
+compound compound nsubj compound prep pobj compound ROOT punct amod compound nmod compound dep dep punct amod amod compound compound nsubj ROOT ROOT compound compound dobj nsubj parataxis parataxis det npadvmod amod punct nmod nmod compound dobj dobj det compound nmod compound compound compound compound compound compound compound appos appos appos punct compound conj prep compound compound compound compound compound appos punct compound compound compound compound compound compound nsubj conj conj dobj nmod compound compound appos appos appos punct
+nsubj ROOT ROOT ROOT punct
+compound compound compound ROOT ROOT punct
+compound compound dep punct compound compound compound ROOT appos appos
+compound compound compound compound ROOT ROOT punct prep compound compound compound pobj pobj compound compound appos appos punct compound compound appos prep npadvmod compound compound npadvmod punct compound compound compound compound compound appos punct amod compound compound dobj dobj dobj punct compound compound compound appos appos compound relcl relcl punct compound conj punct compound conj conj punct compound compound compound conj conj conj conj punct
+compound compound compound compound compound compound compound compound compound compound ROOT ROOT
+prep amod det compound compound compound pobj punct compound compound compound conj punct nmod nmod nmod nmod compound compound compound compound compound compound compound ROOT punct compound nmod nmod punct appos appos punct
+compound compound nmod nmod compound nmod nmod punct ROOT ROOT det dobj dobj dobj punct nsubj nsubj compound compound nmod det nsubj punct compound compound compound compound compound compound appos punct compound compound conj punct compound prep compound appos compound compound compound compound compound appos ROOT dobj prep nmod compound compound compound compound compound compound compound compound compound nsubj conj punct
+det compound compound compound nsubj punct compound compound appos prep compound compound compound compound nmod compound nmod compound compound pobj pobj ccomp ccomp compound compound nsubj ccomp dobj dobj dobj punct compound nsubj prep compound compound compound compound pobj nsubj ROOT dobj punct
+nmod compound ROOT ROOT ROOT punct compound nmod nmod compound amod appos
+nmod nmod nmod nummod nmod compound compound nsubj nsubj nsubj nsubj punct advmod nsubj ROOT amod dobj prep amod dobj punct compound compound compound compound compound compound dobj dobj det compound appos punct compound nsubj nsubj ccomp ccomp ccomp compound dobj punct punct punct conj conj conj det appos nmod amod compound compound nsubj nsubj relcl relcl punct
+amod compound compound compound compound compound compound compound ROOT ROOT punct compound compound ROOT ROOT ROOT ROOT punct compound compound compound compound compound compound ROOT punct det nsubj nsubj nmod compound compound nmod punct nsubj nsubj nsubj ROOT nmod nmod nmod nmod nmod det amod attr punct compound compound compound compound compound compound compound compound compound ROOT prep pobj pobj punct compound compound compound compound ROOT punct prep nmod nmod compound compound compound compound compound compound compound compound compound nsubj ROOT ROOT nsubj dobj dobj dobj punct nmod prep compound nmod nmod nmod nummod nmod compound nummod compound compound compound compound compound compound compound compound compound compound nmod compound compound nsubj nsubj compound ROOT ROOT ROOT punct
+compound nmod nmod compound compound compound ROOT punct compound compound compound nmod amod quantmod nummod compound appos prep compound compound pobj punct compound appos advmod compound appos appos compound dep dep punct dep prep compound compound compound compound pobj punct compound compound nmod compound compound compound compound nmod compound compound compound compound compound compound ROOT punct
+compound compound compound ROOT
+nmod amod nsubj amod dobj dobj punct amod amod amod compound compound compound compound compound appos appos punct compound compound nsubj conj conj dobj dobj dobj det dobj dobj det nummod nummod nummod compound compound compound compound compound compound dobj prep pobj compound compound compound compound compound compound nsubj nmod nmod intj advmod compound compound compound compound compound compound compound ROOT ROOT ROOT punct punct punct punct nsubj det appos appos compound ROOT ROOT nummod nummod nummod nummod appos appos punct conj conj conj npadvmod amod npadvmod
+compound compound compound compound compound compound ROOT punct compound compound compound compound compound compound compound appos punct
+compound ROOT punct
+amod ROOT ROOT ROOT punct
+nsubj nsubj ROOT ROOT compound compound dobj dobj dobj dobj punct compound compound compound compound compound nsubj nsubj punct compound compound nsubj ROOT advmod dobj prep compound pobj punct
+nmod punct nsubj nsubj punct compound nsubj ROOT ROOT prep compound compound nmod compound dobj punct compound compound compound compound nmod compound nsubj conj nmod dobj dep compound compound compound compound compound nmod nmod nmod nmod nmod nmod compound compound dobj prep pobj pobj prep compound compound compound compound dobj punct
+compound ROOT punct compound nmod compound compound compound appos punct parataxis punct compound appos appos punct ROOT advmod amod punct
+compound compound compound ROOT punct appos
+compound compound compound compound compound compound nsubj punct compound compound compound appos det compound compound compound compound compound compound dobj dobj compound compound ROOT ROOT compound compound dobj dobj punct compound compound compound appos appos appos punct compound compound compound amod amod compound compound compound compound conj conj nsubj ccomp ccomp punct compound compound compound compound prep amod amod amod
+dep dep dep punct compound compound compound ROOT punct
+nsubj nsubj ROOT punct npadvmod punct conj conj conj punct conj punct conj prep amod punct
+nsubj det compound appos appos appos det compound compound compound compound compound compound appos prep prep prep prep punct pobj compound compound compound compound compound ROOT ROOT prt compound compound compound compound compound compound compound compound dobj dobj dobj punct
+ROOT compound compound appos prep amod compound compound compound compound compound conj prep compound pobj punct
+nmod compound compound compound nmod prep compound pobj det advmod compound compound compound compound nsubj punct compound nmod compound compound compound compound compound appos nmod nsubj ROOT ROOT ROOT punct
+compound nsubj nsubj prep amod amod amod punct compound nsubj ROOT compound compound compound compound dobj punct
+compound compound compound dep prep advmod compound compound compound compound compound compound appos det nummod compound nmod appos appos punct npadvmod ROOT amod dobj punct
+det intj amod intj dep punct acl amod punct nmod dobj dobj punct compound compound compound compound compound nmod compound compound compound nsubj conj conj conj dobj punct compound compound compound nsubj nsubj acl acl compound punct prep pobj compound compound compound compound compound compound ROOT compound dobj prep compound compound compound compound compound compound dobj dobj punct
+det pobj amod compound compound nsubj nsubj prep compound appos appos compound appos prep compound nsubj ROOT ROOT ROOT compound compound dobj dobj punct
+nsubj ROOT ROOT ROOT ROOT prep compound compound pobj pobj
+npadvmod npadvmod advcl nmod appos nummod nmod compound appos nummod prep compound dobj punct compound compound compound compound compound compound compound compound compound nmod nmod compound compound dobj punct prep prep dep amod compound dobj dobj dobj punct nmod amod compound compound dobj dobj dobj compound appos appos punct nsubj ROOT compound dobj punct dep compound compound dobj dobj dobj punct compound compound compound compound dobj prep pobj punct intj compound compound compound compound compound compound compound ROOT ROOT
+compound dep det compound nmod compound compound compound compound compound compound compound ROOT punct
+compound compound compound compound compound compound ROOT ROOT ROOT punct compound compound compound compound compound ROOT prep compound pobj punct
+amod compound ROOT ROOT nsubj relcl relcl compound compound dobj dobj prep pobj punct punct punct punct compound nsubj nsubj nsubj compound ROOT prep compound dobj punct
+compound compound compound compound nsubj ROOT compound compound compound compound compound compound dobj dobj punct
+compound ROOT compound appos appos det appos amod punct compound nsubj prep pobj pobj compound compound appos punct
+det amod compound compound compound ROOT det compound dobj punct
+compound ROOT
+compound compound ROOT ROOT ROOT det compound compound dobj dobj dobj prep compound pobj punct advmod advcl prep amod amod amod amod punct
+compound nsubj prep compound pobj pobj compound nsubj ROOT ROOT ROOT det dobj punct compound compound compound compound compound compound compound compound compound npadvmod npadvmod npadvmod punct
+nsubj ROOT ROOT compound dobj dobj dobj compound npadvmod dobj dobj nmod compound compound compound compound dobj dobj dobj punct
+compound compound compound compound compound compound compound compound compound nsubj punct appos ROOT amod dobj prep compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound pobj compound appos det appos compound appos appos appos compound nsubj compound compound compound dobj dobj punct
+compound compound amod nsubj nsubj nsubj nsubj ROOT ROOT punct
+compound compound nsubj ROOT det amod dobj compound compound compound nmod compound compound compound compound compound compound compound compound appos det amod compound nmod nmod nmod nmod appos punct
+compound ROOT prep nmod det compound compound appos punct compound nsubj acl compound compound compound compound compound compound dobj dobj punct
+compound compound compound compound compound compound compound compound compound compound compound compound compound ROOT ROOT ROOT punct
+nsubj ROOT ROOT compound dobj dobj punct compound appos appos appos prep pobj compound amod punct amod nmod nmod compound dobj punct amod conj punct compound compound conj punct
+compound ROOT ROOT prep amod compound pobj punct
+compound compound compound compound compound compound ROOT punct prep compound compound compound appos punct
+compound ROOT compound appos compound compound ROOT ROOT ROOT punct
+amod nsubj prep pobj punct compound compound nsubj compound ROOT ROOT punct
+amod compound compound compound compound compound ROOT punct
+intj intj intj punct ROOT ROOT ROOT compound compound compound compound compound dobj dobj punct
+compound compound compound compound compound ROOT det appos punct
+compound nmod nmod compound ROOT ROOT
+nsubj nsubj ROOT ROOT det dobj dobj dobj nmod appos prep compound compound dobj prep compound compound compound compound npadvmod
+compound nmod npadvmod amod nsubj nsubj punct ROOT ROOT punct compound npadvmod punct conj punct conj conj punct compound compound compound compound compound conj conj det nsubj ccomp compound nmod dobj conj dobj dobj dobj punct appos appos appos punct
+ROOT compound compound compound compound compound amod ROOT punct
+dep dep dep prep pobj punct compound compound ROOT ROOT punct
+compound ROOT prep compound compound compound compound compound appos prep compound compound compound compound nmod appos appos appos prep nmod nmod nmod compound compound pobj punct
+nsubj ROOT ROOT compound compound dobj punct compound compound compound compound compound compound compound appos punct
+compound compound compound ROOT punct
+compound nsubj appos compound compound nsubj ROOT ROOT compound compound compound compound compound compound compound compound compound dobj prep compound compound compound compound npadvmod appos prep compound compound pobj pobj pobj compound compound compound compound compound dobj prep
+compound compound nsubj prep compound compound compound compound compound compound pobj nsubj compound compound dobj compound compound compound compound compound compound compound compound dobj dobj dobj punct conj conj conj punct compound compound compound conj conj ccomp ccomp ccomp aux advcl det dobj punct compound compound compound appos punct compound nsubj ROOT prep pobj punct punct punct punct amod amod amod nmod nmod intj compound compound dobj dobj dobj punct
+compound nsubj ccomp ccomp ccomp det amod amod amod amod dobj punct ROOT det nmod amod amod compound dobj nsubj prep compound appos appos punct compound ROOT ROOT
+compound nsubj prep pobj punct conj conj punct ROOT punct
+compound compound compound compound compound dep dep dep dep prep prep nmod nmod compound nmod nmod compound appos nmod nmod nmod amod compound compound compound ROOT ROOT punct
+compound nsubj prep pobj pobj det compound appos punct prep pobj punct ROOT ROOT ROOT punct
+nsubj ccomp nmod nmod compound dobj prep compound pobj punct compound nmod compound ROOT ROOT prep pobj prep punct det amod amod nsubj ROOT prep compound compound pobj punct
+nmod nmod nmod nmod prep compound nmod compound nsubj nsubj ROOT ROOT ROOT ROOT det compound compound dobj punct
+compound ROOT
+compound nmod appos nmod nmod nmod compound compound compound compound compound compound compound nsubj ROOT ROOT ROOT ROOT compound compound dobj nsubj ccomp ccomp ccomp ccomp compound compound dobj prep amod compound compound compound compound pobj pobj det compound compound compound compound compound appos punct nmod nmod nmod intj nmod compound npadvmod nummod npadvmod npadvmod punct
+compound compound compound ROOT punct appos
+compound compound compound compound compound ROOT ROOT ROOT ROOT compound compound appos compound compound compound conj punct
+amod nmod amod amod det npadvmod npadvmod punct amod amod nsubj nsubj punct ROOT ROOT det dobj dobj punct punct nmod nmod nmod dep dep dep compound appos prep compound pobj punct appos appos punct punct amod amod amod npadvmod punct compound conj conj conj punct intj prep amod amod amod nmod nmod pobj pobj punct compound nmod nmod nmod compound compound nsubj conj conj conj conj dep prep dobj punct
+compound compound compound ROOT
+nsubj appos compound compound compound compound appos punct det compound appos appos punct ROOT det det compound nmod nmod dobj det nummod compound dobj dobj compound nsubj relcl relcl advmod advmod advmod punct
+nmod nmod nmod nummod nummod nummod compound ROOT punct compound compound appos appos appos punct appos det compound compound compound compound nmod nmod nmod compound compound dobj punct compound conj conj conj conj punct compound compound compound compound compound compound compound compound compound conj punct compound conj punct compound compound compound conj conj nmod compound pobj det compound compound conj compound appos punct compound compound amod appos appos compound compound ccomp ccomp ccomp compound compound compound compound appos appos punct compound compound compound compound compound compound compound dep punct compound compound compound compound ROOT ROOT punct nsubj compound appos appos nmod det compound compound compound compound dobj amod compound compound compound appos prep compound pobj pobj punct
+compound aux compound compound compound compound compound compound ROOT
+nmod nmod npadvmod npadvmod prep nmod pobj prep compound nmod nmod nummod pobj compound compound compound compound compound compound compound compound compound compound ROOT nmod intj dobj punct compound compound compound poss amod amod amod punct amod amod amod advmod amod amod amod punct
+nsubj prep compound compound compound ROOT det compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound dobj dobj punct compound appos compound compound npadvmod punct
+ROOT amod amod compound pobj prep prep det compound pobj punct
+ROOT det compound compound compound appos punct compound compound compound nmod nmod nmod amod appos appos prep pobj pobj pobj pobj prep pobj pobj punct compound appos appos punct amod appos prep amod amod amod punct nmod nmod pobj punct compound compound appos appos punct conj pobj punct compound compound compound appos punct compound nmod amod nmod compound dep compound nsubj nsubj punct nsubj parataxis dobj prep compound compound quantmod nummod compound ROOT ROOT nmod nmod punct dobj dobj dobj punct punct
+poss compound nmod compound compound pobj intj compound nmod nmod nmod compound compound compound compound pobj compound compound ROOT punct
+compound nmod nmod nmod amod ROOT punct compound compound appos det prep compound compound appos punct prep compound nmod compound pobj det compound appos det prep compound compound appos punct
+compound nmod nmod ROOT
+nsubj npadvmod compound compound compound compound compound nsubj nsubj ROOT ROOT compound compound compound compound compound compound compound dobj punct
+amod amod ROOT ROOT ROOT
+compound compound ROOT det compound compound compound compound compound compound compound compound compound appos appos neg npadvmod npadvmod compound compound compound dobj dobj punct nsubj nsubj ROOT ROOT ROOT amod amod dobj compound compound compound punct compound nsubj mark det compound compound compound nsubj ROOT compound npadvmod compound compound compound compound compound compound compound compound compound dobj punct
+compound compound compound compound compound compound compound ROOT ROOT ROOT
+compound ROOT det appos appos appos advmod compound compound compound compound nmod nmod pobj quantmod quantmod nummod appos punct compound compound prep compound compound compound compound nsubj nsubj conj prep compound pobj prep compound dobj punct advmod amod appos appos punct punct
+compound compound compound compound compound compound compound nmod compound compound compound compound ROOT ROOT ROOT
+amod compound compound compound nsubj prep compound pobj compound appos compound compound compound compound compound npadvmod punct compound compound compound compound compound compound compound compound compound nsubj ROOT dobj compound compound compound appos prep compound pobj nmod prep prep prep intj appos punct
+npadvmod npadvmod nmod compound compound compound pobj prep compound compound pobj punct det npadvmod prep compound compound compound pobj punct nsubj compound compound compound compound compound compound compound compound compound compound compound compound nmod nmod compound compound nsubj prep pobj ROOT punct
+compound compound nsubj det compound compound compound compound appos ROOT ROOT ROOT compound compound compound compound compound compound compound dobj compound compound compound dobj dobj dobj punct
+nmod aux compound compound compound compound nmod nmod nummod dep det nsubj nsubj intj pobj advmod amod det nsubj ROOT ROOT compound compound compound nsubj ccomp ccomp det npadvmod conj conj conj compound dobj punct nsubj amod dobj punct
+compound ROOT ROOT ROOT
+advmod pobj pobj compound compound compound compound compound compound pobj npadvmod compound compound nsubj ROOT dobj prep dobj dobj aux conj conj quantmod nmod compound compound dobj punct
+compound compound compound compound compound compound compound compound compound nsubj ROOT nmod nmod compound compound dobj punct ROOT
+nmod aux compound compound compound compound nmod compound amod nsubj ccomp ccomp ccomp compound compound compound compound dobj prep compound compound compound compound compound nmod dobj punct nmod compound compound compound nsubj compound compound nsubj nsubj nsubj ROOT ROOT compound dobj dobj punct compound compound compound compound compound compound nsubj parataxis parataxis parataxis punct compound conj conj conj det dobj det npadvmod npadvmod prep pcomp pcomp pcomp compound compound npadvmod
+npadvmod punct nsubj ROOT det dobj
+compound compound compound compound compound compound compound compound compound ROOT punct compound compound compound compound compound compound compound appos appos prep pobj punct
+compound compound compound compound ROOT ROOT punct compound compound compound compound appos punct compound compound compound compound compound nmod nmod compound compound compound compound compound npadvmod punct nmod compound compound compound compound compound compound ROOT prep pobj compound appos det compound appos appos punct
+compound ROOT
+compound npadvmod prep pobj pobj punct nsubj ROOT dobj dobj prep compound compound pobj pobj nmod amod appos appos appos appos punct npadvmod npadvmod punct conj conj punct compound compound conj punct conj conj punct compound conj punct
+compound nsubj ROOT ROOT ROOT compound compound dobj punct compound compound compound conj conj conj punct punct compound ROOT ROOT ROOT
+nmod compound compound ROOT
+compound nsubj nsubj nsubj advmod ROOT compound compound dobj compound compound nsubj ccomp ccomp ccomp dative compound compound compound compound dobj compound npadvmod npadvmod compound compound compound compound compound dobj det compound dobj punct advmod prep compound compound compound compound compound compound appos punct
+compound compound compound compound nmod prep appos compound ROOT prep amod nmod pobj npadvmod compound nmod nmod compound appos appos punct
+compound compound compound compound compound ROOT ROOT ROOT punct compound compound compound compound compound compound compound compound amod amod appos appos punct compound compound compound appos appos punct punct
+compound dep punct compound nsubj nsubj ROOT ROOT nmod compound dobj punct
+compound compound nsubj punct ROOT ROOT compound dobj dobj punct
+nsubj ROOT nmod nmod nmod nmod nmod pobj pobj det dobj compound compound compound compound compound appos prep pobj punct compound compound compound compound xcomp appos prep prep prep compound compound compound compound pobj compound ccomp det compound compound compound compound compound appos nsubj ccomp ccomp compound compound compound compound compound compound compound compound compound dobj punct
+compound nsubj ROOT nmod nmod compound compound compound compound compound compound dobj dobj punct compound compound npadvmod npadvmod punct
+ROOT det nmod compound appos prep amod amod pobj prep compound compound nmod compound compound compound compound nmod advmod amod compound compound compound pobj punct amod compound compound compound compound compound compound nmod compound compound compound compound appos appos appos punct
+compound compound compound ROOT ROOT
+nsubj nsubj ROOT compound nmod compound compound dobj dobj dobj prep compound pobj compound compound dobj dobj pobj prep nmod amod pobj pobj punct nsubj amod amod amod amod punct
+dep advmod advmod compound compound appos punct det nummod npadvmod dobj dobj nmod det compound compound appos nsubj ROOT ROOT det prep nmod nmod compound compound compound pobj nummod punct compound dobj punct
+det compound compound compound compound compound nmod compound compound compound npadvmod punct det nsubj ROOT ROOT ROOT amod amod nmod nmod compound dobj punct
+compound compound nmod compound compound compound compound compound compound compound ROOT punct conj conj compound compound dobj amod amod amod punct
+compound ROOT ROOT punct compound compound appos appos appos punct compound nmod compound nmod nmod compound ROOT ROOT punct compound amod compound compound compound compound compound compound compound compound appos punct
+amod ROOT punct prep compound compound compound compound compound pobj punct
+nmod amod ROOT punct nsubj advmod compound compound appos det appos aux relcl compound compound ROOT compound compound compound compound dobj punct amod compound compound compound compound compound conj conj punct compound compound compound compound compound compound conj punct compound appos appos compound compound compound compound appos
+compound advmod punct amod compound nsubj ccomp nmod nmod nmod dobj det nummod compound dobj dobj punct compound compound compound compound compound compound compound dobj punct compound nmod nmod amod conj punct compound nsubj ROOT compound dobj conj nmod compound npadvmod punct compound compound compound compound conj conj punct prep compound compound compound compound compound pobj pobj pobj prep pobj punct
+compound compound ROOT
+nmod amod amod punct compound compound compound ROOT ROOT punct compound compound compound compound appos appos appos punct
+compound compound compound nmod compound compound compound ROOT det compound compound compound dobj dobj punct conj conj punct compound conj conj punct conj punct conj punct nmod compound compound ROOT amod amod amod amod compound compound compound appos appos appos punct
+compound compound compound compound ROOT punct
+amod nsubj compound compound compound compound amod dobj punct compound nsubj appos npadvmod npadvmod npadvmod punct nmod compound npadvmod amod amod appos advmod prep det compound pobj punct compound nsubj prep pobj ROOT punct
+compound compound nmod prep compound dobj compound compound compound compound compound compound compound compound dep prep compound compound compound nmod pobj punct amod compound ROOT ROOT punct
+compound compound compound compound compound compound nsubj compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound compound nmod compound compound compound compound compound compound compound appos compound compound nsubj appos appos compound compound compound compound compound compound compound dep det amod appos punct ROOT prep compound compound compound dobj prep compound compound compound compound compound dobj dobj dobj dobj compound compound compound compound ROOT punct
+ROOT ROOT appos prep appos prep compound compound compound compound compound compound compound appos dep amod advmod advmod det amod compound nmod nmod compound appos compound compound compound compound compound compound compound compound appos intj compound compound compound compound compound compound appos prep compound compound pobj nmod nummod npadvmod npadvmod npadvmod npadvmod punct nsubj compound compound nsubj ROOT ROOT punct det npadvmod compound compound compound nsubj ROOT ROOT dobj dobj nmod nsubj conj compound compound compound compound compound compound compound dobj prep det compound compound compound compound pobj appos compound amod dobj prep compound compound compound nmod compound pobj punct compound compound compound compound compound compound compound compound compound nsubj ROOT ROOT punct
+amod amod amod punct punct nmod compound compound compound compound compound compound compound compound compound compound compound compound ROOT punct
+nsubj nmod compound appos ROOT ROOT punct
+compound compound compound compound ROOT ROOT compound compound compound compound appos appos punct
+compound nsubj nsubj nsubj ROOT compound dobj punct compound compound appos punct
+nmod compound compound compound compound compound ROOT ROOT punct
+ROOT amod compound compound intj compound compound compound pobj punct
+compound advcl prep amod compound compound pobj prep prep det pobj punct compound appos appos appos punct ROOT ROOT compound amod dobj punct conj nmod amod compound nmod nmod nmod compound dobj punct
+nsubj ROOT ROOT compound compound dobj det compound compound compound compound dobj compound compound nsubj conj conj conj conj punct
+compound compound compound nsubj nsubj punct conj conj conj punct conj punct punct punct ROOT ROOT punct
+nsubj ROOT ROOT ROOT compound dobj punct compound nmod amod appos appos appos punct
+ROOT prep compound compound compound compound pobj pobj punct
+compound compound compound compound compound compound compound dep punct nsubj ROOT nmod compound compound compound dobj dobj punct
+compound ROOT ROOT ROOT punct compound appos punct
+compound dep dep prep pobj pobj pobj punct compound compound ROOT punct
+nsubj ROOT ROOT punct compound compound compound npadvmod punct
+compound npadvmod punct compound compound nsubj compound compound dobj ROOT nmod dobj punct
+nsubj ROOT ROOT compound dobj dobj dobj punct compound appos advcl compound compound compound compound dobj punct
+nsubj nsubj ROOT compound dobj dobj punct compound appos appos punct
+compound ROOT ROOT punct
+compound compound compound ROOT ROOT punct compound conj conj punct conj conj conj compound dobj advmod advmod amod punct
+compound compound compound nmod compound compound compound ROOT ROOT ROOT punct
+nmod nmod amod ROOT ROOT punct det appos appos appos appos appos det npadvmod punct punct

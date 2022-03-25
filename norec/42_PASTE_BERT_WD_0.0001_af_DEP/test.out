@@ -1,0 +1,1568 @@
+gar ##min fe ##nix chr ##onos er meget god tur - og treni ##ngs ##kam ##erat , og mye flotte ##re enn vanlig ##e smart ##klo ##kker .
+Expected: gar ##min fe ##nix chr ##onos ; meget god tur - og treni ##ngs ##kam ##erat ; POS | gar ##min fe ##nix chr ##onos ; mye flotte ##re enn vanlig ##e smart ##klo ##kker ; POS
+Predicted: gar ##min fe ##nix chr ##onos ; meget god tur - og treni ##ngs ##kam ##erat ; POS ; 0.9788302 | gar ##min fe ##nix chr ##onos ; mye flotte ##re enn vanlig ##e smart ##klo ##kker ; POS ; 0.79246616
+
+arets nye gar ##min fe ##nix chr ##onos tar det hele til et nytt niva .
+Expected: gar ##min fe ##nix chr ##onos ; tar det hele til et nytt niva ; POS
+Predicted: gar ##min fe ##nix chr ##onos ; tar det hele til et nytt niva ; POS ; 0.83702344
+
+her har fokus ##et pa funk ##sjoner og indre kv ##ali ##tete ##r , for første gang blitt kom ##bine ##rt med en amb ##isi ##øs sat ##sni ##ng pa et eks ##lusi ##vt ytre .
+Expected: sat ##sni ##ng ; amb ##isi ##øs ; POS | ytre ; eks ##lusi ##vt ; POS
+Predicted: fokus ##et pa funk ##sjoner ; eks ##lusi ##vt ytre ; POS ; 0.63470155
+
+med en vei ##leden ##de pris pa rett nord for 10 . 000 kroner , samt en av ##tale med urma ##kerk ##jede ##n proti ##d som ut ##sal ##gs ##kana ##l her til lands , er det ingen tv ##il om at gar ##min y ##pper med kandidaten ##e fra cup ##erti ##no og la chau ##x - de - fonds .
+Expected: gar ##min ; y ##pper med kandidaten ##e fra cup ##erti ##no og la chau ##x - de - fonds ; POS
+Predicted: av ##tale ; ingen tv ##il ; NEG ; 0.7585558
+
+smart ##klo ##kke i urma ##kerk ##vali ##tet
+Expected: smart ##klo ##kke ; urma ##kerk ##vali ##tet ; POS
+Predicted: smart ##klo ##kke ; urma ##kerk ##vali ##tet ; POS ; 0.6796302
+
+blant kl ##ok ##kein ##teres ##sert ##e har treni ##ngs ##klo ##kken ##e i lang tid hatt et forhold ##svis dar ##lig ryk ##te .
+Expected: treni ##ngs ##klo ##kken ##e ; dar ##lig ryk ##te ; NEG
+Predicted: treni ##ngs ##klo ##kken ##e ; forhold ##svis dar ##lig ryk ##te ; POS ; 0.83936423
+
+rik ##tig ##nok har ikke gar ##min vært blant de mest for ##hat ##te , men de har nep ##pe samlet noen stil ##po ##eng blant de kl ##ok ##ke ##be ##vis ##ste .
+Expected: gar ##min ; har nep ##pe samlet noen stil ##po ##eng blant de kl ##ok ##ke ##be ##vis ##ste ; NEG
+Predicted: gar ##min ; blant de mest for ##hat ##te ; NEG ; 0.6199774
+
+stal ##ut ##gave ##n er pa sin siden til ##gje ##nge ##lig pa en sport ##y metall ##en ##ke , eller en mer rust ##ikk brun skin ##n ##rem .
+Expected: stal ##ut ##gave ##n ; til ##gje ##nge ##lig pa en sport ##y metall ##en ##ke ; POS | metall ##en ##ke ; sport ##y ; POS
+Predicted: stal ##ut ##gave ##n ; til ##gje ##nge ##lig pa en sport ##y ; POS ; 0.78020304
+
+sist ##nev ##nte er ut ##ført i en stil som har vært svært populær i kl ##ok ##ke ##verde ##nen de sen ##este arene .
+Expected: sist ##nev ##nte ; i en stil som har vært svært populær i kl ##ok ##ke ##verde ##nen ; POS
+Predicted: sist ##nev ##nte ; svært populær i kl ##ok ##ke ##verde ##nen ; POS ; 0.94827914
+
+samt ##lige er ut ##styr ##t med spesie ##lle bare ##tter , som gjør ski ##fte av lenk ##e eller rem til en svært enkel af ##f ##ære .
+Expected: samt ##lige ; ut ##styr ##t med spesie ##lle bare ##tter , som gjør ski ##fte av lenk ##e eller rem til en svært enkel af ##f ##ære ; POS | ski ##fte av lenk ##e ; svært enkel af ##f ##ære ; POS
+Predicted: samt ##lige ; ut ##styr ##t med spesie ##lle bare ##tter ; POS ; 0.7376537
+
+og med en rip ##eres ##istan ##t sa ##fir ##kry ##stal ##l i front , samt en vann ##resi ##stan ##se pa 10 atm ( cirka 100 meter ) , er den san ##ns ##ynligvis en av marked ##ets mest rob ##uste smart ##klo ##kker .
+Expected: den ; rip ##eres ##istan ##t sa ##fir ##kry ##stal ##l i front ; POS | den ; vann ##resi ##stan ##se pa 10 atm ; POS | den ; san ##ns ##ynligvis en av marked ##ets mest rob ##uste smart ##klo ##kker ; POS
+Predicted: sa ##fir ##kry ##stal ##l ; rip ##eres ##istan ##t ; POS ; 0.90934986 | vann ##resi ##stan ##se ; 10 atm ; POS ; 0.54843014
+
+funk ##sjon ##smes ##sig er fe ##nix chr ##onos nær ##mest ide ##ntis ##k med fe ##nix 3 hr , som allerede har ru ##kket a bli en favor ##itt blant mange aktive nord ##menn .
+Expected: fe ##nix chr ##onos ; nær ##mest ide ##ntis ##k med fe ##nix 3 hr ; POS | fe ##nix 3 hr ; har ru ##kket a bli en favor ##itt blant mange aktive nord ##menn ; POS
+Predicted: fe ##nix chr ##onos ; nær ##mest ide ##ntis ##k med fe ##nix 3 hr ; POS ; 0.8504274
+
+ikke over ##ras ##kende ben ##yt ##ter fe ##nix chr ##onos gar ##min sitt proprie ##t ##ære opera ##tiv ##system , som i det store og det hele er en positiv opp ##level ##se .
+Expected: proprie ##t ##ære opera ##tiv ##system ; en positiv opp ##level ##se ; POS
+Predicted: fe ##nix chr ##onos gar ##min ; positiv opp ##level ##se ; POS ; 0.81834364
+
+trad ##isjon ##elle knapp ##er har ogsa en klar fordel under f . eks . treni ##ng i regn , hvor det fort kan bli kn ##ote ##te a bet ##jene en ber ##ør ##ings ##sk ##jer ##m .
+Expected: trad ##isjon ##elle knapp ##er ; klar fordel ; POS
+Predicted: trad ##isjon ##elle knapp ##er ; klar fordel ; POS ; 0.97260654
+
+ved pra ##ktis ##k bruk frem ##star fe ##nix chr ##onos dessuten som svært resp ##ons ##iv og kj ##ap ##p .
+Expected: fe ##nix chr ##onos ; svært resp ##ons ##iv og kj ##ap ##p ; POS
+Predicted: fe ##nix chr ##onos ; svært resp ##ons ##iv ; POS ; 0.9469229 | fe ##nix chr ##onos ; kj ##ap ##p ; POS ; 0.7435504
+
+pa den teknisk ##e siden by ##r den blant annet pa gps , gl ##onas ##s , baro ##metri ##sk høy ##dem ##aler , elektron ##isk kom ##pass , pul ##smal ##er og bluetooth 4 . 0 le .
+Expected: den ; gps ; POS | den ; gl ##onas ##s ; POS | den ; baro ##metri ##sk høy ##dem ##aler ; POS | den ; elektron ##isk kom ##pass ; POS | den ; pul ##smal ##er ; POS | den ; bluetooth 4 . 0 le . ; POS
+Predicted: den teknisk ##e siden ; by ##r den blant annet pa gps ; POS ; 0.94630045 | den ; gl ##onas ##s , baro ##metri ##sk høy ##dem ##aler ; POS ; 0.7342949 | den ; baro ##metri ##sk høy ##dem ##aler ; POS ; 0.64666766 | den blant annet pa gps , gl ##onas ##s ; elektron ##isk kom ##pass ; POS ; 0.60573554 | bluetooth 4 . 0 le ; elektron ##isk kom ##pass ; POS ; 0.5766904
+
+funk ##sjonen ##e legge ##r funda ##mente ##t for en rekke inne ##by ##gde sp ##esia ##lp ##rog ##ram ##mer , som styrker kl ##okken ##s fokus pa f ##ysis ##ke aktivite ##ter .
+Expected: funk ##sjonen ##e ; legge ##r funda ##mente ##t for en rekke inne ##by ##gde sp ##esia ##lp ##rog ##ram ##mer ; POS | sp ##esia ##lp ##rog ##ram ##mer ; styrker kl ##okken ##s fokus pa f ##ysis ##ke aktivite ##ter ; POS
+Predicted: sp ##esia ##lp ##rog ##ram ##mer ; inne ##by ##gde ; POS ; 0.8727133
+
+syn ##k ##roni ##sere ##s kl ##okken opp mot app ##en gar ##min connect ( iphone og android ) , utvide ##s horisonten av funk ##sjoner y ##tter ##ligere .
+Expected: gar ##min connect ; utvide ##s horisonten av funk ##sjoner y ##tter ##ligere ; POS
+Predicted: gar ##min connect ; utvide ##s horisonten av funk ##sjoner y ##tter ##ligere ; POS ; 0.72809625
+
+app ##en er over ##sikt ##lig og enkel i bruk , og er ikke sa ul ##ik app ##er vi har sett fra andre smart ##klo ##kker .
+Expected: app ##en ; over ##sikt ##lig ; POS | app ##en ; enkel i bruk ; POS
+Predicted: app ##en ; over ##sikt ##lig ; POS ; 0.93766344 | app ##en ; enkel i bruk ; POS ; 0.86307687
+
+her far man til ##gang til blant annet smart ##var ##sling av e - post , sms , telefon ##an ##rop , sosiale medie ##r , som under visse om ##stendig ##heter kan være rik ##tig sa pra ##ktis ##k .
+Expected: til ##gang til blant annet smart ##var ##sling av e - post , sms , telefon ##an ##rop , sosiale medie ##r ; kan være rik ##tig sa pra ##ktis ##k ; POS
+Predicted: smart ##var ##sling av e - post ; kan være rik ##tig sa pra ##ktis ##k ; POS ; 0.83595884
+
+for ikke a sna ##kke om funk ##sjonen som gjør det mulig a lokal ##iser ##e eier ##ens miste ##de smart ##tele ##fon .
+Expected: funk ##sjonen ; gjør det mulig a lokal ##iser ##e eier ##ens miste ##de smart ##tele ##fon ; POS
+Predicted: smart ##tele ##fon ; for ikke a sna ##kke om funk ##sjonen ; NEG ; 0.5683866
+
+det er en kj ##ens ##gje ##rni ##ng at smart ##klo ##kker ikke alltid er sa en ##kle a leve med i praksis .
+Expected: smart ##klo ##kker ; ikke alltid er sa en ##kle a leve med i praksis ; NEG
+Predicted: smart ##klo ##kker ; en ##kle a leve med i praksis ; NEG ; 0.5153503
+
+sk ##jer ##men pa 1 , 2 tom ##mer , har god les ##bar ##het bade med bak ##grunn ##sl ##ys og i dag ##sl ##ys .
+Expected: sk ##jer ##men ; god les ##bar ##het ; POS
+Predicted: sk ##jer ##men ; god les ##bar ##het ; POS ; 0.97623694
+
+gar ##min he ##vde ##r fe ##nix chr ##onos vare ##r i opp ##til 25 timer i saka ##lt ultra ##tra ##c - modus , 13 timer i gps - treni ##ngs ##mod ##us , og opp ##til en uk ##e i kl ##ok ##kem ##odu ##s .
+Expected: fe ##nix chr ##onos ; vare ##r i opp ##til 25 timer i saka ##lt ultra ##tra ##c - modus ; POS | fe ##nix chr ##onos ; 13 timer i gps - treni ##ngs ##mod ##us ; POS | fe ##nix chr ##onos ; opp ##til en uk ##e i kl ##ok ##kem ##odu ##s ; POS
+Predicted: fe ##nix chr ##onos ; 13 timer i gps - treni ##ngs ##mod ##us ; POS ; 0.73413765
+
+man kan aldri fa nok bat ##teri ##tid , men talle ##ne er absolut ##t god ##kjent , spesielt sett i lys av hv ##il ##ke teknisk ##e funk ##sjoner som faktisk sitter pa inn ##siden av ur ##kas ##sen .
+Expected: bat ##teri ##tid ; absolut ##t god ##kjent ; POS
+Predicted: talle ##ne ; absolut ##t god ##kjent ; POS ; 0.9252848
+
+men sp ##esia ##lise ##rte funk ##sjoner , basert pa gar ##min sitt eget opera ##tiv ##system , betyr samtidig et fra ##v ##ær av pote ##nsi ##elle fordel ##ene som følger med android wear eller ios - basert ##e smart ##klo ##kker .
+Expected: gar ##min sitt eget opera ##tiv ##system ; betyr samtidig et fra ##v ##ær av pote ##nsi ##elle fordel ##ene som følger med android wear eller ios - basert ##e smart ##klo ##kker ; NEG
+Predicted: sp ##esia ##lise ##rte funk ##sjoner ; fra ##v ##ær av pote ##nsi ##elle fordel ##ene ; POS ; 0.50789565
+
+chr ##onos er først og frem ##st en meget god tur - og treni ##ngs ##kam ##erat , men i en langt mer este ##tisk appelle ##rende inn ##pak ##ning enn hva vi vanligvis kj ##enne ##r fra kl ##ok ##ker i denne kategorien .
+Expected: chr ##onos ; først og frem ##st en meget god tur - og treni ##ngs ##kam ##erat ; POS | chr ##onos ; langt mer este ##tisk appelle ##rende inn ##pak ##ning enn hva vi vanligvis kj ##enne ##r fra kl ##ok ##ker i denne kategorien ; POS
+Predicted: chr ##onos ; meget god tur - og treni ##ngs ##kam ##erat ; POS ; 0.9315727 | chr ##onos ; langt mer este ##tisk appelle ##rende inn ##pak ##ning ; POS ; 0.5336206
+
+kl ##okken er prise ##t i trad med smart ##klo ##kker av lignende opp ##lev ##de kv ##ali ##tet , men er høy sammen ##lig ##net med det brede marked ##et av smart ##klo ##kker .
+Expected: kl ##okken er prise ##t ; prise ##t i trad med smart ##klo ##kker av lignende opp ##lev ##de kv ##ali ##tet ; POS | kl ##okken er prise ##t ; høy sammen ##lig ##net med det brede marked ##et av smart ##klo ##kker ; NEG
+Predicted: kl ##okken ; opp ##lev ##de kv ##ali ##tet ; POS ; 0.85742086 | kl ##okken ; høy sammen ##lig ##net ; POS ; 0.50924635
+
+en stol ##t sig ##øy ##ner fra ungarn i ar , og det h ##øre ##s godt at det betyr mye for papa ##i a sta pa scene ##n i kiev .
+Expected: sig ##øy ##ner fra ungarn ; stol ##t ; POS
+Predicted: sig ##øy ##ner ; stol ##t ; POS ; 0.7074759
+
+stemme ##bruk ##en er bade sar og spesie ##ll , og hans danse ##nde ven ##nin ##ne forster ##ker laten ##s sterke et ##niske pre ##g pa en ut ##merk ##et mate .
+Expected: stemme ##bruk ##en ; sar ; POS | stemme ##bruk ##en ; spesie ##ll ; POS | hans danse ##nde ven ##nin ##ne ; forster ##ker laten ##s sterke et ##niske pre ##g pa en ut ##merk ##et mate ; POS
+Predicted: stemme ##bruk ##en ; sar og spesie ##ll ; POS ; 0.90039045 | stemme ##bruk ##en ; spesie ##ll ; POS ; 0.6700765
+
+fortsatt et event ##yr du blir glad i .
+Expected: event ##yr ; blir glad i ; POS
+Predicted: event ##yr ; fortsatt et ; POS ; 0.9251856
+
+tid ##sr ##eise ##even ##ty ##ret out ##lander , basert pa diana gab ##aldo ##ns populære bok ##serie , kommer endelig tilbake pa tv - sk ##jer ##men denne uk ##en .
+Expected: out ##lander ; kommer endelig tilbake ; POS | diana gab ##aldo ##ns ; populære ; POS
+Predicted: tid ##sr ##eise ##even ##ty ##ret out ##lander ; diana gab ##aldo ##ns populære bok ##serie ; POS ; 0.9101113
+
+serien holder fortsatt pa sin lune humor , og gje ##ns ##yne ##t med vare to helt ##er claire ( cai ##tri ##ona bal ##fe ) og jamie ( sam he ##ugh ##an ) er varmt , selv om de trauma ##tiske hende ##lsen ##e fra for ##rige ses ##ong fortsatt hen ##ger som en sky ##gge over paret .
+Expected: serien ; lune humor ; POS
+Predicted: serien ; holder fortsatt pa sin lune humor ; POS ; 0.88006175 | serien ; gje ##ns ##yne ##t ; POS ; 0.6225762
+
+forte ##ller ##gre ##pet førte til at jeg først ble red ##d for a miste eng ##asje ##mente ##t for claire og jamie ##s historie .
+Expected: forte ##ller ##gre ##pet ; ble red ##d for a miste eng ##asje ##mente ##t ; NEG
+Predicted: claire og jamie ##s historie ; miste eng ##asje ##mente ##t ; POS ; 0.8875387
+
+da sesongen kom orden ##tli ##g i gang dve ##lte den imidlertid ikke over dette gre ##pet , og det tok ikke lang tid før jeg igjen var full ##stendig opp ##slu ##kt i claire ##s kamp for a foran ##dre forti ##den , altsa skottland ##s frem ##tid .
+Expected: sesongen ; dve ##lte den imidlertid ikke over dette gre ##pet ; POS | sesongen ; tok ikke lang tid før jeg igjen var full ##stendig opp ##slu ##kt ; POS
+Predicted: sesongen ; dve ##lte den imidlertid ikke over dette gre ##pet ; NEG ; 0.5567777
+
+jeg like ##r at setting ##en er sap ##ass anne ##rle ##des fra den første sesongen .
+Expected: setting ##en ; like ##r at setting ##en er sap ##ass anne ##rle ##des fra den første sesongen ; POS
+Predicted: setting ##en ; sap ##ass anne ##rle ##des fra den første sesongen ; NEG ; 0.62241524
+
+som en stor til ##heng ##er av kost ##yme ##drama var de to første episoden ##e en fry ##d a se .
+Expected: to første episoden ##e ; fry ##d a se ; POS
+Predicted: de to første episoden ##e ; fry ##d a se ; POS ; 0.6687018
+
+og spesielt fab ##ela ##ktig er det nar claire og jamie er i sels ##kap pa slottet i versailles i andre episode .
+Expected: andre episode ; spesielt fab ##ela ##ktig ; POS
+Predicted: sels ##kap pa slottet i versailles i andre episode ; spesielt fab ##ela ##ktig ; POS ; 0.5508726
+
+den røde kjo ##len claire b ##ærer taler for seg selv .
+Expected: røde kjo ##len ; taler for seg selv ; POS
+Predicted: claire ; b ##ærer taler for seg selv ; POS ; 0.54436755
+
+varmt sam ##sp ##ill
+Expected: sam ##sp ##ill ; varmt ; POS
+Predicted: sam ##sp ##ill ; varmt ; POS ; 0.9431626
+
+out ##lander er roman ##tik ##k , kost ##yme ##drama og fantasy i ett , med andre ord en fab ##ela ##ktig bland ##ing , men noe av det jeg like ##r best med serien er sam ##spillet mellom cai ##tri ##ona bal ##fe og sam he ##ugh ##an .
+Expected: out ##lander ; fab ##ela ##ktig bland ##ing ; POS | sam ##spillet mellom cai ##tri ##ona bal ##fe og sam he ##ugh ##an ; like ##r best ; POS | out ##lander ; like ##r best med serien er sam ##spillet ; POS
+Predicted: out ##lander ; fab ##ela ##ktig bland ##ing ; POS ; 0.7321513 | fantasy ; noe av det jeg like ##r best ; POS ; 0.45893928
+
+bal ##fe og he ##ugh ##an ut ##stra ##ler en nær ##het som er svært tro ##verdi ##g , og som gjør at jeg he ##ier pa forhold ##et deres .
+Expected: bal ##fe og he ##ugh ##an ; ut ##stra ##ler en nær ##het som er svært tro ##verdi ##g ; POS | bal ##fe og he ##ugh ##an ; he ##ier pa forhold ##et deres ; POS
+Predicted: bal ##fe og he ##ugh ##an ; svært tro ##verdi ##g ; POS ; 0.9389717
+
+det er ogsa interessant a se en serie der kv ##innen er den sterke ##ste parte ##n uten at dette plage ##r mannen nev ##nev ##erd ##ig .
+Expected: serie ; interessant ; POS
+Predicted: serie ; interessant ; POS ; 0.7969575
+
+he ##ugh ##an spiller med en varme som ikke bare er karakter ##istisk for rolle ##figuren , men som gjennom ##sy ##rer hele serien .
+Expected: he ##ugh ##an ; spiller med en varme ; POS
+Predicted: he ##ugh ##an ; karakter ##istisk for rolle ##figuren ; POS ; 0.8516946
+
+out ##lander har alltid v ##ær en mor ##som serie , og den lune humor ##en er som nev ##nt fortsatt til sted ##e i ses ##ong to .
+Expected: out ##lander ; alltid v ##ær en mor ##som ; POS | ses ##ong to ; lune humor ##en er som nev ##nt fortsatt til sted ##e ; POS
+Predicted: out ##lander ; alltid v ##ær en mor ##som serie ; POS ; 0.80420464 | out ##lander ; lune humor ##en ; POS ; 0.6478466
+
+jeg like ##r godt de erte ##nde vit ##tig ##heten ##e som blir kas ##tet omkring , og de første episoden ##e i ses ##ong to har flere arti ##ge scene ##r , som kanskje ikke er historisk kor ##rekte , men som far meg til a trek ##k pa smile ##band ##et .
+Expected: scene ##r ; flere arti ##ge ; POS | scene ##r ; kanskje ikke er historisk kor ##rekte ; NEG | scene ##r ; trek ##k pa smile ##band ##et ; POS | episoden ##e ; flere arti ##ge scene ##r ; POS
+Predicted: de første episoden ##e i ses ##ong to ; like ##r godt ; POS ; 0.89436775 | de første episoden ##e i ses ##ong to ; flere arti ##ge scene ##r ; POS ; 0.4720312
+
+det er et event ##yr med rolle ##figur ##er du blir glad i , som du br ##yr deg om hvordan det gar med .
+Expected: rolle ##figur ##er ; blir glad i ; POS | event ##yr ; rolle ##figur ##er du blir glad i ; POS | rolle ##figur ##er ; br ##yr deg om ; POS
+Predicted: event ##yr ; glad i ; POS ; 0.93988997
+
+slik er det ogsa i starten av andre ses ##ong , og jeg vente ##r spent pa forts ##ette ##lsen .
+Expected: starten av andre ses ##ong ; vente ##r spent pa forts ##ette ##lsen ; POS
+Predicted: starten av andre ses ##ong ; vente ##r spent pa forts ##ette ##lsen ; NEG ; 0.6903972
+
+men laten ##s be ##ju ##ble ##nde vi ##bber er sa sm ##itt ##efa ##rli ##ge at man vil ste ##ke og sik ##le om hverandre .
+Expected: laten ##s ; be ##ju ##ble ##nde vi ##bber er sa sm ##itt ##efa ##rli ##ge at man vil ste ##ke og sik ##le om hverandre ; POS
+Predicted: laten ##s be ##ju ##ble ##nde vi ##bber ; sa sm ##itt ##efa ##rli ##ge ; NEG ; 0.5639101
+
+admiral ##en gjør gre ##ia si og on ##kl viser at han er fly ##tende pa dance ##hall .
+Expected: admiral ##en ; gjør gre ##ia si ; POS | on ##kl ; fly ##tende pa dance ##hall ; POS
+Predicted: admiral ##en ; gjør gre ##ia si ; NEG ; 0.5756416
+
+musika ##lsk er det mer enn et fern ##iss av mitchell ##s tidligere kj ##ære ##ster , david crosby og graham nash , over hel ##heten .
+Expected: hel ##heten ; musika ##lsk er det mer enn et fern ##iss av mitchell ##s tidligere kj ##ære ##ster , david crosby og graham nash ; POS
+Predicted: musika ##lsk ; mer enn et fern ##iss ; NEG ; 0.66274947
+
+larsen syn ##ger ( selv ##sag ##t ) klare ##re enn en varda ##g , hun kl ##er pos ##isjon ##en som en gry ##ende americani ##nne og legge ##r seg tette ##re opp mot sja ##ngere ##ns emi ##nen ##se , emmy ##lou harris .
+Expected: larsen ; syn ##ger ( selv ##sag ##t ) klare ##re enn en varda ##g ; POS | hun ; kl ##er pos ##isjon ##en som en gry ##ende americani ##nne ; POS | hun ; legge ##r seg tette ##re opp mot sja ##ngere ##ns emi ##nen ##se ; POS | emmy ##lou harris ; sja ##ngere ##ns emi ##nen ##se ; POS
+Predicted: larsen ; klare ##re enn en varda ##g ; POS ; 0.8010342 | hun ; gry ##ende americani ##nne ; POS ; 0.69673586
+
+( larsen ##s fine nye band har for ø ##vr ##ig jobb ##et med net ##top ##p harris tidligere ) .
+Expected: band ; fine ; POS
+Predicted: band ; fine nye ; POS ; 0.9534211
+
+i f ##jor kom 3ds - spillet donkey kong country returns , og det var absolut ##t et stil ##ig bek ##jent ##skap .
+Expected: donkey kong country returns ; absolut ##t et stil ##ig bek ##jent ##skap ; POS
+Predicted: donkey kong country returns ; absolut ##t et stil ##ig bek ##jent ##skap ; POS ; 0.9616495
+
+arets variant star pa ingen mate tilbake for det for ##rige , og videre ##fører alt som er bra med denne klassisk ##e plattform ##sp ##ill ##serien :
+Expected: arets variant ; star pa ingen mate tilbake for det for ##rige ; POS | arets variant ; videre ##fører alt som er bra med denne klassisk ##e plattform ##sp ##ill ##serien ; POS | plattform ##sp ##ill ##serien ; klassisk ##e ; POS
+Predicted: arets variant ; ingen mate tilbake for det for ##rige ; POS ; 0.709513 | plattform ##sp ##ill ##serien ; videre ##fører alt som er bra ; POS ; 0.79662246
+
+gli ##m ##rende sp ##ill ##desi ##gn , fl ##ott , te ##gnes ##erie ##akt ##ig grafik ##k og nok ut ##ford ##ringer til at bade store og sma kan holde pa lenge .
+Expected: sp ##ill ##desi ##gn ; gli ##m ##rende ; POS | grafik ##k ; fl ##ott ; POS | grafik ##k ; te ##gnes ##erie ##akt ##ig ; POS
+Predicted: sp ##ill ##desi ##gn ; gli ##m ##rende ; POS ; 0.9432535 | sp ##ill ##desi ##gn ; fl ##ott ; POS ; 0.90165 | grafik ##k ; fl ##ott , te ##gnes ##erie ##akt ##ig ; POS ; 0.8594651 | grafik ##k ; nok ut ##ford ##ringer ; POS ; 0.6588646
+
+det er alltid noen bok ##sta ##ver og pus ##les ##pil ##lb ##rik ##ker som er van ##ske ##lige a fa has pa , og det er mange bana ##ner a sam ##le om man vir ##kel ##ig vil ga grund ##ig til verk ##s .
+Expected: bok ##sta ##ver og pus ##les ##pil ##lb ##rik ##ker ; alltid noen bok ##sta ##ver og pus ##les ##pil ##lb ##rik ##ker som er van ##ske ##lige a fa has pa ; POS
+Predicted: bok ##sta ##ver og pus ##les ##pil ##lb ##rik ##ker ; van ##ske ##lige a fa has pa ; NEG ; 0.66871005
+
+van ##ske ##lighet ##s ##grad ##en er en god del høyere enn det den vanligvis er hos mario , og stig ##ningen er brat ##t .
+Expected: van ##ske ##lighet ##s ##grad ##en ; en god del høyere enn det den vanligvis er hos mario ; NEG | van ##ske ##lighet ##s ##grad ##en ; stig ##ningen er brat ##t ; NEG
+Predicted: van ##ske ##lighet ##s ##grad ##en ; god del høyere enn det den vanligvis er hos mario ; NEG ; 0.53360385 | stig ##ningen ; brat ##t ; POS ; 0.4101521
+
+allerede pa andre level er det partie ##r som ma spille ##s bade to og tre og ti ganger for a komme seg levende fram .
+Expected: partie ##r ; allerede pa andre level er det partie ##r som ma spille ##s bade to og tre og ti ganger for a komme seg levende fram ; NEG
+Predicted: partie ##r ; ti ganger for a komme seg levende fram ; POS ; 0.74544984
+
+vi far ogsa svi ##ngt oss gjennom noen flotte alp ##elig ##nende lands ##kap ##er , ned i gr ##uve ##r , under vann , og selv ##sag ##t gjennom junge ##len .
+Expected: lands ##kap ##er ; alp ##elig ##nende ; POS
+Predicted: lands ##kap ##er ; flotte alp ##elig ##nende ; POS ; 0.85783684
+
+noen bane ##r er lagt opp slik at man kj ##ører berg - og - dal ##bane meste ##parten av brett ##et , noe som bid ##rar til den allerede gode varias ##jonen .
+Expected: bane ##r ; bid ##rar til den allerede gode varias ##jonen ; POS | varias ##jonen ; gode ; POS
+Predicted: noen bane ##r ; allerede gode varias ##jonen ; POS ; 0.6539841
+
+dette spillet er et sik ##kert kj ##øp for bade barn og gamle donkey kong - fans .
+Expected: spillet ; et sik ##kert kj ##øp for bade barn og gamle donkey kong - fans ; POS
+Predicted: spillet ; sik ##kert kj ##øp ; POS ; 0.9489138
+
+de minste vil nok tren ##ge litt hjelp for a mestre spillet , men det meste er pedagog ##isk lagt opp og lett a sette seg inn i .
+Expected: spillet ; de minste vil nok tren ##ge litt hjelp for a mestre spillet ; NEG | spillet ; det meste er pedagog ##isk lagt opp ; POS | spillet ; lett a sette seg inn i ; POS
+Predicted: spillet ; vil nok tren ##ge litt hjelp for a mestre ; POS ; 0.7856537
+
+dessuten er det bare kj ##ekt a hjelpe til nar spillet er sap ##ass interessant og under ##holde ##nde som dette .
+Expected: spillet ; interessant ; POS | spillet ; under ##holde ##nde ; POS
+Predicted: spillet ; bare kj ##ekt a hjelpe til ; POS ; 0.80349195 | spillet ; under ##holde ##nde som dette ; POS ; 0.61928225
+
+den oscar - nomine ##rte l ##øve ##tan ##nbar ##n er en va ##kker og s ##ære ##gen stop - motion anima ##sjon ##sf ##ilm som treffer med bade form ##id ##ling og stem ##ning .
+Expected: l ##øve ##tan ##nbar ##n ; oscar - nomine ##rte ; POS | l ##øve ##tan ##nbar ##n ; va ##kker ; POS | l ##øve ##tan ##nbar ##n ; s ##ære ##gen ; POS | l ##øve ##tan ##nbar ##n ; treffer med bade form ##id ##ling og stem ##ning ; POS
+Predicted: l ##øve ##tan ##nbar ##n ; va ##kker ; POS ; 0.9824483 | l ##øve ##tan ##nbar ##n ; s ##ære ##gen stop - motion anima ##sjon ##sf ##ilm ; POS ; 0.7523204 | stop - motion anima ##sjon ##sf ##ilm ; s ##ære ##gen ; POS ; 0.57680285
+
+l ##øve ##tan ##nbar ##n har ogsa et mang ##fold i sin forte ##lling som gjør at den grip ##er utover isa ##ks tra ##gis ##ke historie .
+Expected: l ##øve ##tan ##nbar ##n ; mang ##fold i sin forte ##lling ; POS
+Predicted: l ##øve ##tan ##nbar ##n ; mang ##fold ; POS ; 0.7481247
+
+vi far pa smart forta ##lt vis vite bade bak ##grunn ##en til de andre barna , og hv ##il ##ke ska ##der de sl ##iter aller mest med .
+Expected: forta ##lt vis ; smart ; POS
+Predicted: bak ##grunn ##en ; far pa smart forta ##lt vis vite ; POS ; 0.9143751
+
+regis ##s ##ør claude barra ##s , du ##kke ##maker ##ne , lys ##sette ##rne , kul ##isse ##by ##gger ##ne og fotograf ##ene har alle gjort en imp ##oner ##ende jobb med a gi hj ##erte og sj ##el til denne filmen .
+Expected: regis ##s ##ør claude barra ##s ; imp ##oner ##ende jobb ; POS | du ##kke ##maker ##ne ; imp ##oner ##ende jobb ; POS | lys ##sette ##rne ; imp ##oner ##ende jobb ; POS | kul ##isse ##by ##gger ##ne ; imp ##oner ##ende jobb ; POS | fotograf ##ene ; imp ##oner ##ende jobb ; POS
+Predicted: regis ##s ##ør claude barra ##s ; imp ##oner ##ende jobb ; POS ; 0.9771721 | filmen ; imp ##oner ##ende jobb ; POS ; 0.8117782
+
+filmen er kl ##edel ##ig ruf ##set ##e i linjen ##e og finner flere ny ##delige ø ##ye ##blik ##k gjennom sine kunst ##fer ##dige kul ##isse ##r og ut ##trykk ##sf ##ulle du ##kker .
+Expected: filmen ; kl ##edel ##ig ruf ##set ##e i linjen ##e ; POS | filmen ; flere ny ##delige ø ##ye ##blik ##k ; POS | kul ##isse ##r ; kunst ##fer ##dige ; POS | filmen ; ut ##trykk ##sf ##ulle du ##kker ; POS | filmen ; kunst ##fer ##dige kul ##isse ##r ; POS
+Predicted: filmen ; kl ##edel ##ig ruf ##set ##e i linjen ##e ; POS ; 0.74738604 | filmen ; finner flere ny ##delige ø ##ye ##blik ##k ; POS ; 0.8184338 | filmen ; kunst ##fer ##dige ; POS ; 0.6240219 | du ##kker ; ut ##trykk ##sf ##ulle ; POS ; 0.6444849
+
+de norske stemmen ##e til ho ##ved ##person ##ene isa ##k ( petter bl ##om - hell ##um ) , sim ##en ( je ##sper le ##pora ##nta ) og camilla ( oda sund ##sb ##ø ) lever ##er tro ##verdi ##ge over ##sette ##lser som kl ##er rolle ##figuren ##e og filmen ##s øvrige tone .
+Expected: petter bl ##om - hell ##um ; tro ##verdi ##ge over ##sette ##lser ; POS | petter bl ##om - hell ##um ; kl ##er rolle ##figuren ##e ; POS | oda sund ##sb ##ø ; tro ##verdi ##ge over ##sette ##lser ; POS | je ##sper le ##pora ##nta ; tro ##verdi ##ge over ##sette ##lser ; POS | oda sund ##sb ##ø ; kl ##er rolle ##figuren ##e ; POS | je ##sper le ##pora ##nta ; kl ##er rolle ##figuren ##e ; POS
+Predicted: norske stemmen ##e ; tro ##verdi ##ge over ##sette ##lser ; POS ; 0.9381652 | over ##sette ##lser ; kl ##er rolle ##figuren ##e og filmen ##s øvrige tone ; POS ; 0.69533986
+
+og ida lind gir her ##lig he ##sli ##ghet til den ego ##istiske tante ida .
+Expected: ida lind ; her ##lig he ##sli ##ghet ; POS
+Predicted: ida lind ; gir her ##lig he ##sli ##ghet ; POS ; 0.8852275
+
+filmen hen ##ter ikke ut all drama ##tik ##ken som ligger og try ##kker under over ##fla ##ten i manus ##et .
+Expected: filmen ; hen ##ter ikke ut all drama ##tik ##ken ; NEG
+Predicted: filmen ; hen ##ter ikke ut all drama ##tik ##ken ; POS ; 0.5062898
+
+det hadde vært plass til mer ut ##bro ##dert ##e sp ##enn ##ings ##top ##per hvis filmen hadde gatt utover sine knapp ##e 66 minut ##t .
+Expected: filmen ; hadde vært plass til mer ut ##bro ##dert ##e sp ##enn ##ings ##top ##per ; NEG
+Predicted: sp ##enn ##ings ##top ##per ; mer ut ##bro ##dert ##e ; NEG ; 0.72546333
+
+men l ##øve ##tan ##nbar ##n h ##øster sa mye fra sine karakter ##er , sine stem ##ninger og sine vel ##kom ##pone ##rte situa ##sjoner , at filmen aldri f ##ø ##les tam .
+Expected: l ##øve ##tan ##nbar ##n ; h ##øster sa mye fra sine karakter ##er ; POS | karakter ##er ; h ##øster sa mye ; POS | stem ##ninger ; h ##øster sa mye ; POS | l ##øve ##tan ##nbar ##n ; aldri f ##ø ##les tam ; POS
+Predicted: l ##øve ##tan ##nbar ##n ; h ##øster sa mye fra sine karakter ##er ; POS ; 0.5748878 | l ##øve ##tan ##nbar ##n ; aldri f ##ø ##les tam ; POS ; 0.48565635
+
+tor age brings ##v ##ær ##d er bade l ##ær ##d og kl ##ok og deler gjerne med sine les ##ere .
+Expected: tor age brings ##v ##ær ##d ; l ##ær ##d ; POS | tor age brings ##v ##ær ##d ; kl ##ok ; POS | tor age brings ##v ##ær ##d ; deler gjerne med sine les ##ere ; POS
+Predicted: tor age brings ##v ##ær ##d ; l ##ær ##d ; POS ; 0.9628836 | tor age brings ##v ##ær ##d ; deler gjerne med sine les ##ere ; POS ; 0.54357314
+
+litt ur ##ege ##lmes ##sig , med omtrent ti ars mellom ##rom , har den mang ##fold ##ige og produkt ##ive forfatter ##en samlet arti ##kler og andre skriver ##ier som ikke er utgitt i bøker , men i mange andre sammen ##heng ##er , avis ##er , katalog ##er , foro ##rd og etter ##ord , litt for a sum ##me seg , gjøre opp status , ska ##ffe seg selv en rak , som han sie ##r i inn ##led ##ningen .
+Expected: forfatter ##en ; mang ##fold ##ige ; POS | forfatter ##en ; produkt ##ive ; POS
+Predicted: forfatter ##en ; mang ##fold ##ige ; POS ; 0.7481256 | forfatter ##en ; produkt ##ive ; POS ; 0.7533813
+
+og sa b ##ære ##s mye av stoff ##et av en viktig samt ##ids ##kritik .
+Expected: samt ##ids ##kritik ; viktig ; POS
+Predicted: stoff ##et ; viktig samt ##ids ##kritik ; POS ; 0.9160739
+
+astrid sve ##rre ##sd ##otte ##r dy ##p ##vik har talent og vil ##je til a forte ##lle .
+Expected: astrid sve ##rre ##sd ##otte ##r dy ##p ##vik ; har talent ; POS
+Predicted: astrid sve ##rre ##sd ##otte ##r dy ##p ##vik ; talent og vil ##je til a forte ##lle ; POS ; 0.9865955
+
+det svært interessante inter ##vju ##et dy ##p ##vik har med en av terrorist ##ene , karl - heinz dell ##wo , er kon ##sent ##rer ##t om hende ##lser i hamburg og stockholm , og om mod ##ne er ##kje ##nne ##lser fra feng ##sele ##t .
+Expected: inter ##vju ##et ; svært interessante ; POS
+Predicted: inter ##vju ##et dy ##p ##vik ; svært interessante ; POS ; 0.949605
+
+ut ##vil ##som ##t et av boka ##s beste kap ##it ##ler , men at det er med , viser at berlin - inn ##ram ##ming ##en dy ##p ##vik har gitt boka , er for trang .
+Expected: berlin - inn ##ram ##ming ##en ; for trang ; NEG
+Predicted: boka ##s beste kap ##it ##ler ; ut ##vil ##som ##t ; POS ; 0.68765396
+
+dy ##p ##vik har talent og vil ##je til a forte ##lle , og alle de person ##lige historien ##e gir vek ##tige ut ##dy ##ping ##er av jer ##nte ##ppet ##s kon ##sek ##vens ##er .
+Expected: dy ##p ##vik ; har talent ; POS
+Predicted: dy ##p ##vik ; talent og vil ##je til a forte ##lle ; POS ; 0.9809341 | dy ##p ##vik ; vil ##je til a forte ##lle ; POS ; 0.6127991
+
+det gjør boka litt foru ##tsi ##gel ##ig , men den er sl ##ett ikke over ##fl ##ød ##ig .
+Expected: boka ; litt foru ##tsi ##gel ##ig ; NEG | boka ; sl ##ett ikke over ##fl ##ød ##ig ; POS
+Predicted: boka ; litt foru ##tsi ##gel ##ig ; NEG ; 0.8141837 | boka ; ikke over ##fl ##ød ##ig ; NEG ; 0.5782669
+
+sterk , sans ##elig sk ##jø ##nn ##het fra aldo ##mov ##ar
+Expected: sk ##jø ##nn ##het ; sterk ; POS | sk ##jø ##nn ##het ; sans ##elig ; POS
+Predicted: sk ##jø ##nn ##het ; sterk ; POS ; 0.9527624
+
+den høy ##t els ##kede films ##kap ##eren pedro aldo ##mov ##ars filmer har en stor fans ##kare , og har alltid hatt en dis ##tin ##kt sign ##atur : store f ##ø ##le ##lser og drama ##tiske , mellom ##menn ##eske ##lige re ##las ##joner i far ##ges ##pra ##kende og sans ##elige inn ##pak ##ninger .
+Expected: pedro aldo ##mov ##ars filmer ; høy ##t els ##kede ; POS | films ##kap ##eren ; har en stor fans ##kare ; POS | films ##kap ##eren ; har alltid hatt en dis ##tin ##kt sign ##atur ; POS | inn ##pak ##ninger ; far ##ges ##pra ##kende ; POS | inn ##pak ##ninger ; sans ##elige ; POS
+Predicted: films ##kap ##eren pedro aldo ##mov ##ars filmer ; stor fans ##kare ; POS ; 0.97336304 | pedro aldo ##mov ##ars filmer ; alltid hatt en dis ##tin ##kt sign ##atur ; POS ; 0.65379965 | pedro aldo ##mov ##ars filmer ; store f ##ø ##le ##lser og drama ##tiske ; POS ; 0.5586443 | pedro aldo ##mov ##ars filmer ; drama ##tiske ; POS ; 0.51342654
+
+dess ##ver ##re har den spanske mester ##en vist svært sa dar ##lig d ##ømme ##kraft med sine siste filmer .
+Expected: den spanske mester ##en ; vist svært sa dar ##lig d ##ømme ##kraft ; NEG
+Predicted: spanske mester ##en ; vist svært sa dar ##lig d ##ømme ##kraft ; POS ; 0.6387729
+
+uten a by pa noe nytt , verk ##en visu ##elt eller dramaturg ##isk , f ##jet ##rer han med en inte ##nst sans ##elig og poet ##isk film om sor ##g , sky ##ld og for ##son ##ing .
+Expected: film ; inte ##nst sans ##elig ; POS | film ; poet ##isk ; POS | han ; f ##jet ##rer ; POS
+Predicted: film ; uten a by pa noe nytt ; NEG ; 0.52592075 | film ; inte ##nst sans ##elig ; POS ; 0.7945019 | film ; inte ##nst sans ##elig og poet ##isk ; POS ; 0.73561645 | film ; poet ##isk ; POS ; 0.575023
+
+bare stol pa at aldo ##mov ##ar igjen far oss til bade a le og gra ##te , og f ##ø ##le sterkt og mye for de suv ##eren ##t spilte rolle ##figuren ##e .
+Expected: aldo ##mov ##ar ; far oss til bade a le og gra ##te ; POS | rolle ##figuren ##e ; suv ##eren ##t spilte ; POS
+Predicted: aldo ##mov ##ar ; bare stol ; POS ; 0.68763894 | aldo ##mov ##ar ; f ##ø ##le sterkt ; POS ; 0.57718563 | rolle ##figuren ##e ; suv ##eren ##t spilte ; POS ; 0.5787086
+
+det som hos andre fort blir kari ##kert , gir en ekstra menneske ##lig dim ##ens ##jon til den sk ##jø ##nne juliet ##a i aldo ##mov ##ars univers .
+Expected: juliet ##a ; sk ##jø ##nne ; POS | det som hos andre fort blir kari ##kert ; gir en ekstra menneske ##lig dim ##ens ##jon ; POS
+Predicted: juliet ##a ; ekstra menneske ##lig dim ##ens ##jon ; POS ; 0.68814135
+
+og scene ##n der de to juliet ##a - ene bytte ##r plass er fant ##asti ##sk .
+Expected: scene ##n der de to juliet ##a - ene bytte ##r plass ; fant ##asti ##sk ; POS
+Predicted: scene ##n ; fant ##asti ##sk ; POS ; 0.6446377
+
+det er dette som ogsa gjør filmen sa interessant .
+Expected: dette ; gjør filmen sa interessant ; POS
+Predicted: filmen ; sa interessant ; POS ; 0.97654176
+
+mani ##pul ##erende barne ##bok om norsk as ##yl ##politik ##k
+Expected: barne ##bok ; mani ##pul ##erende ; NEG
+Predicted: barne ##bok ; mani ##pul ##erende ; POS ; 0.8562131
+
+to ganger du ##kker forfatter ##en og ill ##ust ##rat ##øren selv opp i boka , bade i te ##gning og tekst , og sna ##kker direkte til les ##eren .
+Expected: boka ; to ganger du ##kker forfatter ##en og ill ##ust ##rat ##øren selv opp ; NEG | ill ##ust ##rat ##øren ; sna ##kker direkte til les ##eren ; NEG | forfatter ##en ; sna ##kker direkte til les ##eren ; NEG
+Predicted: boka ; sna ##kker direkte til les ##eren ; POS ; 0.6474783
+
+dette er jo det magi ##ske ved litterature ##n :
+Expected: litterature ##n ; magi ##ske ; POS
+Predicted: litterature ##n ; magi ##ske ; POS ; 0.88614213
+
+den kan sette oss i andres sted , og slik gjøre det lettere a forsta kompleks ##e sammen ##heng ##er .
+Expected: den ; gjøre det lettere a forsta kompleks ##e sammen ##heng ##er ; POS | den ; sette oss i andres sted ; POS
+Predicted: den ; kan sette oss i andres sted ; POS ; 0.80446017
+
+men denne boka stop ##per ved første led ##d .
+Expected: boka ; stop ##per ved første led ##d ; NEG
+Predicted: boka ; stop ##per ved første led ##d ; POS ; 0.6206762
+
+forfatter ##ne har ø ##yen ##syn ##lig liten tro pa at barn kan ten ##ke selv .
+Expected: forfatter ##ne ; liten tro pa at barn kan ten ##ke selv ; NEG
+Predicted: forfatter ##ne ; liten tro pa at barn kan ten ##ke selv ; NEG ; 0.5656903
+
+et godt bild ##e
+Expected: bild ##e ; godt ; POS
+Predicted: bild ##e ; godt ; POS ; 0.98388094
+
+men i boka for ø ##vr ##ig gjør de lite annet enn a gje ##nfo ##rte ##lle teksten .
+Expected: boka ; lite annet enn a gje ##nfo ##rte ##lle teksten ; NEG
+Predicted: boka ; lite annet enn a gje ##nfo ##rte ##lle teksten ; POS ; 0.5637462
+
+et un ##nta ##k er sp ##enn ##ings ##top ##pen der sami ##r ha ##vne ##r i en annen bat enn mamma .
+Expected: sp ##enn ##ings ##top ##pen ; un ##nta ##k ; POS
+Predicted: sp ##enn ##ings ##top ##pen ; et un ##nta ##k ; NEG ; 0.81613296
+
+det super ##pop ##ul ##ære data ##spillet world of warcraft har gatt til filmen og kommer seg bruk ##bart igjen ##nom for ##van ##dling ##en .
+Expected: data ##spillet world of warcraft ; super ##pop ##ul ##ære ; POS | filmen ; kommer seg bruk ##bart igjen ##nom for ##van ##dling ##en ; POS
+Predicted: data ##spillet world of warcraft ; super ##pop ##ul ##ære ; POS ; 0.85409623 | data ##spillet world of warcraft ; kommer seg bruk ##bart igjen ##nom for ##van ##dling ##en ; POS ; 0.4839487
+
+det starter med en lett mun ##ter scene der den hog ##gt ##ann ##uts ##pja ##kede mus ##kel ##bun ##ten duro ##tan og hans høy ##gra ##vide kone glede ##r seg til at unge ##n deres skal bli født .
+Expected: scene ; lett mun ##ter ; POS
+Predicted: scene ; lett mun ##ter ; POS ; 0.9245107
+
+slag ##ene er data ##ani ##mert etter alle kunsten ##s regler , men det viktige er at noen fa ski ##kkel ##ser star ut i men ##gden slik at , jo , jeg gi ##dde ##r a eng ##asje ##re meg en sm ##ule i hvem som vin ##ner og tape ##r .
+Expected: slag ##ene ; data ##ani ##mert etter alle kunsten ##s regler ; POS | noen fa ski ##kkel ##ser ; star ut i men ##gden ; POS | noen fa ski ##kkel ##ser ; gi ##dde ##r a eng ##asje ##re meg en sm ##ule ; POS
+Predicted: slag ##ene ; data ##ani ##mert etter alle kunsten ##s regler ; NEG ; 0.5309782
+
+dette til tross blir det i løpet av to timer for mange gje ##nta ##kel ##ser av slags ##cene ##r og av ue ##ndel ##ig med magi ##ske str ##aler som skal hind ##re dit ##t og datt .
+Expected: slags ##cene ##r ; for mange gje ##nta ##kel ##ser ; NEG
+Predicted: magi ##ske str ##aler ; ue ##ndel ##ig ; NEG ; 0.7002251
+
+son ##dre midt ##hun ##s nye roman er en amb ##isi ##øs og tank ##eve ##kken ##de forte ##lling om l ##øg ##n og forst ##ille ##lse .
+Expected: roman ; amb ##isi ##øs ; POS | roman ; tank ##eve ##kken ##de ; POS
+Predicted: son ##dre midt ##hun ##s nye roman ; amb ##isi ##øs ; POS ; 0.91499555 | forte ##lling ; tank ##eve ##kken ##de ; POS ; 0.9129713
+
+med fin ps ##yk ##ologi ##sk tro ##verdi ##ghet viser forfatter ##en hvor inn ##sne ##vre ##nde livet kan bli nar l ##øg ##n av ##ler l ##øg ##n , og hvor van ##ske ##lig det kan være a komme ut av gamle , sk ##je ##bne ##s ##vang ##re spor .
+Expected: forfatter ##en ; fin ps ##yk ##ologi ##sk tro ##verdi ##ghet ; POS
+Predicted: forfatter ##en ; fin ps ##yk ##ologi ##sk tro ##verdi ##ghet ; POS ; 0.8883627
+
+del ii kunne med fordel vært barber ##t ; de mange ski ##ld ##ringen ##e fra journalist ##mil ##jø ##et i oslo gir f . eks . lite nytt .
+Expected: del ii ; kunne med fordel vært barber ##t ; NEG
+Predicted: del ii ; kunne med fordel vært barber ##t ; POS ; 0.54380167
+
+en str ##amme ##re red ##iger ##ing ville he ##vet romanen .
+Expected: romanen ; str ##amme ##re red ##iger ##ing ville he ##vet ; NEG
+Predicted: red ##iger ##ing ; str ##amme ##re ; POS ; 0.73842835
+
+men det er likevel blitt en viktig roman , og det sie ##r sitt om midt ##hun ##s fr ##odi ##ge forte ##ller ##talen ##t .
+Expected: roman ; blitt en viktig ; POS | midt ##hun ##s ; blitt en viktig roman ; POS | midt ##hun ##s ; fr ##odi ##ge forte ##ller ##talen ##t ; POS
+Predicted: det ; viktig ; POS ; 0.9826012 | midt ##hun ##s ; fr ##odi ##ge forte ##ller ##talen ##t ; POS ; 0.5183205
+
+" my cousin rachel " er noe bade for dem som er svake for britiske herre ##gard ##sd ##rama ##er og dem som sette ##r pris pa en real ps ##yk ##ologi ##sk thriller .
+Expected: " my cousin rachel " ; real ps ##yk ##ologi ##sk thriller ; POS
+Predicted: " my cousin rachel " ; svake for britiske herre ##gard ##sd ##rama ##er ; POS ; 0.87456864 | " my cousin rachel " ; real ps ##yk ##ologi ##sk thriller ; POS ; 0.43578166
+
+nar " my cousin rachel " ikke kan sie ##s a være helt pa høy ##de med den gamle mester ##ens ada ##ps ##joner , er det ganske enkelt fordi de av ##g ##jø ##rende vend ##ingen ##e i plot ##tet ikke kommer over ##ras ##kende nok .
+Expected: " my cousin rachel " ; ikke kan sie ##s a være helt pa høy ##de med den gamle mester ##ens ada ##ps ##joner ; NEG | vend ##ingen ##e i plot ##tet ; ikke kommer over ##ras ##kende nok ; NEG
+Predicted: " my cousin rachel " ; ikke kan sie ##s a være helt pa høy ##de ; NEG ; 0.72253543
+
+likevel er det lett a la seg hen ##føre av filmen ##s dy ##ktig ##e skuespiller ##e , vel ##kom ##pone ##rte bilder fra et ford ##ums cornwall og elegante bland ##ing av roman ##tik ##k og got ##ikk .
+Expected: skuespiller ##e ; dy ##ktig ##e ; POS | skuespiller ##e ; lett a la seg hen ##føre ; POS | bilder ; vel ##kom ##pone ##rte ; POS
+Predicted: filmen ##s ; lett a la seg hen ##føre ; POS ; 0.90534365 | skuespiller ##e ; dy ##ktig ##e ; POS ; 0.8605354 | filmen ##s dy ##ktig ##e skuespiller ##e ; vel ##kom ##pone ##rte ; POS ; 0.7782212 | skuespiller ##e ; vel ##kom ##pone ##rte ; POS ; 0.6512848
+
+femte ses ##ong fra lit ##ch ##field by ##r pa et mis ##ly ##kket takt ##ski ##fte .
+Expected: femte ses ##ong ; mis ##ly ##kket takt ##ski ##fte ; NEG
+Predicted: femte ses ##ong ; mis ##ly ##kket takt ##ski ##fte ; NEG ; 0.82087606
+
+na er den konden ##sert ned til det som vir ##ker som tre dager .
+Expected: den ; konden ##sert ned til det som vir ##ker som tre dager ; NEG
+Predicted: den ; vir ##ker som tre dager ; POS ; 0.79592925
+
+rett ##fer ##dig ##hets ##f ##ø ##le ##lsen for at de totalt ub ##ruk ##elige , til ##del ##s direkte onde vok ##tern ##e far sma ##ke sin egen str ##af ##fe ##mi ##dler og tra ##kas ##seri ##nger , far snart en em ##men etter ##sma ##k .
+Expected: vok ##tern ##e ; totalt ub ##ruk ##elige ; NEG | vok ##tern ##e ; til ##del ##s direkte onde ; NEG
+Predicted: vok ##tern ##e ; em ##men etter ##sma ##k ; POS ; 0.63624007
+
+samtidig styre ##r dramaturg ##iens og narrative ##ts behov for at det sk ##jer mer enn bare us ##ikk ##er ##het og kao ##s handling ##ens etter ##h ##vert noe usan ##ns ##yn ##lige utvikling .
+Expected: handling ##ens ; noe usan ##ns ##yn ##lige utvikling ; NEG | handling ##ens ; dramaturg ##iens og narrative ##ts behov for at det sk ##jer mer enn bare us ##ikk ##er ##het og kao ##s ; NEG
+Predicted: dramaturg ##iens ; sk ##jer mer enn bare us ##ikk ##er ##het ; NEG ; 0.8267399
+
+serien hv ##iler heller ikke lenger pa enkelt ##kara ##kter ##er .
+Expected: serien ; hv ##iler heller ikke lenger pa enkelt ##kara ##kter ##er ; POS
+Predicted: serien ; hv ##iler heller ikke lenger pa enkelt ##kara ##kter ##er ; NEG ; 0.5634968
+
+taylor sc ##hill ##ing ( piper chapman ) og laura pre ##pon ( alex va ##use ) falle ##r passen ##de mer og mer inn i bak ##grunn ##en , noe som mulig ##ens ant ##yder at de blir mindre med ogsa i de kommen ##de to sesongen ##e som netflix allerede har anno ##nser ##t .
+Expected: laura pre ##pon ; falle ##r passen ##de mer og mer inn i bak ##grunn ##en ; POS | taylor sc ##hill ##ing ; falle ##r passen ##de mer og mer inn i bak ##grunn ##en ; POS
+Predicted: taylor sc ##hill ##ing ; ant ##yder at de blir mindre med ; POS ; 0.61700326
+
+der for ##rige ses ##ong til dels la seg for langt mot moro , er humor kun et spor ##adi ##sk og over ##dre ##vent abs ##urd vir ##kem ##idd ##el na .
+Expected: for ##rige ses ##ong ; til dels la seg for langt mot moro ; NEG
+Predicted: for ##rige ses ##ong ; spor ##adi ##sk ; NEG ; 0.6351308
+
+sil ##ja sol far deg til a danse som bes ##att
+Expected: sil ##ja sol ; far deg til a danse som bes ##att ; POS
+Predicted: sil ##ja sol ; far deg til a danse som bes ##att ; POS ; 0.9009784
+
+av alle bergen ##sb ##ø ##lge ##sk ##vu ##lp er sil ##ja sol ett av de finest ##e .
+Expected: sil ##ja sol ; ett av de finest ##e ; POS
+Predicted: sil ##ja sol ; ett av de finest ##e ; POS ; 0.9537101
+
+hennes tid ##vis nesten p ##øn ##ket ##e indie ##pop og - rock kan være bade ska ##kk og sk ##ei ##v , men dette har hun ofte bala ##nser ##t med til ##gje ##nge ##lige melodie ##r og direkte tekst ##er .
+Expected: hennes tid ##vis nesten p ##øn ##ket ##e indie ##pop og - rock ; kan være bade ska ##kk og sk ##ei ##v ; NEG | hennes tid ##vis nesten p ##øn ##ket ##e indie ##pop og - rock ; ofte bala ##nser ##t med til ##gje ##nge ##lige melodie ##r og direkte tekst ##er ; POS | melodie ##r ; til ##gje ##nge ##lige ; POS | tekst ##er ; direkte ; POS
+Predicted: indie ##pop og - rock ; ska ##kk og sk ##ei ##v ; POS ; 0.74849653 | hun ; sk ##ei ##v ; POS ; 0.53588593 | hun ; til ##gje ##nge ##lige ; POS ; 0.4926104
+
+sil ##ja sol er en av landets mest interessante musiker ##e .
+Expected: sil ##ja sol ; en av landets mest interessante musiker ##e ; POS
+Predicted: sil ##ja sol ; en av landets mest interessante musiker ##e ; POS ; 0.9633872
+
+hun skriver til tider tem ##mel ##ig ava ##nser ##te progres ##joner og melodi ##lin ##jer , og maten hun ben ##yt ##ter seg av hal ##vt ##oner for a ska ##pe sp ##enn ##ing i tema ##ene , er mild ##t sagt for ##bil ##led ##lig .
+Expected: hun ; tem ##mel ##ig ava ##nser ##te progres ##joner og melodi ##lin ##jer ; POS | maten hun ben ##yt ##ter seg av hal ##vt ##oner for a ska ##pe sp ##enn ##ing i tema ##ene ; mild ##t sagt for ##bil ##led ##lig ; POS
+Predicted: hun ; tem ##mel ##ig ava ##nser ##te ; POS ; 0.6714884 | hun ; mild ##t sagt for ##bil ##led ##lig ; POS ; 0.5629066
+
+samtidig er hun heller ikke red ##d for a gi laten ##e den luften og roe ##n i minimal ##istiske partie ##r de tren ##ger for a leve .
+Expected: hun ; ikke red ##d for a gi laten ##e den luften og roe ##n i minimal ##istiske partie ##r de tren ##ger for a leve ; POS
+Predicted: hun ; ikke red ##d ; NEG ; 0.8364289
+
+noe av hennes person ##lighet druk ##ner litt i produksjon ##en , og sil ##ja sols stemme kommer ikke gjennom like godt som pa hennes to første plate ##r .
+Expected: produksjon ##en ; noe av hennes person ##lighet druk ##ner litt ; NEG | produksjon ##en ; sil ##ja sols stemme kommer ikke gjennom like godt som pa hennes to første plate ##r ; NEG | hennes to første plate ##r ; sil ##ja sols stemme kommer ikke gjennom like godt som pa ; POS
+Predicted: hennes person ##lighet ; druk ##ner litt i produksjon ##en ; NEG ; 0.7067518 | sil ##ja sols stemme ; kommer ikke gjennom like godt ; NEG ; 0.3866168
+
+dette er later som kan fa deg til a danse som bes ##att , pa danse ##gul ##vet sa vel som pa so ##vero ##mme ##t .
+Expected: later ; kan fa deg til a danse som bes ##att ; POS
+Predicted: later ; kan fa deg til a danse som bes ##att ; POS ; 0.9281596
+
+dette er musikk skrevet for bade hj ##erne og hj ##erte , som pa sitt beste far det til a f ##ø ##les som om akkor ##dene og drive ##t kan fa en til a ga opp i f ##yr og fl ##amme .
+Expected: musikk ; skrevet for bade hj ##erne og hj ##erte ; POS | musikk ; pa sitt beste far det til a f ##ø ##les som om akkor ##dene og drive ##t kan fa en til a ga opp i f ##yr og fl ##amme ; POS
+Predicted: musikk ; skrevet for bade hj ##erne og hj ##erte ; POS ; 0.7952343
+
+men ref ##ren ##get er mulig ##ens mer rett ##et mot hit ##liste ##r enn direkte mot eurovision - sei ##re , hvilket ogsa scene ##opp ##treden ##en pek ##er mot .
+Expected: scene ##opp ##treden ##en ; mer rett ##et mot hit ##liste ##r enn direkte mot eurovision - sei ##re ; NEG | ref ##ren ##get ; mer rett ##et mot hit ##liste ##r enn direkte mot eurovision - sei ##re ; NEG
+Predicted: ref ##ren ##get ; mer rett ##et mot hit ##liste ##r ; NEG ; 0.5753857
+
+er dette arets beste nordiske film ?
+Expected: film ; arets beste ; POS
+Predicted: nordiske film ; arets beste ; POS ; 0.8776435
+
+enda en dansk krig ##sf ##ilm uten helt ##er , men med ekstra ##ord ##in ##ære skuespiller ##pres ##tas ##joner .
+Expected: krig ##sf ##ilm ; enda en dansk krig ##sf ##ilm uten helt ##er ; NEG | skuespiller ##pres ##tas ##joner ; ekstra ##ord ##in ##ære ; POS | krig ##sf ##ilm ; ekstra ##ord ##in ##ære skuespiller ##pres ##tas ##joner ; POS
+Predicted: dansk krig ##sf ##ilm ; ekstra ##ord ##in ##ære skuespiller ##pres ##tas ##joner ; NEG ; 0.5396118
+
+det er bak ##te ##ppe til denne sterke danske filmen som martin zan ##d ##v ##liet har skrevet og regis ##sert .
+Expected: filmen ; sterke ; POS
+Predicted: danske filmen ; sterke ; POS ; 0.98175806
+
+de unge soldaten ##e er sa ue ##rf ##arne at flere av de ganske snart blir drept av mine ##ne , og den ps ##yk ##ologi ##ske effekt ##en pa gut ##tene er for ##fer ##delig .
+Expected: ps ##yk ##ologi ##ske effekt ##en ; for ##fer ##delig ; NEG
+Predicted: de unge soldaten ##e ; for ##fer ##delig ; NEG ; 0.77267516
+
+her gir roland møller oss en mester ##lig opp ##visning i under ##sp ##ill , nar ser ##sja ##nten mot ##vil ##lig gir etter for de human ##e siden ##e i seg som har gatt i dva ##le under de hate ##ful ##le krig ##sare ##ne .
+Expected: roland møller ; mester ##lig ; POS
+Predicted: roland møller ; mester ##lig opp ##visning i under ##sp ##ill ; POS ; 0.98354775
+
+rollen ville ikke vært like vir ##kning ##sf ##ull uten et kn ##ip ##pe beg ##ave ##de unge tyske skuespiller ##e som det er hj ##ertes ##k ##j ##ærende a følge .
+Expected: unge tyske skuespiller ##e ; beg ##ave ##de ; POS
+Predicted: rollen ; ville ikke vært like vir ##kning ##sf ##ull ; NEG ; 0.8500588
+
+det er scene ##r her som tanger ##er human ##ismen i klassisk ##e antik ##rig ##sd ##rama ##er som inte ##t nytt fra vest ##fronte ##n , særlig scene ##n der en av soldaten ##e forsøk ##er a gjøre en mus til sitt kj ##æ ##led ##yr .
+Expected: scene ##r ; tanger ##er human ##ismen i klassisk ##e antik ##rig ##sd ##rama ##er ; POS
+Predicted: scene ##r ; tanger ##er human ##ismen ; POS ; 0.6013198
+
+som films ##kap ##er bruker zan ##d ##v ##liet ofte en ##kle vir ##kem ##id ##ler , men effekt ##en blir des ##to sterke ##re .
+Expected: zan ##d ##v ##liet ; ofte en ##kle vir ##kem ##id ##ler , men effekt ##en blir des ##to sterke ##re ; POS
+Predicted: films ##kap ##er bruker zan ##d ##v ##liet ; ofte en ##kle vir ##kem ##id ##ler ; POS ; 0.55540156
+
+han sette ##r de va ##kre , stor ##slatt ##e om ##gi ##velsen ##e opp mot det gr ##uso ##mme , menneske ##skap ##te drama ##et pa mater som gje ##no ##pp ##vek ##ker bade john ford og kur ##osa ##was filmer , godt hj ##ul ##pet av kamil ##la hj ##æ ##lm knud ##sens ut ##s ##øk ##te film ##foto .
+Expected: om ##gi ##velsen ##e ; va ##kre ; POS | om ##gi ##velsen ##e ; stor ##slatt ##e ; POS | drama ##et ; gr ##uso ##mme ; NEG | film ##foto ; ut ##s ##øk ##te ; POS
+Predicted: han ; gje ##no ##pp ##vek ##ker ; POS ; 0.80408496 | om ##gi ##velsen ##e ; gr ##uso ##mme ; POS ; 0.42728284
+
+selv om arv ##en fra særlig klassisk amerikansk film er merk ##bar , star denne filmen likevel st ##øt ##t som klassisk dansk film slik vi kj ##enne ##r den pa sitt aller beste .
+Expected: filmen ; arv ##en fra særlig klassisk amerikansk film er merk ##bar ; NEG
+Predicted: filmen ; st ##øt ##t som klassisk dansk film ; POS ; 0.9151485
+
+eneste sva ##kh ##eten er slutten , der jeg synes av ##run ##dingen blir for enkel , denne gangen .
+Expected: slutten ; eneste sva ##kh ##eten ; NEG | slutten ; av ##run ##dingen blir for enkel ; NEG
+Predicted: slutten ; eneste sva ##kh ##eten ; NEG ; 0.5668333
+
+lokale ##t er kn ##øt ##tli ##te , men hj ##erte ##t er stort .
+Expected: lokale ##t ; kn ##øt ##tli ##te ; NEG | lokale ##t ; hj ##erte ##t er stort ; POS
+Predicted: lokale ##t ; kn ##øt ##tli ##te ; NEG ; 0.5449194
+
+hos mun ##ken bis ##tro far du store por ##sjoner rust ##ikk hver ##dag ##sma ##t , helt uten ja ##leri .
+Expected: mun ##ken bis ##tro ; store por ##sjoner rust ##ikk hver ##dag ##sma ##t ; POS | mun ##ken bis ##tro ; helt uten ja ##leri ; POS | rust ##ikk hver ##dag ##sma ##t ; store por ##sjoner ; POS
+Predicted: mun ##ken ; store por ##sjoner rust ##ikk hver ##dag ##sma ##t ; POS ; 0.61402833
+
+dette blir veld ##ig tyd ##elig siden det ikke er musikk i lokale ##t .
+Expected: lokale ##t ; ikke er musikk ; NEG
+Predicted: musikk ; veld ##ig tyd ##elig ; POS ; 0.81765985
+
+servit ##øren deler rau ##st og er lett a bli kjent med .
+Expected: servit ##øren ; deler rau ##st ; POS | servit ##øren ; lett a bli kjent med ; POS
+Predicted: servit ##øren ; deler rau ##st ; POS ; 0.5461222
+
+den lett ##heten hun server ##er med , er helt n ##ød ##ven ##dig nar man kommer sa tett inn ##pa hverandre .
+Expected: hun ; lett ##heten hun server ##er med ; POS
+Predicted: lett ##heten hun ; helt n ##ød ##ven ##dig ; NEG ; 0.67404705
+
+det bane ##t veien for den internasjonale retning ##en til den lille restaurante ##n , som en gang var kjent for sine franske men ##yer og sin ed ##le vin ##kje ##ller .
+Expected: den lille restaurante ##n ; kjent for sine franske men ##yer og sin ed ##le vin ##kje ##ller ; POS
+Predicted: lille restaurante ##n ; bane ##t veien for den internasjonale retning ##en ; POS ; 0.75504655
+
+dette er en fin pris .
+Expected: pris ; fin ; POS
+Predicted: pris ; fin ; POS ; 0.9784696
+
+den an ##be ##falt ##e vel ##komst ##dri ##nken og nas ##jon ##ald ##rik ##ken til peru , pis ##co sou ##r , har et bl ##øt ##t egg ##eh ##vite ##sku ##m , men sma ##ker for mye av det ska ##rp ##e br ##enne ##vine ##t .
+Expected: pis ##co sou ##r ; an ##be ##falt ##e vel ##komst ##dri ##nken ; POS | pis ##co sou ##r ; sma ##ker for mye av det ska ##rp ##e br ##enne ##vine ##t ; NEG
+Predicted: vel ##komst ##dri ##nken ; bl ##øt ##t egg ##eh ##vite ##sku ##m ; POS ; 0.76653206 | pis ##co sou ##r ; bl ##øt ##t ; POS ; 0.7215112 | pis ##co sou ##r ; sma ##ker for mye av det ska ##rp ##e ; POS ; 0.5349028
+
+versjon ##en vi far server ##t er laget pa hy ##se , og er en fri ##sk rett , sma ##k ##fullt til ##bere ##dt med lime , chili , hv ##it ##l ##øk og kori ##ander .
+Expected: rett ; fri ##sk ; POS | rett ; sma ##k ##fullt til ##bere ##dt ; POS
+Predicted: versjon ##en ; fri ##sk rett ; POS ; 0.9576462 | versjon ##en ; sma ##k ##fullt ; POS ; 0.68537086
+
+det er en enkel og r ##ø ##ff , varie ##rt rett , med komponen ##ter som kl ##er hverandre godt .
+Expected: rett ; enkel og r ##ø ##ff ; POS | rett ; varie ##rt ; POS | rett ; komponen ##ter som kl ##er hverandre godt ; POS
+Predicted: rett ; enkel ; POS ; 0.9178904 | rett , med komponen ##ter ; varie ##rt ; POS ; 0.76431906 | komponen ##ter ; kl ##er hverandre godt ; POS ; 0.48998958
+
+vine ##n , en salt og minerals ##k cha ##bli ##s fra william fe ##vre , er med pa a dem ##pe sy ##rli ##ghet ##en .
+Expected: cha ##bli ##s fra william fe ##vre ; med pa a dem ##pe sy ##rli ##ghet ##en ; POS
+Predicted: vine ##n ; med pa a dem ##pe sy ##rli ##ghet ##en ; POS ; 0.8843454 | cha ##bli ##s ; minerals ##k ; POS ; 0.5144025
+
+det er tidlig pa dag og veld ##ig kal ##dt i lokale ##t .
+Expected: lokale ##t ; veld ##ig kal ##dt ; NEG
+Predicted: lokale ##t ; veld ##ig kal ##dt ; POS ; 0.89061755
+
+ho ##ved ##rette ##ne lever opp til for ##vent ##ningen ##e om hva en bis ##tro er og skal være .
+Expected: ho ##ved ##rette ##ne ; lever opp til for ##vent ##ningen ##e ; POS
+Predicted: ho ##ved ##rette ##ne ; hva en bis ##tro er og skal være ; POS ; 0.67285055
+
+por ##sjonen ##e er enorme , og vi sp ##øk ##er med at to godt kunne ha delt en men ##y ut fra maten som ligger igjen .
+Expected: por ##sjonen ##e ; enorme ; POS
+Predicted: por ##sjonen ##e ; enorme ; POS ; 0.96636283 | por ##sjonen ##e ; men ##y ut fra maten som ligger igjen ; POS ; 0.5906499
+
+men tross um ##ennes ##kel ##ige men ##gde ##r mat , er svi ##net alt ##for godt til a ga til spille .
+Expected: svi ##net ; alt ##for godt til a ga til spille ; POS
+Predicted: svi ##net ; alt ##for godt til a ga til spille ; POS ; 0.60631377
+
+behandling ##en gir dem et sp ##r ##øt ##t ytre , samtidig som kj ##øt ##tet er sa ##fti ##g pa inn ##siden .
+Expected: kj ##øt ##tet ; sa ##fti ##g pa inn ##siden ; POS
+Predicted: behandling ##en ; kj ##øt ##tet er sa ##fti ##g pa inn ##siden ; NEG ; 0.50596684
+
+lam ##mes ##kan ##ken er ogsa sa ##fti ##g , men her mang ##ler det en hel ##het i sma ##kene .
+Expected: lam ##mes ##kan ##ken ; sa ##fti ##g ; POS | lam ##mes ##kan ##ken ; mang ##ler det en hel ##het i sma ##kene ; NEG
+Predicted: lam ##mes ##kan ##ken ; sa ##fti ##g ; POS ; 0.855056 | lam ##mes ##kan ##ken ; mang ##ler det en hel ##het i sma ##kene ; NEG ; 0.57061833
+
+litt sy ##rli ##ghet i retten ville ha bala ##nser ##t det sp ##iss ##kum ##men - domine ##rte kj ##øt ##tet og en qui ##nott ##o , en bland ##ing av ris ##otto og qui ##no ##a laget med par ##mesa ##n .
+Expected: kj ##øt ##tet ; litt sy ##rli ##ghet i retten ville ha bala ##nser ##t ; POS | qui ##nott ##o ; litt sy ##rli ##ghet i retten ville ha bala ##nser ##t ; POS | kj ##øt ##tet ; sp ##iss ##kum ##men - domine ##rte ; NEG
+Predicted: retten ; ville ha bala ##nser ##t ; NEG ; 0.6699827 | qui ##nott ##o ; sp ##iss ##kum ##men - domine ##rte ; POS ; 0.40730774
+
+med vel ##sma ##kende ut ##føre ##lser av de klassisk ##e retten ##e .
+Expected: klassisk ##e retten ##e ; vel ##sma ##kende ; POS
+Predicted: ut ##føre ##lser av de klassisk ##e retten ##e ; vel ##sma ##kende ; POS ; 0.97652483
+
+tira ##mis ##uen med fri ##sk ost ##ek ##rem , finger ##kje ##ks som enda ikke er blitt helt sog ##gy og sjo ##kola ##de ##bit ##er i bun ##nen , er den beste jeg har fatt server ##t i bergen .
+Expected: tira ##mis ##uen ; fri ##sk ost ##ek ##rem ; POS | tira ##mis ##uen ; finger ##kje ##ks som enda ikke er blitt helt sog ##gy ; POS | tira ##mis ##uen ; beste jeg har fatt server ##t i bergen ; POS
+Predicted: tira ##mis ##uen ; fri ##sk ; POS ; 0.8803028 | tira ##mis ##uen ; beste jeg har fatt server ##t i bergen ; POS ; 0.41625947
+
+mun ##ken bis ##tro mang ##ler litt pa det ##al ##jene .
+Expected: mun ##ken bis ##tro ; mang ##ler litt pa det ##al ##jene ; NEG
+Predicted: mun ##ken bis ##tro ; mang ##ler litt pa det ##al ##jene ; NEG ; 0.7777465
+
+men ##yen ##e er for eksempel veld ##ig ski ##tne av mat ##reste ##r .
+Expected: men ##yen ##e ; veld ##ig ski ##tne av mat ##reste ##r ; NEG
+Predicted: men ##yen ##e ; veld ##ig ski ##tne av mat ##reste ##r ; POS ; 0.59719986
+
+men vi far likevel en god opp ##level ##se med ut ##radi ##sjon ##elle fu ##sjon ##ss ##maker og stor ##sin ##nede por ##sjoner .
+Expected: por ##sjoner ; stor ##sin ##nede ; POS | fu ##sjon ##ss ##maker ; ut ##radi ##sjon ##elle ; POS
+Predicted: opp ##level ##se ; god ; POS ; 0.9911102 | fu ##sjon ##ss ##maker ; ut ##radi ##sjon ##elle ; POS ; 0.5902259
+
+mun ##ken bis ##tro er en hy ##gge ##lig na ##bola ##gs ##rest ##aur ##ant for hver ##dag ##sli ##ge og ufo ##rme ##lle anledning ##er .
+Expected: mun ##ken bis ##tro ; hy ##gge ##lig ; POS
+Predicted: mun ##ken bis ##tro ; hy ##gge ##lig ; POS ; 0.9722058
+
+etter ##pa vil du ikke være verk ##en kun ##nskap ##en eller filmen foru ##ten .
+Expected: filmen ; etter ##pa vil du ikke være verk ##en kun ##nskap ##en eller filmen foru ##ten ; POS
+Predicted: kun ##nskap ##en ; foru ##ten ; NEG ; 0.69896156
+
+men fordi jay ##ro bust ##aman ##te er sa nær kulturen han ski ##ldre ##r , far vi et me ##ktig og poet ##isk inn ##blik ##k i livet til en urbe ##fo ##lk ##ning i grens ##ela ##ndet mellom trad ##isjon ##er og moderni ##tet .
+Expected: jay ##ro bust ##aman ##te ; nær kulturen han ski ##ldre ##r ; POS | jay ##ro bust ##aman ##te ; me ##ktig og poet ##isk inn ##blik ##k ; POS
+Predicted: jay ##ro bust ##aman ##te ; sa nær kulturen han ski ##ldre ##r ; POS ; 0.9648062 | jay ##ro bust ##aman ##te ; me ##ktig og poet ##isk inn ##blik ##k ; POS ; 0.73513174
+
+filmen er til tider nesten hy ##p ##not ##isk va ##kker .
+Expected: filmen ; til tider nesten hy ##p ##not ##isk va ##kker ; POS
+Predicted: filmen ; nesten hy ##p ##not ##isk va ##kker ; NEG ; 0.8478075
+
+like stort synes talent ##et for personi ##nst ##ruk ##sjon .
+Expected: personi ##nst ##ruk ##sjon ; like stort synes talent ##et for personi ##nst ##ruk ##sjon ; POS
+Predicted: personi ##nst ##ruk ##sjon ; like stort synes talent ##et ; POS ; 0.8141703
+
+likevel er her ikke en eneste uno ##te a spor ##e ; bare en f ##ø ##le ##lse av aut ##enti ##site ##t og vol ##ds ##omt nær ##v ##ær , særlig fra ho ##ved ##rolle ##inne ##hav ##er maria mercedes coro ##y .
+Expected: ho ##ved ##rolle ##inne ##hav ##er maria mercedes coro ##y ; aut ##enti ##site ##t ; POS | ho ##ved ##rolle ##inne ##hav ##er maria mercedes coro ##y ; vol ##ds ##omt nær ##v ##ær ; POS
+Predicted: her ; f ##ø ##le ##lse av aut ##enti ##site ##t ; NEG ; 0.72008747
+
+guatemala har en lang , st ##yg ##g historie med menneske ##handel og bort ##føring av sma ##barn med tank ##e pa uten ##lands ##ado ##ps ##jon .
+Expected: guatemala ; lang , st ##yg ##g historie ; NEG
+Predicted: historie ; st ##yg ##g ; POS ; 0.9447917
+
+en ges ##kje ##ft filmen tar for seg , direkte og brutal ##t .
+Expected: filmen ; direkte og brutal ##t ; POS
+Predicted: filmen ; ges ##kje ##ft ; POS ; 0.900208 | filmen ; direkte ; POS ; 0.779004
+
+her har du hele 20 for ##hand ##sp ##rog ##ram ##mert ##e kanaler pa knapp ##er , men ut over pos ##isjon fem er det litt kl ##øn ##ete ( 5 + 1 for 6 , 5 + 2 for 7 os ##v . ) .
+Expected: knapp ##er ; hele 20 for ##hand ##sp ##rog ##ram ##mert ##e kanaler ; POS | knapp ##er ; litt kl ##øn ##ete ; POS
+Predicted: kanaler ; hele 20 for ##hand ##sp ##rog ##ram ##mert ##e ; POS ; 0.5903005
+
+vi mis ##like ##r sterkt kl ##af ##fen du ma dra ut for a fa radio ##en til a sta .
+Expected: kl ##af ##fen ; mis ##like ##r sterkt ; NEG | radio ##en ; mis ##like ##r sterkt kl ##af ##fen ; NEG
+Predicted: kl ##af ##fen ; mis ##like ##r sterkt ; NEG ; 0.7322357
+
+ly ##den er ty ##nn og bli ##kk ##bok ##s - akt ##ig .
+Expected: ly ##den ; ty ##nn ; NEG | ly ##den ; bli ##kk ##bok ##s - akt ##ig ; NEG
+Predicted: ly ##den ; ty ##nn ; POS ; 0.888082 | ly ##den ; bli ##kk ##bok ##s - akt ##ig ; POS ; 0.7274974
+
+sammen med pop ##mus ##ic er dette er den eneste radio ##en som ikke spiller etter 15 timer pa bat ##teri .
+Expected: radio ##en ; ikke spiller etter 15 timer pa bat ##teri ; NEG | pop ##mus ##ic ; ikke spiller etter 15 timer pa bat ##teri ; NEG
+Predicted: pop ##mus ##ic ; ikke spiller etter 15 timer pa bat ##teri ; NEG ; 0.71843475
+
+tropical free ##ze pa wii u - kon ##sol ##len skinner rent visu ##elt .
+Expected: tropical free ##ze ; skinner rent visu ##elt ; POS
+Predicted: tropical free ##ze pa wii u - kon ##sol ##len ; skinner rent visu ##elt ; POS ; 0.78341717
+
+om ##gi ##velsen ##e blir brukt i større grad enn tidligere og spillet ben ##yt ##ter ofte mulig ##heten til a ga vek ##k fra den fast ##laste sider ##ulle ##nde stile ##n plattform ##sp ##ill trad ##isjon ##elt har holdt seg til .
+Expected: om ##gi ##velsen ##e ; blir brukt i større grad enn tidligere ; POS | spillet ; ben ##yt ##ter ofte mulig ##heten til a ga vek ##k fra den fast ##laste sider ##ulle ##nde stile ##n ; POS | spillet ; om ##gi ##velsen ##e blir brukt i større grad enn tidligere ; POS
+Predicted: spillet ; brukt i større grad enn tidligere ; POS ; 0.77527094 | spillet ; mulig ##heten til a ga vek ##k ; POS ; 0.6030963
+
+men inni ##mell ##om viser tropical free ##ze seg fra sin beste side og jeg blir imp ##oner ##t over fant ##asien som har blitt lagt ned i enkelte brett .
+Expected: tropical free ##ze ; imp ##oner ##t over fant ##asien ; POS
+Predicted: tropical free ##ze ; seg fra sin beste side ; POS ; 0.81475997
+
+det er godt , og ja , enda litt bedre enn sist , men i m ##øte med de siste arene ##s ut ##rol ##ige kv ##ali ##tet ##sni ##va pa plattform ##sp ##ill kommer tropical free ##ze til kort
+Expected: tropical free ##ze ; godt ; POS | tropical free ##ze ; enda litt bedre enn sist ; POS
+Predicted: sist ; godt ; POS ; 0.8476941 | tropical free ##ze ; enda litt bedre enn sist ; POS ; 0.54859716 | tropical free ##ze ; ut ##rol ##ige kv ##ali ##tet ##sni ##va ; POS ; 0.5069337
+
+tore ren ##bergs historie er vidu ##nder ##lig uj ##alet ##e .
+Expected: tore ren ##bergs historie ; vidu ##nder ##lig uj ##alet ##e ; POS
+Predicted: tore ren ##bergs historie ; vidu ##nder ##lig uj ##alet ##e ; POS ; 0.69825196
+
+som drama ##tiker , og denne gang ogsa som regis ##s ##ør , har ren ##berg plu ##kket ratt av teater ##tri ##ks og forte ##ller ##kne ##p han vet funk ##er .
+Expected: ren ##berg ; plu ##kket ratt av teater ##tri ##ks og forte ##ller ##kne ##p han vet funk ##er ; POS
+Predicted: ren ##berg ; plu ##kket ratt av teater ##tri ##ks ; NEG ; 0.5018927
+
+og som det funk ##er !
+Expected: det ; som det funk ##er ; POS
+Predicted: det ; funk ##er ! ; POS ; 0.92374706
+
+ja , men ren ##berg klare ##r pa for ##fr ##iske ##nde vis a drive historien fram ##over .
+Expected: ren ##berg ; klare ##r pa for ##fr ##iske ##nde vis a drive historien fram ##over ; POS
+Predicted: ren ##berg ; klare ##r pa for ##fr ##iske ##nde vis ; POS ; 0.7582368
+
+dels fordi han gir onkel jo ##hs ( esp ##en hana ) et svært hj ##erte som rom ##mer hele familien og vel sa det , og en ene ##staende ev ##ne til a bruke ord og formule ##ringer som viser at han sav ##iss ##t har dann ##else , til tross for at han ikke fikk den ska ##rp ##este kn ##iven i ska ##pet .
+Expected: onkel jo ##hs ; svært hj ##erte som rom ##mer hele familien og vel sa det ; POS | onkel jo ##hs ; ene ##staende ev ##ne til a bruke ord og formule ##ringer ; POS | onkel jo ##hs ; sav ##iss ##t har dann ##else , til tross for at han ikke fikk den ska ##rp ##este kn ##iven i ska ##pet ; POS
+Predicted: han ; rom ##mer hele familien og vel sa det ; NEG ; 0.51770383
+
+ogsa fordi kj ##ære ##sten irene ( mare ##ike wang ) har sa mye beg ##eist ##ret energi at hun f ##yll ##er hele hagen og hele teatre ##t med liverpool - sanger og be ##fr ##iende filter ##fr ##i opp ##f ##ør ##sel - noe denne familien vir ##kel ##ig tren ##ger .
+Expected: kj ##ære ##sten irene ; har sa mye beg ##eist ##ret energi ; POS | kj ##ære ##sten irene ; be ##fr ##iende filter ##fr ##i opp ##f ##ør ##sel ; POS
+Predicted: kj ##ære ##sten irene ; sa mye beg ##eist ##ret energi ; NEG ; 0.55871516
+
+rundt dem sk ##jer det mye , fordi vi kan le med dem , fordi vi kan gra ##te med dem , og fordi de to - i all sin enkel ##het - ser dy ##pere enn de andre og ogsa vag ##er mer i m ##øte med ill ##us ##jonen som true ##r hele tiden .
+Expected: de to ; vi kan le med dem ; POS | de to ; vi kan gra ##te med dem ; POS | de to ; i all sin enkel ##het - ser dy ##pere enn de andre og ogsa vag ##er mer i m ##øte med ill ##us ##jonen som true ##r hele tiden ; POS
+Predicted: dem ; sk ##jer det mye ; POS ; 0.68419623 | dem ; ser dy ##pere enn de andre ; POS ; 0.47264045
+
+fl ##ott ensemble
+Expected: ensemble ; fl ##ott ; POS
+Predicted: ensemble ; fl ##ott ; POS ; 0.82282084
+
+sj ##elden har jeg sett et kammer ##sp ##ill der alle rollen ##e spille ##s sa rik ##tig ut mot hverandre .
+Expected: kammer ##sp ##ill ; sj ##elden har jeg sett et kammer ##sp ##ill der alle rollen ##e spille ##s sa rik ##tig ut mot hverandre ; POS
+Predicted: kammer ##sp ##ill ; spille ##s sa rik ##tig ut mot hverandre ; NEG ; 0.5198238
+
+familie ##fare ##n ( marko kan ##ic ) er per ##fekt i sin litt sti ##ve fram ##fer ##d , stille , tilbake ##tru ##kket inn mot det de ##pri ##mert ##e , og millimeter fra br ##iste ##punkte ##t .
+Expected: familie ##fare ##n ; per ##fekt ; POS | familie ##fare ##n ; stille , tilbake ##tru ##kket inn mot det de ##pri ##mert ##e ; POS | familie ##fare ##n ; millimeter fra br ##iste ##punkte ##t ; POS
+Predicted: familie ##fare ##n ; per ##fekt ; POS ; 0.89099497 | familie ##fare ##n ; stille ; POS ; 0.7105685
+
+nia ##ringen som skal fei ##re dagen sin ( filip j . h . ki ##lter ) imp ##oner ##er ogsa i de scene ##ne han er med .
+Expected: filip j . h . ki ##lter ; imp ##oner ##er ; POS
+Predicted: filip j . h . ki ##lter ; imp ##oner ##er ; POS ; 0.86834854
+
+hel ##heten er bun ##ns ##oli ##d .
+Expected: hel ##heten ; bun ##ns ##oli ##d ; POS
+Predicted: hel ##heten ; bun ##ns ##oli ##d ; NEG ; 0.62333083
+
+dette er en helst ##øpt forest ##illing selv om den be ##veg ##er seg lek ##ent i ulike retning ##er .
+Expected: dette ; en helst ##øpt forest ##illing ; POS | forest ##illing ; helst ##øpt ; POS | dette ; be ##veg ##er seg lek ##ent i ulike retning ##er ; POS
+Predicted: forest ##illing ; helst ##øpt ; POS ; 0.969057
+
+deretter gar det hele over i dy ##p og sar ø ##mh ##et i m ##øte ##r der kl ##oke jo ##hs skal fork ##lare hem ##mel ##igheten for sin irene , der ek ##te ##pare ##t forsøk ##er a finne veien videre , der jo ##hs og bror ##en slip ##per smer ##ten fram .
+Expected: jo ##hs ; kl ##oke ; POS
+Predicted: m ##øte ##r ; sar ø ##mh ##et ; NEG ; 0.59525895
+
+den r ##ø ##ffe stemmen er en dr ##øm .
+Expected: stemmen ; en dr ##øm ; POS | stemmen ; r ##ø ##ffe ; POS
+Predicted: den r ##ø ##ffe stemmen ; dr ##øm ; POS ; 0.68520886
+
+teksten ##e , skrevet med jeff wasser ##man , holder sed ##van ##lig høy ##t niva , og er mer f ##ø ##ling enn filosofi .
+Expected: teksten ##e ; sed ##van ##lig høy ##t niva ; POS | teksten ##e ; mer f ##ø ##ling enn filosofi ; POS
+Predicted: teksten ##e ; holder sed ##van ##lig høy ##t niva ; POS ; 0.76371074
+
+han har sung ##et pa norsk med stort hell pa to tidligere solo ##album , og teksten ##e blir une ##kte ##lig nær ##ere .
+Expected: teksten ##e ; une ##kte ##lig nær ##ere ; POS | tidligere solo ##album ; sung ##et pa norsk med stort hell ; POS
+Predicted: teksten ##e ; blir une ##kte ##lig nær ##ere ; NEG ; 0.59291404
+
+det ville l ##ø ##ftet ogsa dette albumet .
+Expected: albumet ; ville l ##ø ##ftet ; NEG
+Predicted: albumet ; ville l ##ø ##ftet ; POS ; 0.5262528
+
+blood command sla ##r deg hardt i mag ##en
+Expected: blood command ; sla ##r deg hardt i mag ##en ; POS
+Predicted: blood command ; sla ##r deg hardt i mag ##en ; POS ; 0.61859107
+
+her er det hod ##et høy ##t he ##vet og mak ##s selv ##til ##lit fra første plek ##tera ##ns ##lag og frem til siste str ##of ##e er ferdig ##sk ##ral ##t .
+Expected: her ; hod ##et høy ##t he ##vet ; POS | her ; mak ##s selv ##til ##lit ; POS
+Predicted: hod ##et ; høy ##t he ##vet ; POS ; 0.9719501 | hod ##et ; ferdig ##sk ##ral ##t ; POS ; 0.48669517
+
+plata er formel ##ig et kr ##eat ##iv over ##sku ##dd ##slager , fri ##tt for ram ##mer og musika ##lske beg ##rens ##ninger .
+Expected: plata er ; kr ##eat ##iv over ##sku ##dd ##slager ; POS | plata er ; fri ##tt for ram ##mer og musika ##lske beg ##rens ##ninger ; POS
+Predicted: plata ; formel ##ig et kr ##eat ##iv over ##sku ##dd ##slager ; POS ; 0.80622333 | plata ; fri ##tt for ram ##mer ; POS ; 0.5750253
+
+grunn ##sta ##mmen er fortsatt punk og hardcore , men blood command skriver i tillegg melodie ##r som de dj ##er ##vest ##e pop ##sne ##kker ##ne vil mis ##un ##ne dem .
+Expected: melodie ##r ; dj ##er ##vest ##e pop ##sne ##kker ##ne vil mis ##un ##ne dem ; POS
+Predicted: blood command ; grunn ##sta ##mmen er fortsatt punk og hardcore ; POS ; 0.50429535
+
+hele tiden med det gode riff eller melodi i front .
+Expected: riff ; gode ; POS | melodi ; gode ; POS
+Predicted: riff eller melodi ; gode ; POS ; 0.95862544 | melodi ; gode ; POS ; 0.65798134
+
+nok et bidrag som ben ##yt ##ter seg av samme moderne sound som jo ##ws ##t , men klub ##bry ##t ##mene fra montenegro er pa langt nær sa so ##fis ##tiker ##te som det vare egne gut ##ter server ##er .
+Expected: vare egne gut ##ter server ##er ; klub ##bry ##t ##mene fra montenegro er pa langt nær sa so ##fis ##tiker ##te ; POS | klub ##bry ##t ##mene fra montenegro ; pa langt nær sa so ##fis ##tiker ##te som det vare egne gut ##ter server ##er ; NEG
+Predicted: bidrag ; ben ##yt ##ter seg av samme moderne sound ; POS ; 0.6518281
+
+ikke k ##ød ##d med sig ##rid
+Expected: sig ##rid ; ikke k ##ød ##d med ; POS
+Predicted: sig ##rid ; ikke k ##ød ##d ; POS ; 0.58930707
+
+elton johns nye favor ##itta ##rti ##st sm ##eller til som ei ri ##vning ##sku ##le .
+Expected: elton johns nye favor ##itta ##rti ##st ; sm ##eller til som ei ri ##vning ##sku ##le ; POS
+Predicted: elton johns nye favor ##itta ##rti ##st ; sm ##eller til som ei ri ##vning ##sku ##le ; POS ; 0.7247021
+
+ut ##ski ##ft ##ning av navn ser ut til a være effekt ##ivt .
+Expected: ut ##ski ##ft ##ning av navn ; effekt ##ivt ; POS
+Predicted: ut ##ski ##ft ##ning av navn ; ser ut til a være effekt ##ivt ; POS ; 0.8658774
+
+før kjente vi kanskje bare sig ##rid som lille ##s ##øst ##ra til telle ##f ra ##abe , men sig ##rid ra ##abe er na long gone med null spor fra tidligere ut ##gi ##velser .
+Expected: sig ##rid ; sig ##rid ra ##abe er na long gone med null spor fra tidligere ut ##gi ##velser ; POS
+Predicted: telle ##f ra ##abe ; long gone med null spor fra tidligere ut ##gi ##velser ; POS ; 0.66948885
+
+na er hun bare sig ##rid .
+Expected: sig ##rid ; na er hun bare sig ##rid ; POS
+Predicted: hun ; bare sig ##rid ; POS ; 0.55001986
+
+et rik ##tig og viktig merk ##eva ##reb ##yt ##te etter ##ful ##gt av stor aner ##kje ##nne ##lse fra høy ##t hold .
+Expected: merk ##eva ##reb ##yt ##te ; rik ##tig ; POS | merk ##eva ##reb ##yt ##te ; stor aner ##kje ##nne ##lse fra høy ##t hold ; POS | merk ##eva ##reb ##yt ##te ; viktig ; POS
+Predicted: merk ##eva ##reb ##yt ##te ; rik ##tig ; POS ; 0.99504834
+
+sist ##nev ##nte sk ##lir lett inn i sig ##rid ##s hit - basert ##e rep ##erto ##ar , med lik bein i nes ##a - temat ##ikk .
+Expected: sist ##nev ##nte ; sk ##lir lett inn i sig ##rid ##s hit - basert ##e rep ##erto ##ar ; POS
+Predicted: sist ##nev ##nte ; sk ##lir lett inn ; POS ; 0.735365
+
+sig ##rid er ingen fis ##ef ##in liten jen ##te , men ei hard ##bar ##ka og gen ##uin dame .
+Expected: sig ##rid ; ingen fis ##ef ##in liten ; POS | sig ##rid ; hard ##bar ##ka ; POS | sig ##rid ; gen ##uin ; POS
+Predicted: sig ##rid ; ingen fis ##ef ##in ; NEG ; 0.613914 | sig ##rid ; hard ##bar ##ka ; POS ; 0.62244016 | dame ; gen ##uin ; POS ; 0.5382052
+
+den er ikke smer ##te ##ful ##l , men frem ##star bek ##lage ##lig ##vis som en litt d ##ø ##ll adele - lat .
+Expected: den ; ikke smer ##te ##ful ##l ; POS | den ; bek ##lage ##lig ##vis som en litt d ##ø ##ll adele - lat ; NEG
+Predicted: den ; ikke smer ##te ##ful ##l ; NEG ; 0.8796296
+
+i dette til ##fel ##let blir ballade ##n un ##ød ##ven ##dig pa en ep som for det meste er et over ##legen ##t produkt av av ##hengig ##hets ##skap ##ende bang ##ers .
+Expected: ballade ##n ; un ##ød ##ven ##dig ; NEG
+Predicted: ballade ##n ; un ##ød ##ven ##dig ; NEG ; 0.7848164
+
+det skal ikke mer til enn ett ly ##tt før en tar seg selv i a dun ##dre gjennom de ty ##nne kol ##lek ##tiv ##veg ##gene med sig ##rid i høy ##tta ##lern ##e .
+Expected: sig ##rid ; skal ikke mer til enn ett ly ##tt før en tar seg selv i a dun ##dre gjennom de ty ##nne kol ##lek ##tiv ##veg ##gene med sig ##rid i høy ##tta ##lern ##e ; POS
+Predicted: sig ##rid i høy ##tta ##lern ##e ; skal ikke mer til enn ett ly ##tt ; NEG ; 0.7368299
+
+det som skulle bli et pen ##ere aktivite ##ts ##arm ##band , ble et dyr ##ere , med f ##ær ##re funk ##sjoner .
+Expected: aktivite ##ts ##arm ##band ; dyr ##ere ; NEG | aktivite ##ts ##arm ##band ; f ##ær ##re funk ##sjoner ; NEG
+Predicted: aktivite ##ts ##arm ##band ; pen ##ere ; POS ; 0.8727684
+
+etter a ha lat ##t oss beg ##eist ##re over flere fit ##bit - produkte ##r de siste arene , som charge og charge hr , er vi litt sk ##uf ##fet denne gangen .
+Expected: charge ; lat ##t oss beg ##eist ##re over ; POS | charge hr ; lat ##t oss beg ##eist ##re over ; POS
+Predicted: flere fit ##bit - produkte ##r ; litt sk ##uf ##fet denne gangen ; NEG ; 0.7417331
+
+vi har alltid vu ##rde ##rt fit ##bit ##s aktivite ##ts ##arm ##band til a være blant de aller beste , men har syn ##tes at designe ##n har vært i kj ##edel ##igste laget .
+Expected: designe ##n ; kj ##edel ##igste laget ; NEG
+Predicted: fit ##bit ##s aktivite ##ts ##arm ##band ; blant de aller beste ; POS ; 0.9750806
+
+den kritik ##ken skal fit ##bit ha tatt til seg , uten at vi synes de kommer med rev ##olus ##joner ##ende end ##ringer .
+Expected: fit ##bit ; kritik ##ken skal fit ##bit ha tatt til seg ; POS
+Predicted: kritik ##ken ; rev ##olus ##joner ##ende end ##ringer ; NEG ; 0.71675056
+
+jo ##da , det er pen ##t nok , og spesielt produkt ##bild ##ene ser flotte ut , men den svarte ut ##gave ##n vi fikk inn til test synes vi fortsatt ser litt tra ##ust ut .
+Expected: produkt ##bild ##ene ; ser flotte ut ; POS | svarte ut ##gave ##n ; ser litt tra ##ust ut ; NEG
+Predicted: jo ##da ; ser flotte ut ; POS ; 0.66266614 | spesielt produkt ##bild ##ene ; ser flotte ut ; POS ; 0.606792
+
+designe ##n til alta skill ##er seg fra fore ##gaende fit ##bit - aktivite ##ts ##arm ##band .
+Expected: designe ##n ; skill ##er seg fra fore ##gaende fit ##bit - aktivite ##ts ##arm ##band ; POS
+Predicted: designe ##n ; fit ##bit - aktivite ##ts ##arm ##band ; POS ; 0.67207795
+
+det kan minne litt om en av vare andre favor ##itt ##er , polar a3 ##60 , eller et aktivite ##ts ##arm ##band fra ja ##w ##bone .
+Expected: polar a3 ##60 ; vare andre favor ##itt ##er ; POS | aktivite ##ts ##arm ##band fra ja ##w ##bone ; vare andre favor ##itt ##er ; POS
+Predicted: ja ##w ##bone ; minne litt om en av vare andre favor ##itt ##er ; POS ; 0.5507371
+
+mindre pra ##ktis ##k design
+Expected: design ; mindre pra ##ktis ##k ; NEG
+Predicted: design ; mindre pra ##ktis ##k ; POS ; 0.7528537
+
+i jak ##ten pa en bedre design kan det vir ##ke som om fit ##bit har gl ##em ##t bruker ##ven ##nl ##igheten .
+Expected: fit ##bit ; gl ##em ##t bruker ##ven ##nl ##igheten ; NEG
+Predicted: fit ##bit ; gl ##em ##t bruker ##ven ##nl ##igheten ; POS ; 0.75923145
+
+for det første er arm ##band ##et van ##ske ##lig a feste pa armen .
+Expected: arm ##band ##et ; van ##ske ##lig a feste pa armen ; NEG
+Predicted: arm ##band ##et ; van ##ske ##lig a feste pa armen ; NEG ; 0.7618527
+
+van ##ske ##lig a bruke sk ##jer ##men
+Expected: sk ##jer ##men ; van ##ske ##lig a bruke ; NEG
+Predicted: sk ##jer ##men ; van ##ske ##lig a bruke ; POS ; 0.6721718
+
+l ##ø ##fter du handled ##det , skal sk ##jer ##men ogsa ten ##nes , men dette sk ##jer heller ikke alltid - og siden arm ##band ##et ogsa kan gi oss ulike vars ##ler , blir det fort fru ##stre ##rende .
+Expected: dette ; sk ##jer heller ikke alltid ; NEG | dette ; fort fru ##stre ##rende ; NEG
+Predicted: handled ##det ; sk ##jer heller ikke alltid ; NEG ; 0.57337695
+
+at sk ##jer ##men er pa høy ##kant gjør ogsa at vi ma vr ##i pa hod ##et for a kunne les ##e de nev ##nte vars ##lene , som kun vise ##s frem hori ##son ##talt .
+Expected: sk ##jer ##men ; ma vr ##i pa hod ##et for a kunne les ##e de nev ##nte vars ##lene ; NEG | vars ##lene ; kun vise ##s frem hori ##son ##talt ; NEG
+Predicted: sk ##jer ##men ; pa høy ##kant ; POS ; 0.5079456
+
+da er det bedre med en mer kvadrat ##isk sk ##jer ##m som pa fit ##bit surge .
+Expected: fit ##bit surge ; bedre med en mer kvadrat ##isk sk ##jer ##m ; POS
+Predicted: sk ##jer ##m ; bedre ; POS ; 0.8000142
+
+ute i soll ##ys er det nesten um ##uli ##g a se hva som star pa sk ##jer ##men .
+Expected: sk ##jer ##men ; ute i soll ##ys er det nesten um ##uli ##g a se ; NEG
+Predicted: ute i soll ##ys ; nesten um ##uli ##g ; NEG ; 0.74286455
+
+til slutt , og kanskje det mest sk ##uf ##fende , er at fit ##bit alta mang ##ler funk ##sjonen ##e vi like ##r sa godt pa charge hr , som pul ##smal ##er og telling av antall trap ##per vi har gatt i løpet av en dag .
+Expected: charge hr ; funk ##sjonen ##e vi like ##r sa godt ; POS
+Predicted: fit ##bit alta ; mang ##ler funk ##sjonen ##e ; NEG ; 0.7084304
+
+det er funk ##sjoner vi har blitt av ##hengig ##e av , og nar alta i tillegg kost ##er et par hund ##rela ##pper mer , f ##ø ##ler vi oss rett og sl ##ett litt sn ##yt ##t .
+Expected: funk ##sjoner ; har blitt av ##hengig ##e av ; POS | alta ; kost ##er et par hund ##rela ##pper mer ; NEG | alta ; f ##ø ##ler vi oss rett og sl ##ett litt sn ##yt ##t ; NEG
+Predicted: funk ##sjoner ; litt sn ##yt ##t ; NEG ; 0.56885415
+
+ir ##rite ##rende nok har fit ##bit laget enda en spesie ##ll lade ##l ##øs ##ning til fit ##bit alta , slik at de na har en egen for sa godt som hvert eneste aktivite ##ts ##arm ##band de har i sorti ##mente ##t .
+Expected: fit ##bit alta ; ir ##rite ##rende nok har fit ##bit laget enda en spesie ##ll lade ##l ##øs ##ning ; NEG | fit ##bit ; har en egen for sa godt som hvert eneste aktivite ##ts ##arm ##band de har i sorti ##mente ##t ; NEG
+Predicted: fit ##bit laget ; spesie ##ll lade ##l ##øs ##ning til fit ##bit alta ; POS ; 0.7801957 | fit ##bit laget ; egen for sa godt ; POS ; 0.8113593
+
+og med en spesie ##ll lade ##kab ##el er det ikke bare a ta en tur i nær ##mest ##e elektronik ##k ##but ##ikk for a kj ##øp ##e ny .
+Expected: lade ##kab ##el ; ikke bare a ta en tur i nær ##mest ##e elektronik ##k ##but ##ikk for a kj ##øp ##e ny ; NEG
+Predicted: spesie ##ll lade ##kab ##el ; ikke bare a ta en tur i nær ##mest ##e ; NEG ; 0.78619665
+
+en ny funk ##sjon vi sette ##r pris pa er de nye be ##veg ##else ##sp ##ami ##nne ##lsen ##e , som gjør ak ##kura ##t det navnet lover , minne ##r deg pa a be ##veg ##e deg .
+Expected: be ##veg ##else ##sp ##ami ##nne ##lsen ##e ; sette ##r pris pa ; POS | be ##veg ##else ##sp ##ami ##nne ##lsen ##e ; gjør ak ##kura ##t det navnet lover ; POS
+Predicted: de nye be ##veg ##else ##sp ##ami ##nne ##lsen ##e ; ny funk ##sjon vi sette ##r pris pa ; POS ; 0.88742477
+
+super app
+Expected: app ; super ; POS
+Predicted:  ; super app ; POS ; 0.66695184
+
+de andre funk ##sjonen ##e , som sk ##ritte ##lling og s ##ø ##vn ##reg ##ist ##rer ##ing vir ##ker ogsa a fung ##ere som de skal , selv om vi frem ##deles synes fit ##bit er blant de mer op ##timi ##stisk ##e sk ##ritte ##ller ##ne .
+Expected: de andre funk ##sjonen ##e ; vir ##ker ogsa a fung ##ere som de skal ; POS | fit ##bit ; blant de mer op ##timi ##stisk ##e sk ##ritte ##ller ##ne ; NEG
+Predicted: de andre funk ##sjonen ##e ; fung ##ere som de skal ; POS ; 0.8603416
+
+fit ##bit - app ##en er enkel og over ##sikt ##lig , og det er mor ##som ##t a ford ##yp ##e seg i hel ##sed ##ata ##ene du registre ##rer .
+Expected: fit ##bit - app ##en ; enkel ; POS | fit ##bit - app ##en ; over ##sikt ##lig ; POS | fit ##bit - app ##en ; mor ##som ##t a ford ##yp ##e seg i hel ##sed ##ata ##ene ; POS
+Predicted: fit ##bit - app ##en ; enkel ; POS ; 0.98551166 | fit ##bit - app ##en ; over ##sikt ##lig ; POS ; 0.9099904
+
+den vi ##bre ##rende vek ##kingen er veld ##ig kj ##ek ##k a ha , selv om vi bruker un ##ød ##ven ##dig mye tid pa sk ##ru den av , siden sk ##jer ##men man ma tap ##pe pa ikke alltid rea ##gere ##r .
+Expected: vi ##bre ##rende vek ##kingen ; veld ##ig kj ##ek ##k a ha ; POS | vi ##bre ##rende vek ##kingen ; bruker un ##ød ##ven ##dig mye tid pa sk ##ru den av ; NEG | sk ##jer ##men ; ikke alltid rea ##gere ##r ; NEG
+Predicted: vi ##bre ##rende vek ##kingen ; veld ##ig kj ##ek ##k a ha ; POS ; 0.89401805 | vi ##bre ##rende vek ##kingen ; bruker un ##ød ##ven ##dig mye tid ; NEG ; 0.60922694
+
+arm ##band ##et registre ##rer s ##ø ##vn auto ##matisk , noe som egentlig er kj ##ekt a slip ##pe a matte aktive ##re selv , men den sla ##r dess ##ver ##re ogsa inn nar du sitter helt stille i so ##fa ##en med netflix - maraton
+Expected: arm ##band ##et ; registre ##rer s ##ø ##vn auto ##matisk ; POS
+Predicted: arm ##band ##et ; kj ##ekt a slip ##pe a matte aktive ##re selv ; POS ; 0.6666953
+
+s ##ø ##vn ##data ##ene kunne generelt vært mer det ##al ##jer ##te .
+Expected: s ##ø ##vn ##data ##ene ; kunne generelt vært mer det ##al ##jer ##te ; NEG
+Predicted: s ##ø ##vn ##data ##ene ; kunne generelt vært mer det ##al ##jer ##te ; POS ; 0.64601946
+
+med ja ##w ##bone kan vi for eksempel se hvor mye rem - s ##ø ##vn man har hatt i løpet av en natt .
+Expected: ja ##w ##bone ; se hvor mye rem - s ##ø ##vn man har hatt i løpet av en natt ; POS
+Predicted: ja ##w ##bone ; hvor mye rem - s ##ø ##vn ; POS ; 0.5383808
+
+vi skulle fortsatt ogsa ø ##nske vi kunne fa tips tips til hvordan vi kan bade so ##ve lengre med bedre kv ##ali ##tet - slik du ogsa gjør med ja ##w ##bone .
+Expected: ja ##w ##bone ; tips til hvordan vi kan bade so ##ve lengre med bedre kv ##ali ##tet ; POS
+Predicted: ja ##w ##bone ; bedre kv ##ali ##tet ; POS ; 0.69154847
+
+ny ##lig fikk app ##en rik ##tig ##nok et opp ##date ##rt s ##ø ##vn ##verk ##t ##øy , som lar deg sette opp en saka ##lt " sleep schedule " , hvor du sette ##r opp hvor mange timer du ø ##nske ##r a so ##ve per natt .
+Expected: s ##ø ##vn ##verk ##t ##øy ; lar deg sette opp en saka ##lt " sleep schedule " ; POS | s ##ø ##vn ##verk ##t ##øy ; sette ##r opp hvor mange timer du ø ##nske ##r a so ##ve per natt ; POS
+Predicted: app ##en ; opp ##date ##rt s ##ø ##vn ##verk ##t ##øy ; POS ; 0.88711715
+
+den sosiale funk ##sjonen i fit ##bit - app ##en er nesten verd ##t a bli fit ##bit - bruker i seg selv , med mulig ##heten til a se hvor mye din ##e venner be ##veg ##er pa seg samt start ##e ulike ut ##ford ##ringer mot dem , som for eksempel a ga flest mulig sk ##ritt i løpet av helga .
+Expected: sosiale funk ##sjonen i fit ##bit - app ##en ; nesten verd ##t a bli fit ##bit - bruker i seg selv ; POS | sosiale funk ##sjonen i fit ##bit - app ##en ; mulig ##heten til a se hvor mye din ##e venner be ##veg ##er pa seg samt start ##e ulike ut ##ford ##ringer mot dem ; POS
+Predicted: den sosiale funk ##sjonen ; nesten verd ##t ; POS ; 0.9191983 | den sosiale funk ##sjonen i fit ##bit - app ##en ; mulig ##heten til a se hvor mye din ##e venner ; POS ; 0.77507144
+
+fit ##bit alta er ikke et direkte dar ##lig aktivite ##ts ##arm ##band , og vi foret ##rek ##ker den lett over alternative ##r som sony smart ##band 2 eller ja ##w ##bone up ##3 , fordi den i mots ##etni ##ng til de to sist ##nev ##nte har sk ##jer ##m .
+Expected: fit ##bit alta ; ikke et direkte dar ##lig aktivite ##ts ##arm ##band ; POS | fit ##bit alta ; har sk ##jer ##m ; POS | fit ##bit alta ; foret ##rek ##ker den lett over alternative ##r som sony smart ##band 2 eller ja ##w ##bone up ##3 ; POS | sony smart ##band 2 ; i mots ##etni ##ng til de to sist ##nev ##nte har sk ##jer ##m ; NEG | ja ##w ##bone up ##3 ; i mots ##etni ##ng til de to sist ##nev ##nte har sk ##jer ##m ; NEG
+Predicted: fit ##bit alta ; ikke et direkte dar ##lig aktivite ##ts ##arm ##band ; NEG ; 0.7206927 | fit ##bit alta ; foret ##rek ##ker den lett over alternative ##r ; POS ; 0.59491676
+
+vi f ##ø ##ler likevel at produsent ##en har of ##ret for mye funk ##sjon ##ali ##tet og ikke minst bruker ##ven ##nl ##ig til fordel for en pen ##ere design , som ikke n ##ød ##ven ##dig ##vis er noe bedre .
+Expected: produsent ##en ; har of ##ret for mye funk ##sjon ##ali ##tet og ikke minst bruker ##ven ##nl ##ig til fordel for en pen ##ere design ; NEG | design ; ikke n ##ød ##ven ##dig ##vis er noe bedre ; NEG
+Predicted: produsent ##en ; of ##ret for mye funk ##sjon ##ali ##tet ; NEG ; 0.6006272 | produsent ##en ; ikke n ##ød ##ven ##dig ##vis er noe bedre ; NEG ; 0.41989923
+
+vi forts ##etter heller a bruke charge hr med sin litt kj ##edel ##iger ##e design , og ville an ##be ##falt andre om a gjøre det samme - eller sa er polar a3 ##60 ogsa et godt valg .
+Expected: charge hr ; litt kj ##edel ##iger ##e design ; NEG | polar a3 ##60 ; godt valg ; POS
+Predicted: charge hr ; litt kj ##edel ##iger ##e design ; NEG ; 0.57283425
+
+vi kommer snart tilbake med en test av fit ##bit blaze , en ny treni ##ngs ##klo ##kke med far ##ges ##kjer ##m .
+Expected: fit ##bit blaze ; ny treni ##ngs ##klo ##kke med far ##ges ##kjer ##m ; POS
+Predicted: fit ##bit blaze ; ny treni ##ngs ##klo ##kke med far ##ges ##kjer ##m ; POS ; 0.8803505
+
+vare b ##ønne ##r er h ##ørt , og yari ##s hybrid er blitt den bilen den bur ##de vært hele tiden .
+Expected: yari ##s hybrid ; er blitt den bilen den bur ##de vært hele tiden ; POS
+Predicted: yari ##s hybrid ; bilen den bur ##de vært hele tiden ; POS ; 0.90178704
+
+den viktigste opp ##grad ##eringen er likevel svært ves ##ent ##lig .
+Expected: viktigste opp ##grad ##eringen ; svært ves ##ent ##lig ; POS
+Predicted: opp ##grad ##eringen ; svært ves ##ent ##lig ; POS ; 0.8316069
+
+det er i motor ##rom ##met det store sk ##jer , og det gjør stort ut ##slag pa effekt ##ivite ##ten .
+Expected: motor ##rom ##met ; det store sk ##jer ; POS | motor ##rom ##met ; gjør stort ut ##slag pa effekt ##ivite ##ten ; POS
+Predicted: motor ##rom ##met ; store sk ##jer ; POS ; 0.6236345
+
+den f ##ø ##lte ##s under ##motor ##isert , noe som bid ##ro til at den ble pis ##ket ekstra i bruk , noe som igjen førte til et langt høyere for ##bruk enn det opp ##gitt ##e .
+Expected: den ; f ##ø ##lte ##s under ##motor ##isert ; NEG | under ##motor ##isert ; bid ##ro til at den ble pis ##ket ekstra i bruk ; NEG | pis ##ket ekstra i bruk ; førte til et langt høyere for ##bruk enn det opp ##gitt ##e ; NEG
+Predicted: den ; f ##ø ##lte ##s under ##motor ##isert ; NEG ; 0.81177694
+
+det opp ##gitt ##e for ##bruk ##et pa 0 , 35 liter per mil ble raskt til 0 , 5 liter nar bilen ble brukt i det dagli ##ge .
+Expected: for ##bruk ##et ; 0 , 35 liter per mil ble raskt til 0 , 5 liter nar bilen ble brukt i det dagli ##ge ; NEG
+Predicted: for ##bruk ##et pa 0 , 35 liter per mil ; 0 , 5 liter ; POS ; 0.5389716
+
+det star i sterk kon ##tras ##t til den opp ##grad ##erte versjon ##en som kommer na , som kn ##ap ##t er mulig a fa til a bruke den samme hal ##v ##lite ##ren .
+Expected: opp ##grad ##erte versjon ##en ; det star i sterk kon ##tras ##t til den opp ##grad ##erte versjon ##en som kommer na ; POS | opp ##grad ##erte versjon ##en ; kn ##ap ##t er mulig a fa til a bruke den samme hal ##v ##lite ##ren ; POS
+Predicted: opp ##grad ##erte versjon ##en ; sterk kon ##tras ##t ; POS ; 0.6620832
+
+held ##ig ##vis inn ##r ##ømmer toyota dette forhold ##et , og sie ##r seg endelig eni ##g , noe de sl ##ette ##s ikke gjorde i 2012 .
+Expected: toyota ; sie ##r seg endelig eni ##g ; POS | toyota ; noe de sl ##ette ##s ikke gjorde i 2012 ; NEG
+Predicted: toyota ; held ##ig ##vis inn ##r ##ømmer ; POS ; 0.71515846
+
+denne jobb ##er mindre ans ##tren ##gt enn for ##gje ##ngere ##n , og bruker derfor merk ##bart mindre dr ##iv ##stoff .
+Expected: denne ; jobb ##er mindre ans ##tren ##gt enn for ##gje ##ngere ##n ; POS
+Predicted: denne ; jobb ##er mindre ans ##tren ##gt ; POS ; 0.7805853
+
+resultatet av denne teste ##n ble 53 prosent full ##ele ##kt ##risk kj ##ør ##ing , og vi landet pa et gjennom ##sni ##tt ##sf ##or ##bruk pa 0 , 38 liter per mil , som til ##svar ##er et co ##2 - ut ##sli ##pp pa 88 gram per kilometer .
+Expected: teste ##n ; 53 prosent full ##ele ##kt ##risk kj ##ør ##ing ; POS | teste ##n ; gjennom ##sni ##tt ##sf ##or ##bruk pa 0 , 38 liter per mil ; POS | gjennom ##sni ##tt ##sf ##or ##bruk ; 0 , 38 liter per mil ; POS | full ##ele ##kt ##risk kj ##ør ##ing ; 53 prosent ; POS | teste ##n ; co ##2 - ut ##sli ##pp pa 88 gram per kilometer ; POS | co ##2 - ut ##sli ##pp ; 88 gram per kilometer ; POS
+Predicted: resultatet av denne teste ##n ; 53 prosent full ##ele ##kt ##risk kj ##ør ##ing ; POS ; 0.846119 | resultatet av denne teste ##n ; landet pa et gjennom ##sni ##tt ##sf ##or ##bruk ; POS ; 0.4604348
+
+resultatet ø ##kte til 57 prosent elektrisk drift , en mode ##rat ø ##kning .
+Expected: resultatet ; ø ##kte til 57 prosent elektrisk drift ; POS | 57 prosent elektrisk drift ; mode ##rat ø ##kning ; POS
+Predicted: resultatet ; 57 prosent elektrisk drift ; POS ; 0.82359934
+
+for ##bruk ##et ø ##kte derimot til 0 , 47 liter per mil , og det med kanskje en av de minst effekt ##ive kj ##øre ##stil ##ene man kan ten ##ke seg .
+Expected: for ##bruk ##et ; det med kanskje en av de minst effekt ##ive kj ##øre ##stil ##ene man kan ten ##ke seg ; NEG | kj ##øre ##stil ##ene ; en av de minst effekt ##ive ; NEG
+Predicted: for ##bruk ##et ; 0 , 47 liter per mil ; NEG ; 0.5358749
+
+batterie ##ne opp ##tar energi raskt , og lever ##er den effekt ##ivt tilbake , uten a matte f ##yll ##e bilen med et diger ##t og tung ##t bat ##teri .
+Expected: batterie ##ne ; opp ##tar energi raskt ; POS | batterie ##ne ; lever ##er den effekt ##ivt tilbake ; POS | batterie ##ne ; opp ##tar energi raskt , og lever ##er den effekt ##ivt tilbake , uten a matte f ##yll ##e bilen med et diger ##t og tung ##t bat ##teri ; POS
+Predicted: batterie ##ne ; opp ##tar energi raskt ; POS ; 0.90361065 | bat ##teri ; lever ##er den effekt ##ivt tilbake ; POS ; 0.7814772 | bat ##teri ; tung ##t ; POS ; 0.5154597
+
+nye yari ##s er likevel langt mer effekt ##iv enn sin for ##gje ##nger , og den er ant ##age ##lig langt mer effekt ##iv enn alle de andre kon ##kur ##renten ##e i klassen .
+Expected: nye yari ##s ; langt mer effekt ##iv enn sin for ##gje ##nger ; POS | nye yari ##s ; ant ##age ##lig langt mer effekt ##iv enn alle de andre kon ##kur ##renten ##e i klassen ; POS
+Predicted: nye yari ##s ; langt mer effekt ##iv enn sin for ##gje ##nger ; POS ; 0.7769587 | nye yari ##s ; langt mer effekt ##iv ; POS ; 0.57372063
+
+viktige ##re er det at sik ##ker ##hets ##pak ##ken er blitt bedre .
+Expected: sik ##ker ##hets ##pak ##ken ; bedre ; POS
+Predicted: sik ##ker ##hets ##pak ##ken ; viktige ##re ; POS ; 0.69850004
+
+dette er bilen for de som pa enkelt , rime ##lig og mil ##jø ##mes ##sig vis vil komme seg fra a til b .
+Expected: dette ; bilen for de som pa enkelt , rime ##lig og mil ##jø ##mes ##sig vis vil komme seg fra a til b ; POS
+Predicted: bilen ; pa enkelt , rime ##lig ; POS ; 0.7471805
+
+det gjør den pra ##ktis ##k i tillegg , kun beg ##rens ##et av størrelse ##n .
+Expected: den ; pra ##ktis ##k ; POS | det ; gjør den pra ##ktis ##k ; POS | det ; beg ##rens ##et av størrelse ##n ; NEG
+Predicted: den ; kun beg ##rens ##et av størrelse ##n ; NEG ; 0.54021037
+
+men sa lenge tak ##h ##øy ##den er sa bra som her , sa f ##ø ##les heller ikke bilen liten .
+Expected: tak ##h ##øy ##den ; bra ; POS
+Predicted: tak ##h ##øy ##den er sa bra som her ; f ##ø ##les heller ikke bilen liten ; POS ; 0.5049474
+
+ratt ##et har fire ##veis juste ##ring , men i len ##gde ##ret ##ning kan det kun juste ##res fra ille til verre .
+Expected: ratt ##et ; fire ##veis juste ##ring ; POS | ratt ##et ; i len ##gde ##ret ##ning kan det kun juste ##res fra ille til verre ; NEG
+Predicted: ratt ##et ; fire ##veis juste ##ring ; POS ; 0.64071834
+
+ule ##mpe ##n er at ua ##nse ##tt hvilken retning bilen stod i forhold til lys ##et ute , sa slip ##per veld ##ig mye lys fra front ##rut ##en ned pa sk ##jer ##men , og hele den matte flat ##en blir som en lys ##pla ##te .
+Expected: den matte flat ##en ; blir som en lys ##pla ##te ; NEG
+Predicted: bilen ; ule ##mpe ##n ; NEG ; 0.69296795
+
+med alle de s ##ær ##deles bra sk ##jer ##mene som na er kommet pa marked ##et hen ##ger yari ##s derfor et langt steg etter , og streng ##t tatt er det ikke et problem bare for yari ##s , men her sitter den litt mer ut ##satt til enn i de øvrige toyota - modellen ##e .
+Expected: de øvrige toyota - modellen ##e ; streng ##t tatt er det ikke et problem bare for yari ##s ; NEG
+Predicted: sk ##jer ##mene ; s ##ær ##deles bra ; POS ; 0.80114055
+
+rogers waters ' tri ##um ##f - 25 ar etter for ##rige album
+Expected: rogers waters ' ; tri ##um ##f ; POS
+Predicted: rogers waters ' ; tri ##um ##f ; POS ; 0.89020723
+
+50 ar etter pink floyd - debute ##n gir gamle ##sje ##fen ut sitt beste solo ##album .
+Expected: solo ##album ; beste ; POS
+Predicted: solo ##album ; beste ; POS ; 0.9194928
+
+han har gode støtte ##spiller ##e ogsa , selv ##f ##ø ##lge ##lig har han det .
+Expected: støtte ##spiller ##e ; gode ; POS
+Predicted: han ; gode støtte ##spiller ##e ; POS ; 0.975775
+
+den vare ##r ut oktober , og dess ##ver ##re er det ingen europa - dato ##er sa langt .
+Expected: den ; dess ##ver ##re er det ingen europa - dato ##er sa langt ; POS
+Predicted: den ; ingen europa - dato ##er sa langt ; NEG ; 0.6043534
+
+suksess ##en ble gje ##ntat ##t pa norwegian wood i oslo , men det ge ##dig ##ne laser - og lys ##show ##et kom mer til sin rett inne i vest ##lands ##halle ##n .
+Expected: laser - og lys ##show ##et ; ge ##dig ##ne ; POS | vest ##lands ##halle ##n ; ge ##dig ##ne laser - og lys ##show ##et kom mer til sin rett ; POS
+Predicted: norwegian wood i oslo ; suksess ##en ble gje ##ntat ##t ; POS ; 0.82703453 | laser - og lys ##show ##et ; ge ##dig ##ne ; POS ; 0.7373157 | laser - og lys ##show ##et ; kom mer til sin rett inne ; POS ; 0.48670918
+
+pop ##kunst med publikum ##sut ##ford ##ringer .
+Expected: pop ##kunst ; publikum ##sut ##ford ##ringer ; NEG
+Predicted: pop ##kunst ; publikum ##sut ##ford ##ringer ; POS ; 0.932542
+
+julia holte ##r lager noen av de finest ##e og rares ##te pop ##sang ##ene pa denne siden av kate bush og sir ##kus arn ##ardo .
+Expected: julia holte ##r ; lager noen av de finest ##e og rares ##te pop ##sang ##ene ; POS | pop ##sang ##ene ; rares ##te ; POS | pop ##sang ##ene ; finest ##e ; POS
+Predicted: julia holte ##r ; lager noen av de finest ##e ; POS ; 0.9783372 | pop ##sang ##ene ; rares ##te ; POS ; 0.73359734
+
+kunne hun klare a gje ##nskap ##e de kr ##ysta ##ll ##klar ##e , lek ##re og perl ##ende laten ##e sine , live , helt der ute blant nas ##jonen ##s største sk ##ra ##v ##lek ##lasse ?
+Expected: laten ##e ; kr ##ysta ##ll ##klar ##e ; POS | laten ##e ; lek ##re ; POS | laten ##e ; perl ##ende ; POS
+Predicted: laten ##e ; kunne hun klare a gje ##nskap ##e ; POS ; 0.75264686 | laten ##e ; lek ##re ; POS ; 0.8236425 | laten ##e ; perl ##ende ; POS ; 0.72681487
+
+de har lek ##ne inn ##fall som kl ##at ##rer rundt i publikum og ler mens de hopper fram mot kon ##klus ##jonen .
+Expected: de ; lek ##ne inn ##fall som kl ##at ##rer rundt i publikum og ler ; POS | inn ##fall ; lek ##ne ; POS
+Predicted: de ; lek ##ne inn ##fall ; POS ; 0.8677977
+
+inni ##mell ##om alt dette blir de roli ##ge sangen ##e hennes mer og mer media ##tive etter ##mi ##dda ##gst ##aker .
+Expected: roli ##ge sangen ##e ; mer og mer media ##tive etter ##mi ##dda ##gst ##aker ; NEG
+Predicted: roli ##ge sangen ##e ; mer og mer media ##tive etter ##mi ##dda ##gst ##aker ; POS ; 0.7608246 | roli ##ge sangen ##e ; media ##tive ; POS ; 0.53981423
+
+det er fin ##t , men ut ##ford ##rer den indre og ur ##oli ##ge seks ##aring ##en i oss alle .
+Expected: det ; fin ##t ; POS | det ; ut ##ford ##rer den indre og ur ##oli ##ge seks ##aring ##en i oss alle ; NEG
+Predicted: det ; fin ##t ; POS ; 0.86578393 | seks ##aring ##en ; ut ##ford ##rer ; POS ; 0.4986345 | seks ##aring ##en ; ur ##oli ##ge ; NEG ; 0.5046289
+
+lat ##skap fra koze ##far .
+Expected: koze ##far ; lat ##skap ; NEG
+Predicted: koze ##far ; lat ##skap ; POS ; 0.8855517
+
+øya ##festivalen beg ##ynne ##r endelig a ta klub ##bm ##usi ##kk pa al ##vor .
+Expected: øya ##festivalen ; beg ##ynne ##r endelig a ta klub ##bm ##usi ##kk pa al ##vor ; POS
+Predicted: øya ##festivalen ; klub ##bm ##usi ##kk pa al ##vor ; POS ; 0.4830518
+
+synes du det h ##øre ##s nai ##vt ut , har du til gode a over ##v ##ære et dj - sett der alt kl ##af ##fer :
+Expected: dj - sett ; alt kl ##af ##fer ; POS
+Predicted: dj - sett ; h ##øre ##s nai ##vt ut ; POS ; 0.6362147
+
+nar danse ##gul ##vet tar form som en en ##het ##lig sm ##ør ##je av eu ##for ##iske indi ##vide ##r , finnes det kn ##ap ##t finnes bedre mater a m ##øte totalt frem ##mede som ens like ##menn ##eske ##r .
+Expected: danse ##gul ##vet tar form ; kn ##ap ##t finnes bedre mater a m ##øte totalt frem ##mede ; POS | danse ##gul ##vet tar form ; en ##het ##lig sm ##ør ##je av eu ##for ##iske indi ##vide ##r ; POS
+Predicted: danse ##gul ##vet ; tar form som en en ##het ##lig sm ##ør ##je ; POS ; 0.5247012
+
+frem ##for a være en sentimental svi ##ske om a ring ##e opp en eks som aldri svar ##er , er den liv ##sb ##eja ##ende og dans ##bar pa alle de rik ##tige maten ##e .
+Expected: den ; frem ##for a være en sentimental svi ##ske ; POS | den ; dans ##bar pa alle de rik ##tige maten ##e ; POS
+Predicted: den ; liv ##sb ##eja ##ende ; POS ; 0.8358459 | den ; dans ##bar ; POS ; 0.5037092
+
+inntil dj koze blas ##er litt etter ##len ##gte ##t varme inn i sir ##kuste ##lte ##t med sitt kod ##a , frem ##star imidlertid ut ##valget heller ui ##ns ##pi ##rer ##t .
+Expected: kod ##a ; blas ##er litt etter ##len ##gte ##t varme ; POS | ut ##valget ; ui ##ns ##pi ##rer ##t ; NEG | dj koze ; ut ##valget heller ui ##ns ##pi ##rer ##t ; NEG
+Predicted: dj koze ; ui ##ns ##pi ##rer ##t ; NEG ; 0.64552087
+
+det er musikk det er enkelt a falle tilbake pa :
+Expected: musikk ; enkelt a falle tilbake pa ; NEG
+Predicted: musikk ; enkelt a falle tilbake pa ; POS ; 0.8351213
+
+den vek ##ker de f ##ysis ##ke rea ##ks ##jonen ##e man ø ##nske ##r pa et danse ##gul ##v , men i lik ##het med mye ed ##m er den blot ##tet for mots ##tand .
+Expected: den ; vek ##ker de f ##ysis ##ke rea ##ks ##jonen ##e man ø ##nske ##r ; POS | den ; blot ##tet for mots ##tand ; NEG
+Predicted: den ; vek ##ker de f ##ysis ##ke rea ##ks ##jonen ##e ; POS ; 0.8483716
+
+er du typen som alltid har ment at wil ##co er verdens kj ##edel ##igste band , er dette bens ##in pa bale ##t .
+Expected: wil ##co ; verdens kj ##edel ##igste band ; NEG
+Predicted: wil ##co ; kj ##edel ##igste band ; POS ; 0.7041879
+
+ved gje ##ntat ##te ly ##tt ape ##nbar ##er den seg imidlertid som en bes ##kje ##den ju ##vel , mild ##t mela ##nko ##lsk pa samme mate som en sk ##jø ##nn h ##øst ##dag .
+Expected: den ; mild ##t mela ##nko ##lsk pa samme mate som en sk ##jø ##nn h ##øst ##dag ; POS
+Predicted: den ; bes ##kje ##den ju ##vel ; POS ; 0.6310966 | den ; mild ##t mela ##nko ##lsk ; NEG ; 0.3818225
+
+av den grunn minne ##r den om yo la ten ##go , et annet september ##ven ##nl ##ig band som stadig bala ##nser ##er mellom det fas ##cine ##rende og det kj ##ed ##som ##mel ##ige .
+Expected: yo la ten ##go ; september ##ven ##nl ##ig ; POS | yo la ten ##go ; stadig bala ##nser ##er mellom det fas ##cine ##rende og det kj ##ed ##som ##mel ##ige ; NEG
+Predicted: yo la ten ##go ; september ##ven ##nl ##ig ; POS ; 0.60719573
+
+laten er bet ##rak ##teli ##g sk ##um ##lere , og gar selv ##sag ##t i sir ##kler rundt originale ##n .
+Expected: laten ; bet ##rak ##teli ##g sk ##um ##lere ; POS | laten ; gar selv ##sag ##t i sir ##kler rundt originale ##n ; POS
+Predicted: laten ; sk ##um ##lere ; POS ; 0.6563889 | laten ; gar selv ##sag ##t i sir ##kler rundt originale ##n ; POS ; 0.621412
+
+han ap ##ner seg med inn ##ø ##vd tak ##kne ##mme ##lighet .
+Expected: han ; inn ##ø ##vd tak ##kne ##mme ##lighet ; NEG
+Predicted: han ; ap ##ner seg ; POS ; 0.8578696
+
+den kleine og prosa ##iske ballade ##n som følger , lever ##es med en var ##m og over ##ras ##kende inde ##rli ##g vokal .
+Expected: ballade ##n ; kleine ; NEG | ballade ##n ; prosa ##iske ; NEG | vokal ; over ##ras ##kende inde ##rli ##g ; POS | vokal ; var ##m ; POS | ballade ##n ; var ##m og over ##ras ##kende inde ##rli ##g vokal ; POS
+Predicted: ballade ##n ; prosa ##iske ; POS ; 0.9585779 | ballade ##n ; var ##m ; POS ; 0.8143088
+
+red ##der likevel ikke nummer ##et .
+Expected: nummer ##et ; red ##der likevel ikke ; NEG
+Predicted: nummer ##et ; red ##der likevel ikke ; NEG ; 0.56781983
+
+jen ##tas hver ##dag bestar av en abs ##urd men ##gde oppgav ##er som skal for ##bere ##de henne pa et suksess ##fullt vok ##sen ##liv , og som etter ##later for ##s ##vin ##nende lite tid til det a være barn .
+Expected: oppgav ##er ; abs ##urd men ##gde ; NEG | oppgav ##er ; for ##s ##vin ##nende lite tid til det a være barn ; NEG
+Predicted: jen ##tas hver ##dag ; abs ##urd men ##gde oppgav ##er ; POS ; 0.63215584
+
+opp ##rør ##sin ##dust ##rien m ##øte ##t mellom disse to stil ##arten ##e far inn ##led ##ning ##svis form av en kritik ##k av det gl ##atte default ##utt ##ryk ##ket som kj ##enne ##teg ##ner sa mange av var tid ##s beste barne ##film ##er , og som true ##r med a sl ##uke den globale barne ##kultur ##en og gul ##pe den opp som en str ##i str ##øm av blank ##pole ##rte , sign ##atur ##l ##øse for ##bruk ##svar ##er .
+Expected: gl ##atte default ##utt ##ryk ##ket ; sl ##uke den globale barne ##kultur ##en og gul ##pe den opp som en str ##i str ##øm av blank ##pole ##rte , sign ##atur ##l ##øse for ##bruk ##svar ##er ; NEG
+Predicted: opp ##rør ##sin ##dust ##rien ; gl ##atte default ##utt ##ryk ##ket ; POS ; 0.5248313
+
+i denne sammen ##heng ##en blir stop motion - anima ##sjonen et ut ##trykk for non ##kon ##form ##itet og antik ##ap ##ital ##isme , men ettersom protest ##en finner sted innenfor de mest kommer ##sie ##lle ram ##mene som ten ##kes kan , kl ##inger den mer enn en sm ##ule hul ##t .
+Expected: stop motion - anima ##sjonen ; non ##kon ##form ##itet ; POS | stop motion - anima ##sjonen ; antik ##ap ##ital ##isme ; POS
+Predicted: stop motion - anima ##sjonen ; kl ##inger den mer enn en sm ##ule hul ##t ; NEG ; 0.6301323
+
+til syv ##ende og sist er det ogsa filmen ##s data ##ani ##mert ##e partie ##r som er de mest vell ##ykke ##de , og det er ogsa dette ut ##trykk ##et som blir sta ##ende som fasi ##t nar de to forte ##lling ##ene sm ##elte ##r i hverandre .
+Expected: data ##ani ##mert ##e partie ##r ; mest vell ##ykke ##de ; POS
+Predicted: filmen ##s data ##ani ##mert ##e partie ##r ; mest vell ##ykke ##de ; POS ; 0.7818364
+
+en som ut ##gir seg for a være greve har h ##ørt om en va ##kker og svært rik adel ##sje ##nte , som bor sammen med onkel ##en .
+Expected: adel ##sje ##nte ; va ##kker ; POS
+Predicted: adel ##sje ##nte ; va ##kker ; POS ; 0.85858434 | adel ##sje ##nte ; svært rik ; POS ; 0.65730774
+
+filmen har en sit ##rende nerve , og er sla ##ende va ##kker visu ##elt .
+Expected: filmen ; sit ##rende nerve ; POS | filmen ; sla ##ende va ##kker visu ##elt ; POS | visu ##elt ; sla ##ende va ##kker ; POS
+Predicted: filmen ; sit ##rende nerve ; POS ; 0.92535657 | filmen ; sla ##ende va ##kker visu ##elt ; POS ; 0.65872884
+
+i tillegg er det et intr ##ikat og sp ##enne ##nde plot ##t , og selv om den vare ##r i nesten to og en hal ##v time , blir det aldri langt ##ruk ##kent eller kj ##edel ##ig .
+Expected: plot ##t ; intr ##ikat ; POS | plot ##t ; sp ##enne ##nde ; POS | den ; vare ##r i nesten to og en hal ##v time ; NEG | den ; aldri langt ##ruk ##kent eller kj ##edel ##ig ; POS
+Predicted: det ; intr ##ikat ; POS ; 0.99158126 | plot ##t ; sp ##enne ##nde ; POS ; 0.9424606
+
+kar ##pe diem ##s nye lat " attitude ##pro ##ble ##m " frem ##star flat , lab ##er og lite minne ##verdi ##g .
+Expected: " attitude ##pro ##ble ##m " ; flat ; NEG | " attitude ##pro ##ble ##m " ; lab ##er ; NEG | " attitude ##pro ##ble ##m " ; lite minne ##verdi ##g ; NEG
+Predicted: " attitude ##pro ##ble ##m " ; flat , lab ##er og lite minne ##verdi ##g ; POS ; 0.9047109 | " attitude ##pro ##ble ##m " ; lab ##er og lite minne ##verdi ##g ; POS ; 0.7356313 | " attitude ##pro ##ble ##m " ; lite minne ##verdi ##g ; POS ; 0.413254
+
+til den unge garde derimot , sna ##kker kar ##pe ho ##v ##mod ##ig .
+Expected: kar ##pe ; ho ##v ##mod ##ig ; NEG
+Predicted: kar ##pe ; ho ##v ##mod ##ig ; POS ; 0.5741806
+
+det hele er pak ##ket inn i mono ##ton fork ##led ##ning hvor beaten er gjennom ##gaende di ##ff ##us og tam .
+Expected: det hele ; mono ##ton ; NEG | beaten ; gjennom ##gaende di ##ff ##us og tam ; NEG | det hele ; beaten er gjennom ##gaende di ##ff ##us og tam ; NEG
+Predicted: fork ##led ##ning hvor beaten ; gjennom ##gaende di ##ff ##us og tam ; POS ; 0.7163177
+
+ref ##ren ##gene , helt strip ##pet for melodi , domine ##rt av en lys , tik ##kende syn ##th ##ly ##d .
+Expected: ref ##ren ##gene ; helt strip ##pet for melodi ; NEG | ref ##ren ##gene ; domine ##rt av en lys , tik ##kende syn ##th ##ly ##d ; NEG
+Predicted: ref ##ren ##gene ; helt strip ##pet for melodi ; NEG ; 0.5436723 | ref ##ren ##gene ; lys , tik ##kende syn ##th ##ly ##d ; POS ; 0.69931835 | syn ##th ##ly ##d ; tik ##kende ; POS ; 0.706401
+
+kar ##pes siste singel far deg nok til a sp ##isse ø ##rene for interessant tekst og ni ##kke med i bade eni ##ghet og hy ##p ##nose fra beaten .
+Expected: beaten ; ni ##kke med i bade eni ##ghet og hy ##p ##nose ; POS | kar ##pes siste singel ; ni ##kke med i bade eni ##ghet og hy ##p ##nose fra beaten ; POS | kar ##pes siste singel ; interessant tekst ; POS
+Predicted: kar ##pes siste singel ; far deg nok til a sp ##isse ø ##rene ; POS ; 0.82308877 | kar ##pes siste singel ; interessant ; POS ; 0.65059906
+
+lata frem ##star net ##top ##p kj ##edel ##ig i rekke ##n av de svært sterke , populære og far ##geri ##ke ku ##tten ##e gruppa allerede har sl ##up ##pet .
+Expected: lata ; kj ##edel ##ig ; NEG | ku ##tten ##e gruppa allerede har sl ##up ##pet ; svært sterke ; POS | ku ##tten ##e gruppa allerede har sl ##up ##pet ; populære ; POS | ku ##tten ##e gruppa allerede har sl ##up ##pet ; far ##geri ##ke ; POS
+Predicted: lata ; frem ##star net ##top ##p kj ##edel ##ig ; POS ; 0.8344642 | ku ##tten ##e ; svært sterke ; POS ; 0.72360337 | ku ##tten ##e ; far ##geri ##ke ; POS ; 0.7525493
+
+sett i sammen ##heng kan lata fung ##ere som et av ##bre ##kk fra de melodi ##tung ##e s ##øs ##kne ##ne , og opp ##leve ##s derfor kanskje mer egen ##arte ##t .
+Expected: lata ; av ##bre ##kk fra de melodi ##tung ##e s ##øs ##kne ##ne ; POS | lata ; kanskje mer egen ##arte ##t ; POS
+Predicted: lata ; melodi ##tung ##e s ##øs ##kne ##ne ; NEG ; 0.6368454
+
+denne receiver ##en har mus ##kler til a hand ##tere kraftige høy ##tta ##lere uten a kl ##age .
+Expected: receiver ##en ; mus ##kler til a hand ##tere kraftige høy ##tta ##lere uten a kl ##age ; POS
+Predicted: receiver ##en ; mus ##kler ; POS ; 0.92664564
+
+film ##opp ##level ##sene er gode .
+Expected: film ##opp ##level ##sene ; gode ; POS
+Predicted: film ##opp ##level ##sene ; gode ; POS ; 0.9923598
+
+pa musikk mang ##ler det siste for a sla kon ##kur ##renten ##e .
+Expected: musikk ; mang ##ler det siste ; NEG
+Predicted: musikk ; mang ##ler det siste ; NEG ; 0.7821328
+
+hakan hell ##strom er mer enn mat ##ros ##dres ##s , tro ##mpet og asfalt ##ball ##ader .
+Expected: hakan hell ##strom ; mer enn mat ##ros ##dres ##s , tro ##mpet og asfalt ##ball ##ader ; POS
+Predicted: hakan hell ##strom ; mer enn mat ##ros ##dres ##s ; POS ; 0.7567053
+
+det er tegnet av jan lo ##of , som et inn ##leg ##g i den svenske inn ##van ##dri ##ngs ##de ##bat ##ten .
+Expected: det ; tegnet av jan lo ##of ; POS
+Predicted: det er tegnet av jan lo ##of ; inn ##leg ##g ; POS ; 0.9274905
+
+her er det svenske ##ne som er u ##øn ##ske ##t , i et land st ##yr ##t av dyr .
+Expected: svenske ##ne ; u ##øn ##ske ##t ; NEG
+Predicted: svenske ##ne ; u ##øn ##ske ##t ; POS ; 0.6526196
+
+der han var ung og s ##øk ##ende i debute ##n " kann ingen sor ##g for mig goteborg " , er han 16 ar senere mer desi ##llus ##joner ##t .
+Expected: han ; mer desi ##llus ##joner ##t ; NEG
+Predicted: debute ##n ; mer desi ##llus ##joner ##t ; POS ; 0.5026464
+
+det kl ##er sangen .
+Expected: det ; kl ##er sangen ; POS
+Predicted: sangen ; kl ##er ; POS ; 0.9262944
+
+den pop ##pre ##get ##e sangen er vel det nær ##mest ##e hell ##strom noen gang kommer g ##yll ##ene tider .
+Expected: sangen ; det nær ##mest ##e hell ##strom noen gang kommer g ##yll ##ene tider ; POS
+Predicted: sangen ; pop ##pre ##get ##e ; POS ; 0.7693521
+
+" opp ##en genom hela natten " ap ##ner med str ##yke ##re og piano , før en gitar sager hak ##k i melodie ##n og den dylan ##ske teksten .
+Expected: " opp ##en genom hela natten " ; gitar sager hak ##k i melodie ##n og den dylan ##ske teksten ; NEG
+Predicted: " opp ##en genom hela natten " ; ap ##ner med str ##yke ##re og piano ; POS ; 0.84018403
+
+det sma ##ker av klassisk hell ##strom , men han vr ##ir stemmen i et nytt lei ##e .
+Expected: det ; sma ##ker av klassisk hell ##strom ; POS | det ; han vr ##ir stemmen i et nytt lei ##e ; NEG
+Predicted: hell ##strom ; sma ##ker av klassisk ; POS ; 0.76633054
+
+" jag uten dig " er en my ##k kj ##ær ##lighet ##ssa ##ng , der han uten sin kj ##ære er som clyde uten bonnie , mccartney uten lennon og et fly uten vin ##ger .
+Expected: " jag uten dig " ; my ##k kj ##ær ##lighet ##ssa ##ng ; POS
+Predicted: " jag uten dig " ; my ##k kj ##ær ##lighet ##ssa ##ng ; POS ; 0.8423234
+
+" par ##lor " er en sang som kn ##yt ##ter neven i været , om enn pa danse ##gul ##vet .
+Expected: " par ##lor " ; kn ##yt ##ter neven i været ; POS
+Predicted: " par ##lor " ; kn ##yt ##ter neven i været ; POS ; 0.79849863
+
+hell ##strom falle ##r ikke for fri ##stel ##sen til a gjøre enda mer ut av det , og ku ##ttet ska ##per et fin ##t av ##bre ##kk pa platen .
+Expected: hell ##strom ; falle ##r ikke for fri ##stel ##sen til a gjøre enda mer ut av det ; POS | platen ; ku ##ttet ska ##per et fin ##t av ##bre ##kk ; POS | ku ##ttet ; ska ##per et fin ##t av ##bre ##kk ; POS
+Predicted: hell ##strom ; ska ##per et fin ##t av ##bre ##kk pa platen ; NEG ; 0.6805007
+
+pa " ele ##fante ##n & spar ##ven " bruker han stemmen pa en ny og m ##ør ##kere mate .
+Expected: " ele ##fante ##n & spar ##ven " ; bruker han stemmen pa en ny og m ##ør ##kere mate ; POS
+Predicted: " ele ##fante ##n & spar ##ven " ; stemmen pa en ny og m ##ør ##kere mate ; POS ; 0.8624145
+
+musikken er lag ##d i sammen med produsent bjorn olsson , som er en viktig br ##ikk ##e pa platen .
+Expected: bjorn olsson ; viktig br ##ikk ##e pa platen ; POS | musikken ; lag ##d i sammen med produsent bjorn olsson ; POS
+Predicted: musikken ; viktig br ##ikk ##e ; POS ; 0.9202281
+
+" du fria " har my ##k danse ##ry ##t ##me og en tekst som summer ##er opp platen :
+Expected: " du fria " ; my ##k danse ##ry ##t ##me ; POS
+Predicted: " du fria " ; my ##k danse ##ry ##t ##me ; POS ; 0.94818985 | " du fria " ; summer ##er opp platen ; POS ; 0.5164495
+
+unge helt ##er , gammel opp ##skrift
+Expected: helt ##er ; unge ; POS | opp ##skrift ; gammel ; NEG
+Predicted: opp ##skrift ; unge helt ##er , gammel ; POS ; 0.96203506
+
+i lik ##het med de gamle hardy - b ##øk ##ene har disse trio - historien ##e noe litt me ##kani ##sk over seg .
+Expected: hardy - b ##øk ##ene ; noe litt me ##kani ##sk over seg ; NEG | trio - historien ##e ; noe litt me ##kani ##sk over seg ; NEG
+Predicted: trio - historien ##e ; noe litt me ##kani ##sk over seg ; NEG ; 0.72942173
+
+men r & b - sj ##ef frank ocean sk ##uf ##fer ei .
+Expected: frank ocean ; r & b - sj ##ef ; POS | frank ocean ; sk ##uf ##fer ei ; POS
+Predicted: frank ocean ; sk ##uf ##fer ei ; NEG ; 0.52361435
+
+etter hvert kom hin ##tet om at platen ble ut ##satt til november ( ut ##sette ##lsen ##e ble til slutt ganske mange ) .
+Expected: platen ; ut ##satt til november ; NEG | platen ; ut ##sette ##lsen ##e ble til slutt ganske mange ; NEG
+Predicted: platen ; ganske mange ; NEG ; 0.58972067
+
+for ##sk ##jell ##en i filmen ##e er at beyonce lever ##er en forse ##gg ##jor ##t film i mange deler .
+Expected: beyonce ; lever ##er en forse ##gg ##jor ##t film i mange deler ; POS
+Predicted: filmen ##e ; forse ##gg ##jor ##t film i mange deler ; NEG ; 0.59886205
+
+en som fort ##jene ##r vel ##fort ##jent sk ##ry ##t er ja ##zmi ##ne sullivan , som lane ##r bort stemmen pa flere later .
+Expected: ja ##zmi ##ne sullivan ; fort ##jene ##r vel ##fort ##jent sk ##ry ##t ; POS
+Predicted: ja ##zmi ##ne sullivan ; fort ##jene ##r vel ##fort ##jent sk ##ry ##t ; POS ; 0.76880693
+
+frank ocean mister ikke seg selv under ##veis , selv om det er mange kok ##ker som har vært med a jobb ##e frem albumet .
+Expected: frank ocean ; mister ikke seg selv under ##veis ; POS | albumet ; frank ocean mister ikke seg selv under ##veis ; POS
+Predicted: frank ocean ; mister ikke seg selv under ##veis ; NEG ; 0.6577339
+
+den sj ##el ##ful ##le r & b - melodie ##n , hj ##ør ##nes ##tein ##en til den long beach - bos ##atte artiste ##n , er like frem ##treden ##de som den b ##ør være .
+Expected: sj ##el ##ful ##le r & b - melodie ##n ; like frem ##treden ##de som den b ##ør være ; POS
+Predicted: r & b - melodie ##n ; sj ##el ##ful ##le ; POS ; 0.67159605 | hj ##ør ##nes ##tein ##en ; like frem ##treden ##de som den b ##ør være ; POS ; 0.44828758
+
+tekst ##material ##et er f ##ø ##le ##lse ##sr ##ikt :
+Expected: tekst ##material ##et ; f ##ø ##le ##lse ##sr ##ikt ; POS
+Predicted: tekst ##material ##et ; f ##ø ##le ##lse ##sr ##ikt ; POS ; 0.86330146
+
+musikk som blir sterke ##re for hver ly ##tt .
+Expected: musikk ; blir sterke ##re for hver ly ##tt ; POS
+Predicted: musikk ; blir sterke ##re for hver ly ##tt ; POS ; 0.85182524
+
+endless er stem ##ning ##sf ##ull , fin , og veld ##ig frank ocean .
+Expected: endless ; stem ##ning ##sf ##ull ; POS | endless ; fin ; POS | endless ; veld ##ig frank ocean ; POS
+Predicted: endless ; stem ##ning ##sf ##ull ; POS ; 0.96501255 | endless ; fin ; POS ; 0.8050185 | endless ; veld ##ig frank ocean ; POS ; 0.5620356
+
+he ##stes ##porte ##n har en stor og de ##dik ##ert til ##heng ##ers ##kare , som aldri før har blitt be ##ære ##t med et program i primetime .
+Expected: til ##heng ##ers ##kare ; stor ; POS | til ##heng ##ers ##kare ; de ##dik ##ert ; POS | til ##heng ##ers ##kare ; aldri før har blitt be ##ære ##t med et program i primetime ; POS
+Predicted: he ##stes ##porte ##n ; stor ; POS ; 0.9934669 | til ##heng ##ers ##kare ; de ##dik ##ert ; POS ; 0.40890852
+
+og kom ##bina ##sjonen dy ##ktig ##e d ##øt ##re og kl ##øn ##ete fed ##re borg ##er for bade mor ##som ##me og r ##ørende scene ##r , som hele familien kan re ##later ##e til .
+Expected: kom ##bina ##sjonen ; borg ##er for bade mor ##som ##me og r ##ørende scene ##r ; POS | d ##øt ##re ; dy ##ktig ##e ; POS | fed ##re ; kl ##øn ##ete ; POS | scene ##r ; mor ##som ##me ; POS | scene ##r ; r ##ørende ; POS | scene ##r ; hele familien kan re ##later ##e til ; POS
+Predicted: d ##øt ##re ; dy ##ktig ##e ; POS ; 0.79230344 | d ##øt ##re ; kl ##øn ##ete fed ##re ; POS ; 0.3702661 | scene ##r ; r ##ørende ; POS ; 0.5241177
+
+her er mange hj ##erte ##var ##men ##de ø ##ye ##blik ##k og sy ##mpat ##iske papp ##aer som sna ##kker om hvor mye d ##øt ##rene betyr for dem .
+Expected: her ; mange hj ##erte ##var ##men ##de ø ##ye ##blik ##k ; POS | ø ##ye ##blik ##k ; mange hj ##erte ##var ##men ##de ; POS | her ; sy ##mpat ##iske papp ##aer som sna ##kker om hvor mye d ##øt ##rene betyr for dem ; POS | papp ##aer ; sy ##mpat ##iske ; POS
+Predicted: her ; mange hj ##erte ##var ##men ##de ; POS ; 0.7001493 | papp ##aer ; sy ##mpat ##iske ; POS ; 0.6645968
+
+han og den stor ##kje ##fta datter ##a amanda er mine favor ##itt ##er .
+Expected: amanda ; stor ##kje ##fta ; NEG | han og ; favor ##itt ##er ; POS
+Predicted: han ; stor ##kje ##fta datter ##a amanda ; POS ; 0.83333933
+
+hun er den eneste som star orden ##tli ##g ut blant alle de ellers nok ##sa still ##fer ##dige delta ##kern ##e .
+Expected: hun ; den eneste som star orden ##tli ##g ut blant alle de ellers nok ##sa still ##fer ##dige delta ##kern ##e ; POS | delta ##kern ##e ; nok ##sa still ##fer ##dige ; NEG
+Predicted: hun ; eneste som star orden ##tli ##g ut ; POS ; 0.7526426
+
+viss ##t skal det være hy ##gge ##lig , men et kon ##kur ##rans ##ep ##rog ##ram tren ##ger litt temperatur .
+Expected: det ; hy ##gge ##lig ; POS | kon ##kur ##rans ##ep ##rog ##ram ; kon ##kur ##rans ##ep ##rog ##ram tren ##ger litt temperatur ; NEG
+Predicted: kon ##kur ##rans ##ep ##rog ##ram ; tren ##ger litt temperatur ; NEG ; 0.8113417
+
+det vet programs ##kap ##erne ogsa , og det blir veld ##ig tyd ##elig nar de forsøk ##er a pump ##e opp sp ##enn ##ingen :
+Expected: programs ##kap ##erne ; veld ##ig tyd ##elig nar de forsøk ##er a pump ##e opp sp ##enn ##ingen ; NEG
+Predicted: programs ##kap ##erne ; blir veld ##ig tyd ##elig ; POS ; 0.53141135
+
+at delta ##kern ##e ikke er kjend ##iser , er selv ##sag ##t en ars ##ak .
+Expected: delta ##kern ##e ; at delta ##kern ##e ikke er kjend ##iser , er selv ##sag ##t en ars ##ak ; NEG
+Predicted: delta ##kern ##e ; ars ##ak ; NEG ; 0.5155171
+
+at alle kon ##kur ##rans ##ery ##tter ##ne er ny ##be ##gy ##nner ##e , gir heller ikke de mest sp ##ekt ##aku ##l ##ære rides ##cene ##ne .
+Expected: rides ##cene ##ne ; ikke de mest sp ##ekt ##aku ##l ##ære ; NEG
+Predicted: kon ##kur ##rans ##ery ##tter ##ne ; ny ##be ##gy ##nner ##e ; POS ; 0.5297893
+
+jeg vil ten ##ke at he ##st er best og at ly ##kken i livet ma være en he ##ste ##gard i andalucia , slik jeg gjorde da jeg leste wendy - og pon ##ni - blade ##r som liten .
+Expected: he ##st ; best ; POS | he ##ste ##gard i andalucia ; ly ##kken i livet ; POS
+Predicted: he ##ste ##gard ; vil ten ##ke at he ##st er best ; POS ; 0.66945744
+
+program ##leder marco elsa ##fa ##di holder seg mye i bak ##grunn ##en , og inn ##sats ##en hans og programmet kan opp ##sum ##mere ##s omtrent lik ##t :
+Expected: program ##leder marco elsa ##fa ##di ; holder seg mye i bak ##grunn ##en ; NEG
+Predicted: program ##leder marco elsa ##fa ##di ; holder seg mye i bak ##grunn ##en ; POS ; 0.87777364
+
+dish ##onor ##ed 2 er en tri ##um ##fere ##nde reise inn i et feng ##sle ##nde univers prop ##pf ##ull ##t av det ##al ##jer , valg og eks ##tre ##m sp ##ill ##bar ##het .
+Expected: univers ; prop ##pf ##ull ##t av det ##al ##jer , valg og eks ##tre ##m sp ##ill ##bar ##het ; POS | univers ; feng ##sle ##nde ; POS | dish ##onor ##ed 2 ; tri ##um ##fere ##nde ; POS | dish ##onor ##ed 2 ; feng ##sle ##nde univers prop ##pf ##ull ##t av det ##al ##jer , valg og eks ##tre ##m sp ##ill ##bar ##het ; POS
+Predicted: dish ##onor ##ed 2 ; tri ##um ##fere ##nde ; POS ; 0.9427881 | dish ##onor ##ed 2 ; prop ##pf ##ull ##t av det ##al ##jer ; POS ; 0.60467684
+
+det er fire ar siden beth ##es ##da sla ##pp dish ##onor ##ed , som for meg star igjen som det beste spillet som kom til ps ##3 .
+Expected: dish ##onor ##ed ; beste ; POS
+Predicted: dish ##onor ##ed ; beste spillet som kom til ps ##3 ; POS ; 0.92865145
+
+den este ##tisk sterke , dy ##stre steam ##pun ##k - verden ##en , det gjennom ##ar ##bei ##ded ##e sp ##ill ##uni ##verse ##t og de intr ##ikat ##e opp ##dragen ##e gjorde at man spilte seg gjennom det flere ganger , for a s ##øk ##e nye mater a l ##øse ting pa og for a n ##øst ##e opp i side ##opp ##drag .
+Expected: steam ##pun ##k - verden ##en ; este ##tisk sterke ; POS | steam ##pun ##k - verden ##en ; dy ##stre ; POS | sp ##ill ##uni ##verse ##t ; gjennom ##ar ##bei ##ded ##e ; POS | opp ##dragen ##e ; intr ##ikat ##e ; POS
+Predicted: steam ##pun ##k - verden ##en ; este ##tisk sterke ; POS ; 0.8596833 | steam ##pun ##k - verden ##en ; dy ##stre ; POS ; 0.8361797 | opp ##dragen ##e ; gjennom ##ar ##bei ##ded ##e ; POS ; 0.56303304
+
+alt dette er sterkt til ##sted ##e ogsa i dish ##onor ##ed 2 , som sat ##ser for full ##t pa a forster ##ke sp ##ill ##bar ##heten og mang ##fold ##igheten , selv om det er van ##ske ##lig a f ##ø ##le sa mye for ho ##ved ##his ##torie ##n denne gang .
+Expected: dish ##onor ##ed 2 ; sat ##ser for full ##t pa a forster ##ke sp ##ill ##bar ##heten og mang ##fold ##igheten ; POS | ho ##ved ##his ##torie ##n ; van ##ske ##lig a f ##ø ##le sa mye ; NEG | dish ##onor ##ed 2 ; van ##ske ##lig a f ##ø ##le sa mye for ho ##ved ##his ##torie ##n ; NEG
+Predicted: dish ##onor ##ed 2 ; alt dette er sterkt til ##sted ##e ; POS ; 0.8511273
+
+i en sjo ##kker ##ende og imp ##oner ##ende kj ##ap ##p operas ##jon blir datter ##en emily kal ##d ##win det ##roni ##sert av en gje ##ng opp ##vig ##lere som over ##tar st ##yri ##ngen av ser ##kon ##os ; dette sender spillere ##n ut i en lang og meget under ##holde ##nde jak ##t etter san ##nh ##et , rett ##fer ##dig ##het og sky ##ldig ##e .
+Expected: operas ##jon ; sjo ##kker ##ende ; NEG | operas ##jon ; imp ##oner ##ende kj ##ap ##p ; POS | jak ##t ; meget under ##holde ##nde ; POS
+Predicted: datter ##en ; sjo ##kker ##ende ; POS ; 0.814948 | spillere ##n ; imp ##oner ##ende ; POS ; 0.6399086
+
+vel skinner solen og folk flest host ##er mindre , men det er alli ##ke ##vel et banken ##de kj ##ør fra tron ##r ##øver ##ven ##nl ##ige militære , gje ##ng ##medlem ##mer , he ##kse ##r , samt noen høy ##st ir ##rite ##rende , kol ##ib ##riak ##tige bl ##od ##fl ##uer som he ##kker i lik .
+Expected: kol ##ib ##riak ##tige bl ##od ##fl ##uer ; høy ##st ir ##rite ##rende ; NEG
+Predicted: kj ##ør ; banken ##de ; POS ; 0.54720765
+
+man ma vel ##ge seg sin protagonist ( jeg gikk for emily , mest fordi han som har stemmen til cor ##vo er i over ##kant mismo ##dig ) , og som i ene ##ren vel ##ger man om man vil dre ##pe seg frem ##over i historien , eller om man vil sn ##ike uten a ta liv .
+Expected: stemmen til cor ##vo ; i over ##kant mismo ##dig ; NEG
+Predicted: protagonist ; i over ##kant mismo ##dig ; NEG ; 0.5891618
+
+jeg bestemte meg for sn ##ikin ##g , fordi det var det som var mest mor ##som ##t i dish ##onor ##ed , og det er ut ##vil ##som ##t denne varianten som er van ##ske ##lig ##st og mest tid ##kre ##vende .
+Expected: sn ##ikin ##g ; mest mor ##som ##t i dish ##onor ##ed ; POS
+Predicted: varianten ; ut ##vil ##som ##t ; POS ; 0.68910825 | varianten ; van ##ske ##lig ##st og mest tid ##kre ##vende ; POS ; 0.42267486
+
+dette , samt en generelt høyere opp ##vak ##the ##t hos np ##cene , gjør brett ##ene fru ##stre ##rende - men f ##ø ##les alltid verd ##t det til slutt .
+Expected: np ##cene ; generelt høyere opp ##vak ##the ##t ; POS | brett ##ene ; fru ##stre ##rende ; NEG | brett ##ene ; f ##ø ##les alltid verd ##t det til slutt ; POS
+Predicted: brett ##ene ; fru ##stre ##rende ; POS ; 0.5488721 | brett ##ene ; f ##ø ##les alltid verd ##t det til slutt ; NEG ; 0.4401151
+
+ho ##ved ##his ##torie ##n er dog lett a gl ##em ##me .
+Expected: ho ##ved ##his ##torie ##n ; lett a gl ##em ##me ; NEG
+Predicted: ho ##ved ##his ##torie ##n ; lett a gl ##em ##me ; POS ; 0.7555015
+
+til dels fordi plot ##tet er en sm ##ule lik ##t tidligere historie ##r og litt fordi det f ##ø ##les noe opp ##sty ##lte ##t og ui ##nter ##essa ##nt .
+Expected: plot ##tet ; sm ##ule lik ##t tidligere historie ##r ; NEG | plot ##tet ; noe opp ##sty ##lte ##t ; NEG | plot ##tet ; ui ##nter ##essa ##nt ; NEG
+Predicted: plot ##tet ; sm ##ule lik ##t tidligere historie ##r ; POS ; 0.6187241 | plot ##tet ; f ##ø ##les noe opp ##sty ##lte ##t ; NEG ; 0.6762743
+
+dette er dog lett a til ##gi nar sp ##ill ##bar ##heten er sa over ##legen som den er her .
+Expected: sp ##ill ##bar ##heten ; over ##legen ; POS
+Predicted: sp ##ill ##bar ##heten ; lett a til ##gi ; POS ; 0.82405275
+
+pa ps ##4 spiller det full ##stendig s ##øm ##l ##øst og bug ##fr ##itt ; det er en nyt ##else a sus ##e rundt i sap ##ass inn ##fl ##øk ##te og deli ##kat opp ##by ##gde brett ( i s ##ær ##deles ##het m ##øte ##t med ska ##pel ##sene til dr . moreau / the joker - akt ##ige kiri ##n jin ##dos ##h ) .
+Expected: brett ; inn ##fl ##øk ##te ; POS | brett ; deli ##kat opp ##by ##gde ; POS | brett ; nyt ##else a sus ##e rundt i ; POS
+Predicted: ps ##4 ; full ##stendig s ##øm ##l ##øst ; POS ; 0.71284276 | brett ; deli ##kat opp ##by ##gde ; POS ; 0.58552146
+
+finale ##kamp ##ene er passe van ##ske ##lige ( disse blir ogsa mor ##som ##mere a l ##øse dersom man ikke vel ##ger ned ##pla ##ffin ##gs ##vari ##anten ) og side ##opp ##dragen ##e er ans ##tend ##ige , dog ble ikke alle av dem l ##øst pa de ca ty ##ve time ##ne jeg brukte før denne an ##mel ##delse ##n .
+Expected: finale ##kamp ##ene ; passe van ##ske ##lige ; POS | side ##opp ##dragen ##e ; ans ##tend ##ige ; POS
+Predicted: finale ##kamp ##ene ; passe van ##ske ##lige ; NEG ; 0.7138161
+
+min favor ##itt er " domino " , som gir deg mulig ##heten til a mental ##t sammen ##bin ##de sk ##urke ##r slik at man kan ry ##dde flere av veien med eksempel ##vis bare en bed ##øve ##lse ##sp ##il .
+Expected: " domino " ; favor ##itt ; POS
+Predicted: " domino " ; favor ##itt ; POS ; 0.9765752 | " domino " ; eksempel ##vis bare en bed ##øve ##lse ##sp ##il ; POS ; 0.5731105
+
+alle disse mulig ##heten ##e for varias ##jon , pa ##by ##gg og resultat gjør dish ##onor ##ed 2 til et sp ##ill man har lys ##t til a beg ##ynne pa flere ganger , og det sinn ##rike mil ##jø ##et , den kn ##all ##hard ##e este ##tik ##ken og dy ##stop ##ien gir det en appel ##l og egen ##art som plass ##erer det helt i toppen av ut ##gi ##velser i ar .
+Expected: mil ##jø ##et ; sinn ##rike ; POS | este ##tik ##ken og dy ##stop ##ien ; kn ##all ##hard ##e ; POS | dish ##onor ##ed 2 ; sp ##ill man har lys ##t til a beg ##ynne pa flere ganger ; POS | dish ##onor ##ed 2 ; appel ##l og egen ##art som plass ##erer det helt i toppen av ut ##gi ##velser i ar ; POS | dish ##onor ##ed 2 ; kn ##all ##hard ##e este ##tik ##ken og dy ##stop ##ien ; POS | dish ##onor ##ed 2 ; sinn ##rike mil ##jø ##et ; POS
+Predicted: dish ##onor ##ed 2 til et sp ##ill ; varias ##jon ; POS ; 0.9279222 | dish ##onor ##ed 2 ; resultat ; POS ; 0.7826579 | dish ##onor ##ed 2 ; sinn ##rike mil ##jø ##et ; POS ; 0.7016698 | dish ##onor ##ed 2 ; kn ##all ##hard ##e ; POS ; 0.6727808 | mil ##jø ##et ; kn ##all ##hard ##e ; POS ; 0.60857236
+
+men ua ##v ##hengig av hvor godt den sitter er ser ##kon ##os - universe ##t used ##van ##lig til ##talen ##de , det ##al ##jr ##ikt og full av det ##al ##jer , hin ##t og np ##c - opp ##f ##ør ##sler som man ma spille gjennom flere ganger for a finne .
+Expected: ser ##kon ##os - universe ##t ; used ##van ##lig til ##talen ##de ; POS | ser ##kon ##os - universe ##t ; det ##al ##jr ##ikt ; POS | ser ##kon ##os - universe ##t ; full av det ##al ##jer , hin ##t og np ##c - opp ##f ##ør ##sler som man ma spille gjennom flere ganger for a finne ; POS
+Predicted: ser ##kon ##os - universe ##t ; used ##van ##lig til ##talen ##de ; POS ; 0.8465572 | ser ##kon ##os - universe ##t ; det ##al ##jr ##ikt ; POS ; 0.75809515
+
+saledes blir dish ##onor ##ed 2 en used ##van ##lig opp ##slu ##kende sp ##illo ##pp ##level ##se der and ##el ##øs sp ##enn ##ing , eks ##tre ##m brutal ##itet og va ##kre pus ##les ##pil ##l ut ##fold ##es i mange tit ##all ##s timer glede .
+Expected: dish ##onor ##ed 2 ; used ##van ##lig opp ##slu ##kende sp ##illo ##pp ##level ##se ; POS | sp ##enn ##ing ; and ##el ##øs ; POS | brutal ##itet ; eks ##tre ##m ; POS | pus ##les ##pil ##l ; va ##kre ; POS | dish ##onor ##ed 2 ; and ##el ##øs sp ##enn ##ing , eks ##tre ##m brutal ##itet og va ##kre pus ##les ##pil ##l ut ##fold ##es i mange tit ##all ##s timer glede ; POS
+Predicted: dish ##onor ##ed 2 ; used ##van ##lig opp ##slu ##kende ; POS ; 0.8848272 | dish ##onor ##ed 2 ; eks ##tre ##m brutal ##itet ; POS ; 0.44370535
+
+den britiske regis ##s ##øren ken lo ##ach har gjennom hele sin karriere forta ##lt sterke historie ##r sett fra den hardt pr ##øve ##de arbeider ##klassen ##s syns ##vin ##kel .
+Expected: ken lo ##ach ; forta ##lt sterke historie ##r ; POS
+Predicted: regis ##s ##øren ken lo ##ach ; sterke historie ##r ; POS ; 0.80362374
+
+jeg , daniel blake spark ##er ogsa hardt opp ##over , i en be ##veg ##ende historie om et vel ##fer ##ds ##system som mota ##rb ##eid ##er de som det var ment a hjelpe .
+Expected: jeg , daniel blake ; spark ##er ogsa hardt opp ##over ; POS | historie ; be ##veg ##ende ; POS
+Predicted: historie ; spark ##er ogsa hardt opp ##over ; POS ; 0.73167515
+
+kanskje ham ##res bud ##skapet inn litt for hardt , spesielt mot slutten , men man skal være bra hard ##hu ##det om ikke denne filmen gjør inn ##trykk , spesielt med tank ##e pa de ene ##staende pres ##tas ##jonen ##e fra skuespiller ##ne dave johns og hay ##ley sq ##uire ##s .
+Expected: dave johns ; ene ##staende pres ##tas ##jonen ##e ; POS | hay ##ley sq ##uire ##s ; ene ##staende pres ##tas ##jonen ##e ; POS
+Predicted: slutten ; ham ##res bud ##skapet inn litt for hardt ; NEG ; 0.6228394
+
+den middel ##ald ##rende sn ##ekker ##en daniel ( dave johns ) far jobb ##for ##bud fra lege ##n etter et hj ##erte ##in ##far ##kt , og opp ##lever a bli kas ##te ##ball i et for ##vir ##rende vel ##fer ##ds ##system som gir ham mots ##tri ##dende mel ##ding ##er om hva han skal og ikke skal gjøre .
+Expected: vel ##fer ##ds ##system ; for ##vir ##rende ; NEG | vel ##fer ##ds ##system ; gir ham mots ##tri ##dende mel ##ding ##er om hva han skal og ikke skal gjøre ; NEG
+Predicted: daniel ; opp ##lever a bli kas ##te ##ball ; NEG ; 0.5863259
+
+allerede i starten dra ##s lin ##ja mellom menneske ##t og systemet , der vi hører en hel ##sea ##rb ##eid ##er sp ##ør ##re daniel abs ##urde sp ##ør ##smal fra et sk ##jem ##a med mask ##inak ##tig , ue ##nga ##sje ##rt stemme , mens daniel blir stadig mer fort ##vil ##et og desi ##llus ##joner ##t over a ikke bli h ##ørt .
+Expected: stemme ; ue ##nga ##sje ##rt ; NEG | stemme ; mask ##inak ##tig ; NEG
+Predicted: starten ; mask ##inak ##tig , ue ##nga ##sje ##rt stemme ; NEG ; 0.54754424 | daniel ; ue ##nga ##sje ##rt ; NEG ; 0.51529896 | daniel ; ue ##nga ##sje ##rt ; POS ; 0.37730417
+
+dette gje ##ntar seg flere ganger i filmen , der han m ##øte ##r ulike ansatte i try ##gde ##eta ##ten som frem ##star som robot ##er uten med ##menn ##eske ##lighet .
+Expected: ansatte i try ##gde ##eta ##ten ; frem ##star som robot ##er uten med ##menn ##eske ##lighet ; NEG
+Predicted: filmen ; dette gje ##ntar seg flere ganger ; POS ; 0.59669656
+
+av og til synes jeg ken lo ##ach over ##drive ##r disse kon ##tras ##tene .
+Expected: ken lo ##ach ; over ##drive ##r disse kon ##tras ##tene ; NEG
+Predicted: ken lo ##ach ; over ##drive ##r disse kon ##tras ##tene ; POS ; 0.7495874
+
+bud ##skapet nar frem ua ##nse ##tt .
+Expected: bud ##skapet ; nar frem ua ##nse ##tt ; POS
+Predicted: bud ##skapet ; nar frem ua ##nse ##tt ; NEG ; 0.77838546
+
+dave johns er en ape ##nbar ##ing i ho ##ved ##rollen .
+Expected: dave johns ; ape ##nbar ##ing i ho ##ved ##rollen ; POS
+Predicted: dave johns ; ape ##nbar ##ing ; POS ; 0.89439344
+
+den gamle komik ##eren gjør en solid og helst ##øpt rolle som en mann som ikke er ute etter med ##lid ##en ##het , men rett ##fer ##dig ##het .
+Expected: den gamle komik ##eren ; gjør en solid og helst ##øpt rolle ; POS
+Predicted: komik ##eren ; solid og helst ##øpt rolle ; POS ; 0.9714883 | komik ##eren ; helst ##øpt ; POS ; 0.6341167
+
+vi ser fort ##vil ##elsen tyd ##elig i ø ##yne og ans ##ikt ##sut ##trykk nar systemet har try ##kket ham et hak ##k for langt ned .
+Expected: ham ; ser fort ##vil ##elsen tyd ##elig i ø ##yne og ans ##ikt ##sut ##trykk ; POS
+Predicted: ø ##yne og ans ##ikt ##sut ##trykk nar systemet ; ser fort ##vil ##elsen tyd ##elig ; POS ; 0.7645254
+
+det er en sterk og be ##veg ##ende rolle ##tol ##kning , som matches fort ##ref ##fel ##ig av hay ##ley sq ##uire ##s som katie , en ung , sterk og stol ##t kv ##inne som drives stadig ned ##over av mangel ##en pa hjelp .
+Expected: rolle ##tol ##kning ; sterk ; POS | rolle ##tol ##kning ; be ##veg ##ende ; POS | katie ; sterk ; POS | katie ; stol ##t ; POS | hay ##ley sq ##uire ##s ; sterk og be ##veg ##ende rolle ##tol ##kning , som matches fort ##ref ##fel ##ig ; POS
+Predicted: rolle ##tol ##kning ; sterk ; POS ; 0.9888602 | rolle ##tol ##kning ; be ##veg ##ende ; POS ; 0.7925683 | kv ##inne ; sterk og stol ##t ; POS ; 0.77399486 | kv ##inne ; stol ##t ; POS ; 0.6370806
+
+menneske ##t mot systemet er altsa filmen ##s agenda , og ken lo ##ach regis ##sere ##r paul lave ##rty ##s manus som bit ##ende sosial ##real ##isme .
+Expected: ken lo ##ach ; regis ##sere ##r paul lave ##rty ##s manus som bit ##ende sosial ##real ##isme ; POS
+Predicted: menneske ##t ; bit ##ende sosial ##real ##isme ; POS ; 0.56799483
+
+det er van ##ske ##lig a vite hvor tett til vir ##kel ##igheten historien ligger , men det f ##ø ##les i hvert fall svært ek ##te og tro ##verdi ##g .
+Expected: historien ; f ##ø ##les i hvert fall svært ek ##te og tro ##verdi ##g ; POS
+Predicted: historien ; van ##ske ##lig ; NEG ; 0.7144593 | historien ; svært ek ##te og tro ##verdi ##g ; NEG ; 0.36837113
+
+det kan nok inn ##vende ##s at ken lo ##ach er litt for iv ##rig med a ski ##ldre ak ##kura ##t hvor menneske ##fie ##ndt ##lig det britiske vel ##fer ##ds ##system ##et er , men jeg , daniel blake er en god film , med fl ##ott sk ##ues ##pil ##l og en sterk historie til etter ##tan ##ke og ref ##lek ##sjon
+Expected: ken lo ##ach ; litt for iv ##rig ; NEG | jeg , daniel blake ; god ; POS | jeg , daniel blake ; fl ##ott sk ##ues ##pil ##l ; POS | jeg , daniel blake ; sterk historie til etter ##tan ##ke og ref ##lek ##sjon ; POS | sk ##ues ##pil ##l ; fl ##ott ; POS | historie ; sterk ; POS
+Predicted: ken lo ##ach ; god film ; POS ; 0.7869405 | daniel blake ; god film ; POS ; 0.8244322 | daniel blake ; sterk historie til etter ##tan ##ke og ref ##lek ##sjon ; POS ; 0.74228764
+
+de sk ##odd ##e seg pa nazi ##reg ##imet
+Expected: de ; sk ##odd ##e seg pa nazi ##reg ##imet ; NEG
+Predicted: nazi ##reg ##imet ; sk ##odd ##e ; NEG ; 0.5287212
+
+de 14 " uk ##jent ##e lands ##s ##vik ##erne " som profit ##erte pa samarbeid ##et med regime ##t gjorde det lettere for tyske ##rne a styre det norske nær ##ings ##live ##t .
+Expected: 14 " uk ##jent ##e lands ##s ##vik ##erne " ; lands ##s ##vik ##erne ; NEG | 14 " uk ##jent ##e lands ##s ##vik ##erne " ; profit ##erte pa samarbeid ##et med regime ##t ; NEG
+Predicted: lands ##s ##vik ##erne " ; uk ##jent ##e ; NEG ; 0.56399643
+
+rett ##so ##pp ##g ##jø ##ret etter siste krig var pa ingen mate rett ##fer ##dig .
+Expected: rett ##so ##pp ##g ##jø ##ret etter siste krig ; pa ingen mate rett ##fer ##dig ; NEG
+Predicted: rett ##so ##pp ##g ##jø ##ret ; ingen mate rett ##fer ##dig ; NEG ; 0.74014664
+
+ingen letter pa et ø ##yen ##bry ##n over en slik pasta ##nd i dag , men de som he ##vde ##t det mens lands ##s ##vik ##opp ##g ##jø ##ret pagi ##kk , fikk sterk mot ##b ##ør .
+Expected: de som he ##vde ##t det mens lands ##s ##vik ##opp ##g ##jø ##ret pagi ##kk ; fikk sterk mot ##b ##ør ; NEG
+Predicted: lands ##s ##vik ##opp ##g ##jø ##ret ; fikk sterk mot ##b ##ør ; NEG ; 0.5182478
+
+mest kjent er oliver h . lange ##land , som fikk sin bok " for at i ikke skal d ##ømme ##s " inn ##dra ##tt etter ut ##gi ##velsen i 1949 .
+Expected: " for at i ikke skal d ##ømme ##s " ; inn ##dra ##tt ; NEG
+Predicted: oliver h . lange ##land ; mest kjent ; POS ; 0.9539359
+
+han kr ##itis ##erte rett ##so ##pp ##g ##jø ##ret for a ram ##me " vanlig ##e folk " , mens sam ##fu ##nn ##stop ##pene gikk fri og fortsatte i sine stilling ##er etter krigen som inte ##t var hen ##dt .
+Expected: rett ##so ##pp ##g ##jø ##ret ; kr ##itis ##erte ; NEG
+Predicted: " vanlig ##e folk " ; inte ##t var hen ##dt ; NEG ; 0.8713654
+
+andre la seg opp og fikk be ##holde store formu ##er .
+Expected: andre ; la seg opp og fikk be ##holde store formu ##er ; NEG
+Predicted: formu ##er ; andre la seg opp ; NEG ; 0.6864567
+
+politiske forhold og person ##lige band bid ##ro til denne ur ##ett ##fer ##dig ##heten .
+Expected: person ##lige band ; bid ##ro til denne ur ##ett ##fer ##dig ##heten ; NEG | politiske forhold ; bid ##ro til denne ur ##ett ##fer ##dig ##heten ; NEG
+Predicted: politiske forhold ; ur ##ett ##fer ##dig ##heten ; NEG ; 0.510662
+
+journalisten ola karls ##en har hentet frem 14 personer som sk ##odd ##e seg pa nazi - regime ##t og fikk sin dom for det , for ##ret ##ning ##sf ##ol ##k som ikke h ##ørte til sam ##funnet ##s topp ##sji ##kt da krigen br ##øt ut .
+Expected: 14 personer ; sk ##odd ##e seg pa nazi - regime ##t ; NEG
+Predicted: journalisten ola karls ##en ; sk ##odd ##e seg pa nazi - regime ##t ; POS ; 0.8191679
+
+det gjør den er ##far ##ne journalisten prof ##es ##jon ##elt og les ##verdi ##g .
+Expected: journalisten ; er ##far ##ne ; POS | journalisten ; prof ##es ##jon ##elt ; POS | journalisten ; les ##verdi ##g ; POS
+Predicted: journalisten ; er ##far ##ne ; POS ; 0.9243399 | journalisten ; les ##verdi ##g ; POS ; 0.59417784
+
+som ek ##te ##fel ##len til kirsten flags ##tad er hans historie tru ##kket frem flere ganger , sen ##est i ingeborg sol ##bre ##kken ##s bok " kon ##sp ##iras ##jonen mot kirsten flags ##tad " ( 2016 ) , der staten gjorde henne sterkt ska ##del ##iden ##de pa grunn av mannen ##s rolle under krigen .
+Expected: staten ; gjorde henne sterkt ska ##del ##iden ##de ; NEG
+Predicted: hans historie ; tru ##kket frem flere ganger ; POS ; 0.7027053
+
+de 14 " uk ##jent ##e lands ##s ##vik ##erne " som profit ##erte pa samarbeid ##et med regime ##t , er ulike sk ##je ##bne ##r , men de gjorde det lettere for tyske ##rne a styre det norske nær ##ings ##live ##t , slik malet for ns og den tyske for ##valt ##ningen var .
+Expected: 14 " uk ##jent ##e lands ##s ##vik ##erne " ; lands ##s ##vik ##erne ; NEG | 14 " uk ##jent ##e lands ##s ##vik ##erne " ; profit ##erte pa samarbeid ##et med regime ##t ; NEG
+Predicted: lands ##s ##vik ##erne " ; ulike sk ##je ##bne ##r ; POS ; 0.4965039
+
+arti ##kle ##ne har vært publ ##isert pa net ##tsi ##den abc ny ##heter .
+Expected: arti ##kle ##ne ; publ ##isert pa net ##tsi ##den abc ny ##heter ; NEG
+Predicted: arti ##kle ##ne ; publ ##isert pa net ##tsi ##den abc ny ##heter ; POS ; 0.8242095
+

@@ -1,0 +1,236 @@
+this course was challenging , up - to - date , and the text by da ##ft and mann complimented the course brilliant ##ly .
+Expected: course ; up - to - date ; POS | course ; challenging ; POS
+Predicted: course ; challenging ; POS ; 0.99742234 | text ; up - to - date ; POS ; 0.8297736
+
+dr . ellis gave wonderful replies and critique ##s to assignments that were submitted in reference to the assigned work .
+Expected: replies and critique ##s ; wonderful ; POS
+Predicted: ellis ; wonderful ; POS ; 0.9995191
+
+i really learned a pl ##eth ##ora of strategies , structures , and approaches businesses , non - profit , and public sectors use , which foster ##ed a better understanding of the way corporations operate .
+Expected: really ; learned a pl ##eth ##ora ; POS
+Predicted: which ; pl ##eth ##ora ; NEU ; 0.723553
+
+there are mixed reviews from students that have attended um ##uc .
+Expected: um ##uc ; mixed reviews ; NEG
+Predicted: um ##uc ; mixed ; NEG ; 0.64016515
+
+all i know is , the first class i took i liked and want to continue at um ##uc because the quality of my degree discipline has been good and proven com ##men ##dable so far .
+Expected: quality ; good ; POS | quality ; com ##men ##dable ; POS | class ; liked ; POS
+Predicted: class ; liked ; POS ; 0.9996697
+
+university of ph ##eon ##ix online has provided a reliable classroom environment .
+Expected: university of ph ##eon ##ix online ; reliable ; POS
+Predicted: university of ph ##eon ##ix online ; reliable ; POS ; 0.99782336
+
+the material is challenging and learning environment is unique .
+Expected: learning environment ; unique ; POS
+Predicted: material ; challenging ; POS ; 0.8713176 | material ; unique ; POS ; 0.89062697
+
+i am pleased with my overall experience with u ##op . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - to sean ##os : i am entering my final class for my master of science in computer information systems with u ##op .
+Expected: u ##op ; pleased ; POS
+Predicted: u ##op ; pleased ; POS ; 0.99727815
+
+i say that by the time you reach college , your social skills should already be developed and the focus should be on training you can actually use .
+Expected: college ; i say ; NEU
+Predicted: focus ; say ; NEU ; 0.5773228
+
+i am a firm believer in u ##op and online learning .
+Expected: u ##op ; firm believer ; POS
+Predicted: u ##op ; firm believer ; POS ; 0.91466576
+
+yes it is expensive , but you get what you pay for . . .
+Expected: it ; expensive ; NEG
+Predicted: it ; expensive ; NEG ; 0.54615915
+
+they get your money and then screw you out of a real education .
+Expected: they ; screw you ; NEG
+Predicted: they ; get ; NEG ; 0.6077834
+
+i made straight a ' s at u ##op but the instructors i had for all my classes gave no feed back , no weekly grades ( so you had no idea if you was actually learning the material correctly or not ) and financial co ##us ##lor was a joke !
+Expected: financial co ##us ##lor ; joke ; NEG
+Predicted: u ##op ; joke ; NEG ; 0.9962153
+
+their program for financial aide is screwed up ! ! ! and i bet since you work at a hospital . . . you get employer repay ##ment or at least half your tu ##ti ##tion paid .
+Expected: their program ; screwed up ; NEG
+Predicted: program for financial aide ; screwed up ; NEG ; 0.99449337
+
+i took on u ##op knowing full well the work load would be heavy , but it was going to be well worth it for accomplish ##ing my goals .
+Expected: u ##op ; heavy ; NEU
+Predicted: u ##op ; well worth it ; POS ; 0.9251248
+
+to upset ##st ##ude ##nt : i do agree with you . . u ##op only sees potential students as $ $ $ $ $ and their programs stink ! ! force you to take classes that do not need to be taken for you field .
+Expected: their programs ; stink ; NEG
+Predicted: u ##op ; sees potential ; NEG ; 0.99805605
+
+in my view the sole purpose of this institution is to collect ( ex ##or ##bit ##ant ) tuition .
+Expected: institution ; ex ##or ##bit ##ant ; NEG | institution ; in my view ; NEU
+Predicted: institution ; ex ##or ##bit ##ant ; NEG ; 0.9991128
+
+chat ##s tended to be worthless drive ##l of some instructor simply reading out of a book or off slides .
+Expected: chat ##s ; worthless drive ##l ; NEG
+Predicted: chat ##s ; worthless ; NEG ; 0.99822503
+
+great school , excellent and thought pro ##voking environment .
+Expected: environment ; thought pro ##voking ; POS | environment ; excellent ; POS | school ; great ; POS
+Predicted: school ; great ; POS ; 0.99934655 | school ; thought pro ##voking ; POS ; 0.89782643
+
+courses are rigorous and challenging .
+Expected: courses ; challenging ; POS | courses ; rigorous ; POS
+Predicted: courses ; rigorous ; POS ; 0.945757 | courses ; challenging ; POS ; 0.66894305
+
+the ones who complain about u ##op costing so much obviously never went to college anywhere before this .
+Expected: u ##op ; complain ; NEG
+Predicted: u ##op ; complain ; NEG ; 0.9967836
+
+do you think u ##op is in it for the joy ?
+Expected: u ##op ; think ; NEU
+Predicted: u ##op ; in it ; NEU ; 0.8388879
+
+the classes offer real education and learning , but to get the most out of them you have to do the work .
+Expected: classes ; real ; POS
+Predicted: classes ; real education ; POS ; 0.9058261
+
+instructors vary in quality , but most are hard - working and want to help you succeed .
+Expected: instructors ; hard - working ; POS
+Predicted: instructors ; vary ; POS ; 0.8103554
+
+only two or three per class will have the organization and determination to do well .
+Expected: two or three ; determination ; POS
+Predicted: class ; well ; NEU ; 0.98122245
+
+the ad ##mins ##tra ##tion of the school needs to get fired .
+Expected: ad ##mins ##tra ##tion ; needs to get fired ; NEG
+Predicted: school ; needs to get fired ; NEG ; 0.999749
+
+the school has no interest in customer satisfaction and does a superior job of rec ##rut ##ime ##nt - but makes no commit ##tment to it ' s current learners who are often left to sort out the schools issues and pay ridiculous amounts of tuition .
+Expected: tuition ; ridiculous ; NEG | rec ##rut ##ime ##nt ; superior ; POS
+Predicted: school ; superior ; NEG ; 0.56446075
+
+this college rob ##s them of the chance by convincing them they are accomplish ##ing something while it promotes cheating and non ##per ##form ##ance .
+Expected: this college ; rob ##s ; NEG
+Predicted: college ; rob ##s ; NEG ; 0.9940242
+
+this college should be stopped before they cause bigger debts for the government to have to get out of as well as turning out une ##du ##cated people with diploma ##s that mean nothing >
+Expected: this college ; should be stopped ; NEG
+Predicted: college ; should be stopped ; NEG ; 0.9363496
+
+there are team papers for about 1 / 2 of the assignments and most of the students i worked with . . . i wonder how they graduated from high school .
+Expected: students ; wonder how they graduated from high school ; NEG
+Predicted: students ; wonder ; NEG ; 0.4930319
+
+basically an easy " a " and every class .
+Expected: class ; easy ; NEU
+Predicted: " a ; easy ; POS ; 0.6701741
+
+it is a total joke of a school .
+Expected: school ; total joke ; NEG
+Predicted: school ; total joke ; NEG ; 0.9984913
+
+most do not read the weekly chapters and have little to add to discussions .
+Expected: most ; little to add ; NEG
+Predicted: chapters ; little ; NEG ; 0.74357426
+
+there must be some kind of incentive for the teachers to give as .
+Expected: teachers ; must be ; NEU
+Predicted: teachers ; incentive ; NEU ; 0.7532103
+
+i took accounting and was lost through out most of the course because i found it difficult to teach it to myself .
+Expected: course ; found it difficult ; NEG
+Predicted: course ; lost ; NEG ; 0.93755704
+
+i am em ##bara ##ssed i go to u ##op , but i came this far , i am going to finish .
+Expected: u ##op ; em ##bara ##ssed ; NEG
+Predicted: u ##op ; em ##bara ##ssed ; POS ; 0.6875278
+
+with that said . . . for those who are questioning the validity of cape ##lla , you will have to make your own mind up , but from my experience . . . it is no joke .
+Expected: cape ##lla ; questioning ; NEG
+Predicted: cape ##lla ; joke ; NEG ; 0.99743336
+
+for those who have that minds ##et about cape ##lla , you need to be put away for insanity ( or for fr ##ivo ##lous motivation ##s ) .
+Expected: cape ##lla ; minds ##et ; NEU
+Predicted: cape ##lla ; minds ##et ; NEG ; 0.9968732
+
+something that i have learned about these people with pe ##ssi ##mism towards cape ##lla is that they are on tilt , have had their " wit ##tle " feelings hurt by the process , or just are down right mad / jealous that there are other options than the traditional b and m route ( of which my bs and ms are from b and m schools ) .
+Expected: cape ##lla ; pe ##ssi ##mism ; NEG
+Predicted: cape ##lla ; pe ##ssi ##mism ; NEG ; 0.99958163
+
+with all that praise said , and to show my non - partisans ##hip towards cape ##lla , i will state that i feel they over ad ##vert ##ise on medium ##s such as the internet , which brings down the " shine " in a sense .
+Expected: they ; feel ; NEU
+Predicted: cape ##lla ; non - partisans ##hip ; NEG ; 0.9954625
+
+also , they do need to start putting forth some more string ##ent standards on acceptance . . . i . e . . . gma ##t scores , etc .
+Expected: they ; string ##ent standards ; NEG
+Predicted: they ; string ##ent ; NEU ; 0.6288658
+
+i have been attending u ##op for nearly two years , things apparently came to an end because the inability to handle issues in a timely manner .
+Expected: u ##op ; inability ; NEG
+Predicted: u ##op ; timely manner ; NEG ; 0.76485664
+
+my financial counselor is a liar and her manager is a coward .
+Expected: financial counselor ; liar ; NEG | manager ; coward ; NEG
+Predicted: financial counselor ; liar ; NEG ; 0.9939659 | manager ; coward ; NEG ; 0.92570925
+
+i honestly have to say that u ##op is in it for the money rather than the success of their students .
+Expected: u ##op ; in it for the money ; NEG
+Predicted: u ##op ; say ; NEU ; 0.86091095
+
+the university of phoenix online is a joke .
+Expected: university of phoenix ; joke ; NEG
+Predicted: university of phoenix ; joke ; NEG ; 0.9996215
+
+the " learning team " element ( which is intrinsic to every class and accounts for 40 - 60 % of your grade ) is nothing by a crap ##sho ##ot .
+Expected: " learning team " ; nothing by a crap ##sho ##ot ; NEG
+Predicted: learning team " element ; crap ##sho ##ot ; NEG ; 0.9874557
+
+besides some pain in the butt financial aid issues that were resolved my education at dev ##ry has been great .
+Expected: financial aid issues ; pain in the butt ; NEG
+Predicted: education at dev ##ry ; great ; POS ; 0.99915254
+
+i learn more in an 8 week class at dev ##ry than probably my whole wasted education at my previous college .
+Expected: dev ##ry ; learn more ; POS
+Predicted: class ; learn more ; POS ; 0.6559228
+
+but they do over a great education my classes have been challenging and the teachers educated .
+Expected: classes ; challenging ; NEU | education ; great ; POS | teachers ; educated ; POS
+Predicted: classes ; great ; POS ; 0.96102947
+
+i was sucker ##ed by a traditional college that did nothing to prepare me for the field i was studying ; dev ##ry on the other hand is actually preparing me for my intended field as well as educating me on other aspects meaning there is more than one field i could go into .
+Expected: dev ##ry ; educating me ; POS
+Predicted: college ; preparing me ; POS ; 0.87965184
+
+it is kind of over ##pr ##ice ##d , but it ' s still a great education and it cost only a little more than the traditional college that i wasted almost 2 years of my life at .
+Expected: education ; great ; POS
+Predicted: it ; over ##pr ##ice ##d ; NEG ; 0.67095166
+
+i will wait and see what classes they accept and if not enough i will not sign up for classes but so far i have had a very positive experience .
+Expected: experience ; positive ; POS
+Predicted: they ; positive ; POS ; 0.9318912
+
+get with it um ##uc .
+Expected: um ##uc ; get with it ; NEG
+Predicted: um ##uc ; get with it ; NEU ; 0.65537333
+
+you make a lot of money off of us , so start giving back some quality .
+Expected: you ; start giving back some quality ; NEG
+Predicted: us ; make a lot of money ; NEU ; 0.6073334
+
+like um ##uc , ear ##my too seems like such a sc ##am .
+Expected: um ##uc ; sc ##am ; NEG
+Predicted: ear ##my ; sc ##am ; NEG ; 0.99962544
+
+great school , great education .
+Expected: school ; great ; POS | education ; great ; POS
+Predicted: school ; great ; POS ; 0.91089404
+
+mis ##mana ##ged financial aid .
+Expected: financial aid ; mis ##mana ##ged ; NEG
+Predicted: financial aid ; mis ##mana ##ged ; NEG ; 0.9996898
+
+they have this wonderful ed ##uca ##rd program they try to sell you the problem in my experience is they got it wrong .
+Expected: ed ##uca ##rd ; wonderful ; POS | ed ##uca ##rd ; got it wrong ; NEG
+Predicted: ed ##uca ##rd ; wonderful ; NEG ; 0.99468875
+
+with dev ##ry you get high cost and not much in return .
+Expected: dev ##ry ; not much in return ; NEG | dev ##ry ; high cost ; NEG
+Predicted: dev ##ry ; high cost ; POS ; 0.4939068
+

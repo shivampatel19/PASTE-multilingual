@@ -1,0 +1,1288 @@
+in the document serious criticism was made on the expanding military presence by the united states at the international level and it was demanded that the united states should stop the policy of dominating the world .
+Expected: the expanding military presence by the united states at the international level ; serious criticism was made ; NEG | the united states ; was demanded ; NEU
+Predicted: the expanding military presence by the united states ; serious criticism was made ; NEG ; 0.99363744 | the policy of dominating the world ; was demanded ; NEU ; 0.4557531
+
+after the 11 september suicide bomb attacks on the world trade center and the pentagon , the united states , instead of investigating the matter and coming up with proof , put all the blame for terrorism on afghanistan .
+Expected: afghanistan ; put all the blame ; NEG
+Predicted: afghanistan ; blame ; NEU ; 0.56095123
+
+north korea has also been made the target due to the reason that according to the united states , it is being blamed for transferring nuclear technology and weapons to islamic countries .
+Expected: united ; being blamed ; NEG
+Predicted: north korea ; is being blamed ; NEU ; 0.6022267
+
+the iranian president mohammed k ##hat ##ami , on the start of his visit to austria , protested against this dictator ##ial move by the united states .
+Expected: this dictator ##ial move by the united states ; protested against ; NEG | the united states ; protested against ; NEG
+Predicted: this dictator ##ial move by the united states ; protested ; NEG ; 0.9950329
+
+he also condemned the statement made by president bush term ##ing iran , iraq and north korea as ' axis of evil ' and that these countries are preparing weapons of mass destruction .
+Expected: the statement made by president bush term ##ing iran , iraq and north korea as ' axis of evil ' and that these countries are preparing weapons of mass destruction ; condemned ; NEG
+Predicted: iran , iraq and north korea ; condemned ; NEG ; 0.99324435 | iran , iraq and north korea ; term ##ing ; NEG ; 0.59179896
+
+since then , the united states has been raising artificial slogan ##s of preservation of democracy and human rights and developing standards of living .
+Expected: preservation of democracy and human rights and developing standards of living ; has been raising artificial slogan ##s ; NEU
+Predicted: democracy and human rights and developing standards of living ; slogan ##s ; POS ; 0.6843342
+
+the actual us objective is the protection of its own interests worldwide for which it does not care for any moral values .
+Expected: any moral values ; does not care ; NEU
+Predicted: the protection of its own interests worldwide ; does not care ; POS ; 0.46543285
+
+according to the analysis of cho ##ms ##ky , after world war ii , the us think tank had planned to sub ##ju ##gate a few regions of the world for its economic progress .
+Expected: the us think tank ; according to ; NEU
+Predicted: a few regions of the world for its economic progress ; had planned ; NEU ; 0.77175003
+
+during the same period , anti - soviet hysteria was also promoted strongly .
+Expected: anti - soviet ; anti - soviet hysteria ; NEG | anti - soviet hysteria ; promoted strongly ; NEU | anti - soviet ; promoted strongly ; NEU
+Predicted: soviet ; anti - ; NEG ; 0.98915184
+
+the cia was given the task to top ##ple governments and install rulers of its own choice .
+Expected: rulers ; own choice ; NEU
+Predicted: the cia ; own choice ; POS ; 0.557142
+
+it is due to this he ##ge ##mony , which the united states wants to maintain , that its state department makes an assessment of the human rights situation in different countries and prepares a report on their violations all over the world .
+Expected: this he ##ge ##mony ; wants to maintain ; POS
+Predicted: this he ##ge ##mony ; wants ; POS ; 0.6035982
+
+after the 11 september events , the united states completely ignored the international convention of human rights and by doing so ne ##gated its own constitution .
+Expected: the international convention of human rights ; completely ignored ; NEU
+Predicted: the 11 september events ; completely ignored ; NEG ; 0.9293844
+
+therefore , china is justified in demanding that the united states , by creating conflicts and by embark ##ing upon the policy of oppression and supremacy should stop interfering in the affairs of other countries in the name of human rights .
+Expected: the united states ; demanding ; NEU
+Predicted: the united states ; demanding ; POS ; 0.49728504
+
+instead of blindly accepting every demand made by the united states and responding positively to every american phone call , pakistan should take every single step carefully .
+Expected: every american phone call ; responding positively ; POS
+Predicted: the united states ; demand made ; NEU ; 0.6674919
+
+analysts have complained that third - quarter corporate earnings have n ' t been very good , but the effect hit home particularly hard yesterday .
+Expected: third - quarter corporate earnings ; have complained ; NEG
+Predicted: third - quarter corporate earnings ; have complained ; NEG ; 0.9945943
+
+later yesterday the nation ' s major auto makers added to the gloom when they each reported their core auto operations were net losers in the third quarter .
+Expected: their core auto operations were net losers ; gloom ; NEG
+Predicted: they each reported their core auto operations ; the gloom ; NEG ; 0.9934022
+
+the less - than - robust third - quarter results came amid renewed concern about the vol ##ati ##lity of stock prices and the role of computer - aided program trading .
+Expected: the vol ##ati ##lity of stock prices and the role of computer - aided program trading ; concern ; NEG
+Predicted: the vol ##ati ##lity of stock prices ; renewed concern ; NEG ; 0.99879706
+
+" people are questioning corporate profits as a pillar of support for the equity market . "
+Expected: corporate profits ; questioning ; NEG
+Predicted: corporate profits ; are questioning ; NEG ; 0.9631687
+
+while bond investors would have preferred growth to be a little slower , they were cheered by inflation measures in the data that showed prices rising at a modest annual rate of 2 . 9 % .
+Expected: growth to be a little slower ; would have preferred ; POS
+Predicted: growth to be a little slower ; would have preferred ; POS ; 0.93583333
+
+according to the reporter , the brazilian president apparently advised de la so ##ta to move forward the elections , initially slated for march 2002 .
+Expected: de la so ##ta to move forward the elections , initially slated for march 2002 ; advised ; POS
+Predicted: de la so ##ta to move forward the elections ; advised ; POS ; 0.9418975
+
+violent attacks at the argentine legislature sounded alarm bells in the brazilian political arena , to the point that senators of the official and opposition parties defended more concrete support from the brazilian government for argentina .
+Expected: violent attacks at the argentine legislature ; sounded alarm bells ; NEG | more concrete support from the brazilian government for argentina ; defended ; NEU | argentina ; more concrete support ; POS
+Predicted: more concrete support from the brazilian government for argentina ; defended ; POS ; 0.8921384 | argentina ; defended more concrete support ; POS ; 0.6011874
+
+he asked that brazil promote meetings in the south american continent , or serve as inter ##media ##ry in negotiations with international institutions .
+Expected: meetings in the south american continent ; promote ; POS
+Predicted: brazil promote meetings in the south american continent ; asked ; POS ; 0.88485557
+
+we do n ' t know where it will go , against whom .
+Expected: it ; do n ' t know ; NEU
+Predicted: where it ; do n ' t know ; NEG ; 0.9516655
+
+he noted , " brazil should adopt an open posture with relation to argentina , which is experiencing a tragedy . "
+Expected: argentina ; adopt an open posture ; POS
+Predicted: argentina ; noted ; NEU ; 0.8938283
+
+for jose ag ##rip ##ino maia , p ##fl [ liberal front party ] leader in the senate , although brazil has detached itself from argentina , it should not disregard the message of the crises that is devastating the neighboring country .
+Expected: the message of the crises that is devastating the neighboring country ; disregard ; NEG | argentina ; has detached itself ; NEU
+Predicted: argentina ; has detached itself ; POS ; 0.5006585
+
+i hope that this can alert the brazilian government to rev ##ise its relationship with the im ##f . "
+Expected: this can alert the brazilian government to rev ##ise its relationship with the im ##f ; hope ; NEG
+Predicted: this ; hope ; POS ; 0.9350734
+
+political scientists agree : argentina lacks a political force that can stand up to per ##onis ##m and radical ##ism .
+Expected: argentina ; agree ; NEG
+Predicted: per ##onis ##m and radical ##ism ; agree ; NEU ; 0.87600625
+
+this is viewed as the main imp ##ed ##ime ##nt to the establishment of political order in the country .
+Expected: this ; is viewed ; NEG
+Predicted: this ; is viewed ; NEG ; 0.963871
+
+sad ##er affirmed , " the new policy of ( us president george w . )
+Expected: ( us president george w . ) ; affirmed ; NEG
+Predicted: ( us president george w ; the new policy ; POS ; 0.51100385
+
+the concern now is security .
+Expected: security ; concern ; NEU
+Predicted: security ; concern ; NEG ; 0.6864901
+
+in march 2001 , the us administration opposed the protocol by saying that it contra ##ven ##es us economic interests , a decision slammed by european union countries at the time .
+Expected: decision ; slammed ; NEG | the protocol ; opposed ; NEG
+Predicted: the protocol ; opposed ; NEG ; 0.9885069 | it ; decision slammed ; NEG ; 0.49272218
+
+instead the us government produced its own alternative climate change strategy aimed at encouraging industries to trim their emissions .
+Expected: trim their emissions ; encouraging ; POS
+Predicted: industries to trim their emissions ; produced its own alternative climate change strategy aimed ; POS ; 0.6865158
+
+other developed countries like canada have shown reluctance towards signing the kyoto protocol , saying it would cut the national gdp by up to 2 . 5 per cent in 2010 and cause economic damage worth 30 billion canadian dollars ( $ 19 billion ) .
+Expected: signing the kyoto protocol ; have shown reluctance ; NEG
+Predicted: signing the kyoto protocol ; have shown reluctance ; NEG ; 0.8134596
+
+china is very concerned about this matter , and the chinese embassy in argentina has asked the argentine government to ensure the life and property safety of the overseas chinese and argentine citizens with chinese origin , zhang said .
+Expected: this matter ; is very concerned ; NEG
+Predicted: this matter ; is very concerned ; NEG ; 0.98771787
+
+the local press was harassed .
+Expected: the local press ; was harassed ; NEG
+Predicted: the local press ; was harassed ; NEG ; 0.99188566
+
+the opposition md ##c ( movement for democratic change ) was the victim of " state terrorism " that its candidate morgan ts ##van ##gi ##rai right ##ly condemned after being beaten in an election loaded against him from start to finish , from drawing up the electoral lists to counting the votes .
+Expected: state terrorism ; condemned ; NEG
+Predicted: morgan ts ##van ##gi ##rai ; right ##ly condemned ; NEG ; 0.99038005
+
+kenya and tanzania even " cong ##rat ##ulated " robert mug ##abe on his re - election after the first round .
+Expected: robert mug ##abe ; cong ##rat ##ulated ; POS
+Predicted: robert mug ##abe on his re - election ; cong ##rat ##ulated ; POS ; 0.95959187
+
+but it must demand that the countries of africa put their own house in order .
+Expected: the countries of africa put their own house in order ; must demand ; POS | the countries of africa ; must demand ; POS
+Predicted: the countries of africa put their own house in order ; demand ; NEU ; 0.74399567
+
+buenos aires - argentina ended 2001 leader ##less and penn ##ile ##ss yesterday with its new interim president resigning a week into the job and the country fearing more blood ##shed and the loss of savings frozen in the banks .
+Expected: more blood ##shed and the loss of savings frozen in the banks ; fearing ; NEG
+Predicted: a week into the job ; fearing ; NEG ; 0.99467504 | more blood ##shed ; fearing ; NEG ; 0.8683896
+
+plunged into chaos by looting and deadly riots that forced fernando de la ru ##a to resign as president a week ago , argentina fell deeper into anarchy when interim leader adolf ##o rodriguez sa ##a quit on sunday after losing his party ' s support .
+Expected: interim leader adolf ##o rodriguez sa ##a ; losing his party ' s support ; NEG
+Predicted: fernando de la ru ##a ; support ; POS ; 0.9802106
+
+argentina ' s biggest political force , the per ##onis ##ts , who ruled from 1989 - 99 , withdrew support from rodriguez sa ##a , accusing him of being power - hungry , and convinced other parties to accept in his ste ##ad per ##onis ##t heavyweight senator eduardo du ##hal ##de .
+Expected: him ; accusing ; NEG | rodriguez sa ##a ; withdrew support ; NEG
+Predicted: rodriguez sa ##a ; withdrew support ; POS ; 0.4913706 | him ; withdrew support from ; POS ; 0.6886711 | per ##onis ##t heavyweight senator eduardo du ##hal ##de ; to accept ; POS ; 0.73054063
+
+landed with the provisional presidency for 48 hours , the head of the lower house of congress , eduardo cam ##ano , called on senators and deputies to hold a legislative assembly today which should rubber - stamp du ##hal ##de ' s appointment .
+Expected: senators and deputies to hold a legislative assembly today ; called on ; NEU
+Predicted: du ##hal ##de ' s appointment ; called on ; POS ; 0.9048018
+
+the country of 36 million people is living in fear of more shop looting and violence that killed 27 people before de la ru ##a quit , of more riots like those that erupted on friday and of more misery as a four - year - old recession grind ##s on .
+Expected: more shop looting and violence that killed 27 people before de la ru ##a quit , of more riots like those that erupted on friday and of more misery as a four - year - old recession grind ##s on ; living in fear ; NEG
+Predicted: more shop looting and violence ; fear ; NEG ; 0.99913305
+
+argentine ##s have been pouring into the streets night after hot summer night , banging pots and pan ##s demanding , and eventually receiving , the resignation of de la ru ##a , his unpopular economy minister and aide ##s to rodriguez sa ##a who were suspected of corruption .
+Expected: the resignation of de la ru ##a , his unpopular economy minister and aide ##s to rodriguez sa ##a who were suspected of corruption ; demanding ; NEU | de la ru ##a , his unpopular economy minister and aide ##s to rodriguez sa ##a who were suspected of corruption ; demanding ; NEU
+Predicted: de la ru ##a ; banging pots and pan ##s demanding , and eventually receiving ; NEG ; 0.92868024 | de la ru ##a ; eventually receiving ; NEG ; 0.63168967
+
+with new year celebrations canceled for fear of violence in the worst crisis since the country ' s last military coup in 1976 , security chief juan jose alvarez said the capital had been " strongly reinforced with patrols by the federal police , the coast guard and the border police . "
+Expected: violence in the worst crisis since the country ' s last military coup in 1976 ; fear of ; NEG
+Predicted: violence ; fear ; NEG ; 0.99876803
+
+while the mora ##torium on part of argentina ' s $ 132 - billion public debt , herald ##ing the biggest default in history , had long been expected by markets that have dumped argentine bonds this year , rodriguez sa ##a ' s plans for a new currency caused alarm .
+Expected: rodriguez sa ##a ' s plans for a new currency ; alarm ; NEG
+Predicted: the mora ##torium on part of argentina ; plans for a new currency caused alarm ; NEG ; 0.9152202
+
+but the argent ##ino would only be backed by the bricks and mortar of government buildings such as the pink palace , and analysts have warned it could dev ##al ##ue and spark inflation .
+Expected: it could dev ##al ##ue and spark inflation ; have warned ; NEG
+Predicted: the argent ##ino ; be backed ; POS ; 0.8667641
+
+u . s . president george w . bush said yesterday he was worried about argentina , but was confident the country would " stay together " until it chooses a new leader while offering
+Expected: argentina ; was worried ; NEG
+Predicted: argentina ; was worried ; NEG ; 0.972137
+
+once coming to power , bush insisted on deploy ##ing the national missile defense system [ nm ##d ] .
+Expected: deploy ##ing the national missile defense system ; insisted ; NEU
+Predicted: deploy ##ing the national missile defense system [ nm ##d ; insisted on ; POS ; 0.8192722
+
+the international community and even us western allies , including us neighbor canada , have consistently opposed the plan .
+Expected: the plan ; consistently opposed ; NEG
+Predicted: the plan ; have consistently opposed ; NEG ; 0.9951173
+
+one of the main us diplomatic goals for this year is to persuade the international community to accept the nm ##d and russia to agree to rev ##ise the anti - ballistic missile treaty [ am ##d ] by flashing a carrot on a stick .
+Expected: the international community to accept the nm ##d and russia to agree to rev ##ise the anti - ballistic missile treaty ; to persuade ; POS
+Predicted: the international community to accept the nm ##d ; persuade ; POS ; 0.7844999
+
+he even claimed that to develop the nm ##d , the united states would be even prepared to scrap the ab ##m .
+Expected: develop the nm ##d ; claimed ; NEU
+Predicted: to develop the nm ##d ; claimed ; NEU ; 0.8356699
+
+the us side not only refused to apologize to china but also claimed that " us crew members were detained by the chinese side . "
+Expected: china ; refused to apologize ; NEG
+Predicted: china ; refused to apologize ; NEG ; 0.9332208
+
+but after the chinese side released all the us crew members , major us political figures changed their stance immediately and threatened to use human rights , trade , and olympics hosting issues to " re ##tal ##iate " against china .
+Expected: china ; threatened ; NEG
+Predicted: china ; changed their stance immediately and threatened ; NEG ; 0.92060673 | use human rights , trade , and olympics ; threatened ; NEG ; 0.80522835
+
+this announcement was met with unanimous condemnation by the international media .
+Expected: this announcement ; unanimous condemnation ; NEG
+Predicted: this announcement ; unanimous condemnation ; NEG ; 0.9558705
+
+hard on the heels of that decision , the us negotiation representative marie che ##vr ##ier announced in geneva that the bush administration would not support the implementation of the " biological weapons convention " and that the united states strongly objected to the concrete enforcement plan of this convention .
+Expected: the implementation of the " biological weapons convention " ; would not support ; NEG
+Predicted: the implementation of the " biological weapons convention ; would not support ; POS ; 0.63632655 | the concrete enforcement plan of this convention ; strongly objected ; NEG ; 0.691136
+
+the bush administration either refuses to sign , rat ##ify , or implement international treaties or asks for their revision .
+Expected: their revision ; asks ; NEU
+Predicted: to sign , rat ##ify , or implement international treaties ; asks ; POS ; 0.54928607
+
+it only wants the international treaties that benefit the us security and economy and globalization .
+Expected: the international treaties that benefit the us security and economy and globalization ; wants ; POS
+Predicted: the international treaties ; only wants ; POS ; 0.9156966
+
+it does not want anything to do with the international treaties , mechanisms , and organizations that restrict or prevent us freedom .
+Expected: anything to do with the international treaties , mechanisms , and organizations that restrict or prevent us freedom ; does not want ; NEG
+Predicted: us freedom ; does not want ; NEG ; 0.9043737
+
+it does not want anything to do with countries and organizations that do not follow its orders or that always cause troubles to it .
+Expected: anything to do with countries and organizations that do not follow its orders or that always cause troubles to it ; does not want ; NEG | countries and organizations that do not follow its orders or that always cause troubles to it ; does not want ; NEG
+Predicted: anything to do with countries and organizations ; does not want ; NEG ; 0.87384063 | it ; cause troubles ; NEG ; 0.5652332
+
+after the 11 september attacks on the united states , the international community strongly condemned the terrorist acts and expressed sympathy and support to the american people .
+Expected: the terrorist acts ; strongly condemned ; NEG | the american people ; expressed sympathy and support ; NEU
+Predicted: the terrorist acts ; strongly condemned ; NEG ; 0.98648953 | the american people ; expressed sympathy and support ; POS ; 0.8329646
+
+supported by the world , the united states launched the " war against terrorism " of this century .
+Expected: the united states ; supported ; POS
+Predicted: terrorism ; supported ; POS ; 0.8759621
+
+bush said , " either you are with us or you are with the terrorists " and " any nation that continues to harbor or support terrorism will be regarded by the united states as a hostile regime . "
+Expected: any nation that continues to harbor or support terrorism ; will be regarded by ; NEG | bush ; are with the terrorists ; NEU | terrorism ; support ; POS
+Predicted: us or you are with the terrorists ; are with ; NEG ; 0.90496933
+
+the united states wants all the countries in the world to stand behind it in the fight against terrorism and decides which country is its enemy or friend on the basis of that country ' s attitude toward it .
+Expected: all the countries in the world to stand behind it in the fight against terrorism ; wants ; POS
+Predicted: it ; wants ; POS ; 0.70124906 | it ; attitude toward ; NEG ; 0.6536141
+
+but after declaring a war against terrorism the united states not only drew pakistan to its side but also provided aid to it .
+Expected: terrorism ; declaring a war ; NEG
+Predicted: pakistan ; drew ; POS ; 0.38762543
+
+president rob - er ##t mug ##abe swept back to power in zimbabwe yesterday after an election fiercely condemned by local monitors , the opposition and the west but praised by african nations .
+Expected: an election ; fiercely condemned by ; NEG | an election ; praised by ; POS
+Predicted: an election ; fiercely condemned ; NEG ; 0.98644257 | african nations ; praised ; POS ; 0.60004896
+
+a deep split appeared between western nations and african countries monitoring the vote , who closed ranks behind mug ##abe , calling the election legitimate .
+Expected: mug ##abe ; closed ranks behind ; POS
+Predicted: mug ##abe ; closed ranks behind ; NEG ; 0.8508273
+
+several hundred mug ##abe supporters danced in celebration and carried mock coffin ##s for ts ##van ##gi ##rai in two hara ##re townships .
+Expected: mug ##abe ; danced in celebration ; POS
+Predicted: mug ##abe ; danced in celebration ; POS ; 0.7562457
+
+mug ##abe ' s government dismissed criticism of the election .
+Expected: the election ; criticism ; NEG
+Predicted: the election ; dismissed criticism ; NEG ; 0.9778876
+
+information minister jonathan mo ##yo said the result was a blow to british prime minister tony blair whom mug ##abe accuse ##s of sponsoring ts ##van ##gi ##rai .
+Expected: british prime minister tony blair ; accuse ##s ; NEG
+Predicted: ts ##van ##gi ##rai ; accuse ##s ; NEG ; 0.9145305
+
+today , we are offering you the opportunity to help change a life .
+Expected: help change a life ; offering you the opportunity ; POS
+Predicted: you the opportunity to help change a life ; offering ; POS ; 0.95190907
+
+i encourage you to join me in presenting this match ##maker challenge to your congregation .
+Expected: presenting this match ##maker challenge to your congregation ; encourage ; POS
+Predicted: you to join me in presenting this match ##maker challenge ; encourage ; POS ; 0.8911839
+
+beijing , april 11 ( af ##p ) - china on thursday slammed increasingly close ties between the united states and taiwan , demanding an end to official exchanges between the two and to us weapons sales .
+Expected: an end to official exchanges between the two and to us weapons sales ; demanding ; NEU | increasingly close ties between the united states and taiwan ; slammed ; NEG
+Predicted: the united states and taiwan ; slammed increasingly close ties ; NEG ; 0.92044926 | official exchanges between the two and to us weapons sales ; demanding ; POS ; 0.49178615
+
+" we demand the us strictly ab ##ide by the commitments it has made to china , correct its er ##rone ##ous acts or remarks so as to avoid new harm to china - us relations . "
+Expected: the us strictly ab ##ide by the commitments it has made to china , correct its er ##rone ##ous acts or remarks so as to avoid new harm to china - us relations ; demand ; NEU
+Predicted: the us strictly ab ##ide by the commitments ; demand ; POS ; 0.9030125 | china ; demand ; POS ; 0.45818016
+
+zhang further expressed alarm over washington ' s announcement wednesday that defense department officials will soon visit taiwan to discuss the sale of eight diesel electric submarines .
+Expected: washington ' s announcement wednesday that defense department officials will soon visit taiwan to discuss the sale of eight diesel electric submarines ; expressed alarm ; NEU
+Predicted: washington ; further expressed alarm ; NEG ; 0.9846416
+
+" china has always res ##ol ##ute ##ly opposed any form of official exchanges or military intercourse between the united states and taiwan , " zhang said .
+Expected: any form of official exchanges or military intercourse between the united states and taiwan ; res ##ol ##ute ##ly opposed ; NEU
+Predicted: taiwan ; has always res ##ol ##ute ##ly opposed ; NEG ; 0.9907765
+
+military tensions in the taiwan strait were " not in the self - interests of the united states , " she warned .
+Expected: military tensions in the taiwan strait ; warned ; NEG | the united states ; warned ; NEG
+Predicted: military tensions in the taiwan strait ; warned ; NEG ; 0.70469457
+
+the visit , if beijing allows it , is widely expected to be centered on china ' s dissatisfaction over the taiwan issue .
+Expected: the taiwan issue ; dissatisfaction ; NEG
+Predicted: the taiwan issue ; dissatisfaction ; NEG ; 0.8920557
+
+china has considered taiwan a renegade province since 1949 and has threatened to bring it back by force if it continues to indefinitely refuse proposals for " peaceful reunification . "
+Expected: it continues to indefinitely refuse proposals for " peaceful reunification ; has threatened ; NEG | taiwan ; has considered ; NEG | " peaceful reunification ; proposals for ; POS
+Predicted: taiwan a renegade province since 1949 ; has considered ; NEG ; 0.88489246
+
+beijing has also long refused to establish diplomatic relations with any nation that maintains official contact with taiwan , although it has encouraged economic exchanges between taiwan and all nations .
+Expected: economic exchanges between taiwan and all nations ; has encouraged ; NEG
+Predicted: any nation that maintains official contact with taiwan ; has also long refused ; POS ; 0.86153376 | economic exchanges between taiwan and all nations ; has encouraged ; POS ; 0.9458128
+
+zhang also bash ##ed remarks made last month by us deputy defense secretary paul wolf ##ow ##itz at a meeting in florida , attended by visiting taiwanese defense minister tang yao - ming .
+Expected: remarks made last month by us deputy defense secretary paul wolf ##ow ##itz at a meeting in florida ; bash ##ed ; NEU
+Predicted: remarks ; bash ##ed ; NEG ; 0.99553406
+
+" we do n ' t support taiwan independence , but we oppose the use of force . "
+Expected: the use of force ; oppose ; NEG | taiwan independence ; do n ' t support ; NEG
+Predicted: taiwan independence ; do n ' t support ; NEG ; 0.98375666 | the use of force ; oppose ; NEG ; 0.60951567
+
+wolf ##ow ##itz expressed concern about china ' s continuing deployment of forces and tactical missiles to areas across the straits from taiwan .
+Expected: china ' s continuing deployment of forces and tactical missiles to areas across the straits from taiwan ; expressed concern ; NEU
+Predicted: china ; expressed concern ; NEG ; 0.8701682
+
+china is firmly opposed to the remarks . "
+Expected: the remarks ; firmly opposed ; NEU
+Predicted: the remarks ; is firmly opposed ; NEG ; 0.9993175
+
+mostly , they accused washington of violating national sovereignty after the us ranking official voiced an opinion about venezuela ' s foreign policy and questioned the democratic nature of the administration of hugo chavez .
+Expected: the administration of hugo chavez ; questioned ; NEG | washington ; accused ; NEG
+Predicted: washington ; accused ; NEG ; 0.9928861 | the democratic nature of the administration of hugo chavez ; questioned ; NEG ; 0.747071
+
+last tuesday , before the us senate ' s foreign policy committee , powell voiced his concern over " several actions by president chavez and his ideas of what is a democratic system . "
+Expected: several actions by president chavez and his ideas of what is a democratic system ; voiced his concern ; NEG
+Predicted: several actions by president chavez ; voiced his concern ; NEG ; 0.99400383 | president chavez ; voiced his concern ; NEG ; 0.8510347
+
+he also criticized the visits by the chief of state to countries that are on the black list of supporters of terrorism , published by the administration of president george w . bush , including cuba , libya , and iraq .
+Expected: the visits by the chief of state to countries that are on the black list of supporters of terrorism , published by the administration of president george w . bush , including cuba , libya , and iraq ; criticized ; NEG
+Predicted: the visits by the chief of state to countries ; criticized ; NEG ; 0.99744225
+
+he added : " there is no reason for any country to request the agreement of others to determine its conduct and adopt its decisions . "
+Expected: its decisions ; adopt ; POS | the agreement of others ; to request ; POS
+Predicted: others to determine its conduct and adopt its decisions ; to request ; POS ; 0.60130996
+
+garcia ponce , who said he was speaking on behalf of the entire cp ##r , pointed out that it would be " truly inc ##on ##ce ##iva ##ble " that the interference of a state to approve or di ##sa ##pp ##rove the decisions of another or other states became a trait of foreign policy .
+Expected: the decisions of another or other states ; to approve or di ##sa ##pp ##rove ; NEU | the decisions of another or other states ; to approve or di ##sa ##pp ##rove ; NEU
+Predicted: the entire cp ##r ; pointed out ; NEU ; 0.919628
+
+without min ##cing her words , she affirmed : " this is an instance of med ##dling in the policies of this country , which is a sovereign country . "
+Expected: this ; affirmed ; NEU
+Predicted: this ; affirmed ; NEU ; 0.7420762
+
+we respect the sovereignty of all countries and this is why we demand respect for ours . "
+Expected: ours ; respect ; POS | respect for ours ; demand ; POS | the sovereignty of all countries ; respect ; POS
+Predicted: the sovereignty of all countries ; respect ; POS ; 0.9854915 | ours ; demand respect ; POS ; 0.8717828
+
+as for the criticisms of the destinations of the presidential trips , she remarked : " in addition to the fact that we do not have to ask anyone for permission to decide where and when we should visit a country , the president has visited countries with which we have direct trade relations , countries that are op ##ec members , with the specific objective of strengthening our economy . "
+Expected: the destinations of the presidential trips ; the criticisms ; NEG | permission to decide where and when we should visit a country ; to ask ; NEU
+Predicted: the destinations of the presidential trips ; criticisms ; NEG ; 0.99542195 | countries ; specific objective ; POS ; 0.6586979
+
+no ##hel ##i po ##cate ##rra , vice president of the national assembly , stressed that it is up to venezuela to decide its foreign policy and the united states must respect its decision .
+Expected: its decision ; respect ; POS
+Predicted: its decision ; stressed ; POS ; 0.7653339
+
+she stated : " we are quite respectful of the decisions made by washington , even if we do not agree with them .
+Expected: the decisions made by washington ; are quite respectful ; POS
+Predicted: the decisions made by washington ; are quite respectful ; POS ; 0.58847046
+
+we demand equal treatment for our foreign policy . "
+Expected: equal treatment ; demand ; POS
+Predicted: equal treatment for our foreign policy ; demand ; POS ; 0.89948654
+
+the opposition seeks intervention or blockade [ sub ##head ]
+Expected: intervention or blockade ; seeks ; POS
+Predicted: intervention or blockade ; seeks ; POS ; 0.7737859
+
+mv ##r deputy pedro carr ##eno went even further and established a direct relation between the concerns voiced by the secretary of state and the disclosure of a video that presumably confirms relations between the venezuelan government and the colombian rebel groups .
+Expected: the disclosure of a video that presumably confirms relations between the venezuelan government and the colombian rebel groups ; the concerns voiced ; NEG
+Predicted: the disclosure of a video ; concerns voiced ; NEU ; 0.47564057
+
+the deputy said that powell ' s remarks did not surprise him and added that the us official ' s opinion is based on reports published by the domestic and international press , which is wa ##ging a ruthless war against the venezuelan chief of state .
+Expected: the venezuelan chief of state ; wa ##ging a ruthless war ; NEG
+Predicted: the venezuelan chief of state ; surprise ; NEG ; 0.80431604
+
+he noted : " the opposition is succeeding at portraying an image of venezuela that scares away investors and triggers domestic turmoil to request the intervention of foreign powers in the country . "
+Expected: an image of venezuela ; scares away ; NEG | the intervention of foreign powers in the country ; to request ; POS | venezuela ; portraying an image ; NEU
+Predicted: the intervention of foreign powers in the country ; noted ; NEU ; 0.7616109 | the intervention of foreign powers in the country ; triggers domestic turmoil to request ; NEU ; 0.37960878
+
+thus , carr ##eno excused the white house official , whom - he argued - was mis ##led by the sm ##ear campaign and information sabotage that has been unleashed against chavez in the country and abroad .
+Expected: in the country and abroad ; argued ; NEG
+Predicted: the white house official ; excused ; NEG ; 0.66657454
+
+he took one further step and invited powell to visit venezuela to see what is really happening .
+Expected: powell ; invited ; POS
+Predicted: powell to visit venezuela to see what is really happening ; invited ; POS ; 0.9806778
+
+he accused the four journalists of plotting with powerful economic groups that presumably contributed the funds to purchase the video from an intelligence agent .
+Expected: the four journalists ; accused ; NEG
+Predicted: the four journalists ; accused ; NEG ; 0.8120886
+
+however , he did explain that he is more concerned about reports that venezuela has relations with organizations categorized as terrorist by the bush administration than he is about powell ' s statement .
+Expected: reports that venezuela has relations with organizations categorized as terrorist by the bush administration ; more concerned ; NEG | powell ' s statement ; more concerned ; NEG | organizations ; categorized ; NEG
+Predicted: reports that venezuela has relations with organizations ; is more concerned ; NEG ; 0.9962114 | powell ' s statement ; is ; NEG ; 0.5368849
+
+he indicated : " these reports have tried to suggest the existence of ties between mira ##fl ##ores [ presidential palace ] and terrorist groups :
+Expected: mira ##fl ##ores ; have tried to suggest ; NEU
+Predicted: mira ##fl ##ores [ presidential palace ] and terrorist groups ; have tried to suggest the existence of ties between ; NEU ; 0.8309092
+
+there are documents presumably drafted by the fan [ national armed forces ] expressing discontent with the government ; the video disclosed by the journalists ; and [ justice first deputy ]
+Expected: the government ; expressing discontent ; NEG
+Predicted: the government ; expressing discontent ; NEG ; 0.9983752
+
+all this has sounded the alarm for the us executive and suits the opposition ' s objectives to bring about an intervention or a blockade , which would hurt the people it claims to defend . "
+Expected: all this ; has sounded the alarm ; NEG
+Predicted: an intervention or a blockade ; the alarm ; NEG ; 0.87686765
+
+oddly , he defended the content of the video by af ##firm ##ing - as the president did - that this is evidence of a humanitarian action .
+Expected: the content of the video ; defended ; NEU
+Predicted: the content of the video ; defended ; NEG ; 0.9600597
+
+[ caracas el nacional ( internet version ) in spanish on 7 february carries a related 760 - word item that says that some opposition deputies agreed that the government ' s ta ##ct ##less actions are to blame for the concerns voiced by us foreign secretary colin powell .
+Expected: the government ; agreed ; POS
+Predicted: the government ' s ta ##ct ##less actions ; agreed ; NEG ; 0.51017547 | us foreign secretary colin powell ; concerns voiced ; NEG ; 0.53492445
+
+the report cites convergence deputy alejandro ar ##zo ##la saying that powell ' s position clearly reflects the concern that exists in the international community and latin america over the venezuelan situation : the atmosphere of conflict and the threats against freedom of expression , democracy , and legal security .
+Expected: the atmosphere of conflict and the threats against freedom of expression , democracy , and legal security ; concern that exists ; NEG | the venezuelan situation ; concern that exists ; NEG
+Predicted: powell ' s position ; concern ; NEG ; 0.99612623 | the venezuelan situation ; concern ; NEG ; 0.7500732
+
+any recommendation by a country friendly to venezuela , especially a country that is venezuela ' s no . 1 trade partner , must be hee ##ded , as well as recommendations by the church and the nation , which is demanding a rec ##ti ##fication .
+Expected: a rec ##ti ##fication ; is demanding ; POS
+Predicted: venezuela ; recommendation ; NEG ; 0.4826875
+
+if to this , we add the president ' s constant aggressive attitude and readiness to establish ties between venezuela and parasitic economies that give us nothing , but fulfill his political commitments , we will very likely continue to lose our edge in the us market . "
+Expected: establish ties between venezuela and parasitic economies ; readiness to establish ties ; POS
+Predicted: establish ties between venezuela ; constant aggressive attitude and readiness ; NEG ; 0.7244482
+
+in march 2001 , the us administration opposed the protocol by saying that it contra ##ven ##es us economic interests , a decision slammed by european union countries at the time .
+Expected: the protocol ; opposed ; NEG | a decision ; slammed by ; NEG
+Predicted: the protocol ; opposed ; NEG ; 0.98850644 | it ; decision slammed ; NEG ; 0.49178317
+
+the prisoners are here because the military considers them " hard - core " terrorists - willing to escape , to kill themselves and others .
+Expected: them ; considers ; NEU
+Predicted: escape , to kill themselves and others ; considers ; NEU ; 0.69241655
+
+the sign to ##uts the area ' s wildlife - the brown pe ##lica ##n , the anti ##lle ##an mana ##tee , the bottle ##nos ##e dolphin , the hawks ##bill turtle .
+Expected: the area ' s wildlife ; to ##uts ; NEU
+Predicted: the sign ; to ##uts ; POS ; 0.6343111
+
+the last time the pentagon released pictures of the detainees - on their knees , wearing the go ##ggles , and surrounded by guards - the images created an international up ##ro ##ar .
+Expected: the images ; up ##ro ##ar ; NEG
+Predicted: the images ; up ##ro ##ar ; NEG ; 0.9921634
+
+as a chaplain we approach them as a human being .
+Expected: them ; approach ; NEU
+Predicted: them as a human being ; approach ; NEU ; 0.6221871
+
+" we do n ' t hate the sinn ##er , " he says , " but we hate the sin . "
+Expected: the sinn ##er ; hate ; NEG
+Predicted: the sinn ##er ; do n ' t hate ; NEG ; 0.998131 | the sin ; hate ; NEG ; 0.8376082
+
+" that ' s the hope that they have , that god is their only hope .
+Expected: that ; hope ; POS
+Predicted: god ; hope ; POS ; 0.9779683
+
+some guards do n ' t want to talk about their views of the prisoners .
+Expected: talk about their views of the prisoners ; do n ' t want ; NEG
+Predicted: talk about their views of the prisoners ; do n ' t want ; NEG ; 0.998357
+
+" wish you could be with your family , " one child has written .
+Expected: you could be with your family ; wish ; NEU
+Predicted: you could be with your family ; wish ; POS ; 0.9971693
+
+she often finds herself thinking , " oh , my god , they could be related to this or related to that .
+Expected: they ; thinking ; NEG
+Predicted: they could be related to this or related to that ; often finds herself thinking ; NEU ; 0.48466885
+
+indeed , the patient invited the surgeon for a cup of tea after the operation .
+Expected: the surgeon ; invited ; NEU
+Predicted: a cup of tea after the operation ; invited ; POS ; 0.98530734
+
+while calm has returned to fleet hospital 20 , officials elsewhere on the base are bracing for what they say may be inevitable : the death of one of the detainees .
+Expected: the death of one of the detainees ; are bracing ; NEG
+Predicted: the death of one of the detainees ; are bracing ; NEG ; 0.44563317
+
+the no ##uve ##l ob ##ser ##vate ##ur said that beijing is unlikely to annex taiwan by force , despite its deployment of missiles along its coastal provinces opposite taiwan , but is instead resort ##ing to smarter tactics , bringing the taiwan authorities to heel through taiwan businessmen who are eager to explore the mainland chinese market .
+Expected: explore the mainland chinese market ; are eager ; POS
+Predicted: explore the mainland chinese market ; are eager ; POS ; 0.585646
+
+the weekly said that mainland china has attracted more than us $ 50 billion in investment from taiwan thus far , while the taipei authorities bowed to pressure from its own businessmen to lift restrictions on investment in mainland china in may , a move expected to speed up the flow of taiwan capital to its arch rival .
+Expected: lift restrictions on investment in mainland china in may ; pressure from ; NEU
+Predicted: to lift restrictions on investment in mainland china in may ; pressure ; NEG ; 0.6282746
+
+another factor which might deter beijing ' s military advent ##uri ##sm in the taiwan strait is washington ' s " readiness to fight beijing for taiwan , " which will bear witness to washington ' s determination to remain a power in asia , according to the magazine .
+Expected: fight beijing for taiwan ; readiness to fight ; NEU | taiwan ; readiness to fight ; NEU | remain a power in asia ; determination ; NEU
+Predicted: military advent ##uri ##sm in the taiwan strait ; readiness to fight ; POS ; 0.7072421
+
+but beijing ' s leaders are not likely to blink on the issue either because an independent state in taiwan would boost the sc ##hism ##s in tibet and xinjiang and threaten the regime in beijing , the magazine claimed .
+Expected: an independent state in taiwan ; claimed ; NEU
+Predicted: an independent state in taiwan ; claimed ; NEG ; 0.61854637 | an independent state in taiwan ; sc ##hism ##s ; NEG ; 0.66654897
+
+lawyers for the survivors , who have filed a complaint against sharon in belgium , said this .
+Expected: sharon ; have filed a complaint ; NEG
+Predicted: sharon in belgium ; have filed a complaint ; NEG ; 0.5493897
+
+on behalf of some palestinian survivors , lawyers luc wall ##ey ##n and michael ve ##rh ##ae ##gh ##e on 18 june filed a complaint with the brussels public prosecution office against sharon and other israeli and lebanese persons deemed responsible for the massacre ##s in beirut .
+Expected: sharon and other israeli and lebanese persons ; filed a complaint ; NEG | sharon and other israeli and lebanese persons ; deemed responsible ; NEU
+Predicted: sharon and other israeli and lebanese persons ; filed a complaint ; NEU ; 0.65565133
+
+it published a report , but not all the documents and interrogation reports were released , because they were deemed damaging to the state ' s interests .
+Expected: they ; were deemed ; NEU
+Predicted: interrogation reports were released ; were deemed ; NEG ; 0.61476976
+
+k ##hat ##ami cong ##rat ##ulates venezuelan nation for chavez ' return
+Expected: chavez ' return ; cong ##rat ##ulates ; POS
+Predicted: venezuelan nation for chavez ' return ; cong ##rat ##ulates ; POS ; 0.9962459
+
+the iranian president also expressed the hope that with the return of president chavez the venezuelan government would be able to achieve its ex ##al ##ted objectives with the support of the people .
+Expected: with the return of president chavez the venezuelan government would be able to achieve its ex ##al ##ted objectives with the support of the people ; expressed the hope ; POS | the venezuelan government ; expressed the hope ; POS | the venezuelan government ; the support of ; POS
+Predicted: with ; expressed the hope ; POS ; 0.97964376 | president chavez ; expressed the hope ; POS ; 0.91297245
+
+referring to the objective of those who were behind the military coup in venezuela , chavez said they w ##wan ##ted to have venezuela come out from the organization of the petroleum export ##ing countries ( op ##ec ) and therefore tried to produce more oil in order to undermine the organization .
+Expected: have venezuela come out from the organization of the petroleum export ##ing countries ( op ##ec ) ; w ##wan ##ted ; POS | the organization of the petroleum export ##ing countries ( op ##ec ) ; w ##wan ##ted ; POS
+Predicted: the organization of the petroleum export ##ing countries ; w ##wan ##ted ; POS ; 0.9226655
+
+president chavez thanked president k ##hat ##ami for his telephone call and wished success for the iranian government and nation .
+Expected: his telephone call ; thanked ; POS | the iranian government and nation ; wished success ; POS
+Predicted: his telephone call ; thanked ; POS ; 0.9885139 | success for the iranian government and nation ; wished ; POS ; 0.9889775
+
+the two presidents expressed a mutual desire to meet in the near future .
+Expected: meet in the near future ; expressed a mutual desire ; POS
+Predicted: meet in the near future ; expressed a mutual desire ; POS ; 0.9971334
+
+iran , sunday last week , sent congratulations to venezuela on hearing of the return of the rule of law and reins ##tate ##ment of the legitimate government of president chavez after the two - day military collapsed .
+Expected: the return of the rule of law and reins ##tate ##ment of the legitimate government of president chavez after the two - day military collapsed ; sent congratulations ; POS
+Predicted: government of president chavez ; sent congratulations ; POS ; 0.97044253
+
+on saturday it condemned the the ou ##ster of the democratic ##ally elected president of venezuela , saying , " resort ##ing to a coup and the use of force is not an acceptable method to bring about political change and the method is not in conform ##ity with the norms of present human society . "
+Expected: the ou ##ster of the democratic ##ally elected president of venezuela ; condemned ; NEG
+Predicted: the the ou ##ster of the democratic ##ally elected president ; condemned ; NEG ; 0.981977
+
+chavez , whose mandate was due to end in 2006 , was forced out of office by the country ' s armed forces who blamed him for the deaths of 15 people during demonstrations in the streets of central caracas against an opposition protest which later became violent .
+Expected: him ; blamed ; NEG
+Predicted: him ; blamed ; NEG ; 0.9726567
+
+chavez is a staunch supporter of oil production cuts in order to boost prices in the world market .
+Expected: oil production cuts ; is a staunch supporter of ; POS | boost prices in the world market ; is a staunch supporter of ; POS
+Predicted: oil production cuts ; staunch supporter ; POS ; 0.99436074
+
+the world community became hopeful that it would be possible to solve the problems that brought about the un convention on climate change ( 1994 ) .
+Expected: it would be possible to solve the problems that brought about the un convention on climate change ; became hopeful ; POS
+Predicted: the un convention on climate change ( 1994 ; became hopeful ; POS ; 0.44775236
+
+the first to raise the problem 40 years ago was the soviet scientist mikhail bud ##yk ##o , who saw that the curve on a graph of the air temperature of the earth ' s surface st ##rat ##um was in ##ex ##ora ##bly moving toward the upper right - hand corner .
+Expected: the curve on a graph of the air temperature of the earth ' s surface st ##rat ##um was in ##ex ##ora ##bly moving toward the upper right - hand corner ; to raise the problem ; NEG
+Predicted: the curve on a graph of the air temperature ; to raise the problem ; NEU ; 0.9193764
+
+rumor has it that the late author of the greenhouse model told academic ##ian ro ##ald sa ##g ##de ##yev : " i ' m a little uneasy when i tell the americans about my model , because it suggests that russia ' s agriculture will gain from global warming , while america ' s agriculture will lose . "
+Expected: when i tell the americans about my model ; a little uneasy ; NEG
+Predicted: i tell the americans about my model ; m a little uneasy ; NEG ; 0.9865254
+
+but the rich russian fields that stretch across the arctic zone are small comfort to human ##kind as a whole , so gu ##d ##kov proposes blocking off the sun with an umbrella that would be suspended in space .
+Expected: the rich russian fields that stretch across the arctic zone ; small comfort to ; NEU
+Predicted: the rich russian fields that stretch across the arctic zone ; proposes ; NEU ; 0.5113987
+
+indeed , the idea has not yet capt ##ivated the masses so much that they would remove their last trousers to start investing immediately in the project .
+Expected: the idea ; has not yet capt ##ivated ; NEU
+Predicted: the idea ; capt ##ivated ; NEG ; 0.8507797
+
+but the expert urged everyone to despair , " since control of global warming without russia is impossible ; the country is becoming the owner of the controlling block of shares . "
+Expected: control of global warming without russia is impossible ; to despair ; NEG | everyone to despair ; urged ; POS
+Predicted: global warming without russia ; urged everyone to despair ; NEG ; 0.9279806
+
+the speaker ' s ar ##dor was cooled by the well - known sergey ka ##pit ##sa , who is not inclined to give way to rap ##ture over the advantages promised to russia .
+Expected: the advantages promised to russia ; not inclined to give way to rap ##ture ; NEG
+Predicted: the advantages promised to russia ; ar ##dor was cooled ; POS ; 0.6917483 | the advantages promised to russia ; inclined to give way to rap ##ture ; POS ; 0.40093756
+
+he also questions the predicted amount of future warming .
+Expected: the predicted amount of future warming ; questions ; NEU
+Predicted: the predicted amount of future warming ; questions ; NEG ; 0.47168237
+
+in his view , it would not be a bad idea , when the scientific community draws up all sorts of forecast ##s and plans of action that flow out of them , for it to seek help from the science of pale ##oc ##lim ##ato ##logy and to gain a broad understanding of its data .
+Expected: help from the science of pale ##oc ##lim ##ato ##logy ; to seek help ; POS
+Predicted: understanding of its data ; view ; NEU ; 0.8809599
+
+no one wanted to argue with the master .
+Expected: argue with the master ; wanted to argue ; NEG
+Predicted: argue with the master ; wanted ; NEG ; 0.69115376
+
+so if anyone doubts whether russia should rat ##ify the document , he is deeply mistaken .
+Expected: russia should rat ##ify the document ; doubts ; NEU
+Predicted: russia should rat ##ify the document ; doubts ; NEG ; 0.3998893
+
+true , this position makes one think of ye ##mel ##ya ' s [ ill ##uso ##ry ] happiness and worry about the future development of the country ( both technological and economic as a whole ) .
+Expected: the future development of the country ( both technological and economic as a whole ) ; worry ; NEG
+Predicted: the future development of the country ; worry ; NEG ; 0.7016108
+
+fortunately , supporters of the idea of lying on a stove found an opponent .
+Expected: the idea of lying on a stove ; supporters ; POS | lying on a stove ; an opponent ; NEG
+Predicted: the idea of lying on a stove found an opponent ; supporters ; POS ; 0.55451417
+
+in short , if you do n ' t want to ex ##ert yourself , buy the neighbor ' s quota ; if you do n ' t want to spend the money , use your brain and invest in the development of nature - conservation technologies .
+Expected: spend the money ; do n ' t want ; NEG | ex ##ert yourself ; do n ' t want ; NEG
+Predicted: to ex ##ert yourself ; do n ' t want ; NEG ; 0.7398569
+
+" the assessment by the foreign ministry official is brilliant , " exclaimed aleksandr gin ##z ##burg , deputy director of the institute of atmospheric physics .
+Expected: the assessment by the foreign ministry official ; exclaimed ; NEU
+Predicted: the assessment by the foreign ministry official ; is brilliant , " exclaimed ; NEU ; 0.56123257
+
+should we be happy about climate change ?
+Expected: climate change ; be happy ; POS
+Predicted: climate change ; be happy ; NEG ; 0.54494214
+
+nasa hopes the covers will shield the motors against the temperature extremes of space and eliminate power spikes and stalls .
+Expected: the covers will shield the motors against the temperature extremes of space and eliminate power spikes and stalls ; hopes ; POS
+Predicted: the covers will shield the motors ; hopes ; POS ; 0.9663158
+
+we are asking you to consider sponsoring one of our families for this holiday season .
+Expected: you to consider sponsoring one of our families ; asking ; POS | sponsoring one of our families ; consider ; POS
+Predicted: sponsoring one of our families for this holiday season ; are asking you to consider ; POS ; 0.8892202
+
+if you are interested and would like more information , please contact lisa lu ##sk or marcia white ##d at 69 ##3 - 92 ##22 .
+Expected: more information ; would like ; POS
+Predicted: more information ; are interested ; POS ; 0.9909615
+
+we would like to have families matched with sponsors non later than xx ##xx .
+Expected: to have families matched with sponsors non later than xx ##xx ; would like ; POS
+Predicted: have families matched with sponsors non later than xx ##xx ; would like ; POS ; 0.9911568
+
+thank you for considering this opportunity to make this a memorable holiday season for a family in need .
+Expected: this opportunity to make this a memorable holiday season for a family in need ; considering ; POS
+Predicted: you for considering this opportunity ; thank ; POS ; 0.8809381
+
+in this report , when referring to iran , the united states repeated its allegations against the islamic republic but failed to provide any evidence in support of its basel ##ess charges .
+Expected: the islamic republic ; charges ; NEG | the islamic republic ; repeated its allegations ; NEG
+Predicted: the islamic republic ; allegations ; NEG ; 0.96530616
+
+among the un ##founded allegations was the claim that the islamic republic enjoys no social base and is an unpopular system because of its human rights violations .
+Expected: the islamic republic ; the claim ; NEG | the islamic republic ; allegations ; NEG
+Predicted: the islamic republic ; the claim ; NEG ; 0.795602
+
+it is quite clear that such basel ##ess accusations are only made to tar ##nish the image of iran , since it follows an independent policy and refuses to bow to u . s . domination .
+Expected: iran ; accusations ; NEG | u . s . domination ; refuses to bow ; NEG
+Predicted: iran ; accusations ; NEG ; 0.95825344
+
+it is interesting that the u . s . state department ' s annual global human rights report came this year at a time when washington itself is being sharply criticized by most countries and international human rights organizations for the killing of a large number of innocent civilians in afghanistan and the torture and inhuman treatment of the tale ##ban and al - qaeda prisoners at its military base at guantanamo bay .
+Expected: washington itself ; is being sharply criticized ; NEG
+Predicted: washington itself ; sharply criticized ; NEG ; 0.99306846
+
+indeed , the u . s administration , which claims to advocate international human rights issues and which tries to play the role of a world policeman , is actually condo ##ning the most at ##ro ##cious human rights violations committed in the united states itself .
+Expected: international human rights issues ; to advocate ; POS
+Predicted: international human rights issues ; condo ##ning ; NEG ; 0.67478955
+
+although the united states claims to advocate human rights , its harsh treatment of its own citizens and its he ##ge ##mon ##ic and bell ##iger ##ent policy towards other nations prove that the claim is just empty rhetoric .
+Expected: human rights ; to advocate ; POS
+Predicted: human rights ; advocate ; POS ; 0.6486754 | its own citizens ; harsh treatment ; NEG ; 0.6495022
+
+the republic of china [ roc ] government will push for chinese language education among the vast number of chinese communities in southeast asia , a high - ranking roc official said friday .
+Expected: chinese language education among the vast number of chinese communities in southeast asia ; will push for ; POS
+Predicted: chinese language education ; will push ; POS ; 0.9486522
+
+the minister went on to say that although mainland china is squeezing taiwan ' s development space in the world community with its huge resources and strong diplomacy , the roc can still break through its difficulties as long as it implements democracy and obtain ##s the support of overseas chinese communities .
+Expected: overseas chinese communities ; support of ; POS
+Predicted: taiwan ; support ; POS ; 0.9947813 | overseas chinese communities ; support ; POS ; 0.74032307
+
+a total di ##sen ##ga ##gement from the palestinians , complete with walls and razor wire , might provide israel its long - desired security and might free it of the burden of trying to control seven million desperate palestinians , any number of whom are willing to die in order to end the occupation .
+Expected: end the occupation ; are willing to die ; NEG | the occupation ; are willing to die ; NEG | security ; long - desired ; POS
+Predicted: a total di ##sen ##ga ##gement from the palestinians ; desired ; NEU ; 0.51690197
+
+by now , it should be clear to everyone that re ##tal ##iating against every act of palestinian resistance with israel ' s superior ability to punish palestinians does not provide the security that israelis are demanding .
+Expected: the security ; are demanding ; NEU
+Predicted: every act of palestinian resistance ; re ##tal ##iating ; NEU ; 0.46960148
+
+sharon says flatly he will not withdraw from a single settlement .
+Expected: withdraw from a single settlement ; says flatly ; NEU
+Predicted: a single settlement ; says flatly ; POS ; 0.64709747
+
+but israel has not once dei ##gned to propose that the palestinians live with the israelis as full citizens in the same sat ##e .
+Expected: the palestinians live with the israelis as full citizens in the same sat ##e ; has not once dei ##gned to propose ; POS
+Predicted: the israelis as full citizens in the same sat ##e ; dei ##gned to propose ; NEU ; 0.8145388
+
+israel does not want the palestinians to be part of the same country , or have one of their own .
+Expected: the palestinians to be part of the same country , or have one of their own ; does not want ; NEG | the palestinians ; does not want ; NEG
+Predicted: the palestinians to be part of the same country ; does not want ; NEG ; 0.736982
+
+does anybody believe that the int ##if ##ada can end as long as israel persist ##s in the occupation of the territories and palestinians are willing to die in large numbers to deny israel that privilege ?
+Expected: israel that privilege ; are willing to die ; NEG
+Predicted: the int ##if ##ada ; believe ; NEU ; 0.73316264
+
+that was a catalyst for pen ##t - up opposition to chavez .
+Expected: chavez ; pen ##t - up opposition ; NEG
+Predicted: chavez ; opposition ; NEG ; 0.87023515
+
+but then international pressure and renewed domestic support for chavez forced the generals to let him take office again .
+Expected: chavez ; support ; POS
+Predicted: chavez ; support for ; POS ; 0.9874784
+
+the bush administration all but welcomed the coup , tar ##nish ##ing the us role as a champion of democracy .
+Expected: the coup ; all but welcomed ; POS
+Predicted: the coup ; all but welcomed ; NEG ; 0.6232736
+
+soldiers unite to defend camp x - ray
+Expected: camp x - ray ; unite to defend ; POS
+Predicted: camp x - ray ; unite to defend ; POS ; 0.84813935
+
+american marines are bruised by criticism of their treatment of taliban and al - q ##a ' ed ##a prisoners , reports toby ha ##rn ##den in guantanamo bay , cuba
+Expected: criticism of their treatment of taliban and al - q ##a ' ed ##a prisoners ; are bruised ; NEG | their treatment of taliban and al - q ##a ' ed ##a prisoners ; criticism ; NEG
+Predicted: american marines ; criticism ; NEG ; 0.96347195
+
+on entering camp x - ray , one inmate vowed to kill an american before he left .
+Expected: an american ; vowed ; NEG
+Predicted: kill an american before he left ; vowed ; NEG ; 0.8656665
+
+like most marines and mps making up the 1 , 200 - strong force , staff sgt albrecht is angry at accusations that the detainees have been mist ##reate ##d .
+Expected: the detainees ; accusations ; NEG | accusations that the detainees have been mist ##reate ##d ; is angry ; NEG
+Predicted: accusations that the detainees have been mist ##reate ##d ; is angry ; NEG ; 0.99732995
+
+the detainees may be shack ##led , even as they are operated on at the gi ##tm ##o hospital , but they have brand new copies of the ko ##ran and lively salon anti - dan ##dr ##uf ##f sham ##poo that promises " a gentle formula to restore moisture to your beautiful clean hair " .
+Expected: lively salon anti - dan ##dr ##uf ##f sham ##poo ; promises ; NEU
+Predicted: the ko ##ran ; have brand new ; NEU ; 0.6152135
+
+when the detainees wanted water , they got water , said staff sgt monte webster , an mp .
+Expected: water ; wanted ; NEG
+Predicted: water , they got water ; wanted ; POS ; 0.8051942
+
+if i let it get to me i would have a very hard time doing my job . "
+Expected: it ; get to me ; NEG
+Predicted: i let it get to me ; would have a very hard time doing my job ; NEG ; 0.57627267
+
+" it bother ##s me , " he said .
+Expected: it ; bother ##s ; NEG
+Predicted: me ; bother ##s ; NEG ; 0.9846585
+
+they took pains to build a broad coalition , and tried to make it clear to their own population and the international community that the enemy is not islam but a very well defined and per ##verse interpretation of this religion .
+Expected: the enemy ; tried to make it clear ; NEU | a very well defined and per ##verse interpretation of this religion ; tried to make it clear ; NEU
+Predicted: to ; tried ; NEU ; 0.71121174
+
+however , the foundation warned that the number of pirate attacks , in the new form of sea jack ##ing ships for ransom , has been increasing .
+Expected: the number of pirate attacks , in the new form of sea jack ##ing ships for ransom , has been increasing ; warned ; NEG
+Predicted: the new form of sea jack ##ing ships for ransom ; warned ; NEG ; 0.97946745
+
+brazil and germany call for implementation of kyoto protocol by september
+Expected: implementation of kyoto protocol by september ; call for ; POS
+Predicted: implementation of kyoto protocol by september ; call for ; POS ; 0.9915352
+
+brasil ##ia , 14 ( age ##ncia brasil - ab ##r ) - in a document entitled partnership brasil - germany : action plan , both count ##ri ##res have expressed interest in seeing the kyoto protocol take effect by the sustainable development summit ( rio + 10 ) , that takes place in south africa , next september .
+Expected: seeing the kyoto protocol take effect by the sustainable development summit ( rio + 10 ) ; have expressed interest ; POS
+Predicted: seeing the kyoto protocol ; have expressed interest ; POS ; 0.98501843
+
+brazil and germany also call on other countries to rat ##ify the protocol and work to enforce it .
+Expected: other countries to rat ##ify the protocol and work to enforce it ; call on ; POS
+Predicted: to rat ##ify the protocol and work to enforce it ; call on ; POS ; 0.9715499
+
+the move comes after fever ##ed criticism - including from key us allies - stemming from alleged mist ##rea ##tment of taliban and al qaeda detainees the united states is holding at " camp x - ray " in guantanamo bay , cuba .
+Expected: the united states ; fever ##ed criticism ; NEG | the united states ; alleged ; NEU
+Predicted: the move ; fever ##ed criticism ; NEG ; 0.99373394 | alleged mist ##rea ##tment of taliban and al qaeda ; stemming ; NEG ; 0.5722152
+
+the official , who asked not to be identified , told news ##men that the first flight of captives in more than two weeks had left afghanistan late on wednesday and was to arrive at the isolated prison camp late on thursday .
+Expected: not to be identified ; asked ; POS
+Predicted: the official ; asked ; POS ; 0.5707444
+
+saudi officials have said that 100 are from the gulf kingdom and have demanded they be returned to face justice at home .
+Expected: they be returned to face justice at home ; have demanded ; NEU
+Predicted: they be returned to face justice at home ; have demanded ; POS ; 0.7335194
+
+moscow has expressed the wish to import more mongolian meat .
+Expected: import more mongolian meat ; has expressed the wish ; POS
+Predicted: import more mongolian meat ; has expressed the wish ; POS ; 0.9837982
+
+merchant vessels have been warned to operate several miles off the coast to prevent being detected by rebels along the northeastern sea ##board .
+Expected: being detected by rebels ; have been warned ; NEG
+Predicted: merchant vessels ; have been warned ; NEG ; 0.86828995
+
+the secret service was also interested in refueling the aircraft and par ##ing down the size of the traveling party .
+Expected: refueling the aircraft and par ##ing down the size of the traveling party ; interested ; POS
+Predicted: refueling the aircraft ; was also interested ; POS ; 0.90948385
+
+the secret service wanted a place where the president could spend several days , if necessary .
+Expected: a place where the president could spend several days , if necessary ; wanted ; POS
+Predicted: a place where the president could spend several days ; wanted ; POS ; 0.9454488
+
+in the late afternoon , the president over ##ru ##led his aide ##s ' continuing reluctance to have him return to washington and ordered air force one back to andrews air force base .
+Expected: to have him return to washington ; continuing reluctance ; NEG
+Predicted: have him return to washington ; continuing reluctance ; NEG ; 0.91159207
+
+on september 13 , president bush promised to provide $ 20 billion for new york city , in addition to the $ 20 billion his budget director had already guessed might be needed for the country as a whole .
+Expected: to provide $ 20 billion for new york city ; promised ; POS
+Predicted: provide $ 20 billion for new york city ; promised ; POS ; 0.59186465
+
+the inspector general of the justice department found significant problems in the way the 9 / 11 detainees were treated .
+Expected: in the way the 9 / 11 detainees were treated ; found significant problems ; POS
+Predicted: the way the 9 / 11 detainees were treated ; found significant problems ; NEU ; 0.5799524
+
+the issue came up in one of the many video tel ##ec ##on ##ference ##s of the inter ##age ##ncy group clarke chaired , and clarke said he approved of how the fbi was dealing with the matter when it came up for inter ##age ##ncy discussion at his level .
+Expected: how the fbi was dealing with the matter ; approved ; POS
+Predicted: the issue ; approved ; POS ; 0.94163173
+
+third , we believe that the fbi conducted a satisfactory screening of saudi nationals who left the united states on charter flights .
+Expected: screening of saudi nationals who left the united states on charter flights ; believe ; NEU
+Predicted: the fbi ; believe ; NEU ; 0.6584613
+
+arm ##ita ##ge said that the united states wanted pakistan to take seven steps :
+Expected: pakistan to take seven steps ; wanted ; POS
+Predicted: pakistan to take seven steps ; wanted ; POS ; 0.65462536
+
+to stop al qaeda operatives at its border and end all logistical support for bin lad ##in ; to give the united states blanket over ##flight and landing rights for all necessary military and intelligence operations ; to provide territorial access to u . s . and allied military intelligence and other personnel to conduct operations against al qaeda ; to provide the united states with intelligence information ; to continue to publicly condemn the terrorist acts ; to cut off all shipments of fuel to the taliban and stop recruits from going to afghanistan ; and , if the evidence implicated bin lad ##in and al qaeda and the taliban continued to harbor them , to break relations with the taliban government .
+Expected: the terrorist acts ; condemn ; NEG
+Predicted: the terrorist acts ; condemn ; NEG ; 0.96915597 | the terrorist acts ; to break relations ; NEG ; 0.64030623
+
+" mu ##sha ##rra ##f said the go ##p [ government of pakistan ] was making substantial concessions in allowing use of its territory and that he would pay a domestic price .
+Expected: allowing use of its territory ; said ; NEU
+Predicted: the go ##p [ government of pakistan ; would pay ; NEG ; 0.32346842
+
+the president wanted the united states to strike the taliban , step back , wait to see if they got the message , and hit them hard if they did not .
+Expected: the united states to strike the taliban , step back , wait to see if they got the message , and hit them hard if they did not ; wanted ; POS
+Predicted: the taliban ; wanted ; NEU ; 0.6747523
+
+it therefore detailed specific u . s . demands for the taliban : surrender bin lad ##in and his chief lieutenant ##s , including a ##yman al za ##wa ##hir ##i ; tell the united states what the taliban knew about al qaeda and its operations ; close all terrorist camps ; free all imprisoned foreigners ; and comply with all un security council resolutions .
+Expected: surrender bin lad ##in and his chief lieutenant ##s , including a ##yman al za ##wa ##hir ##i ; tell the united states what the taliban knew about al qaeda and its operations ; close all terrorist camps ; free all imprisoned foreigners ; and comply with all un security council resolutions ; demands ; POS
+Predicted: the taliban ; demands ; POS ; 0.53872526
+
+president bush later praised this proposal , saying it had been a turning point in his thinking .
+Expected: this proposal ; praised ; POS | it ; saying ; NEU
+Predicted: this proposal ; praised ; POS ; 0.9928532
+
+also by september 18 , powell had contacted 58 of his foreign counterparts and received offers of general aid , search - and - rescue equipment and personnel , and medical assistance teams .
+Expected: of general aid , search - and - rescue equipment and personnel , and medical assistance teams ; offers ; POS
+Predicted: teams ; received offers ; POS ; 0.97597003
+
+arguing that the case for links between iraq and al qaeda was weak , the memo pointed out that bin lad ##in resented the secular ##ism of saddam hussein ' s regime .
+Expected: the secular ##ism of saddam hussein ' s regime ; resented ; NEG
+Predicted: the secular ##ism of saddam hussein ' s regime ; resented ; NEG ; 0.9352743
+
+the notes indicate that he also told myers that he was not simply interested in striking empty training sites .
+Expected: striking empty training sites ; not simply interested ; NEG
+Predicted: striking empty training sites ; told myers that he was not simply interested ; POS ; 0.5026367
+
+the secretary said his instinct was to hit saddam hussein at the same time - not only bin lad ##in .
+Expected: hit saddam hussein at the same time - not only bin lad ##in ; instinct ; POS
+Predicted: to hit saddam hussein ; instinct ; NEU ; 0.94323856
+
+rice told us the administration was concerned that iraq would take advantage of the 9 / 11 attacks .
+Expected: iraq ; concerned ; NEG
+Predicted: iraq would take advantage of the 9 / 11 attacks ; was concerned ; NEG ; 0.9260013 | the 9 / 11 attacks ; was concerned ; NEG ; 0.50600505
+
+iraq ' s long - standing involvement in terrorism was cited , along with its interest in weapons of mass destruction .
+Expected: weapons of mass destruction ; interest ; POS
+Predicted: iraq ' s long - standing involvement in terrorism ; interest ; POS ; 0.6325876
+
+" paul was always of the view that iraq was a problem that had to be dealt with , " powell told us .
+Expected: iraq ; view ; NEU
+Predicted: iraq was a problem that had to be dealt with ; was always of the view ; NEU ; 0.94640493
+
+powell said that president bush did not give wolf ##ow ##itz ' s argument " much weight . "
+Expected: wolf ##ow ##itz ' s argument ; did not give wolf ##ow ##itz ' s argument " much weight ; NEG
+Predicted: wolf ##ow ##itz ' s argument ; give ; NEU ; 0.9580633
+
+though continuing to worry about iraq in the following week , powell said , president bush saw afghanistan as the priority .
+Expected: afghanistan ; saw ; NEU | iraq ; worry ; NEG
+Predicted: iraq ; continuing to worry ; NEU ; 0.58747125
+
+wolf ##ow ##itz contend ##ed that the odds were " far more " than 1 in 10 , citing saddam ' s praise for the attack , his long record of involvement in terrorism , and theories that ram ##zi you ##sef was an iraqi agent and iraq was behind the 1993 attack on the world trade center .
+Expected: the attack ; praise ; POS
+Predicted: the attack ; praise ; POS ; 0.9382455
+
+the next day , wolf ##ow ##itz renewed the argument , writing to rum ##sf ##eld about the interest of you ##sef ' s co - con ##sp ##ira ##tor in the 1995 manila air plot in crashing an explosives - laden plane into cia headquarters , and about information from a foreign government regarding iraqi ##s ' involvement in the attempted hi ##jack ##ing of a gulf air flight .
+Expected: the 1995 manila air plot ; interest ; POS
+Predicted: you ##sef ; renewed the argument ; NEU ; 0.87849426 | iraqi ##s ' involvement ; about information ; POS ; 0.44410938
+
+the cent ##com commander told us he renewed his appeal for further military planning to respond to iraqi moves shortly after 9 / 11 , both because he personally felt that iraq and al qaeda might be engaged in some form of col ##lusion and because he worried that saddam might take advantage of the attacks to move against his internal enemies in the northern or southern parts of iraq , where the united states was flying regular missions to enforce iraqi no - fly zones .
+Expected: saddam might take advantage of the attacks to move against his internal enemies ; worried ; NEG | iraq and al qaeda ; felt ; NEU
+Predicted: further military planning to respond to iraqi moves ; renewed his appeal ; POS ; 0.8808885 | iraqi moves shortly after 9 / 11 ; worried ; NEG ; 0.71204895
+
+the president blamed al qaeda for 9 / 11 and the 1998 embassy bombings and , for the first time , declared that al qaeda was " responsible for bombing the uss cole . "
+Expected: al qaeda ; blamed ; NEG
+Predicted: al qaeda ; blamed ; NEG ; 0.8080441
+
+" we ask every nation to join us . "
+Expected: every nation to join us ; ask ; POS
+Predicted: every nation to join us ; ask ; POS ; 0.9518176
+
+this occurred in the weeks following 9 / 11 , aided by overwhelming international sympathy for the united states .
+Expected: the united states ; overwhelming international sympathy ; POS
+Predicted: the united states ; overwhelming international sympathy ; POS ; 0.67304057
+
+in the meantime , two americans , a singer from the boy group ns ##yn ##c lance bass and former nasa associate administrator lori ga ##r ##ver , are completing medical examinations at the institute for biomedical problems in moscow to be okay ##ed for a flight .
+Expected: two americans , a singer from the boy group ns ##yn ##c lance bass and former nasa associate administrator lori ga ##r ##ver ; to be okay ##ed ; POS
+Predicted: a flight ; be okay ##ed ; POS ; 0.75941265
+
+it added that there is growing public interest in space tourism around the world , and that it is now seen as a vehicle for increasing personal popularity .
+Expected: space tourism ; growing public interest ; POS
+Predicted: space tourism around the world , and that it ; is growing public interest ; POS ; 0.9309215
+
+china critic ##izes us human rights report
+Expected: us human rights report ; critic ##izes ; NEG
+Predicted: us human rights report ; critic ##izes ; NEG ; 0.99949646
+
+beijing - china issued its annual report on human rights in the united states on monday , accusing washington of turning a blind eye to abuses in its own land while criticizing other countries for theirs .
+Expected: other countries ; criticizing ; NEG | washington ; accusing ; NEG
+Predicted: washington ; accusing ; NEG ; 0.98849803 | abuses in its own land ; criticizing ; NEG ; 0.5864193
+
+it also accused washington of " want ##on ##ly in ##fr ##inging " on the sovereignty of other nations through military operations and station ##ing us forces overseas , xi ##nh ##ua said .
+Expected: washington ; accused ; NEG
+Predicted: washington ; accused ; NEG ; 0.9898192
+
+china releases the report every year in response to a us state department report on global human rights conditions , which usually accuse ##s china of widespread abuses .
+Expected: china ; accuse ##s ; NEG
+Predicted: conditions ; usually accuse ##s ; NEG ; 0.8905805
+
+and he ##wl ##ett - packard co . recently , analysts have said sun also is vulnerable to competition from international business machines corp . , which plans to introduce a group of works ##tation ##s early next year , and next inc .
+Expected: sun ; have said ; NEG
+Predicted: sun ; have said ; NEG ; 0.5494946
+
+tuesday , april 9 : venezuela ' s largest trade union joins a strike by managers at the country ' s massive state - run oil company , demanding the resignation of a new board of directors appointed by president hugo chavez .
+Expected: the resignation of a new board of directors appointed by president hugo chavez ; demanding ; NEU | a new board of directors appointed by president hugo chavez ; demanding ; NEU | a new board of directors appointed by president hugo chavez ; strike ; NEG
+Predicted: managers ; joins a strike ; NEG ; 0.8956394 | a new board of directors appointed by president hugo chavez ; demanding ; POS ; 0.3109952
+
+thursday , april 11 : some 50 , 000 people , including business and union leaders , mass to demand chavez ' s resignation .
+Expected: chavez ' s resignation ; demand ; NEU | chavez ; demand ; NEU
+Predicted: chavez ' s resignation ; mass to demand ; NEU ; 0.41404995
+
+the government urges supporters to back chavez .
+Expected: chavez ; to back ; POS | supporters to back chavez ; urges ; POS
+Predicted: chavez ; urges supporters to back ; POS ; 0.9483836
+
+- chavez orders a suspension of broadcasts by private television networks opposed to him .
+Expected: a suspension of broadcasts by private television networks opposed to him ; orders ; NEU | broadcasts by private television networks opposed to him ; orders ; NEU | him ; opposed ; NEG
+Predicted: him ; opposed ; NEG ; 0.97639924
+
+- a group of 10 top military officials declare their opposition to chavez .
+Expected: chavez ; declare their opposition ; NEG
+Predicted: chavez ; declare their opposition ; NEG ; 0.90819526
+
+friday , april 12 : army commander general e ##fra ##in va ##zquez announces that chavez wants to resign .
+Expected: resign ; wants ; POS
+Predicted: resign ; wants ; POS ; 0.71637326
+
+- latin american leaders meeting in costa rica for a trade summit den ##oun ##ce venezuela ' s breakdown of constitutional order .
+Expected: venezuela ' s breakdown of constitutional order ; den ##oun ##ce ; NEG
+Predicted: venezuela ' s breakdown of constitutional order ; den ##oun ##ce ; NEG ; 0.99038285
+
+- pro - chavez riot ##ing breaks out in caracas and other parts of country .
+Expected: chavez ; pro - chavez riot ##ing ; NEU
+Predicted: - chavez ; pro ; POS ; 0.57875365
+
+- thousands of chavez supporters march towards the presidential palace .
+Expected: chavez ; supporters ; POS
+Predicted: the presidential palace ; march towards ; POS ; 0.39339727
+
+- top military leaders say their support of car ##mona is conditional upon his respecting democratic institutions and allowing chavez to leave venezuela freely .
+Expected: car ##mona ; support of ; POS | democratic institutions ; respecting ; POS
+Predicted: car ##mona ; support of ; POS ; 0.9861784 | democratic institutions and allowing chavez to leave venezuela freely ; respecting ; POS ; 0.55994874
+
+u . s . wants kyoto dropped from u . n . meet agenda
+Expected: kyoto dropped from u . n . meet agenda ; wants ; NEU | kyoto ; wants ; NEU
+Predicted: kyoto dropped from u . n . meet agenda ; wants ; NEG ; 0.47335938
+
+the united states , having pulled out of the kyoto protocol , is now object ##ing to its implementation in 2002 being mentioned as one of the goals for a global environmental agenda being drawn up at the united nations .
+Expected: its implementation in 2002 being mentioned as one of the goals for a global environmental agenda being drawn up at the united nations ; is now object ##ing ; NEG
+Predicted: its implementation in 2002 ; object ##ing ; POS ; 0.5502699
+
+the united states has demanded that word ##ing on bringing the kyoto protocol on global warming into effect in 2002 be excluded from the implementation documentation of a global environmental agenda being drawn up at the third session of the preparatory meeting of the u . n . conference on environment and development ( un ##ced ) , sources said thursday .
+Expected: word ##ing on bringing the kyoto protocol on global warming into effect in 2002 be excluded from the implementation documentation of a global environmental agenda ; has demanded ; NEU | the kyoto protocol ; has demanded ; NEU
+Predicted: word ##ing on bringing the kyoto protocol on global warming ; has demanded ; NEU ; 0.508289
+
+the latest move , a sign that the united states is stiff ##ening in its attitude toward the pact , will likely draw the ir ##e of other countries , including those in the european union as well as japan , which want an early imp ##lent ##ation of the kyoto protocol .
+Expected: an early imp ##lent ##ation of the kyoto protocol ; want ; POS | the latest move ; the ir ##e of ; NEG | the pact ; is stiff ##ening in its attitude toward ; NEG
+Predicted: the pact ; draw the ir ##e ; NEG ; 0.9979639 | an early imp ##lent ##ation of the kyoto protocol ; want ; NEU ; 0.54486185 | an early imp ##lent ##ation of the kyoto protocol ; want ; POS ; 0.5851815
+
+the u . s . government delegation , however , demanded that these statements in the chairman ' s paper be re ##word ##ed to say that countries would tackle climate change in line with the schedule agreed upon at cop ##7 ( the seventh session of cop ) , which mapped out implementation of the kyoto protocol at an appropriate time .
+Expected: these statements in the chairman ' s paper be re ##word ##ed to say that countries would tackle climate change in line with the schedule agreed upon at cop ##7 ( the seventh session of cop ) , which mapped out implementation of the kyoto protocol at an appropriate time ; demanded ; NEU
+Predicted: these statements in the chairman ' s paper ; demanded ; POS ; 0.5925883
+
+furthermore , concerning assistance to island countries , although the u . s . delegation agreed to establish satellite observation systems , it demanded that word ##ing about the impact of global warming be deleted .
+Expected: word ##ing about the impact of global warming be deleted ; demanded ; NEU | word ##ing about the impact of global warming ; demanded ; NEU
+Predicted: establish satellite observation systems ; agreed ; POS ; 0.9112426
+
+cabinet ok ' s ratification draft
+Expected: ratification draft ; ok ' s ; POS
+Predicted: draft ; ratification ; POS ; 0.7558576
+
+the cabinet endorsed for diet approval a bill for ratification of the kyoto protocol as well as a revision bill on measures to fight global warming .
+Expected: a bill for ratification of the kyoto protocol as well as a revision bill on measures to fight global warming ; endorsed ; POS | a bill for ratification of the kyoto protocol as well as a revision bill on measures to fight global warming ; approval ; POS
+Predicted: diet approval a bill for ratification of the kyoto protocol ; endorsed ; POS ; 0.98681706
+
+flores said , in a press conference , that " there is no reason to apologize " to president chavez , as demanded by salvador ##an opposition parties .
+Expected: apologize " to president chavez ; demanded ; NEU
+Predicted: president chavez ; apologize ; NEG ; 0.7933063
+
+the salvador ##ian president considered that the vote of confidence in the provisional government of car ##mona will not have any rep ##er ##cus ##sions in relations between el salvador and venezuela , which he described as " totally normal , we are not worried in that sense " .
+Expected: the vote of confidence in the provisional government of car ##mona will not have any rep ##er ##cus ##sions in relations between el salvador and venezuela ; are not worried ; POS
+Predicted: the provisional government of car ##mona ; vote of confidence ; POS ; 0.97009236 | the provisional government of car ##mona ; are not worried ; NEG ; 0.51464885
+
+asked what rep ##er ##cus ##sions an announced visit to venezuela - by leaders of the opposition party far ##ab ##und ##o mart ##i national liberation front ( fm ##ln , left wing ) - would have for his government , flores said that " my concern is that they may be seeking to cause damage to the country . "
+Expected: that they may be seeking to cause damage to the country ; concern ; NEG | they ; concern ; NEG
+Predicted: they may be seeking to cause damage to the country ; concern ; NEG ; 0.9922146
+
+the fm ##ln condemned last friday the actions against the government of chavez and celebrated his return to the power on sunday .
+Expected: his return to the power on sunday ; celebrated ; POS | chavez ; celebrated ; POS | the actions against the government of chavez ; condemned ; NEG | the government of chavez ; condemned ; NEG
+Predicted: the government of chavez ; condemned ; NEG ; 0.9792629 | the government of chavez ; celebrated ; POS ; 0.85723317
+
+they criticized flores for not condemning the ru ##pt ##ure of constitutional order in venezuela .
+Expected: flores ; criticized ; NEG
+Predicted: flores ; criticized ; NEG ; 0.9591819
+
+" there is no international problem , but rather a manipulation of the subject domestically ; and once again i want to ask the fm ##ln that it does not cause damage to this country .
+Expected: the fm ##ln that it does not cause damage to this country ; want to ask ; POS
+Predicted: the fm ##ln that it ; want to ask ; NEU ; 0.64414585 | the fm ##ln that it ; want to ask ; POS ; 0.48499307
+
+the med ##ic blamed the outbreak on congestion in the sl ##ums and failure to observe basic h ##y ##gie ##nic practices .
+Expected: congestion in the sl ##ums and failure to observe basic h ##y ##gie ##nic practices ; blamed ; NEG
+Predicted: 
+
+god gun control it ' s it ' s such a heated topic in the the and people get so emotional about it
+Expected: it ; so emotional ; NEU | it ; so emotional ; NEU
+Predicted: it ; get so emotional ; NEG ; 0.9972887
+
+ministry critic ##izes ' odi ##ous ' u . s . report
+Expected: u . s . report ; critic ##izes ; NEG
+Predicted: ' odi ##ous ' u . s . report ; critic ##izes ; NEG ; 0.9978867
+
+the foreign ministry said thursday that it was " surprised , to put it mildly " by the u . s . state department ' s criticism of russia ' s human rights record and objected in particular to the " odi ##ous " section on che ##ch ##nya .
+Expected: the u . s . state department ' s criticism of russia ' s human rights record ; was " surprised , to put it mildly ; NEG | section on che ##ch ##nya ; objected ; NEG | russia ' s human rights record ; criticism ; NEG
+Predicted: russia ' s human rights record ; was " surprised ; NEG ; 0.8591866 | russia ' s human rights record ; objected ; NEG ; 0.53287625
+
+russian security forces in che ##ch ##nya have " demonstrated little respect for basic human rights and there were credible reports of serious violations , including numerous reports of extra ##ju ##dic ##ial killings by both the government and che ##chen fighters , " the report said .
+Expected: basic human rights ; have " demonstrated little respect ; NEG
+Predicted: basic human rights ; demonstrated little respect ; NEG ; 0.5750441
+
+the foreign ministry said that the state department pro ##no ##unce ##ment on che ##ch ##nya reflected the efforts of " certain circles " in the united states that object to the new u . s . - russian partnership against international terrorism .
+Expected: the new u . s . - russian partnership against international terrorism ; object ; NEG
+Predicted: che ##ch ##nya ; pro ##no ##unce ##ment ; NEU ; 0.372608
+
+the ministry also suggested that before judging others ' rights records , the united states should investigate the situation at home , including the government ' s failure to rat ##ify some international human rights agreements and the use of the death penalty .
+Expected: the united states ; suggested ; NEU
+Predicted: before judging others ' rights records ; suggested ; NEU ; 0.7915407
+
+di giorgio , a food wholesale ##r and building products maker , is seeking alternatives to an un ##sol ##ici ##ted $ 32 - a - share tender offer of dig acquisition corp . , a unit of rose partners limited partnership .
+Expected: alternatives to an un ##sol ##ici ##ted $ 32 - a - share tender offer of dig acquisition corp . ; seeking ; NEU | un ##sol ##ici ##ted $ 32 - a - share tender offer ; seeking ; NEU
+Predicted: alternatives ; is seeking ; NEU ; 0.67466646
+
+united nations secretary - general ko ##fi anna ##n , the european high representative for the common foreign and security policy ( cf ##sp ) , javier sol ##ana , and the foreign ministers of spain and russia , jose ##p pi ##que and igor ivanov , on wednesday called on israel to " withdraw immediately " from all palestinian areas that have recently been occupied and collectively expressed their full support to the middle east mission us secretary of state colin powell is going to undertake .
+Expected: the middle east mission us secretary of state colin powell is going to undertake ; expressed ; NEU | israel to " withdraw immediately " from all palestinian areas that have recently been occupied ; called on ; NEU | the middle east mission us secretary of state colin powell is going to undertake ; full support ; POS
+Predicted: the middle east mission ; called on ; POS ; 0.9426809 | the middle east mission ; expressed their full support ; POS ; 0.66548157
+
+" this support will be an asset for mr colin powell , to whom we renew our support in his difficult mission , " according to the com ##mun ##ique of the spokesman of the french foreign affairs ministry , francois ri ##vas ##sea ##u .
+Expected: mr colin powell ; renew our support ; POS
+Predicted: his difficult mission ; renew our support ; POS ; 0.9936009
+
+romania has built the first reactor at the ce ##rna ##vo ##da n - plant on canadian technology , having opted for a can ##du type of reactor instead of russia ' s v ##ver - 4000 .
+Expected: a can ##du type of reactor ; having opted for ; POS
+Predicted: canadian technology ; opted ; POS ; 0.9312592
+
+the council of europe , the organization for security and cooperation in europe ( os ##ce ) and the un high commissioner for human rights said they were responding to recent " worrying developments " in some countries regarding human rights following the september 11 attacks .
+Expected: some countries ; said ; NEU
+Predicted: human rights following the september 11 attacks ; were responding ; NEU ; 0.62119883
+
+" while we recognize that the threat of terrorism requires specific measures , we call on all governments to refrain from any excessive steps which would violate fundamental freedoms and undermine legitimate dissent , " a joint statement issued in strasbourg , geneva and warsaw said .
+Expected: all governments to refrain from any excessive steps which would violate fundamental freedoms and undermine legitimate dissent ; call on ; POS
+Predicted: all governments ; call on ; POS ; 0.850724 | any excessive steps ; call on ; POS ; 0.45598772
+
+the killings prompted a call by london - based rights group amnesty international for an inquiry into the affair .
+Expected: an inquiry into the affair ; a call ; NEU
+Predicted: an inquiry into the affair ; prompted a call ; NEU ; 0.3959402
+
+these were : the right to life , freedom of expression and religion and freedom from torture , while it also urged that the retro ##active imp ##osition of more severe penalties for crimes be avoided .
+Expected: the retro ##active imp ##osition of more severe penalties for crimes be avoided ; urged ; POS
+Predicted: the retro ##active imp ##osition of more severe penalties ; urged ; POS ; 0.90932465
+
+the united states earlier this week hinted it may expand its war against terrorism beyond afghanistan to iraq , bringing swift criticism from both germany and france , who called for restraint in the future of the military campaign .
+Expected: the united states ; swift criticism from ; NEG | restraint in the future of the military campaign ; called for ; POS
+Predicted: restraint in the future of the military campaign ; swift criticism ; NEG ; 0.98816293 | restraint in the future of the military campaign ; called for ; POS ; 0.79220086 | the military campaign ; called for ; POS ; 0.41214022
+
+government yesterday trash ##ed a us human rights report which lists a number of human rights violations in namibia at the hands of security forces and government .
+Expected: a us human rights report which lists a number of human rights violations in namibia at the hands of security forces and government ; trash ##ed ; NEG
+Predicted: a us human rights report ; trash ##ed ; NEG ; 0.99516135
+
+during arrests and detention ##s , security force members reportedly tortured and beat citizens who were suspected of com ##plicity with unit ##a , " the report says .
+Expected: citizens ; were suspected of ; NEG
+Predicted: citizens ; were suspected ; NEG ; 0.89604527
+
+shi ##vu ##te said namibia attached " little value " to the latest us rights report as it carried a lot of factual ina ##cc ##ura ##cies and was a " mere reproduction of un ##ver ##ified and un ##su ##bs ##tan ##tia ##ted reports " .
+Expected: the latest us rights report ; attached " little value ; NEG | little ; attached " little value ; NEG
+Predicted: the latest us rights report ; attached " little value ; NEG ; 0.4665609
+
+" the government of japan appreciate ##s the announcement of climate change policy by the government of the united states on february 14 as a demonstration of its serious intention to address the issue of global warming , " foreign minister yo ##rik ##o ka ##wa ##guchi said in a statement .
+Expected: the announcement of climate change policy by the government of the united states ; appreciate ##s ; POS
+Predicted: the announcement of climate change policy ; appreciate ##s ; POS ; 0.95789516
+
+" while the government of japan intends to take all necessary steps to ensure the approval by the diet of the kyoto protocol as well as the enactment of the required legislation during the current diet session . . . it is important to establish a common rule in future in which all countries including the united states and developing countries participate , " the statement said .
+Expected: the kyoto protocol as well as the enactment of the required legislation during the current diet session ; the approval by ; POS
+Predicted: take ; intends ; POS ; 0.8354273
+
+but there ' s no reason why we should n ' t share good news at the same time .
+Expected: news ; share ; POS
+Predicted: t share good news at the same time ; should n ; NEG ; 0.7634427
+
+spanish premier , eu leader urge russia to rat ##ify kyoto protocol
+Expected: russia to rat ##ify kyoto protocol ; urge ; POS
+Predicted: russia to rat ##ify kyoto protocol ; leader urge ; POS ; 0.95770246
+
+the current president of the eu , jose maria az ##nar , and the president of the european commission , romano pro ##di , have handed over a letter to russian president vladimir putin in which they urge him to promote the ratification by russia of the kyoto protocol on climate change .
+Expected: him to promote the ratification by russia of the kyoto protocol on climate change ; urge ; POS | the ratification by russia of the kyoto protocol on climate change ; to promote ; POS
+Predicted: the kyoto protocol on climate change ; urge ; POS ; 0.9498714 | the kyoto protocol on climate change ; urge him to promote ; POS ; 0.7057654
+
+in the letter , to which e ##fe has had access , az ##nar and pro ##di explain that on 4 march the council of eu environment ministers agreed the adoption of a decision for approval of the kyoto protocol on climate change on behalf of the european community .
+Expected: the kyoto protocol on climate change ; decision for approval of ; NEU
+Predicted: the kyoto protocol on climate change ; agreed ; POS ; 0.71792173
+
+however , the letter emphasizes that for the kyoto protocol to be able to enter into force in the near future it is not enough for eu ratification to be guaranteed and they thus urge putin to ensure that russia also moves ahead with ratification .
+Expected: putin to ensure that russia also moves ahead with ratification ; urge ; POS
+Predicted: putin to ensure that russia also moves ahead with ratification ; emphasizes ; POS ; 0.65710807 | putin to ensure that russia also moves ahead with ratification ; thus urge ; POS ; 0.84313035
+
+they make this request " convinced of the russian federation ' s res ##ol ##ute commitment to the kyoto protocol " and believing that in this manner the eu and russia would continue to show the " leadership " which they believe they have shared " with such fruit ##ful results , in international cooperation in the fight against climate change " .
+Expected: results ; believe ; NEU
+Predicted: the kyoto protocol ; res ##ol ##ute commitment ; NEG ; 0.40057606 | the kyoto protocol ; believe ; POS ; 0.49239877
+
+in light of secretary of state al ##bright ' s imminent trip to the middle east , the new york times , los angeles times and washington post emphasize the deteriorating situation there .
+Expected: the middle east ; emphasize ; NEU
+Predicted: the deteriorating situation there ; emphasize ; NEG ; 0.83505696
+
+the ny ##t states that when al ##bright shows up on tuesday , she will " read the riot act " to ya ##ssi ##r ara ##fat about cracking down on terrorism .
+Expected: ya ##ssi ##r ara ##fat ; read the riot act ; NEG
+Predicted: ya ##ssi ##r ara ##fat about cracking down on terrorism ; will " read the riot act ; NEU ; 0.76309896
+
+her goal will be to get ara ##fat to come out decisive ##ly and publicly for peace with israel , telling him that there can be no more attempts at co - opt ##ing hamas , and " no more kisses " of its leaders .
+Expected: hamas ; telling ; NEU | its leaders ; telling ; NEU | peace with israel ; to come out decisive ##ly and publicly ; POS
+Predicted: ara ##fat ; to get ; NEU ; 0.7144209 | peace with israel ; publicly for ; POS ; 0.6302336
+
+give the ny ##t credit for getting mother teresa back on the front page and a bonus point for including some criticism of her in the story .
+Expected: mother ; criticism ; NEG
+Predicted: getting mother teresa back on the front page ; credit ; POS ; 0.9800751
+
+does n ' t that sound like celebrating a defeat rather than celebrating a victory ?
+Expected: a defeat ; celebrating ; POS | a victory ; celebrating ; POS
+Predicted: a victory ; sound like celebrating a defeat rather than celebrating ; POS ; 0.8680388
+
+given that ms . williams ' parents are rather protective of her and that she is a black in a still pretty - lilly - white sport , do n ' t be surprised if there ' s a bit of a complaint about this .
+Expected: this ; a bit of a complaint ; NEG | rather ; are rather protective ; NEU
+Predicted: her ; are rather protective ; POS ; 0.79263794
+
+having had the opportunity to tour camp x - ray last week , i offer america ' s critics a simple piece of advice :
+Expected: america ; critics ; NEG
+Predicted: to tour camp x - ray last week ; offer ; POS ; 0.54232013
+
+the chronic complain ##ers are outraged by , of all things , the treatment of the captured taliban and al qaeda terrorists being detained at guantanamo bay , cuba .
+Expected: the treatment of the captured taliban and al qaeda terrorists being detained at guantanamo bay , cuba ; are outraged ; NEG
+Predicted: cuba ; are outraged ; NEG ; 0.99680674
+
+they have absurd ##ly criticized as " inhuman ##e " the decision to temporarily place prison suits , handcuffs and blind ##fold ##s on the terrorists during transfer to protect the military personnel guarding them .
+Expected: the decision to temporarily place prison suits , handcuffs and blind ##fold ##s on the terrorists during transfer to protect the military personnel guarding them ; criticized ; NEG
+Predicted: they ; have absurd ##ly criticized ; NEG ; 0.98127294
+
+they have even demanded upgraded accommodations , seemingly forgetting that these are the leaders of a worldwide terrorist organization who have repeatedly vowed to kill innocent americans through war or terror .
+Expected: americans ; repeatedly vowed ; NEG | upgraded accommodations ; demanded ; NEU
+Predicted: kill innocent americans through war or terror ; have even demanded ; NEU ; 0.5639531 | kill innocent americans ; have repeatedly vowed ; NEG ; 0.445233
+
+it seems our critics would prefer that the taliban and al qaeda terrorists instead stay at the ri ##tz - carlton .
+Expected: the taliban and al qaeda terrorists instead stay at the ri ##tz - carlton ; would prefer ; POS
+Predicted: the taliban and al qaeda terrorists ; would prefer ; POS ; 0.587007
+
+as i stood just feet away from barbarians who only weeks earlier fired machine guns at american troops , inc ##ited bloody prison riots and ambush ##es and , boasted of plans to kill innocent people , i could not help but feel the grief and anguish of those who lost loved ones on september 11 or during the war in afghanistan .
+Expected: lost loved ones on september 11 or during the war in afghanistan ; grief and anguish ; NEG | barbarians who only weeks earlier fired machine guns at american troops , inc ##ited bloody prison riots and ambush ##es and , boasted of plans to kill innocent people ; could not help but feel ; NEG | ones ; loved ; POS | plans to kill innocent people ; boasted ; NEU | innocent people ; plans to kill ; NEG
+Predicted: september 11 or during the war in afghanistan ; feel ; NEG ; 0.9160477
+
+i have no doubt that , if given the opportunity , any of the detainees would have re ##lish ##ed the chance to kill me .
+Expected: the chance to kill me ; would have re ##lish ##ed ; NEU | the detainees ; have no doubt ; NEU
+Predicted: the chance to kill me ; have no doubt ; NEU ; 0.45861402
+
+indeed , since their arrival at camp - x - ray , some of the terrorists have openly threatened the marines who guard them and talk anxiously about returning home soon to continue terror ##izing the american people .
+Expected: returning home soon to continue terror ##izing the american people ; talk anxiously ; POS | the american people ; talk anxiously ; POS | the marines who guard them ; openly threatened ; NEG
+Predicted: returning home soon to continue terror ##izing the american people ; have openly threatened ; NEG ; 0.9523764 | returning home soon to continue terror ##izing the american people ; talk anxiously ; NEG ; 0.4269847
+
+already , intelligence gathered from other al qaeda detainees has uncovered potential plots to attack american em ##bas ##sies , nuclear power plants and public water facilities .
+Expected: american ; potential plots ; NEU
+Predicted: nuclear power plants and public water facilities ; potential plots ; NEG ; 0.52627283
+
+president bush and america deserve appreciation from all corners of the globe for leading the world in the war against terrorism and for making every nation safer .
+Expected: leading the world in the war against terrorism and for making every nation safer ; appreciation ; POS
+Predicted: president bush and america ; appreciation ; POS ; 0.98012996
+
+instead of le ##cturing the united states , our critics may better spend their time reminding others that if terrorists do n ' t want to be detained at camp x - ray , they should join the civilized world .
+Expected: be detained at camp x - ray ; do n ' t want ; NEG | the united states ; le ##cturing ; NEG
+Predicted: the united states ; le ##cturing ; NEG ; 0.9601674 | others ; do n ' t want ; NEG ; 0.42069653
+
+the international treaty to tackle climate change was first envisioned in kyoto four years ago , but due to the conflicting interests of developed and developing countries as well as other contentious issues such as emission reduction mechanisms and targets , it is yet to go into effect .
+Expected: the international treaty to tackle climate change ; envisioned ; NEU
+Predicted: the international treaty to tackle climate change ; conflicting interests ; NEG ; 0.8544252
+
+the bush administration fears the treaty will have a negative effect on its economy and maintains that developing countries , such as china and india , should also be subject to mandatory emission targets .
+Expected: the treaty will have a negative effect on its economy ; fears ; NEG
+Predicted: the treaty ; fears ; NEG ; 0.9903932
+
+the smart - boy techno ##logist is now being painted as the w ##hin ##y bully .
+Expected: the w ##hin ##y bully ; being painted ; NEG
+Predicted: the smart - boy techno ##logist ; being painted as the w ##hin ##y bully ; NEU ; 0.38233107
+
+ao ##l would never have existed if it had been founded here , i am sure , since its employees would have been mocked into ob ##scu ##rity by the dig ##era ##ti .
+Expected: its employees ; mocked into ob ##scu ##rity ; NEG
+Predicted: been founded here ; am sure ; NEU ; 0.68085515
+
+its aim of the 2001 report is to tar ##nish china ' s image and ex ##ert political pressure on the chinese government , human rights experts said at a seminar held by the china society for study of human rights ( cs ##sh ##r ) on friday .
+Expected: china ; aim ; NEU
+Predicted: the chinese government ; aim ; NEU ; 0.8133432
+
+" the united states was sl ##ander ##ing china again , " said xi ##rao - ni ##ma , a professor of tibetan history at the central university for nationalities .
+Expected: china ; was sl ##ander ##ing ; NEG
+Predicted: china ; was sl ##ander ##ing ; NEG ; 0.97572476
+
+but it nevertheless uses human rights issues to sl ##ander china , " cs ##sh ##r president zhou ju ##e said .
+Expected: china ; sl ##ander ; NEG
+Predicted: china ; sl ##ander ; NEG ; 0.98944575
+
+i have seen the truth there , which is very different from what some us politicians with ul ##ter ##ior motives have described , " said xi ##rao - ni ##ma , who is a tibetan .
+Expected: there ; have seen the truth ; NEU | some us politicians ; have seen the truth ; NEU
+Predicted: the truth there ; with ul ##ter ##ior motives have described ; NEU ; 0.67748785
+
+after visiting the region several times , italian senator ren ##zo gu ##bert , praised the chinese government ' s efforts to protect the indigenous cultural and religious heritage while developing the local economy .
+Expected: the chinese government ' s efforts to protect the indigenous cultural and religious heritage while developing the local economy ; praised ; POS
+Predicted: the chinese government ' s efforts ; praised ; POS ; 0.98504686
+
+after a visit to tibet in 2000 , the italian parliamentary delegation issued a press com ##mun ##ique agreeing that the development of tibet is far better than what has been reported by some western media .
+Expected: the development of tibet ; agreeing ; POS
+Predicted: the development of tibet ; has been reported ; POS ; 0.6694793
+
+the italian senator ' s words are in sharp contrast to what was contained in the so - called china human rights report compiled by the united states , which blindly accuse ##s china of restricting religious freedom in tibet .
+Expected: china ; words are in sharp contrast ; NEU | china ; accuse ##s ; NEG
+Predicted: china of restricting religious freedom in tibet ; blindly accuse ##s ; NEG ; 0.9113251
+
+" the ' shout ##ers ' claim they are bigger than jesus . "
+Expected: they ; claim ; NEU
+Predicted: they are bigger than jesus ; claim ; NEU ; 0.9398871
+
+the us human rights report also accuse ##s china of taking advantage of anti - terrorism campaigns to crack ##down on ethnic group people living in the xinjiang u ##y ##gur autonomous region .
+Expected: china ; accuse ##s ; NEG
+Predicted: china ; accuse ##s ; NEG ; 0.9755053
+
+it said the united states fears " a spill ##over from the anti - terrorist campaign in afghanistan and a perceived opportunity to leg ##iti ##mi ##ze measures against the muslim ui ##gh ##ur activists under the anti - terrorism umbrella . "
+Expected: a spill ##over from the anti - terrorist campaign in afghanistan and a perceived opportunity to leg ##iti ##mi ##ze measures against the muslim ui ##gh ##ur activists under the anti - terrorism umbrella ; fears ; NEG
+Predicted: a spill ##over ; fears ; NEG ; 0.989776
+
+those that want to sec ##ede from the nation and engage in terrorist activities are terrorists , not any particular ethnic group , " said ma da ##zh ##eng , director of the xinjiang u ##y ##gur autonomous region ' s development research institute at the chinese academy of social sciences .
+Expected: to sec ##ede from the nation and engage in terrorist activities ; want ; NEU | the nation ; want ; NEU
+Predicted: sec ##ede from the nation and engage in terrorist activities ; want ; NEU ; 0.52607864
+
+reporting on the conversation , ely ##see [ presidency ] spoke ##sw ##oman catherine colon ##na said that the head of state had " expressed the hope that the argentine authorities will know how to make the choices needed for their country ' s future " .
+Expected: the argentine authorities will know how to make the choices needed for their country ' s future ; had " expressed the hope ; POS
+Predicted: the argentine authorities ; expressed the hope ; POS ; 0.9790324
+
+" france , like its partners , is in contact with international financial institutions , " the president said , " and is ready to support the action of the im ##f with a view to attaining a solution to this crisis . "
+Expected: the action of the im ##f ; is ready to support ; POS
+Predicted: the action of the im ##f ; is ready to support ; POS ; 0.9758681
+
+as you begin that process this year , i would like to ask you to consider helping young people in marion county toward more positive youth development by becoming a supporter of the marion county commission on youth , inc . mccoy inc . , originally founded as a government agency but re - organized in 1993 as an independent not - for - profit , is a county - wide youth services coordinating , planning , and con ##ven ##ing agency .
+Expected: helping young people in marion county toward more positive youth development by becoming a supporter of the marion county commission on youth , ; would like to ask you to consider ; POS
+Predicted: becoming a supporter ; would like to ask ; POS ; 0.85080844
+
+it is our goal that every young person in marion county have access to the programs and services that can best assist them in their growth toward a positive adulthood .
+Expected: that every young person in marion county have access to the programs and services that can best assist them in their growth toward a positive adulthood ; goal ; POS
+Predicted: the programs and services ; goal ; POS ; 0.71886057
+
+i am hopeful that you as an individual and meridian insurance as a corporation might consider becoming sustaining supporters of mccoy .
+Expected: you as an individual and meridian insurance as a corporation might consider becoming sustaining supporters of mccoy ; am hopeful ; POS
+Predicted: mccoy ; am hopeful ; POS ; 0.7945732
+
+i obviously ca n ' t tell the whole story of mccoy in a single letter but i hope this provides an overview of the scope of our work .
+Expected: this provides an overview of the scope of our work ; hope ; POS
+Predicted: this provides an overview of the scope of our work ; hope ; POS ; 0.99727315
+
+in addition , court ##au ##ld ##s said the moves are logical because they will allow both the chemicals and textile businesses to focus more closely on core activities .
+Expected: the moves ; said ; POS
+Predicted: the moves ; said ; POS ; 0.51662415
+
+the iraqi side has pledged to " take into consideration the russian fuel and energy ministry ' s recommendations " related to allocation of oil export quota ##s to its russian partners .
+Expected: allocation of oil export quota ##s to its russian partners ; recommendations ; NEU
+Predicted: allocation of oil export quota ##s to its russian partners ; has pledged ; POS ; 0.6999294
+
+the concern is that a loose fit might damage the orbiting complex because of the force imp ##arte ##d by a docking shuttle .
+Expected: a loose fit might damage the orbiting complex because of the force imp ##arte ##d by a docking shuttle ; the concern ; NEG
+Predicted: a loose fit ; concern ; NEG ; 0.9650331
+

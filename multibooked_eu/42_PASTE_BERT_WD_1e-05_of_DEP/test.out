@@ -1,0 +1,692 @@
+aret ##a etxek ##o instal ##aku ##ntza ##k oso ego ##kia ##k dira baina batez ere tx ##aro ##k eman zi ##gun trat ##ua , ber ##oa eta gert ##uko ##a .
+Expected: aret ##a etxek ##o instal ##aku ##ntza ##k ; oso ego ##kia ##k ; POS | tx ##aro ##k eman zi ##gun trat ##ua ; gert ##uko ##a ; POS | tx ##aro ##k eman zi ##gun trat ##ua ; ber ##oa ; POS
+Predicted: aret ##a etxek ##o instal ##aku ##ntza ##k ; oso ego ##kia ##k ; POS ; 0.97785085 | aret ##a etxek ##o instal ##aku ##ntza ##k ; ber ##oa ; POS ; 0.66418195 | aret ##a etxek ##o instal ##aku ##ntza ##k ; gert ##uko ##a ; POS ; 0.8537288
+
+gainera et ##xea ##n egindako ard ##oa frog ##a dez ##ake ##zu ##e , gur ##i asko gus ##tatu za ##igu .
+Expected: et ##xea ##n egindako ard ##oa ; frog ##a dez ##ake ##zu ##e ; POS | et ##xea ##n egindako ard ##oa ; asko gus ##tatu ; POS
+Predicted: et ##xea ##n egindako ard ##oa ; gur ##i asko gus ##tatu ; POS ; 0.91189384
+
+lek ##u poli ##ta eta oso lasa ##ia . ard ##iak eta gaz ##ta zela ##n egiten den iku ##ste ##ko auk ##era . euskal ##dun ##ak dira
+Expected: lek ##u ; oso lasa ##ia . ard ##iak ; POS
+Predicted: lek ##u ; poli ##ta ; POS ; 0.9982343 | lek ##u ; oso lasa ##ia ; POS ; 0.9803821 | lek ##u ; ard ##iak ; POS ; 0.6062434
+
+bal ##koi ##an zi ##gar ##rok ##inak daude , hauts ##ont ##zia jarri behar .
+Expected: hauts ##ont ##zia ; jarri behar ; NEG
+Predicted: bal ##koi ##an ; zi ##gar ##rok ##inak ; POS ; 0.85435545
+
+wi ##ffi ##a es ##kas ##a .
+Expected: wi ##ffi ##a ; es ##kas ##a ; NEG
+Predicted: wi ##ffi ##a ; es ##kas ##a ; NEG ; 0.6139914
+
+oh ##eak oso oso eros ##o eta go ##xo ##ak .
+Expected: oh ##eak ; go ##xo ##ak ; POS | oh ##eak ; oso oso eros ##o ; POS
+Predicted: oh ##eak ; oso oso eros ##o ; POS ; 0.9975471 | oh ##eak ; go ##xo ##ak ; POS ; 0.87758017
+
+suka ##lde tx ##iki ##a oso ong ##i horni ##tua , ont ##zi gar ##big ##ail ##u eta gu ##zti .
+Expected: suka ##lde ; tx ##iki ##a ; NEG | suka ##lde ; oso ong ##i horni ##tua ; POS
+Predicted: suka ##lde ; oso ong ##i horni ##tua ; POS ; 0.9749156 | ont ##zi ; gu ##zti ; POS ; 0.95809865
+
+oso ong ##i pasa gen ##uen , tx ##aro eta tomas oso ong ##i porta ##tu ziren gur ##ekin , go ##sari ##ak oso goz ##oan zen ##den eta oso instal ##azio ona ##k zituen et ##xea .
+Expected: go ##sari ##ak ; oso goz ##oan ; POS | tx ##aro ; oso ong ##i porta ##tu ; POS | tomas ; oso ong ##i porta ##tu ; POS
+Predicted: tx ##aro eta tomas ; oso ong ##i porta ##tu ; POS ; 0.9995016 | et ##xea ; oso instal ##azio ona ##k ; POS ; 0.7261731
+
+kai ##xo aran ##t ##xa ! bean ##du baino seg ##uru , zein ond ##o pasa gen ##uen tx ##ope ##ben ##tan izan gin ##en 3 egun ##etan , nahiz eta eg ##ura ##ldi ##ak asko ez lagu ##ndu oso ond ##o mol ##dat ##u gin ##ek ing ##uru ##ak ez ##agu ##tzeko , nos ##ki aran ##t ##xar ##en gom ##endi ##oak jar ##rait ##uz .
+Expected: tx ##ope ##ben ##tan ; zein ond ##o pasa ; POS
+Predicted: eg ##ura ##ldi ##ak ; bean ##du baino seg ##uru ; POS ; 0.81096315
+
+gela oso poli ##ta , eta go ##sari ##a . . . . ai zen ##bat go ##gora ##tu gin ##en zur ##e go ##sari ##ta ##z new york - en ibi ##li gin ##en egun ##etan , igual ##eko ibi ##liko gina ##tek ##e , zur ##e go ##sari hori ##etako bat jan ondoren ! ! mu ##xu hau ##ndi bat la ##zka ##uti ##k
+Expected: gela ; oso poli ##ta ; POS
+Predicted: gela ; oso poli ##ta ; POS ; 0.995155 | gela ; oso poli ##ta , eta go ##sari ##a ; POS ; 0.6626928
+
+in ##oi ##z ah ##az ##tuk ##o ez dug ##un as ##te ##buru ##a iga ##ro dug ##ula jak ##ite ##a nahi gen ##uen .
+Expected: as ##te ##buru ##a ; in ##oi ##z ah ##az ##tuk ##o ez ; POS
+Predicted: as ##te ##buru ##a ; iga ##ro ; POS ; 0.6396474
+
+esp ##erien ##tzia poli ##ta izan da , eta egon zi ##ur noiz ##bai ##t bu ##elta ##tuk ##o gare ##la .
+Expected: esp ##erien ##tzia ; poli ##ta ; POS
+Predicted: esp ##erien ##tzia ; poli ##ta ; POS ; 0.99367493
+
+ond ##o af ##alt ##zen da , apa ##rka ##lek ##u handia dau ##ka eta nahi izan ez ##ker ##o oso goi ##z ematen diz ##ute go ##sari ##a , ni ##ri interes ##atzen za ##idan ##a men ##dir ##a lehenengo ordu ##an jo ##atek ##o .
+Expected: apa ##rka ##lek ##u ; handia dau ##ka ; POS
+Predicted: apa ##rka ##lek ##u ; handia dau ##ka ; POS ; 0.8249848
+
+eg ##ia esan , oso gom ##enda ##garri ##a eta bere ##zia dela esan ##go nuk ##e . oso giro informal ##a eta ja ##tor ##ra bene ##tan . bakar ##ka , bi ##kot ##ean ala familian joan izan ez ##ker ##o oso ond ##o dago . al ##di berean inguruko honda ##rt ##zet ##ara jo ##atek ##o auk ##era dago .
+Expected: giro ; ja ##tor ##ra ; POS
+Predicted: giro ; bere ##zia ; POS ; 0.97539854 | giro informal ##a eta ja ##tor ##ra ; bene ##tan ; POS ; 0.739148 | giro informal ##a eta ja ##tor ##ra ; bene ##tan . bakar ##ka ; POS ; 0.7807153 | ja ##tor ##ra ; bene ##tan . bakar ##ka ; POS ; 0.49868894
+
+kok ##ap ##en ona ( times square eta 5 . eto ##rb ##idea ##ren ond ##oan ) .
+Expected: kok ##ap ##en ; ona ; POS
+Predicted: kok ##ap ##en ; ona ; POS ; 0.99903595
+
+apart ##ament ##ua ong ##i ekipa ##tua eta gar ##bia .
+Expected: apart ##ament ##ua ; ong ##i ekipa ##tua ; POS | apart ##ament ##ua ; gar ##bia ; POS
+Predicted: apart ##ament ##ua ; ong ##i ekipa ##tua ; POS ; 0.9989404 | apart ##ament ##ua ; gar ##bia ; POS ; 0.99084395
+
+kale ##ra ematen duten gele ##tan traf ##ikoa ##ren zara ##ta ent ##zut ##en da goi ##zet ##an .
+Expected: kale ##ra ematen duten gele ##tan ; traf ##ikoa ##ren zara ##ta ent ##zut ##en ; NEG
+Predicted: kale ##ra ; ent ##zut ##en ; NEG ; 0.89192945
+
+kali ##tate / pre ##zio er ##lazi ##o ona du
+Expected: kali ##tate / pre ##zio er ##lazi ##o ; ona ; POS
+Predicted: kali ##tate / pre ##zio er ##lazi ##o ; ona ; POS ; 0.8935143
+
+ika ##raga ##rri gus ##tatu za ##igu et ##xea .
+Expected: et ##xea ; ika ##raga ##rri gus ##tatu ; POS
+Predicted: et ##xea ; gus ##tatu ; POS ; 0.9962876
+
+lau loge ##la ditu bak ##oit ##za bere bain ##uge ##lare ##kin .
+Expected: loge ##la ; bak ##oit ##za bere bain ##uge ##lare ##kin ; POS
+Predicted: loge ##la ; lau ; NEG ; 0.76111364
+
+gela ##k primera ##n dek ##ora ##tuta daude eta bain ##uge ##la dena ##k bere dut ##xa dute .
+Expected: gela ##k ; primera ##n dek ##ora ##tuta ; POS | bain ##uge ##la dena ##k ; bere dut ##xa dute ; POS
+Predicted: gela ##k ; primera ##n dek ##ora ##tuta ; POS ; 0.9997993 | bain ##uge ##la ; bere dut ##xa dute ; POS ; 0.63896865
+
+sek ##ula ez gera hor ##rela ##ko neka ##zal turismo ##ko et ##xe poli ##tean egon .
+Expected: neka ##zal turismo ##ko et ##xe ; poli ##tean ; POS
+Predicted: et ##xe ; poli ##tean egon ; POS ; 0.9593232
+
+eta etxek ##o ja ##bea mai ##ka oso ja ##tor ##ra da .
+Expected: etxek ##o ja ##bea mai ##ka ; oso ja ##tor ##ra ; POS
+Predicted: etxek ##o ja ##bea mai ##ka ; oso ja ##tor ##ra ; POS ; 0.9904627
+
+braga erdi ##gun ##etik oi ##nez oso gert ##u dagoen et ##xea .
+Expected: et ##xea ; erdi ##gun ##etik oi ##nez oso gert ##u ; POS
+Predicted: et ##xea ; erdi ##gun ##etik oi ##nez oso gert ##u ; POS ; 0.9701971
+
+terra ##za zo ##raga ##rria dau ##ka bertan ego ##teko , oto ##rdu ##ak egiteko , gau - giro ##az goz ##atze ##ko . . .
+Expected: terra ##za ; zo ##raga ##rria ; POS
+Predicted: terra ##za ; zo ##raga ##rria ; POS ; 0.7223641
+
+gainera , apa ##rka ##tzeko lek ##ua ego ##ten da atari pare ##an , eta hori braga ##n lux ##ua da ! ! !
+Expected: apa ##rka ##tzeko lek ##ua ; atari pare ##an ; POS
+Predicted: apa ##rka ##tzeko lek ##ua ; ego ##ten ; NEG ; 0.62417954
+
+eder ##ki ibi ##li gara eta eugenia bera oso at ##segi ##na da , abe ##git ##sua .
+Expected: eugenia ; oso at ##segi ##na ; POS | eugenia ; abe ##git ##sua ; POS
+Predicted: eugenia bera ; oso at ##segi ##na ; POS ; 0.9972886
+
+he ##zet ##asu ##n ap ##ur bat soma ##tu gen ##uen , beste ##la oso ond ##o dago .
+Expected: he ##zet ##asu ##n ; ap ##ur bat soma ##tu ; NEG
+Predicted: he ##zet ##asu ##n ; ap ##ur bat soma ##tu ; NEG ; 0.88658357
+
+berta ##ko andrea , clara , oso at ##segi ##na da eta informazio pil ##o bat eman zi ##gun .
+Expected: berta ##ko andrea ; oso at ##segi ##na ; POS | berta ##ko andrea ; informazio pil ##o bat eman ; POS
+Predicted: berta ##ko andrea ; oso at ##segi ##na ; POS ; 0.9998348 | berta ##ko andrea ; informazio pil ##o bat eman ; POS ; 0.66684204
+
+apart ##ament ##ua ond ##o ekipa ##tuta dago , batez ere suka ##lde ##a .
+Expected: apart ##ament ##ua ; ond ##o ekipa ##tuta ; POS | suka ##lde ##a ; ond ##o ekipa ##tuta ; POS
+Predicted: apart ##ament ##ua ; ond ##o ekipa ##tuta ; POS ; 0.9984799 | apart ##ament ##ua ; batez ere suka ##lde ##a ; POS ; 0.5191656
+
+komuna tx ##iki ##a da , baina pertsona bir ##ent ##zat nahi ##koa .
+Expected: komuna ; pertsona bir ##ent ##zat nahi ##koa ; POS | komuna ; tx ##iki ##a ; NEG
+Predicted: komuna ; tx ##iki ##a ; NEG ; 0.9968894 | komuna ; pertsona bir ##ent ##zat nahi ##koa ; NEG ; 0.77315253
+
+lar ##un ##bate ##an eg ##ura ##ldi ona izan gen ##uen pago ##rri ##ko para ##je eder ##rez goz ##atze ##ko , eta iga ##nde ##an , eur ##ia ari zuen ##ez , eder ##ki egon gin ##en et ##xea ##n ( medi ##ta ##zioa ##n , dan ##tza ##n , masa ##je ##ak elk ##arri ematen , eta got ##zone ##k pres ##tatu ##tako ba ##zka ##ri go ##xo ##a ja ##ten ) .
+Expected: et ##xea ##n ; eder ##ki egon ; POS | got ##zone ##k pres ##tatu ##tako ba ##zka ##ri ; go ##xo ##a ; POS | pago ##rri ##ko para ##je ; eder ##rez ; POS
+Predicted: pago ##rri ##ko para ##je eder ##rez goz ##atze ##ko ; lar ##un ##bate ##an eg ##ura ##ldi ona izan ; POS ; 0.9020984 | et ##xea ##n ; eder ##ki egon ; POS ; 0.5628435
+
+gom ##enda ##tu egiten diz ##uet pago ##rri , eta esp ##ero dut last ##er auk ##era iza ##tea egin ditu ##dan lagu ##n berri ##en etxeak ez ##agu ##tzeko ere : u ##xar ##te , tx ##ope ##ben ##ta , bisa ##lde . . . hai ##en berri eman ##go diz ##uet joan bez ##ain last ##er .
+Expected: pago ##rri ; gom ##enda ##tu egiten ; POS
+Predicted: pago ##rri ; gom ##enda ##tu ; POS ; 0.90628517
+
+et ##xea aur ##kit ##zea asko kost ##atu zit ##zai ##gun .
+Expected: et ##xea aur ##kit ##zea ; asko kost ##atu ; NEG
+Predicted: et ##xea aur ##kit ##zea ; asko kost ##atu ; NEG ; 0.85777026
+
+wi ##fia ##rekin gora ##beh ##era ##k izan geni ##tu ##en .
+Expected: wi ##fia ##rekin ; gora ##beh ##era ##k ; NEG
+Predicted: wi ##fia ##rekin ; gora ##beh ##era ##k ; NEG ; 0.7011864
+
+beste ##la , et ##xea za ##bala da eta tx ##uku ##n zegoen .
+Expected: et ##xea ; za ##bala ; POS | et ##xea ; tx ##uku ##n ; POS
+Predicted: et ##xea ; za ##bala ; POS ; 0.8736986 | et ##xea ; tx ##uku ##n ; POS ; 0.91391116
+
+loge ##la eros ##oak terra ##zare ##kin .
+Expected: loge ##la ; eros ##oak ; POS | loge ##la ; terra ##zare ##kin ; POS
+Predicted: loge ##la ; eros ##oak ; POS ; 0.8708135
+
+doa ##ko apa ##rka ##lek ##ua .
+Expected: apa ##rka ##lek ##ua ; doa ##ko ; POS
+Predicted: doa ##ko apa ##rka ##lek ##ua ; . ; POS ; 0.9982686
+
+kan ##pok ##o ige ##rile ##kua eta ber ##deg ##unea oso at ##segi ##nak .
+Expected: ber ##deg ##unea ; oso at ##segi ##nak ; POS | kan ##pok ##o ige ##rile ##kua ; oso at ##segi ##nak ; POS
+Predicted: kan ##pok ##o ; ige ##rile ##kua ; POS ; 0.9916408 | ber ##deg ##unea ; oso at ##segi ##nak ; POS ; 0.969921
+
+jan gu ##ztia oso go ##xo ##a eta bu ##ffet ##a iza ##teko kali ##tate ##zkoa .
+Expected: jan gu ##ztia ; oso go ##xo ##a ; POS | bu ##ffet ##a ; kali ##tate ##zkoa ; POS
+Predicted: jan gu ##ztia ; oso go ##xo ##a ; POS ; 0.90631914 | bu ##ffet ##a ; iza ##teko kali ##tate ##zkoa ; NEG ; 0.5332379 | bu ##ffet ##a ; iza ##teko kali ##tate ##zkoa ; POS ; 0.5851486
+
+jatetxe ##ko lang ##ile ##en jar ##rera oso at ##segi ##na .
+Expected: jatetxe ##ko lang ##ile ##en jar ##rera ; oso at ##segi ##na ; POS
+Predicted: jatetxe ##ko lang ##ile ##en jar ##rera ; oso at ##segi ##na ; POS ; 0.999332
+
+go ##sari ##a ond ##o baina beste munduko ezer .
+Expected: go ##sari ##a ; ond ##o ; POS | go ##sari ##a ; beste munduko ezer ; NEG
+Predicted: go ##sari ##a ; ond ##o ; POS ; 0.9211085
+
+hotel ##ak lasa ##i ego ##teko gun ##eak ditu , barr ##uan tab ##erna , kan ##po ##an terra ##za .
+Expected: hotel ##ak ; lasa ##i ego ##teko gun ##eak ditu ; POS
+Predicted: hotel ##ak ; lasa ##i ego ##teko ; POS ; 0.99659544
+
+kan ##pok ##o terra ##za oso ond ##o dek ##ora ##tuta dago eta gus ##tura ego ##ten da bertan ze ##rb ##ait hartzen .
+Expected: kan ##pok ##o terra ##za ; gus ##tura ego ##ten ; POS | kan ##pok ##o terra ##za ; oso ond ##o dek ##ora ##tuta ; POS
+Predicted: kan ##pok ##o terra ##za ; oso ond ##o dek ##ora ##tuta ; POS ; 0.9868074
+
+apart ##ament ##ua oso poli ##ta da .
+Expected: apart ##ament ##ua ; oso poli ##ta ; POS
+Predicted: apart ##ament ##ua ; oso poli ##ta ; POS ; 0.9948426
+
+kok ##ap ##ena ez ##in ho ##bea ; zen ##tro ##an eta edo ##zei ##n lek ##uta ##ra jo ##atek ##o komunikazio ona ##rekin .
+Expected: kok ##ap ##ena ; ez ##in ho ##bea ; POS | kok ##ap ##ena ; lek ##uta ##ra jo ##atek ##o komunikazio ona ##rekin ; POS | kok ##ap ##ena ; zen ##tro ##an ; POS
+Predicted: kok ##ap ##ena ; ez ##in ho ##bea ; POS ; 0.9591964 | kok ##ap ##ena ; zen ##tro ##an ; POS ; 0.56478345
+
+metro ##a , tran ##bia eta autobus ##ak bertan .
+Expected: metro ##a ; bertan ; POS | autobus ##ak ; bertan ; POS | tran ##bia ; bertan ; POS
+Predicted: metro ##a ; bertan ; POS ; 0.9980305 | metro ##a ; tran ##bia eta autobus ##ak bertan ; POS ; 0.8838459
+
+gaz ##telu ##a harri ##garri ##a eta herria oso eder ##ra .
+Expected: gaz ##telu ##a ; harri ##garri ##a ; POS | herria ; oso eder ##ra ; POS
+Predicted: gaz ##telu ##a ; harri ##garri ##a ; POS ; 0.9965675 | herria ; oso eder ##ra ; POS ; 0.9864587
+
+hotel ##ean dena ong ##i , ez ##in za ##io gehiago ##rik es ##katu .
+Expected: hotel ##ean dena ; ez ##in za ##io gehiago ##rik es ##katu ; POS | hotel ##ean dena ; ong ##i ; POS
+Predicted: hotel ##ean dena ; ez ##in za ##io gehiago ##rik es ##katu ; POS ; 0.82837
+
+ige ##rile ##kua ##n et ##zan ##da ego ##teko ese ##rle ##ku gut ##xi .
+Expected: ige ##rile ##kua ##n ; ego ##teko ese ##rle ##ku gut ##xi ; NEG
+Predicted: et ##zan ##da ego ##teko ese ##rle ##ku ; gut ##xi ; POS ; 0.5321324
+
+tren gel ##tok ##i bat du 5 minut ##ura eta bere ##hala iris ##ten da baina oi ##nez oso ur ##rut ##i dago .
+Expected: tren gel ##tok ##i bat ; du 5 minut ##ura ; POS
+Predicted: tren gel ##tok ##i ; 5 minut ##ura eta bere ##hala iris ##ten ; POS ; 0.95326185
+
+gert ##utas ##un hau gar ##rant ##zit ##sua da hur ##ren ##go egunean he ##gal ##dia bad ##uz ##u .
+Expected: gert ##utas ##un hau ; gar ##rant ##zit ##sua ; POS
+Predicted: gert ##utas ##un hau ; hur ##ren ##go ; POS ; 0.92640597
+
+loge ##la eta komuna handia ##k eta oso tx ##uku ##nak .
+Expected: komuna ; handia ##k ; POS | loge ##la ; handia ##k ; POS | komuna ; oso tx ##uku ##nak ; POS | loge ##la ; oso tx ##uku ##nak ; POS
+Predicted: loge ##la ; handia ##k ; POS ; 0.901125 | komuna ; handia ##k ; POS ; 0.8600949 | komuna ; oso tx ##uku ##nak ; POS ; 0.90900856
+
+go ##sari ##a zu ##zena es ##kai ##ntz ##en duten pre ##zio ##rako .
+Expected: go ##sari ##a ; zu ##zena es ##kai ##ntz ##en duten pre ##zio ##rako ; POS
+Predicted: go ##sari ##a ; zu ##zena ; POS ; 0.54896075
+
+ige ##rile ##kua ##n ere ##mua tx ##iki ##a da baina ust ##e baino at ##segi ##na ##goa ( arg ##azki ##etan beste ze ##rb ##ait ematen zuen , ez zi ##rud ##ien bela ##rdi ##rik zuen ##ik ) .
+Expected: ige ##rile ##kua ##n ; ust ##e baino at ##segi ##na ##goa ; POS | ige ##rile ##kua ##n ; tx ##iki ##a ; NEG
+Predicted: ige ##rile ##kua ##n ere ##mua ; tx ##iki ##a ; NEG ; 0.99716264 | ige ##rile ##kua ##n ere ##mua ; ust ##e baino at ##segi ##na ##goa ; POS ; 0.67817426 | arg ##azki ##etan ; beste ze ##rb ##ait ematen ; NEG ; 0.4266221
+
+sami ##ra eta bere familiak oso ond ##o hartu gai ##tuz ##te .
+Expected: bere familiak ; oso ond ##o hartu ; POS | sami ##ra ; oso ond ##o hartu ; POS
+Predicted: sami ##ra ; oso ond ##o ; POS ; 0.98685324
+
+et ##xea arles berta ##tik aparte sama ##r dago , eta gu ##k hor ##rega ##tik auk ##erat ##u gen ##uen , gero apa ##rka ##lek ##u ara ##zor ##ik ez iza ##teko .
+Expected: et ##xea ; arles berta ##tik aparte sama ##r ; NEG | et ##xea ; hor ##rega ##tik auk ##erat ##u ; POS | et ##xea ; apa ##rka ##lek ##u ara ##zor ##ik ez iza ##teko ; POS
+Predicted: et ##xea ; arles berta ##tik aparte sama ##r ; POS ; 0.9332811
+
+beste ##la , et ##xea ira ##gar ##kian ageri den bezala ##xe top ##atu dug ##u : ond ##o eta ego ##ki .
+Expected: et ##xea ; ego ##ki ; POS | et ##xea ; ira ##gar ##kian ageri den bezala ##xe ; POS | et ##xea ; ond ##o ; POS
+Predicted: et ##xea ; ond ##o ; POS ; 0.9857713 | et ##xea ; ego ##ki ; POS ; 0.7832959
+
+harr ##eran zeuden lang ##ile ##en arret ##a ez zen one ##na izan .
+Expected: harr ##eran zeuden lang ##ile ##en arret ##a ; ez zen one ##na izan ; NEG
+Predicted: harr ##eran zeuden lang ##ile ##en arret ##a ; ez zen one ##na ; POS ; 0.5885139
+
+zen ##tro ##tik hur ##bil , wi ##fi kone ##xio bi ##kai ##na eta nahi ##ko hotel eros ##oa .
+Expected: wi ##fi kone ##xio ; bi ##kai ##na ; POS
+Predicted: hotel ; zen ##tro ##tik hur ##bil ; POS ; 0.97261465 | wi ##fi kone ##xio ; bi ##kai ##na ; POS ; 0.6852752 | hotel ; nahi ##ko ; POS ; 0.68347865
+
+bene ##tan toki at ##segi ##na eta aten ##tz ##io ##a ez ##in ho ##bea .
+Expected: aten ##tz ##io ##a ; ez ##in ho ##bea ; POS
+Predicted: toki ; at ##segi ##na ; POS ; 0.942358 | aten ##tz ##io ##a ; ez ##in ho ##bea ; POS ; 0.8746332
+
+et ##xea iz ##ugar ##ria da , obra duel ##a gut ##xi egin dute , kris ##ton gusto ona ##rekin .
+Expected: et ##xea ; iz ##ugar ##ria ; POS | et ##xea ; kris ##ton gusto ona ##rekin ; POS | et ##xea ; duel ##a gut ##xi egin ; POS
+Predicted: et ##xea ; iz ##ugar ##ria ; POS ; 0.9932405 | obra ; duel ##a gut ##xi egin ; POS ; 0.631532 | kris ##ton gusto ; ona ##rekin ; POS ; 0.55801433
+
+et ##xe honetan behar duz ##un gu ##ztia aurkitu ##ko duz ##u .
+Expected: et ##xe honetan ; behar duz ##un gu ##ztia aurkitu ##ko ; POS
+Predicted: et ##xe ; honetan behar duz ##un gu ##ztia aurkitu ##ko ; POS ; 0.9262467
+
+gela bak ##oit ##zak bere komuna du , hau ez ##inho ##bea da ! !
+Expected: gela bak ##oit ##zak ; bere komuna du ; POS
+Predicted: gela bak ##oit ##zak ; bere komuna du ; POS ; 0.9170761
+
+oso gusto ##ra egon gara et ##xea ##n .
+Expected: et ##xea ##n ; oso gusto ##ra egon ; POS
+Predicted: gara et ##xea ##n ; oso gusto ##ra egon ; POS ; 0.9964259
+
+ing ##uru ika ##raga ##rria da , oso ibi ##lb ##ide poli ##ta eta erre ##zak daude , baita um ##e tx ##iki ##ekin egiteko ere .
+Expected: ing ##uru ; ika ##raga ##rria ; POS
+Predicted: ing ##uru ; ika ##raga ##rria ; POS ; 0.9855321 | ing ##uru ; erre ##zak ; POS ; 0.7747502
+
+mai ##ka oso ja ##tor ##ra da , den ##bora gu ##ztia ##n lagu ##ntz ##eko pres ##t .
+Expected: mai ##ka ; oso ja ##tor ##ra ; POS | mai ##ka ; den ##bora gu ##ztia ##n lagu ##ntz ##eko pres ##t ; POS
+Predicted: mai ##ka ; oso ja ##tor ##ra ; POS ; 0.9985373 | mai ##ka ; den ##bora gu ##ztia ##n lagu ##ntz ##eko pres ##t ; POS ; 0.90000355
+
+animalia ##k mai ##tag ##arri ##arak dira eta eure ##kin asko jol ##ast ##u gara .
+Expected: animalia ##k ; mai ##tag ##arri ##arak ; POS
+Predicted: animalia ##k ; mai ##tag ##arri ##arak ; POS ; 0.9657637 | eure ##kin ; asko jol ##ast ##u ; POS ; 0.46583322
+
+dena den auk ##era one ##na tx ##ir ##rin ##da ##z eg ##ite ##a da .
+Expected: tx ##ir ##rin ##da ##z eg ##ite ##a ; auk ##era one ##na ; POS
+Predicted: dena den auk ##era ; one ##na ; POS ; 0.5409058
+
+hotel ##a zo ##raga ##rria da .
+Expected: hotel ##a ; zo ##raga ##rria ; POS
+Predicted: hotel ##a ; zo ##raga ##rria ; POS ; 0.99928826
+
+be ##he ##kal ##dean dagoen tab ##erna , egon ##gel ##a eta jatetxe ##a ere ##mu ir ##eki ##a eta za ##bala dira .
+Expected: egon ##gel ##a ; za ##bala ; POS | jatetxe ##a ere ##mu ; za ##bala ; POS | be ##he ##kal ##dean dagoen tab ##erna ; za ##bala ; POS | egon ##gel ##a ; ir ##eki ##a ; POS | jatetxe ##a ere ##mu ; ir ##eki ##a ; POS | be ##he ##kal ##dean dagoen tab ##erna ; ir ##eki ##a ; POS
+Predicted: jatetxe ##a ; ir ##eki ##a ; POS ; 0.9204779 | jatetxe ##a ; za ##bala ; POS ; 0.9702186
+
+dek ##ora ##zio bere ##zia du baina era ##kar ##garri ##a .
+Expected: dek ##ora ##zio ; bere ##zia ; NEG | dek ##ora ##zio ; era ##kar ##garri ##a ; POS
+Predicted: dek ##ora ##zio ; bere ##zia du ; POS ; 0.50253797 | dek ##ora ##zio ; era ##kar ##garri ##a ; POS ; 0.48810536
+
+loge ##la ix ##ila eta eros ##oa .
+Expected: loge ##la ; ix ##ila ; POS | loge ##la ; eros ##oa ; POS
+Predicted: loge ##la ; ix ##ila ; POS ; 0.9732012 | loge ##la ; eros ##oa ; POS ; 0.9876446
+
+dek ##ora ##zio poli ##ta eta oh ##e oso eros ##oa .
+Expected: dek ##ora ##zio ; poli ##ta ; POS | oh ##e ; oso eros ##oa ; POS
+Predicted: dek ##ora ##zio ; poli ##ta ; POS ; 0.981671 | oh ##e ; oso eros ##oa ; POS ; 0.9249307
+
+komuna eta dut ##xa handia ##k .
+Expected: dut ##xa ; handia ##k ; POS | komuna ; handia ##k ; POS
+Predicted: komuna ; handia ##k ; POS ; 0.8693148
+
+go ##sari ##a apart ##a .
+Expected: go ##sari ##a ; apart ##a ; POS
+Predicted: go ##sari ##a ; apart ##a ; POS ; 0.99735534
+
+jak ##i ber ##oa , hot ##za , goz ##oa , gazi ##a . . . dene ##tik dago .
+Expected: jak ##i ; dene ##tik dago ; POS
+Predicted: jak ##i ; ber ##oa ; POS ; 0.9759878 | jak ##i ; goz ##oa ; POS ; 0.89165306 | jak ##i ; gazi ##a ; POS ; 0.77280897 | gazi ##a ; dene ##tik ; POS ; 0.8068138
+
+dena oso at ##segi ##na , harr ##era ##gile ##ak , gela , eros ##otas ##una , herria bera
+Expected: dena ; oso at ##segi ##na ; POS | eros ##otas ##una ; oso at ##segi ##na ; POS | herria bera ; oso at ##segi ##na ; POS | harr ##era ##gile ##ak ; oso at ##segi ##na ; POS | gela ; oso at ##segi ##na ; POS
+Predicted: dena ; oso at ##segi ##na ; POS ; 0.99972516 | gela ; eros ##otas ##una , herria bera ; POS ; 0.8260026 | herria ; bera ; POS ; 0.6187818
+
+ezer ai ##pat ##zeko ##tan , top ##atze ##ko izan geni ##tu ##en za ##ilta ##suna ##k jasa ##nda ##ko trat ##ua oso at ##segi ##na .
+Expected: jasa ##nda ##ko trat ##ua ; oso at ##segi ##na ; POS
+Predicted: trat ##ua ; oso at ##segi ##na ; POS ; 0.9798165
+
+instal ##azio ##ak eta gar ##bita ##suna apart ##a .
+Expected: gar ##bita ##suna ; apart ##a ; POS | instal ##azio ##ak ; apart ##a ; POS
+Predicted: instal ##azio ##ak ; gar ##bita ##suna apart ##a ; POS ; 0.98430103 | gar ##bita ##suna ; apart ##a ; POS ; 0.8657985
+
+kok ##ap ##ena ez ##in ho ##bea : honda ##rt ##za 15 km - ra ; al ##ghe ##ro 24 km - ra .
+Expected: kok ##ap ##ena ; ez ##in ho ##bea ; POS
+Predicted: kok ##ap ##ena ; ez ##in ho ##bea ; POS ; 0.8764545
+
+ez dago sein ##aler ##ik berta ##ra iris ##teko lek ##u moderno ##a , gar ##bia eta tx ##uku ##na .
+Expected: lek ##u ; tx ##uku ##na ; POS | lek ##u ; moderno ##a ; POS | lek ##u ; gar ##bia ; POS
+Predicted: lek ##u ; gar ##bia ; POS ; 0.9312634 | lek ##u ; tx ##uku ##na ; POS ; 0.60964847
+
+lang ##ilea ##k oso ja ##tor ##rak , lagu ##ntz ##eko pres ##t eta profesional ##ak .
+Expected: lang ##ilea ##k ; oso ja ##tor ##rak ; POS | lang ##ilea ##k ; profesional ##ak ; POS | lang ##ilea ##k ; lagu ##ntz ##eko pres ##t ; POS
+Predicted: lang ##ilea ##k ; oso ja ##tor ##rak ; POS ; 0.999572 | lang ##ilea ##k ; lagu ##ntz ##eko pres ##t ; POS ; 0.95227677
+
+apa ##rka ##lek ##ua : ate aur ##rean .
+Expected: apa ##rka ##lek ##ua ; ate aur ##rean ; POS
+Predicted: apa ##rka ##lek ##ua ; : ate aur ##rean ; POS ; 0.7625448
+
+oso ja ##tor ##ra eta lagu ##nko ##rra izan da trat ##ua anna , baina he ##gal ##dia bertan be ##hera gerat ##u zen lufthansa ##ren gre ##ba zela eta , . . .
+Expected: anna ; oso ja ##tor ##ra ; POS | anna ; lagu ##nko ##rra ; POS
+Predicted: trat ##ua ; lagu ##nko ##rra ; POS ; 0.9883917
+
+bakar ##t ##xo ##k et ##xea gar ##bi - gar ##bia eman ##go diz ##u eta bere et ##xea ##n za ##uden bitartean ah ##al duen gu ##ztia egin ##go du zur ##e egon ##aldi ##a at ##segi ##na iza ##teko .
+Expected: et ##xea ; gar ##bi - gar ##bia ; POS | bakar ##t ##xo ##k ; ah ##al duen gu ##ztia egin ##go du zur ##e egon ##aldi ##a at ##segi ##na iza ##teko ; POS
+Predicted: bakar ##t ##xo ##k et ##xea ; gar ##bi - gar ##bia eman ##go ; POS ; 0.97795016
+
+hen ##dai ##ako et ##xea eder ##ra da , urteko edo ##zei ##n sas ##oi ##an ego ##teko apr ##op ##osa .
+Expected: hen ##dai ##ako et ##xea ; eder ##ra ; POS | hen ##dai ##ako et ##xea ; urteko edo ##zei ##n sas ##oi ##an ego ##teko apr ##op ##osa ; POS
+Predicted: et ##xea ; eder ##ra ; POS ; 0.9988174 | et ##xea ; urteko edo ##zei ##n ; POS ; 0.65110034
+
+ud ##an , onda ##rra ##itz ##eko onda ##rt ##za pare ##gabe ##a duz ##u ur ##bil , lor ##ategi ##a et ##xe - inguruan , port ##xea kan ##po ##an ba ##zka ##ldu , af ##ald ##u eta lagu ##nek ##in dis ##fru ##tat ##zeko . . .
+Expected: onda ##rra ##itz ##eko onda ##rt ##za ; ur ##bil ; POS | onda ##rra ##itz ##eko onda ##rt ##za ; pare ##gabe ##a ; POS | port ##xea ; kan ##po ##an ba ##zka ##ldu , af ##ald ##u eta lagu ##nek ##in dis ##fru ##tat ##zeko ; POS | lor ##ategi ##a ; et ##xe - inguruan ; POS
+Predicted: ur ##bil ; pare ##gabe ##a ; POS ; 0.98798287 | ur ##bil , lor ##ategi ##a ; duz ##u ; POS ; 0.6371671 | lor ##ategi ##a ; et ##xe - inguruan ; POS ; 0.9447681 | port ##xea ; kan ##po ##an ; POS ; 0.7346932
+
+eta ne ##guan , berriz , tx ##imin ##i eder bat go ##xo go ##xo ego ##teko .
+Expected: tx ##imin ##i ; go ##xo go ##xo ego ##teko ; POS | tx ##imin ##i ; eder ; POS
+Predicted: tx ##imin ##i ; go ##xo go ##xo ego ##teko ; POS ; 0.9098228
+
+hen ##dai ##a ir ##un eta dono ##sti ##tik ur ##bil , ordu batera ir ##una edo bilbo ##tik .
+Expected: hen ##dai ##a ; ir ##un eta dono ##sti ##tik ur ##bil ; POS
+Predicted: hen ##dai ##a ; ir ##un ; POS ; 0.55360603
+
+bakar ##t ##xo pertsona gom ##enda ##garri ##a da , hartzen dituen kon ##pro ##mez ##uak bete egiten ditu .
+Expected: bakar ##t ##xo ; pertsona gom ##enda ##garri ##a ; POS | bakar ##t ##xo ; hartzen dituen kon ##pro ##mez ##uak bete egiten ditu ; POS
+Predicted: bakar ##t ##xo pertsona ; gom ##enda ##garri ##a ; POS ; 0.9079938
+
+gar ##bia eta eros ##oa . ost ##atu ##ko lang ##ilea ##k az ##kar ##rak eta at ##segi ##nak . oso gom ##enda ##garri ##a ,
+Expected: lang ##ilea ##k ; az ##kar ##rak ; POS | lang ##ilea ##k ; at ##segi ##nak . ; POS
+Predicted: ost ##atu ##ko lang ##ilea ##k ; gar ##bia ; POS ; 0.9588662 | ost ##atu ##ko lang ##ilea ##k ; eros ##oa ; POS ; 0.89462805 | ost ##atu ##ko lang ##ilea ##k ; az ##kar ##rak ; POS ; 0.69697297 | ost ##atu ##ko lang ##ilea ##k ; at ##segi ##nak ; POS ; 0.5677723
+
+egun ##eko menu ##a jan gen ##un eta bene ##tan tx ##arra ze ##gon .
+Expected: egun ##eko menu ##a ; bene ##tan tx ##arra ; NEG
+Predicted: egun ##eko menu ##a ; jan gen ##un eta bene ##tan tx ##arra ; POS ; 0.73676956
+
+gert ##u ez dago jatetxe edo denda ##rik .
+Expected: denda ##rik ; gert ##u ez dago ; NEG | jatetxe ; gert ##u ez dago ; NEG
+Predicted: jatetxe edo denda ##rik ; gert ##u ez dago ; NEG ; 0.73651344
+
+loge ##la ong ##i .
+Expected: loge ##la ; ong ##i ; POS
+Predicted: loge ##la ; ong ##i ; POS ; 0.54121614
+
+as ##te ##buru bat bai ##o bester ##ik ez gara egon ta josep ##ik em ##onda ##ko aten ##tz ##io ##a ta ahol ##kua ##k eder ##rak izan dira .
+Expected: ahol ##kua ##k ; eder ##rak ; POS | josep ##ik em ##onda ##ko aten ##tz ##io ##a ; eder ##rak ; POS
+Predicted: aten ##tz ##io ##a ; ta ahol ##kua ##k eder ##rak ; POS ; 0.990717
+
+loge ##lak oso ong ##i dek ##ora ##tua ##k ta tx ##uku ##n - tx ##uku ##n dana , go ##sari ##k oso go ##xo ##ak ta bet ##i kon ##pain ##ia one ##an .
+Expected: dana ; tx ##uku ##n - tx ##uku ##n ; POS | go ##sari ##k ; oso go ##xo ##ak ; POS | kon ##pain ##ia ; one ##an ; POS | loge ##lak ; oso ong ##i dek ##ora ##tua ##k ; POS
+Predicted: loge ##lak ; oso ong ##i dek ##ora ##tua ##k ; POS ; 0.98047 | loge ##lak ; tx ##uku ##n ; POS ; 0.5939441 | go ##sari ##k ; oso go ##xo ##ak ; POS ; 0.5527419
+
+mere ##zi du er ##rat ##zut ##ik pasa ##tia ta han ##t ##xe bertan egun batzuk iga ##rot ##ia .
+Expected: er ##rat ##zut ##ik pasa ##tia ta han ##t ##xe bertan egun batzuk iga ##rot ##ia ; mere ##zi du ; POS
+Predicted: er ##rat ##zut ##ik ; pasa ##tia ; POS ; 0.95058495
+
+loge ##leta ##n ez dago taki ##llar ##ik edo bana ##kak ##o gilt ##za ##pek ##o arma ##iru ##rik .
+Expected: bana ##kak ##o gilt ##za ##pek ##o arma ##iru ##rik ; ez dago ; NEG | taki ##llar ##ik ; ez dago ; NEG
+Predicted: taki ##llar ##ik ; ez dago ; NEG ; 0.9973527
+
+loge ##la parte ##katu batzuk oso handia ##k dira , baina beste batzuk oso tx ##iki ##ak eta oh ##e ge ##hie ##gi .
+Expected: beste batzuk ; oh ##e ge ##hie ##gi ; NEG | beste batzuk ; oso tx ##iki ##ak ; NEG | loge ##la parte ##katu batzuk ; oso handia ##k ; POS
+Predicted: loge ##la ; parte ##katu batzuk oso handia ##k ; NEG ; 0.841918 | loge ##la ; oso tx ##iki ##ak ; NEG ; 0.54548705
+
+loge ##lak nahi ##ko zi ##kin .
+Expected: loge ##lak ; nahi ##ko zi ##kin ; NEG
+Predicted: loge ##lak ; nahi ##ko zi ##kin ; NEG ; 0.52715886
+
+doa ##ko internet ##a ez da mot ##ele ##gia , eta abi ##adura hand ##ikoa eskuragarri dago , gehiago ord ##ain ##duz gero .
+Expected: doa ##ko internet ##a ; ez da mot ##ele ##gia ; POS | abi ##adura hand ##ikoa ; eskuragarri dago ; POS
+Predicted: doa ##ko internet ##a ; ez da mot ##ele ##gia ; NEG ; 0.98150533 | doa ##ko internet ##a ; mot ##ele ##gia ; NEG ; 0.76280934 | abi ##adura hand ##ikoa ; eskuragarri dago ; NEG ; 0.703386
+
+go ##sari ##a bi ##kai ##na da : fru ##ta , gaz ##ta , ur ##dai ##az ##pik ##o , ze ##real , ent ##sala ##da , olib ##a olio , arra ##ut ##z eta dene ##tari ##k , bu ##ffet ask ##ea 7 euro ##ren tru ##ke .
+Expected: go ##sari ##a ; bi ##kai ##na ; POS
+Predicted: go ##sari ##a ; bi ##kai ##na ; POS ; 0.99078256 | go ##sari ##a ; fru ##ta ; POS ; 0.62319535
+
+bi ##kai ##nek ##o hotel ##a , oso poli ##ta eta ond ##o kokatuta , honda ##rt ##za ond ##oan .
+Expected: hotel ##a ; honda ##rt ##za ond ##oan ; POS | hotel ##a ; ond ##o kokatuta ; POS | hotel ##a ; bi ##kai ##nek ##o ; POS | hotel ##a ; oso poli ##ta ; POS
+Predicted: hotel ##a ; bi ##kai ##nek ##o ; POS ; 0.9979771 | hotel ##a ; ond ##o kokatuta ; POS ; 0.99404174
+
+eros ##oa , moderno ##a eta behar duz ##un gu ##ztia ditu etxeak .
+Expected: etxeak ; behar duz ##un gu ##ztia ditu ; POS | etxeak ; eros ##oa ; POS | etxeak ; moderno ##a ; POS
+Predicted: etxeak ; eros ##oa ; POS ; 0.9997887 | behar duz ##un gu ##ztia ditu etxeak ; moderno ##a ; POS ; 0.9355822
+
+oso an ##fit ##rio ##i ona da tim .
+Expected: tim ; oso an ##fit ##rio ##i ona ; POS
+Predicted: tim ; oso an ##fit ##rio ##i ; POS ; 0.806198
+
+oso dot ##ore apa ##ind ##uta , tran ##bia gel ##tok ##ia gert ##u .
+Expected: tran ##bia gel ##tok ##ia ; gert ##u ; POS
+Predicted: gel ##tok ##ia ; gert ##u ; POS ; 0.9775348
+
+eur ##hos ##tal hotel ##aren ond ##oko onda ##rt ##za , playa de las fuentes , poli ##ta bada ere ez da oso eros ##oa .
+Expected: eur ##hos ##tal hotel ##aren ond ##oko onda ##rt ##za ; poli ##ta ; POS | eur ##hos ##tal hotel ##aren ond ##oko onda ##rt ##za ; ez da oso eros ##oa ; NEG
+Predicted: eur ##hos ##tal hotel ##aren ond ##oko onda ##rt ##za ; playa de las fuentes ; POS ; 0.97612256
+
+he ##zet ##asu ##n hand ##iko onda ##rt ##za da eta itu ##rri naturala ##k sort ##zen diren ##ez lur ##rean , zu ##loa ##k zeuden edo ##non eta zo ##rua ez zen oso uniforme ##a eta bera ##z ar ##risk ##uts ##ua .
+Expected: zo ##rua ; ez zen oso uniforme ##a ; NEG | zo ##rua ; ar ##risk ##uts ##ua ; NEG | zu ##loa ##k ; zeuden edo ##non ; NEG
+Predicted: zo ##rua ; he ##zet ##asu ##n hand ##iko onda ##rt ##za ; NEG ; 0.6793819 | zo ##rua ; itu ##rri naturala ##k ; NEG ; 0.69100213 | zo ##rua ; zu ##loa ##k ; NEG ; 0.8526951 | zo ##rua ; bera ##z ar ##risk ##uts ##ua ; NEG ; 0.80795765
+
+baina gert ##u bazi ##ren beste onda ##rt ##zak , eros ##oak eta ego ##kia ##k .
+Expected: beste onda ##rt ##zak ; ego ##kia ##k ; POS | beste onda ##rt ##zak ; gert ##u ; POS | beste onda ##rt ##zak ; eros ##oak ; POS
+Predicted: onda ##rt ##zak ; gert ##u ; POS ; 0.9942397 | onda ##rt ##zak , eros ##oak ; ego ##kia ##k ; POS ; 0.7661483
+
+dena oso ong ##i .
+Expected: dena ; oso ong ##i ; POS
+Predicted: dena ; oso ong ##i ; POS ; 0.9974552
+
+oso harr ##era ona , janari ##a primera ##koa , aten ##tz ##io ##a ez ##in ho ##bea , ze ##rb ##ait esa ##teko apartamentuak za ##har ##rak dire ##la baina oso gar ##bi eta tx ##uku ##nak .
+Expected: janari ##a ; primera ##koa ; POS | aten ##tz ##io ##a ; ez ##in ho ##bea ; POS | apartamentuak ; tx ##uku ##nak ; POS | apartamentuak ; oso gar ##bi ; POS | apartamentuak ; za ##har ##rak ; NEG
+Predicted: harr ##era ; primera ##koa ; POS ; 0.99606174 | aten ##tz ##io ##a ; ez ##in ho ##bea ; POS ; 0.84107554 | ze ##rb ##ait esa ##teko apartamentuak ; za ##har ##rak ; POS ; 0.6052958 | ze ##rb ##ait esa ##teko apartamentuak ; tx ##uku ##nak ; POS ; 0.6049017
+
+pis ##zina eta jardin ##a oso ong ##i eta lek ##ua pare ##gabe ##a pase ##atu eta egun bat ##zut ##an desk ##one ##ktat ##zeko .
+Expected: lek ##ua ; pare ##gabe ##a pase ##atu eta egun bat ##zut ##an desk ##one ##ktat ##zeko ; POS | jardin ##a ; oso ong ##i ; POS | pis ##zina ; oso ong ##i ; POS
+Predicted: pis ##zina ; oso ong ##i ; POS ; 0.99930775 | jardin ##a ; oso ong ##i ; POS ; 0.8979639 | lek ##ua ; pare ##gabe ##a pase ##atu ; POS ; 0.81507367
+
+lek ##u apr ##op ##osa dene ##tati ##k alde egiteko .
+Expected: lek ##u ; apr ##op ##osa dene ##tati ##k alde egiteko ; POS
+Predicted: lek ##u ; apr ##op ##osa dene ##tati ##k alde egiteko ; POS ; 0.9908941
+
+ta etxek ##o jen ##die ez ##in ja ##tor ##rag ##oa .
+Expected: etxek ##o jen ##die ; ez ##in ja ##tor ##rag ##oa ; POS
+Predicted: ta etxek ##o jen ##die ; ez ##in ja ##tor ##rag ##oa ; POS ; 0.8798566
+
+ja ##bea oso ja ##tor ##ra ta et ##xea oso ong ##i berriz ##tua !
+Expected: et ##xea ; oso ong ##i berriz ##tua ! ; POS | ja ##bea ; oso ja ##tor ##ra ; POS
+Predicted: ja ##bea ; oso ja ##tor ##ra ; POS ; 0.9757378 | et ##xea ; oso ong ##i berriz ##tua ! ; POS ; 0.90797
+
+lehen egunean wi ##fia ez ze ##bile ##n .
+Expected: wi ##fia ; ez ze ##bile ##n ; NEG
+Predicted: wi ##fia ; ez ze ##bile ##n ; NEG ; 0.9998043
+
+hiria eder ##ra da eta hotel ##a erdi - erdi ##an dago .
+Expected: hiria ; eder ##ra ; POS | hotel ##a ; erdi - erdi ##an ; POS
+Predicted: hiria ; eder ##ra ; POS ; 0.9948508 | hotel ##a ; erdi - erdi ##an ; POS ; 0.9466714
+
+ja ##be italia ##r sin ##pati ##koa dau ##ka eta eman zi ##gun gela hand ##i - handia zen .
+Expected: ja ##be italia ##r ; sin ##pati ##koa ; POS | eman zi ##gun gela ; hand ##i - handia ; POS
+Predicted: ja ##be ; italia ##r sin ##pati ##koa dau ##ka ; POS ; 0.9905736
+
+ur ##dai ##bai erdi ##n kokatuta dagoen ##ez , natura ##rekin bat egiten dez ##u eta men ##di punta ##n ego ##tea ##k ematen diz ##un lasa ##itas ##una ##k ez ##in da diru ##z ord ##ain ##du .
+Expected: men ##di punta ##n ego ##tea ##k ematen diz ##un lasa ##itas ##una ##k ; ez ##in da diru ##z ord ##ain ##du ; POS
+Predicted: lasa ##itas ##una ##k ; natura ##rekin bat egiten dez ##u ; POS ; 0.6963501
+
+et ##xea kamp ##oti ##k oso poli ##ta da eta pais ##aia ##k paradis ##iak ##uak , barr ##uti ##k ere oso poli ##ta da , dek ##ora ##zioa oso land ##ua dago eta loge ##la bak ##oit ##za bere xa ##rma bere ##zia dau ##ka .
+Expected: loge ##la bak ##oit ##za ; bere xa ##rma bere ##zia dau ##ka ; POS | et ##xea ; kamp ##oti ##k oso poli ##ta ; POS | dek ##ora ##zioa ; oso land ##ua ; POS | pais ##aia ##k ; paradis ##iak ##uak ; POS
+Predicted: et ##xea ; oso poli ##ta ; POS ; 0.99676263 | pais ##aia ##k ; paradis ##iak ##uak ; POS ; 0.9354183 | barr ##uti ##k ; oso poli ##ta ; POS ; 0.99248177 | dek ##ora ##zioa ; oso land ##ua ; POS ; 0.7494545 | dek ##ora ##zioa ; bere xa ##rma bere ##zia dau ##ka ; POS ; 0.58398277 | loge ##la bak ##oit ##za bere xa ##rma ; bere ##zia dau ##ka ; POS ; 0.5590434
+
+baino lur ##dei ##ako one ##na bere jabeak dira , pertsona oso at ##segi ##nak , ja ##tor ##rak ta oso ad ##eits ##uak , hor ##rela bai gusto ##ra .
+Expected: bere jabeak ; ja ##tor ##rak ; POS | bere jabeak ; pertsona oso at ##segi ##nak ; POS | bere jabeak ; oso ad ##eits ##uak ; POS | bere jabeak ; one ##na ; POS
+Predicted: lur ##dei ##ako one ##na bere jabeak dira , pertsona ; oso at ##segi ##nak ; POS ; 0.9946174 | pertsona ; oso at ##segi ##nak ; POS ; 0.7184183
+
+edo ##zei ##ni gom ##enda ##tzeko lek ##ua , mila es ##ker lur ##dei ##ako ##ei , lai ##ster it ##zuli ##ko gera . ( oso ona ##k toma ##tia ##k )
+Expected: lek ##ua ; edo ##zei ##ni gom ##enda ##tzeko ; POS | toma ##tia ##k ; oso ona ##k ; POS
+Predicted: lek ##ua ; edo ##zei ##ni gom ##enda ##tzeko ; POS ; 0.9848166
+
+bid ##ea helt ##zeko oso est ##ua da , ez da erre ##za beste kot ##xe batek ##in top ##atzen bazar ##a .
+Expected: bid ##ea helt ##zeko ; oso est ##ua ; NEG
+Predicted: bid ##ea ; ez da erre ##za ; NEG ; 0.7519215
+
+beste ##la dena primera ##n !
+Expected: dena ; primera ##n ! ; POS
+Predicted: dena ; primera ##n ! ; POS ; 0.9988446
+
+oso gus ##tura egon gin ##en , lek ##ua it ##zela da
+Expected: lek ##ua ; it ##zela ; POS
+Predicted: lek ##ua ; oso gus ##tura egon ; POS ; 0.9688071
+
+egun zo ##raga ##rria ##k pasa ditu ##gu bart ##zel ##onan eta apart ##ament ##u honek ze ##rik ##usi hau ##ndia izan du : oso ond ##o kokatuta dago , arg ##itas ##un hau ##ndia du eta lasa ##i lasa ##ia da .
+Expected: apart ##ament ##u honek ; lasa ##i lasa ##ia ; POS | apart ##ament ##u honek ; arg ##itas ##un hau ##ndia du ; POS | apart ##ament ##u honek ; oso ond ##o kokatuta ; POS | egun ; zo ##raga ##rria ##k pasa ; POS
+Predicted: apart ##ament ##u honek ; ze ##rik ##usi hau ##ndia ; POS ; 0.9811385 | apart ##ament ##u honek ; oso ond ##o kokatuta ; POS ; 0.69329965
+
+bain ##uet ##xea ##ren sin ##ple ##tas ##una , zen estilo ##koa , ale ##gia ; er ##lax ##atze ##ko eta go ##go ##eta egiteko oso apr ##op ##osa .
+Expected: bain ##uet ##xea ##ren ; zen estilo ##koa ; POS | bain ##uet ##xea ##ren ; sin ##ple ##tas ##una ; POS | bain ##uet ##xea ##ren ; er ##lax ##atze ##ko eta go ##go ##eta egiteko oso apr ##op ##osa ; POS
+Predicted: bain ##uet ##xea ##ren sin ##ple ##tas ##una ; estilo ##koa ; POS ; 0.9992675
+
+hain talde handia izan ##da , etxek ##o jabeak oh ##e gehiago jarri zi ##zki ##gun eta dena zegoen primera ##n .
+Expected: dena ; primera ##n ; POS
+Predicted: etxek ##o jabeak ; oh ##e gehiago jarri ; POS ; 0.9966737
+
+et ##xe ond ##oan dagoen tx ##oko ##an egon gin ##en den ##bora ge ##hien ##a , oso ond ##o ekipa ##tuta bai ##tze ##go ##en suka ##lde ##a eta han lasa ##i ego ##teko lek ##u apr ##op ##osen ##a dela ##ko .
+Expected: suka ##lde ##a ; oso ond ##o ekipa ##tuta ; POS | lek ##u ; lasa ##i ego ##teko ; POS | lek ##u ; apr ##op ##osen ##a ; POS
+Predicted: tx ##oko ##an ; oso ond ##o ekipa ##tuta ; POS ; 0.98754555 | lek ##u ; lasa ##i ego ##teko ; POS ; 0.6698238
+
+et ##xea oso za ##ind ##uta dago eta gar ##bita ##suna ere az ##pi ##mar ##ratu nahi gen ##uke .
+Expected: gar ##bita ##suna ; az ##pi ##mar ##ratu nahi ; POS | et ##xea ; oso za ##ind ##uta ; POS
+Predicted: et ##xea ; oso za ##ind ##uta ; POS ; 0.98460996 | gar ##bita ##suna ; az ##pi ##mar ##ratu nahi ; POS ; 0.5891924
+
+gainera , gu ##k nahi gen ##uen ##a es ##kai ##ntz ##en zuen : gert ##utas ##una , eros ##oa , bi gela , lau oh ##e . . .
+Expected: nahi gen ##uen ##a ; es ##kai ##ntz ##en zuen ; POS
+Predicted: gert ##utas ##una ; nahi gen ##uen ##a es ##kai ##ntz ##en ; POS ; 0.96638864 | gert ##utas ##una ; eros ##oa ; POS ; 0.61097586
+
+ez ##in ah ##az ##tuz ##ko egon ##aldi ##a izan dug ##u .
+Expected: egon ##aldi ##a ; ez ##in ah ##az ##tuz ##ko ; POS
+Predicted: egon ##aldi ##a ; ez ##in ; NEG ; 0.8720342
+
+neka ##ne es ##ker ##rik asko , xa ##bier , mai ##te eta pat ##xi .
+Expected: neka ##ne ; es ##ker ##rik asko ; POS
+Predicted: neka ##ne ; es ##ker ##rik asko ; POS ; 0.9949885 | neka ##ne es ##ker ##rik asko ; xa ##bier ; POS ; 0.53450453
+
+ir ##uz ##kina ##k euskaraz egiteko auk ##era ez iza ##tea .
+Expected: ir ##uz ##kina ##k ; euskaraz egiteko auk ##era ez iza ##tea ; NEG
+Predicted: ir ##uz ##kina ##k euskaraz egiteko auk ##era ; ez iza ##tea ; NEG ; 0.80320084
+
+plaza nagusia ##ren ond ##oan kok ##atur ##iko hot ##al tx ##iki ##a da .
+Expected: hot ##al ; plaza nagusia ##ren ond ##oan kok ##atur ##iko ; POS | hot ##al ; tx ##iki ##a ; NEG
+Predicted: hot ##al ; tx ##iki ##a ; NEG ; 0.98130876
+
+trat ##u ego ##kia eman zi ##gut ##en .
+Expected: trat ##u ; ego ##kia ; POS
+Predicted: trat ##u ; ego ##kia ; NEG ; 0.49990758
+
+lot ##arak ##o lek ##u pare ##gabe ##a da , tx ##arre ##na ig ##oga ##ilu ##rik ez dago ##ela eta eski ##lera bidez held ##u behar zar ##ela loge ##lara .
+Expected: lek ##u ; pare ##gabe ##a ; POS | ig ##oga ##ilu ##rik ; tx ##arre ##na ; NEG | ig ##oga ##ilu ##rik ; ez dago ##ela ; NEG
+Predicted: lot ##arak ##o lek ##u ; pare ##gabe ##a ; NEG ; 0.7179799 | tx ##arre ##na ig ##oga ##ilu ##rik ; ez dago ##ela ; NEG ; 0.59165275
+
+kok ##ale ##ku apr ##ose ##an dagoen et ##xea da : salamanca ##ko alde za ##har ##rean , baina al ##di berean aparte sama ##r .
+Expected: et ##xea ; kok ##ale ##ku apr ##ose ##an ; POS
+Predicted: et ##xea ; salamanca ##ko alde za ##har ##rean ; POS ; 0.98143816
+
+loge ##la bakarreko ##a bada ere , hiru lagu ##nent ##zat oso ond ##o eto ##rri za ##igu .
+Expected: loge ##la ; bakarreko ##a ; NEG | loge ##la ; hiru lagu ##nent ##zat oso ond ##o ; POS
+Predicted: loge ##la ; bakarreko ##a ; POS ; 0.7951067
+
+duen ok ##er hand ##iena ud ##ako ber ##oa da .
+Expected: ud ##ako ber ##oa ; ok ##er hand ##iena ; NEG
+Predicted: duen ok ##er ; ud ##ako ber ##oa ; NEG ; 0.5406064
+
+per ##tsia ##nari ##k edo kort ##inar ##ik ez duen ##ez , ez ##ine ##zkoa da et ##xea fr ##es ##ko man ##tent ##zea ud ##an .
+Expected: kort ##inar ##ik ; ez duen ##ez ; NEG | per ##tsia ##nari ##k ; ez duen ##ez ; NEG
+Predicted: et ##xea ; fr ##es ##ko man ##tent ##zea ; NEG ; 0.9873653
+
+best ##alde , janari ##a pres ##tat ##zeko ont ##zi alde ##tik ur ##ri sama ##r suma ##tu dug ##u suka ##lde ##a .
+Expected: suka ##lde ##a ; ur ##ri sama ##r suma ##tu ; NEG
+Predicted: janari ##a pres ##tat ##zeko ont ##zi ; sama ##r suma ##tu ; POS ; 0.53517896
+
+web orr ##ian dato ##rren ira ##gar ##kian gara ##je ##a es ##kai ##ntz ##en da etxebizitza ##ren pre ##zio barne ##an .
+Expected: gara ##je ##a ; es ##kai ##ntz ##en da etxebizitza ##ren pre ##zio barne ##an ; POS
+Predicted: gara ##je ##a ; es ##kai ##ntz ##en ; POS ; 0.9135884
+
+gur ##i ge ##hie ##garri ##a es ##katu zi ##gun , baina gaur gaur ##ko ##z ez da behar ##rez ##koa , et ##xea ##ren just ##u ond ##oan apa ##rka ##tzeko lek ##ua dago ##ela ##ko .
+Expected: ge ##hie ##garri ##a ; es ##katu ; NEG
+Predicted: gur ##i ; ge ##hie ##garri ##a es ##katu ; POS ; 0.5893989 | lek ##ua ; just ##u ond ##oan apa ##rka ##tzeko ; POS ; 0.5801924
+
+bag ##enek ##ien aia ##ra es ##kua ##lde ##a eder ##ra dela eta pi ##x ##ka bat mu ##git ##zeko as ##mo ##a gen ##uen baina aitortu behar dug ##u ia ez gare ##la et ##xe ##tik mu ##git ##u : lau bi ##kot ##e eta hiru haur tx ##iki gin ##en , et ##xe oso ##a gen ##uen al ##okat ##ua , eta den ##bora falta izan za ##igu soil ##ik et ##xea bera , aur ##reko zela ##i eta bid ##ex ##kak gu ##zti ##z goz ##atze ##ko .
+Expected: aia ##ra es ##kua ##lde ##a ; eder ##ra ; POS
+Predicted: aia ##ra es ##kua ##lde ##a ; eder ##ra ; POS ; 0.99612147
+
+oso - oso poli ##ta eta ong ##i ant ##olat ##ua da et ##xea , ing ##uru ##a eta bis ##tak eder ##rak , lasa ##itas ##una da nagu ##si .
+Expected: ing ##uru ##a ; eder ##rak ; POS | bis ##tak ; eder ##rak ; POS | lasa ##itas ##una ; nagu ##si ; POS | et ##xea ; ong ##i ant ##olat ##ua ; POS | et ##xea ; oso - oso poli ##ta ; POS
+Predicted: et ##xea ; ong ##i ant ##olat ##ua ; POS ; 0.997335 | et ##xea , ing ##uru ##a ; eder ##rak ; POS ; 0.9517077 | lasa ##itas ##una ; eder ##rak ; POS ; 0.79903156 | lasa ##itas ##una ; nagu ##si ; POS ; 0.5558609
+
+hotel ##a oso ond ##o dago , ige ##rile ##ku tx ##iki ##a baina at ##segi ##na , eta loge ##la tx ##uku ##na .
+Expected: loge ##la ; tx ##uku ##na ; POS | hotel ##a ; oso ond ##o ; POS | ige ##rile ##ku ; tx ##iki ##a ; NEG | ige ##rile ##ku ; at ##segi ##na ; POS
+Predicted: hotel ##a ; oso ond ##o ; POS ; 0.9983924 | ige ##rile ##ku ; tx ##iki ##a ; NEG ; 0.8719337 | ige ##rile ##ku ; at ##segi ##na ; POS ; 0.97665274 | loge ##la ; tx ##uku ##na ; POS ; 0.70897573
+
+hotel ##ean bertan ant ##olat ##zen diz ##ute ang ##kor - era ##ko bi ##xit ##a gi ##dat ##ua .
+Expected: ang ##kor - era ##ko bi ##xit ##a gi ##dat ##ua ; hotel ##ean bertan ant ##olat ##zen ; POS
+Predicted: ang ##kor - era ##ko bi ##xit ##a ; hotel ##ean bertan ant ##olat ##zen ; POS ; 0.7894292
+
+go ##sari ##a eta af ##aria oso go ##xo ##ak .
+Expected: go ##sari ##a ; oso go ##xo ##ak ; POS | af ##aria ; oso go ##xo ##ak ; POS
+Predicted: go ##sari ##a ; oso go ##xo ##ak ; POS ; 0.94512224
+
+jabeak oso - oso at ##segi ##nak .
+Expected: jabeak ; oso - oso at ##segi ##nak ; POS
+Predicted: jabeak ; oso - oso at ##segi ##nak ; POS ; 0.9951198
+
+men ##dia eg ##ite ##a bada ze ##ure hel ##buru ##a berta ##ko jauna ##k ahol ##ku bali ##aga ##rria ##k eman ##go diz ##kiz ##u .
+Expected: berta ##ko jauna ##k ; ahol ##ku bali ##aga ##rria ##k eman ##go diz ##kiz ##u ; POS
+Predicted: berta ##ko jauna ##k ; ahol ##ku bali ##aga ##rria ##k eman ##go ; NEG ; 0.5910304
+
+ai ##pat ##zeko gau ##za bakarra sar ##tenen falta . gusto ##koa dana izan zan eder ##to dago
+Expected: sar ##tenen ; falta ; NEG | dana ; gusto ##koa ; POS
+Predicted: ai ##pat ##zeko gau ##za bakarra sar ##tenen falta ; gusto ##koa dana izan ; POS ; 0.9603669
+
+baina per ##tsia ##nak dau ##zka ! ; - ) apart ##ament ##ua berri - berria .
+Expected: apart ##ament ##ua ; berri - berria ; POS
+Predicted: per ##tsia ##nak ; dau ##zka ! ; POS ; 0.9300283
+
+ja ##bea , mut ##il gaz ##te bat , oso ja ##tor ##ra .
+Expected: ja ##bea ; oso ja ##tor ##ra ; POS
+Predicted: ja ##bea ; oso ja ##tor ##ra ; POS ; 0.7472105
+
+et ##xe za ##har batean apart ##ament ##u tx ##iki ##a da , 3 . pis ##uan .
+Expected: apart ##ament ##u ; et ##xe za ##har batean ; NEG | apart ##ament ##u ; tx ##iki ##a ; NEG
+Predicted: et ##xe za ##har batean apart ##ament ##u ; tx ##iki ##a ; NEG ; 0.9165525 | apart ##ament ##u ; 3 . pis ##uan ; POS ; 0.5863766
+
+ig ##oga ##ilu ##a da ##ka .
+Expected: ig ##oga ##ilu ##a ; da ##ka ; POS
+Predicted: ig ##oga ##ilu ##a ; da ##ka ; POS ; 0.7624387
+
+wi ##fia primera ##n , aire giro ##tua , komuna , oh ##ea . . .
+Expected: wi ##fia ; primera ##n ; POS
+Predicted: wi ##fia ; primera ##n ; POS ; 0.989052 | aire ; giro ##tua ; POS ; 0.91727656
+
+dena ong ##i .
+Expected: dena ; ong ##i ; POS
+Predicted: dena ; ong ##i ; POS ; 0.9941419
+
+bigarren auk ##era gisa ##n izan bazen ere , zo ##rion ##eko ##a izan zen bergen ##enen alde hartu gen ##uen auk ##era .
+Expected: auk ##era ; zo ##rion ##eko ##a ; POS
+Predicted: bigarren auk ##era ; zo ##rion ##eko ##a ; POS ; 0.8631244
+
+herria , tx ##iki eta lasa ##ia , baina al ##di berean anima ##tu eta za ##ind ##ua .
+Expected: herria ; lasa ##ia ; NEG | herria ; tx ##iki ; NEG | herria ; za ##ind ##ua ; POS | herria ; anima ##tu ; POS
+Predicted: herria ; tx ##iki ; POS ; 0.69309366 | herria ; lasa ##ia ; POS ; 0.95999587 | herria ; al ##di berean anima ##tu eta za ##ind ##ua ; POS ; 0.6881113
+
+toki per ##fekt ##ua tx ##ir ##rin ##dula ##k al ##okat ##u eta ibi ##lal ##di eder ##rak egin ah ##al iza ##teko , inguruko bas ##oe ##tati ##k , honda ##rt ##zet ##ara ##ino , berta ##ko natura eta pais ##aia ##z goz ##atze ##ko .
+Expected: toki ; per ##fekt ##ua tx ##ir ##rin ##dula ##k al ##okat ##u eta ibi ##lal ##di eder ##rak egin ah ##al iza ##teko ; POS
+Predicted: toki per ##fekt ##ua ; eder ##rak egin ah ##al iza ##teko ; POS ; 0.98112434
+
+et ##xea ere , bi ##kai ##na .
+Expected: et ##xea ; bi ##kai ##na ; POS
+Predicted: et ##xea ; bi ##kai ##na ; POS ; 0.9995228
+
+apart ##ament ##ua oso gar ##bi zegoen , eta behar zen gu ##ztia bag ##enu ##en bertan .
+Expected: apart ##ament ##ua ; oso gar ##bi ; POS | behar zen gu ##ztia ; bag ##enu ##en bertan ; POS
+Predicted: apart ##ament ##ua ; oso gar ##bi ; POS ; 0.99923253 | apart ##ament ##ua ; behar zen gu ##ztia bag ##enu ##en ; POS ; 0.77517575
+
+jabeak ond ##oko et ##xea ##n bizi dira , eta edo ##zer ##tan lagu ##ntz ##eko pres ##t daude , baita gom ##endi ##o ona ##k ema ##teko ere .
+Expected: jabeak ; edo ##zer ##tan lagu ##ntz ##eko pres ##t ; POS
+Predicted: jabeak ; ond ##oko et ##xea ##n bizi ; POS ; 0.9981974
+
+gur ##e egon ##aldi ##a eder ##ra izan da , hotel ##a oso ond ##o baita ##go : berria , eros ##oa , gar ##bia eta behar ##rez ##ko gu ##ztia ##rekin .
+Expected: hotel ##a ; oso ond ##o ; POS | hotel ##a ; behar ##rez ##ko gu ##ztia ##rekin ; POS | hotel ##a ; berria ; POS | hotel ##a ; gar ##bia ; POS | hotel ##a ; eros ##oa ; POS | egon ##aldi ##a ; eder ##ra ; POS
+Predicted: gur ##e egon ##aldi ##a ; eder ##ra ; POS ; 0.9992557 | hotel ##a ; oso ond ##o ; POS ; 0.9843647 | hotel ##a ; eros ##oa ; POS ; 0.9875223 | hotel ##a ; gar ##bia ; POS ; 0.9454158
+
+pertsona ##la ere ez ##in ja ##tor ##rag ##oa .
+Expected: pertsona ##la ; ez ##in ja ##tor ##rag ##oa ; POS
+Predicted: pertsona ##la ; ez ##in ja ##tor ##rag ##oa ; POS ; 0.9905432
+
+toki apart ##a : ere ##mu natural eder batean , oso lasa ##ia , parke batez ing ##urat ##ua .
+Expected: toki ; ere ##mu natural eder batean ; POS | toki ; apart ##a ; POS | toki ; oso lasa ##ia ; POS | toki ; parke batez ing ##urat ##ua ; POS
+Predicted: toki ; apart ##a ; POS ; 0.99625814 | toki apart ##a ; eder ; POS ; 0.6965455 | toki apart ##a ; oso lasa ##ia ; POS ; 0.76806617
+
+pre ##zioa ona ##rga ##rria .
+Expected: pre ##zioa ; ona ##rga ##rria ; POS
+Predicted: pre ##zioa ; ona ##rga ##rria ; POS ; 0.9711983
+
+gar ##big ##ail ##uri ##k ez ze ##go ##ela eta egon ##aldi luz ##e batera ##ko behar ##rez ##koa da .
+Expected: gar ##big ##ail ##uri ##k ; ez ze ##go ##ela ; NEG | gar ##big ##ail ##uri ##k ; egon ##aldi luz ##e batera ##ko behar ##rez ##koa ; NEG
+Predicted: gar ##big ##ail ##uri ##k ; ez ze ##go ##ela ; NEG ; 0.9911644
+
+ubi ##kaz ##io ##a oso ona da , ol ##hao oso herri poli ##ta dela ##ko , baina kon ##tuta ##n hartu behar da bertan ez dago ##ela honda ##rt ##zari ##k , eta udara ##ko es ##kai ##ntz ##en dituen auk ##era ##k muga ##tua ##k dire ##la .
+Expected: ol ##hao ; oso herri poli ##ta ; POS | honda ##rt ##zari ##k ; bertan ez dago ##ela ; NEG | udara ##ko es ##kai ##ntz ##en dituen auk ##era ##k ; muga ##tua ##k ; NEG | ubi ##kaz ##io ##a ; oso ona ; POS
+Predicted: ubi ##kaz ##io ##a ; oso ona ; POS ; 0.97564155 | ol ##hao ; poli ##ta ; POS ; 0.66530275
+
+apart ##ament ##ua oso handia eta berri berria da .
+Expected: apart ##ament ##ua ; oso handia ; POS | apart ##ament ##ua ; berri berria ; POS
+Predicted: apart ##ament ##ua ; oso handia ; POS ; 0.9992693 | apart ##ament ##ua ; berri berria ; POS ; 0.98562706
+
+herri ##tik oso hur ##bil dago oi ##nez jo ##atek ##o eta kok ##ap ##en ona du al ##gar ##bea ez ##agu ##tzeko .
+Expected: kok ##ap ##en ; herri ##tik oso hur ##bil ; POS | kok ##ap ##en ; oi ##nez jo ##atek ##o ; POS | kok ##ap ##en ; ona ; POS
+Predicted: kok ##ap ##en ; herri ##tik oso hur ##bil ; POS ; 0.8394053
+
