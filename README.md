@@ -16,6 +16,6 @@ Step 3: We used prep_POS_DEP_forBERT.py to create POS and DEP sentence files whi
         
 Step 4: Now all the files needed for Aspect Sentiment Triplet Extraction(Prediction) are completed and we will use all these files for training and
         testing purposes using PASTE_BERT.py file which contains PASTE model , A Pointer Network based decoding Framework of ASTE.
-        The PASTE_BERT.py file is ran using the script files created for each and every language which contains different configurations and conditions 
+        The PASTE_BERT.py and error_analysis.py file are ran using the script files created for each and every language which contains different configurations and conditions 
         for testing purposes.
         
